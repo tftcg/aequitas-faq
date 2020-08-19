@@ -265,6 +265,8 @@ faq_index_filename = os.path.join(TOP_OUTPUT_DIR, "faqindex.json")
 if(os.path.exists(faq_index_filename)):
     with open(faq_index_filename) as json_file:
         search_index = json.load(json_file)
+else:
+    search_index = {}
 
 # Walk the taglist and build the automarkup tags for use in hyperlinking
 automarkup_tags = []
