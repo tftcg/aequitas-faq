@@ -110,12 +110,12 @@ def source_image_name(source_name):
     else:
         return 'blue'
 
-# Returns WotC|Community|VS Alpha Trion
+# Returns WotC|Aequitas|Community
 def source_label(source_name):
-    if("FAQ" in source_name or "Roundup" in source_name):
+    if("Aequitas" in source_name):
+        return 'Aequitas'
+    elif("FAQ" in source_name or "Roundup" in source_name):
         return 'WotC'
-    elif("VS Alpha Trion" in source_name):
-        return 'VS Alpha Trion'
     else:
         return 'Community'
 
