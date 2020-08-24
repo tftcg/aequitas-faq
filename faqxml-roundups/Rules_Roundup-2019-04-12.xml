@@ -137,7 +137,7 @@ Simultaneous triggers are resolved in the order you choose, but when do you choo
 Yes. You choose which to use one at a time.
       </answer>
     </entry>
-    <entry id="412-17" tags="Trigger">
+    <entry id="412-17b" tags="Trigger">
       <question>
 How do nested triggers resolve? Example: I trigger A, B, and C. B triggers D and E. What order do those resolve in? (Assuming choices, of course).
       </question>
