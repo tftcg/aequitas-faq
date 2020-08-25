@@ -11,6 +11,7 @@ body {
   margin-bottom: 5px;
   margin-top: -10px;
   margin-left: -10px;
+  padding: 0.25em;
 }
 
 #sitetitle {
