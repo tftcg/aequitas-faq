@@ -1,4 +1,4 @@
-<faq><target name="Jam Signals"><entry id="67">
+<faq><target name="Jam Signals"><entry source="Wave 4 FAQ" id="67">
       <question>Say my opponent has an ability that triggers when they play an Action. They play a blue action, but I reveal Jam Signals to scrap it with no effect. Does their other ability trigger?</question>
       <answer>Yes. Although the blue action itself will have no effect, your opponent still played an action, so the other ability will still work.</answer>
     </entry>

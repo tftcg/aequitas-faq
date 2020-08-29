@@ -1,4 +1,4 @@
-<faq><target name="Grimlock - Dinobot Leader"><entry id="44" mode="alt">
+<faq><target name="Grimlock - Dinobot Leader"><entry source="Wave 1 FAQ" id="44" mode="alt">
       <question>
     Can Grimlock give himself Bold 3 with his ability.
 </question>
@@ -6,7 +6,7 @@
     Yes. Grimlock Dinobot. Grimlock count.
 </answer>
     </entry>
-    <entry id="45" mode="bot">
+    <entry source="Wave 1 FAQ" id="45" mode="bot">
       <question>
     How does Grimlock’s ability work?
 </question>
@@ -16,7 +16,7 @@ damage to that character, 2 of that damage is enough to KO the defender. For the
 opponent chooses one of their other characters. That character would get 2 damage counters.
 </answer>
     </entry>
-    <entry id="46" mode="bot">
+    <entry source="Wave 1 FAQ" id="46" mode="bot">
       <question>
     Let’s say the extra damage is enough to KO a second character. Does the extra damage keep going to
 a third character?
@@ -27,7 +27,7 @@ choose a character with 12 health and 11 damage counters and do 2 more damage to
 would be KO’d.
 </answer>
     </entry>
-  <entry id="10-2">
+  <entry source="Rules Roundup 2019-11-22" id="10-2">
       <question>
 With Showing Off, would a Bot receive any and all "when you flip to" triggers during the process or does it only count the final mode it's flipped to? For example, if Grimlock - Dinobot Leader is in bot mode and plays Showing Off, could he end in Bot mode with the Bold 3 from his Alt mode?
         </question>
@@ -37,7 +37,7 @@ Yes, you can first flip Grimlock to alt mode, causing the ability on that mode t
           <tftcg-note>While the alt mode ability triggers when Grimlock is flipped to alt-mode, note that the trigger does not resolve until after Showing Off has completed and Grimlock is back in bot-mode. </tftcg-note>
       </answer>
     </entry>
-    <entry id="628-14" tags="Grimlock - Dinobot Leader">
+    <entry source="Rules Roundup 2019-06-28" id="628-14" tags="Grimlock - Dinobot Leader">
       <question>
 When I play Steamroll on Grimlock, does the "spillover" damage occur twice?
       </question>
@@ -45,7 +45,7 @@ When I play Steamroll on Grimlock, does the "spillover" damage occur twice?
 No. Both abilities are practically identical, so one of them will apply (you can choose), but then the other one will not apply. 
       </answer>
     </entry>
-    <entry id="412-11" tags="Motormaster - Stunticon Leader,Grimlock - Dinobot Leader">
+    <entry source="Rules Roundup 2019-04-12" id="412-11" tags="Motormaster - Stunticon Leader,Grimlock - Dinobot Leader">
       <question>
 A situation came up today after Grimlock in bot mode (Wave 1) attacked Motor Master in truck mode. Does the extra damage carry over if Motor Master is KO’d? We couldn’t quite figure out the timing. If Motor Master is KO’d, does his ability then not work, or is the extra damage assigned prior to the KO?
       </question>
@@ -53,7 +53,7 @@ A situation came up today after Grimlock in bot mode (Wave 1) attacked Motor Mas
 In this scenario, Motormaster would be KO’d and his ability would not apply. Grimlock’s ability will trigger after Motormaster is KO’d.
       </answer>
     </entry>
-    <entry id="211-1" tags="Grimlock - Dinobot Leader,Motormaster - Stunticon Leader,Insecticon Skrapnel - Insecticon Leader">
+    <entry source="Rules Roundup 2019-02-11" id="211-1" tags="Grimlock - Dinobot Leader,Motormaster - Stunticon Leader,Insecticon Skrapnel - Insecticon Leader">
       <question>
 Does Grimlock's bot mode’s extra damage count as attack damage? If it does, and assuming Grimlock has 5 or more extra damage, how much damage does it do in the following situations:
 A. Damage is assigned to a bit with Force Field equipped.
@@ -64,7 +64,7 @@ C. Any bot that is protected by Motormaster alt mode skill.
 The extra damage is not attack damage, so if you are redirecting to a bot-mode Skrapnel or a character with a force field on it, they will take the full additional damage. On the other hand, a damage-capping effect on the character you’re attacking will be relevant. So, if you have a Skrapnel in bot-mode with 5 damage on him and Grimlock attacks him for say 10 damage, that damage will be reduced to 3 by Skrapnel’s ability, 2 of it will KO him, and the last point will be assigned to another character of the defending player’s choice.
       </answer>
     </entry>
-    <entry id="211-5" tags="Grimlock - Dinobot Leader,Insecticon Skrapnel - Insecticon Leader">
+    <entry source="Rules Roundup 2019-02-11" id="211-5" tags="Grimlock - Dinobot Leader,Insecticon Skrapnel - Insecticon Leader">
       <question>
 Grimlock in Bot mode attacks with 10 attack. Insecticon Skrapnel in Bot mode defends with 0 defense and 1 hp remaining. What would the transferred damage be? Will it transfer 2 damage or 9 damage?
       </question>
@@ -72,7 +72,7 @@ Grimlock in Bot mode attacks with 10 attack. Insecticon Skrapnel in Bot mode def
 Two damage!
       </answer>
     </entry>
-    <entry id="211-11" tags="Grimlock - Dinobot Leader,Metroplex - Autobot City,Scamper - City Patrol">
+    <entry source="Rules Roundup 2019-02-11" id="211-11" tags="Grimlock - Dinobot Leader,Metroplex - Autobot City,Scamper - City Patrol">
       <question>
 So the board is 1 Grimlock on Player 1’s side and a Metroplex and Scamper on Player 2’s side. Player 1 attacks Metroplex since Scamper is untapped and unable to be targeted. Then Grimlock gets enough attack to kill both characters with skill since Metroplex is heavily damaged and Scamper has low defense and life. So, since the Grimlock attacked Metroplex while Scamper had Heroism, I assume that since Heroism only changes where the damage goes and not the actual attack that the damage a character takes through the effect of Heroism is effect damage and not battle damage. I want to know the ruling because if the damage IS battle damage then Grimlock’s skill does trigger and Player 2 loses, since Scamper would die as the rollover would kill Metroplex but if it is effect damage, then Grimlock’s skill wouldn't trigger and only Scamper would be KO’d.
       </question>
@@ -80,7 +80,7 @@ So the board is 1 Grimlock on Player 1’s side and a Metroplex and Scamper on P
 The damage redirected by Heroism is still attack damage. So Scamper would take enough to get KO’d and then Grimlock’s ability would trigger and the defender would have to assign the extra damage to Metroplex.
       </answer>
     </entry>
-    <entry id="228-8">
+    <entry source="Rules Roundup 2019-02-28" id="228-8">
       <question>
 What happens when you put the Steamroll action on Grimlock - Dinobot Leader and he KO's a character with excessive damage? Does it only do the effect of one or the other, or does it stack?
       </question>

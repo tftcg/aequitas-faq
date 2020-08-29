@@ -1,8 +1,8 @@
-<faq><target name="Optimus Maximus - Ultimate Defender"><entry id="42" mode="combiner">
+<faq><target name="Optimus Maximus - Ultimate Defender"><entry source="Wave 2 and 3 FAQ" id="42" mode="combiner">
       <question>Does the triggered ability happen before battle cards are flipped?</question>
       <answer>Yes. You’ll get to plan and set up your flip. The ability happens just after Optimus Maximus is chosen as the attacker or as the defender.</answer>
     </entry>
-  <entry id="201-6" tags="Combiner,Optimus Maximus - Ultimate Defender,Ironhide - Steadfast Brawler">
+  <entry source="Rules Roundup 2019-02-01" id="201-6" tags="Combiner,Optimus Maximus - Ultimate Defender,Ironhide - Steadfast Brawler">
       <question>
 When Combiners combine can the keep an equipment that they normally couldn't equip? Example could Optimus Maximus keep a Power Sword from Ironhide even though he's a ranged character?
       </question>
@@ -10,7 +10,7 @@ When Combiners combine can the keep an equipment that they normally couldn't equ
 Yes.
     </answer>
     </entry>
-    <entry id="201-8" tags="Combiner,Optimus Maximus - Ultimate Defender,Prowl - Strategic Mastermind">
+    <entry source="Rules Roundup 2019-02-01" id="201-8" tags="Combiner,Optimus Maximus - Ultimate Defender,Prowl - Strategic Mastermind">
       <question>
 The enigma cards mention a Combiner keeps an upgrade in each slot, but here's a weird scenario involving that: Say Prowl, Strategic Mastermind is upgraded with a Power Sword. Since he's a melee character, he can obviously take this upgrade. But could you keep that Power Sword on Optimus Maximus when he combines, even though he's a ranged character?
       </question>
@@ -18,7 +18,7 @@ The enigma cards mention a Combiner keeps an upgrade in each slot, but here's a 
 Yes.
     </answer>
     </entry>
-    <entry id="5-9" tags="Optimus Maximus - Ultimate Defender,Optimus Prime - Gleaming Commander">
+    <entry source="Rules Roundup 2019-09-06" id="5-9" tags="Optimus Maximus - Ultimate Defender,Optimus Prime - Gleaming Commander">
       <question>
 In a previous round up you mentioned that if Ion Blaster of Optimus Prime was played on Optimus, then he was combined into Optimus Maximus, the Combiner could keep that weapon, however not if he was already formed. I’m assuming that also works with Laser Cutlass? Play onto an Aerialbot for example. Once combined, does it carry over?
         </question>
@@ -26,7 +26,7 @@ In a previous round up you mentioned that if Ion Blaster of Optimus Prime was pl
 Yes.
 </answer>
     </entry>
-    <entry id="322-11" tags="Ironhide - Steadfast Brawler,Optimus Maximus - Ultimate Defender">
+    <entry source="Rules Roundup 2019-03-22" id="322-11" tags="Ironhide - Steadfast Brawler,Optimus Maximus - Ultimate Defender">
       <question>
 Since Ironhide and Optimus Prime are both components of Optimus Maximus in Wave 2, how do their unique weapons from Wave 1 interact with the Combiner? Will Optimus Maximus take damage from Static Laser of Ironhide? Can I play Ion Blaster of Optimus Prime on a combined Optimus Maximus?
       </question>
@@ -34,7 +34,7 @@ Since Ironhide and Optimus Prime are both components of Optimus Maximus in Wave 
 Optimus Maximus would take the damage from Static Laser of Ironhide, as he is not named Ironhide. You can keep Ion Blaster of Optimus Prime if you already had one upgraded to Optimus Prime - Gleaming Commander, but you could not put one onto Optimus Maximus.
       </answer>
     </entry>
-  <entry id="528-4" tags="Combiner,Optimus Maximus - Ultimate Defender,Ironhide - Steadfast Brawler">
+  <entry source="Rules Roundup 2019-05-28" id="528-4" tags="Combiner,Optimus Maximus - Ultimate Defender,Ironhide - Steadfast Brawler">
       <question>
 Since temporary effects applied to individual members of a Combiner team carry over to the Combined form for the turn, what happens if I have two active Sentinels, transform Wave 2 Ironhide in my KO area to give them Pierce 2, then play the Sentinel Enigma to combine them? Does Optimus Maximus then have Pierce 2 or Pierce 4?
       </question>

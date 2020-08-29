@@ -1,4 +1,4 @@
-<faq><target name="Tournament Rules"><entry id="25">
+<faq><target name="Tournament Rules"><entry source="Tournament FAQ" id="25">
           <question>
               How do I get the official Tournament Rules?
           </question>
@@ -6,7 +6,7 @@
               The Tournaments Rules may be downloaded from the <a href="https://wpn.wizards.com/en/document/transformers-tcg-tournament-rules">WPN Transformers TCG Tournament Rules</a> page.
           </answer>
       </entry>
-      <entry id="15">
+      <entry source="Tournament FAQ" id="15">
           <question>
               What is a Deck Check?
           </question>
@@ -15,7 +15,7 @@ Deck checks may be performed at any tournament at the option of the head judge. 
           </answer>
       </entry>
 
-      <entry id="16">
+      <entry source="Tournament FAQ" id="16">
           <question>
 May I take notes?
           </question>
@@ -26,7 +26,7 @@ Between games, players may refer to a brief set of notes made before the match. 
           </answer>
       </entry>
 
-      <entry id="17">
+      <entry source="Tournament FAQ" id="17">
           <question>
               May I use an electronic device?
           </question>
@@ -44,7 +44,7 @@ Between games, players may refer to a brief set of notes made before the match. 
           </answer>
       </entry>
 
-      <entry id="24">
+      <entry source="Tournament FAQ" id="24">
           <question>
 How many players are required for a tournament to remain Officially Sanctioned?
           </question>

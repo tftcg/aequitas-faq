@@ -1,4 +1,4 @@
-<faq><target name="Crushing Size"><entry id="80">
+<faq><target name="Crushing Size"><entry source="Wave 1 FAQ" id="80">
       <question>
     If one of my opponent’s characters has a Utility, can I choose not to scrap it and draw a card?
 </question>
@@ -6,7 +6,7 @@
     No. If there is an enemy Utility, you must scrap it. You draw a card only if you can’t scrap an enemy Utility.
 </answer>
     </entry>
-  <entry id="322-8" tags="Wheeljack - Weapons Inventor">
+  <entry source="Rules Roundup 2019-03-22" id="322-8" tags="Wheeljack - Weapons Inventor">
       <question>
 Wheeljack is in car mode is equipped with the following: 
 Multi-Tool, Turbo Boosters, and Scrapper Gauntlets.

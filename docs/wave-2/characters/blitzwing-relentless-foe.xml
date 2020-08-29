@@ -1,4 +1,4 @@
-<faq><target name="Blitzwing - Relentless Foe"><entry id="1-26">
+<faq><target name="Blitzwing - Relentless Foe"><entry source="Rules Roundup 2019-07-12" id="1-26">
       <question>
 When I attack with Blitzwing - Relentless Foe and don't flip at least [Orange][Blue]... I don't draw a card, but can I still flip to other mode after the battle?
 </question>
@@ -6,7 +6,7 @@ When I attack with Blitzwing - Relentless Foe and don't flip at least [Orange][B
 No, you may not. That is all one ability.
 </answer>
     </entry>
-    <entry id="228-16" tags="Blitzwing - Relentless Foe">
+    <entry source="Rules Roundup 2019-02-28" id="228-16" tags="Blitzwing - Relentless Foe">
       <question>
 For Blitzwing in bot mode, do you always flip to alt mode after battling, whether on attack or defense, or only after flipping an orange and blue during the attack phase?
       </question>

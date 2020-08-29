@@ -1,4 +1,4 @@
-<faq><target name="Triple Changer"><entry id="3">
+<faq><target name="Triple Changer"><entry source="Wave 2 and 3 FAQ" id="3">
       <question>
              What are Triple Changers?
         </question>
@@ -8,7 +8,7 @@
 modes.
         </answer>
     </entry>
-    <entry id="4">
+    <entry source="Wave 2 and 3 FAQ" id="4">
       <question>
              If a card specifically says to flip a Triple Changer to alt mode, what happens?
         </question>
@@ -17,7 +17,7 @@ modes.
 you can either not flip it or flip it to the other alt mode.
         </answer>
     </entry>
-  <entry id="8-7">
+  <entry source="Rules Roundup 2019-10-25" id="8-7">
       <question>
 Can Escape Route be used on a triple changer in Alt 2 to flip into Alt 1 and vice-versa? Are triple changers affected by Roll-Out if they are not in bot mode?
         </question>
@@ -25,7 +25,7 @@ Can Escape Route be used on a triple changer in Alt 2 to flip into Alt 1 and vic
 Escape Route and Roll Out! convert characters from Bot mode to Alt mode. They cannot convert Triple Changers from one Alt mode to another Alt mode.
       </answer>
     </entry>
-    <entry id="218-4" tags="Triple Changer">
+    <entry source="Rules Roundup 2019-02-18" id="218-4" tags="Triple Changer">
       <question>
 Do Triple Changers start the game in a specific Alt Mode or do you get to choose which of the two you start in?
       </question>
@@ -33,7 +33,7 @@ Do Triple Changers start the game in a specific Alt Mode or do you get to choose
 They start in Alt Mode 1.
       </answer>
     </entry>
-    <entry id="218-7">
+    <entry source="Rules Roundup 2019-02-18" id="218-7">
       <question>
 If I play Cornered! on an opponent's Triple Changer, do they get to decide which Alt Mode it converts to?
       </question>
@@ -41,7 +41,7 @@ If I play Cornered! on an opponent's Triple Changer, do they get to decide which
 Yes.
       </answer>
     </entry>
-    <entry id="1-8">
+    <entry source="Rules Roundup 2019-07-12" id="1-8">
       <question>
 If I attack with a character that is equipped with Battering Ram and deal damage to a Triple Changer, does my opponent get to choose the mode they change to or do they have to change from Alt 1 to character and vice versa.
 </question>

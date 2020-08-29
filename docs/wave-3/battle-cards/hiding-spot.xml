@@ -1,8 +1,8 @@
-<faq><target name="Hiding Spot"><entry id="185">
+<faq><target name="Hiding Spot"><entry source="Wave 2 and 3 FAQ" id="185">
       <question>After seeing which of my characters gets stealth, can my opponent change which of their characters is attacking?</question>
       <answer>No. Hiding Spot isn’t revealed until after your opponent locks in their choice for attacker.</answer>
     </entry>
-  <entry id="4-1">
+  <entry source="Rules Roundup 2019-08-23" id="4-1">
       <question>
 What happens if someone has Brave and Stealth at the same time, like if I played Hiding Spot on Blitzwing while he was in tank mode, do they cancel out, does the newer stays take effect?
         </question>

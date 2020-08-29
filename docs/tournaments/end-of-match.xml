@@ -1,4 +1,4 @@
-<faq><target name="End of Match"><entry id="10">
+<faq><target name="End of Match"><entry source="Tournament FAQ" id="10">
           <question>
               How is the winner of a match determined?
           </question>
@@ -6,7 +6,7 @@
 A Transformers TCG match consists of a series of games that are played until one player has won two games. Drawn games do not count toward this goal. If the round ends before a player has won two games, the winner of the match is the player who has won the most games at that point. If both players have equal game wins, the match is a draw.
           </answer>
       </entry>
-      <entry id="6">
+      <entry source="Tournament FAQ" id="6">
           <question>
               What do you do if the time limit is up before a winner is determined?
           </question>
@@ -17,7 +17,7 @@ A Transformers TCG match consists of a series of games that are played until one
               of the additional time, resolve Tiebreak procedures.
           </answer>
       </entry>
-      <entry id="7">
+      <entry source="Tournament FAQ" id="7">
           <question>
               What if a judge had assigned a time extension?
           </question>
@@ -25,7 +25,7 @@ A Transformers TCG match consists of a series of games that are played until one
               If a judge assigned a time extension (because of a long ruling, deck check, or other reason), the end-of-match procedure does not begin until the end of the time extension.
           </answer>
       </entry>
-      <entry id="11">
+      <entry source="Tournament FAQ" id="11">
           <question>
               Can I concede or intentionally draw a game or match?
           </question>

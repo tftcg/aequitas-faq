@@ -1,4 +1,4 @@
-<faq><target name="Power Punch"><entry id="315-12">
+<faq><target name="Power Punch"><entry source="Rules Roundup 2019-03-15" id="315-12">
       <question>
 What happens if I attack with Optimus Prime - Battlefield Legend in alt mode with Power Punch attached, and I hit a Swap Parts and move the Power Punch to a new bot. What happens to the Power Punch? Also, what about a card like Erratic Lightning? if I move it on Optimus with Swap Parts would his attack bonus stay the same?
       </question>
@@ -6,7 +6,7 @@ What happens if I attack with Optimus Prime - Battlefield Legend in alt mode wit
 Power Punch stays on the other character. Erratic Lightning gives Optimus +3 attack.
       </answer>
     </entry>
-    <entry id="10-7">
+    <entry source="Rules Roundup 2019-11-22" id="10-7">
       <question>
 What is the timing for Sabotaged Armaments versus weapons like Power Punch?
         </question>
@@ -14,7 +14,7 @@ What is the timing for Sabotaged Armaments versus weapons like Power Punch?
 Sabotaged Armaments is revealed when one of your characters defends, before Battle Cards are flipped. Power Punch will be scrapped before it can affect that battle.
       </answer>
     </entry>
-    <entry id="1-27">
+    <entry source="Rules Roundup 2019-07-12" id="1-27">
       <question>
 Question regarding Backup Bag + Grenade Launcher / Power Punch / RR Disruptor Blade Can I scrap backup bag instead of a weapon?
 </question>
@@ -22,7 +22,7 @@ Question regarding Backup Bag + Grenade Launcher / Power Punch / RR Disruptor Bl
 Yes!
 </answer>
     </entry>
-    <entry id="422-1">
+    <entry source="Rules Roundup 2019-04-22" id="422-1">
       <question>
 If Optimus Prime - Battlefield Legend attacks with Power Punch. And flips over Swap Parts you move all upgrades to another character does Power Punch/Grenade Launcher destroy itself?
       </question>
@@ -30,7 +30,7 @@ If Optimus Prime - Battlefield Legend attacks with Power Punch. And flips over S
 No, after the battle, you check, and the upgraded character is not the one who attacked, so it would not scrap itself.
       </answer>
     </entry>
-  <entry id="9-2">
+  <entry source="Rules Roundup 2019-11-08" id="9-2">
       <question>
 Optimus Prime - Battlefield Legend is equipped with Power Punch, flips completely for his attack, and chooses Leap of Faith as his Action. The first card Leap of Faith reveals is W-5 Gyro Blaster. If OPBL attaches this, do I keep all the flips revealed from Power Punch? If so, does that mean my opponent now cannot flip more than 2 cards for their defense now that W-5 Gyro Blaster has been attached?
         </question>
@@ -38,7 +38,7 @@ Optimus Prime - Battlefield Legend is equipped with Power Punch, flips completel
 No, W-5 Gyro Blaster’s ability only triggers if it’s attached when the character attacks or defends.
       </answer>
     </entry>
-    <entry id="9-14">
+    <entry source="Rules Roundup 2019-11-08" id="9-14">
       <question>
 When you use Sabotaged Armaments, and your opponent has a Power Punch on the attacker, do they get the Bold before Sabotaged Armaments activates?
         </question>

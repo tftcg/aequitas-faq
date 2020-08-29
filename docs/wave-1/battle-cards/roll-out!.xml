@@ -1,4 +1,4 @@
-<faq><target name="Roll Out!"><entry id="108">
+<faq><target name="Roll Out!"><entry source="Wave 1 FAQ" id="108">
       <question>
     What happens to characters that are already in alt mode?
 </question>
@@ -6,7 +6,7 @@
     Nothing. They won’t flip.
 </answer>
     </entry>
-  <entry id="8-7">
+  <entry source="Rules Roundup 2019-10-25" id="8-7">
       <question>
 Can Escape Route be used on a triple changer in Alt 2 to flip into Alt 1 and vice-versa? Are triple changers affected by Roll-Out if they are not in bot mode?
         </question>
@@ -14,7 +14,7 @@ Can Escape Route be used on a triple changer in Alt 2 to flip into Alt 1 and vic
 Escape Route and Roll Out! convert characters from Bot mode to Alt mode. They cannot convert Triple Changers from one Alt mode to another Alt mode.
       </answer>
     </entry>
-    <entry id="315-20" tags="Grapple - Autobot Architect">
+    <entry source="Rules Roundup 2019-03-15" id="315-20" tags="Grapple - Autobot Architect">
       <question>
 For Grapple's abilities: Does he need exactly 4 different battle icons, all with different colors or just amongst all battle icons flipped/scrapped does need to be exactly 4 colors?
       </question>
@@ -22,7 +22,7 @@ For Grapple's abilities: Does he need exactly 4 different battle icons, all with
 You can scrap any number of cards with any number of icons from your hand, they just need to contain four different colored battle icons among them. Grapple’s ability would work if you only scrapped a Roll Out! and a Spare Parts, for example.
       </answer>
     </entry>
-    <entry id="426-8">
+    <entry source="Rules Roundup 2019-04-26" id="426-8">
       <question>
 When I play Roll Out!, do all the flips to alt mode happen at once or do they happen one at a time. Also, how does this work with skills that have the "When you flip to this mode" clause?
       </question>
@@ -30,7 +30,7 @@ When I play Roll Out!, do all the flips to alt mode happen at once or do they ha
 All of the bots flip at the same time. If this causes more than one Ability to trigger, you can resolve those triggers in any order.
       </answer>
     </entry>
-    <entry id="211-17">
+    <entry source="Rules Roundup 2019-02-11" id="211-17">
       <question>
 If I attack with Optimus Prime - Battlefield Legend in Bot Mode, flip Roll Out!, and choose to play it, will my Optimus’ damage be calculated on his starting Bot Mode, or resulting Alt Mode?
       </question>
@@ -38,7 +38,7 @@ If I attack with Optimus Prime - Battlefield Legend in Bot Mode, flip Roll Out!,
 Attack damage is calculated after you use this ability, so the base will be 6.
       </answer>
     </entry>
-    <entry id="528-1" tags="Raider Cindersaur - Black Ops - Demolitions,Alpha Trion - Cybertronian Sage,Battle Icon">
+    <entry source="Rules Roundup 2019-05-28" id="528-1" tags="Raider Cindersaur - Black Ops - Demolitions,Alpha Trion - Cybertronian Sage,Battle Icon">
       <question>
 Alpha Trion and Raider Cindersaur label actions by the colored battle icons. Can you explain what makes a card an Orange or Blue Card? Does that mean that they have to have at least one orange icon to be an orange card? If this is the case, then can Alpha Trion use his ability to play a Roll Out! because it has at least 1 blue icon?
       </question>
@@ -46,7 +46,7 @@ Alpha Trion and Raider Cindersaur label actions by the colored battle icons. Can
 A “blue card” is a card with at least one blue battle icon, and so on for the other colors, so you would be able to play Roll Out with Alpha Trion’s ability.
       </answer>
     </entry>
-    <entry id="528-10">
+    <entry source="Rules Roundup 2019-05-28" id="528-10">
       <question>
 Say I have Bumblebee - Legendary Warrior in bot mode to start the turn. I play Roll Out! (or any other character flipping card) to flip BB to alt mode where he gains the ability: When you flip to this mode -&gt; This character can attack untapped enemies this turn as though they were tapped.
 If I flip BB back to his Bot mode, does the Alt-mode ability still persist? From the wording I would assume yes, but wanted to make sure.

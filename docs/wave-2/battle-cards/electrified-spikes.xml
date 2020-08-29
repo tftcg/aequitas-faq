@@ -1,12 +1,12 @@
-<faq><target name="Electrified Spikes"><entry id="72">
+<faq><target name="Electrified Spikes"><entry source="Wave 2 and 3 FAQ" id="72">
           <question>If I flip four orange battle icons, does it deal 2 damage?</question>
           <answer>No. The ability does a maximum of 1 damage, no matter how many orange battle icons you flip. </answer>
       </entry>
-      <entry id="73">
+      <entry source="Wave 2 and 3 FAQ" id="73">
           <question>What happens if the 1 damage KO’s the attacker?</question>
           <answer>In that case, no damage is done to the defender.</answer>
       </entry>
-<entry id="315-1" tags="Volcanicus - Fiery Champion,Wheeljack - Weapons Inventor">
+<entry source="Rules Roundup 2019-03-15" id="315-1" tags="Volcanicus - Fiery Champion,Wheeljack - Weapons Inventor">
       <question>
 I had Electrified Spikes on Volcanicus and Wheeljack attacked. Wheeljack did enough damage to kill me but I also flipped 2 orange battle icons and Wheeljack was my opponent’s last character. Which character would be KO’d first?
       </question>
@@ -14,7 +14,7 @@ I had Electrified Spikes on Volcanicus and Wheeljack attacked. Wheeljack did eno
 If the damage from Electrified Spikes KO’s the attacker, no attack damage is dealt during that combat. If that attacker was your opponent’s last character, you would win the game.
       </answer>
     </entry>
-    <entry id="308-24" tags="Volcanicus - Fiery Champion">
+    <entry source="Rules Roundup 2019-03-08" id="308-24" tags="Volcanicus - Fiery Champion">
       <question>
 So I’m attacking with Dinobot Snarl - Desert Warrior with 8 damage counters on him, he’s attacking Volcanicus, who has Electrified Spikes on him. Snarl flipped enough damage to KO Volcanicus, but for Volcanicus’ defense flip, he hit the two orange pips to activate Electrified Spikes. Which would do the KO damage on Snarl. So how is damage assigned? And whose damage goes first? Or is this a double KO?
       </question>
@@ -23,7 +23,7 @@ Electrified Spikes’ ability happens before attack damage, so in this scenario,
 Alternatively, you could try telling Volcanicus to stop hitting himself.
     </answer>
     </entry>
-    <entry id="211-4" tags="KO">
+    <entry source="Rules Roundup 2019-02-11" id="211-4" tags="KO">
       <question>
 Do you check for KO as soon as you calculate damage or is it at the end of the attack phase? Is there a specific order for extra damage calculation outside the normal attack? This matters because of Reckless Charge potentially KOing both attacker and defender simultaneously. It also matters because of Electrified Spikes.
       </question>

@@ -1,4 +1,4 @@
-<faq><target name="Ghost Shield"><entry id="37">
+<faq><target name="Ghost Shield"><entry source="Wave 5 FAQ" id="37">
             <question>
                 If an effect puts an Armor directly onto the battlefield without playing it, can I put Ghost Shield on a character that didn't have an Armor?
             </question>
@@ -7,7 +7,7 @@
           </answer>
         
       </entry>
-      <entry id="38">
+      <entry source="Wave 5 FAQ" id="38">
             <question>
                 If one of my characters has a Weapon or Utility in its Armor slot (e.g. Energon Mace), can I play Ghost Shield to upgrade that character?
             </question>

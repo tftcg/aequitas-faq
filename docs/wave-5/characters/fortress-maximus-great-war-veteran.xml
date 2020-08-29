@@ -1,4 +1,4 @@
-<faq><target name="Fortress Maximus - Great War Veteran"><entry id="15">
+<faq><target name="Fortress Maximus - Great War Veteran"><entry source="Wave 5 FAQ" id="15">
         <question>
             Can Fortress Maximus have a different head than Cerebros?
         </question>
@@ -8,7 +8,7 @@
         </answer>
     </entry>
         
-        <entry id="16">
+        <entry source="Wave 5 FAQ" id="16">
         <question>
             Does Fortress Maximus get the bonus from Cerebros' Head?
         </question>
@@ -17,7 +17,7 @@
         </answer>
     </entry>
         
-        <entry id="17">
+        <entry source="Wave 5 FAQ" id="17">
         
     <question>
         What do you do when Fortress Maximus is KO'd?
@@ -27,7 +27,7 @@
     </answer>
     </entry>
         
-        <entry id="18">
+        <entry source="Wave 5 FAQ" id="18">
             <question>
                 Can I play Emissary with any character that has a body mode?
             </question>
@@ -35,7 +35,7 @@
                 Yes. Emissary is just like other character cards that have a head mode and a bot mode.
           </answer>
       </entry>
-    <entry id="610-11" tags="Fortress Maximus - Great War Veteran">
+    <entry source="Rules Roundup 2020-06-10" id="610-11" tags="Fortress Maximus - Great War Veteran">
         <question>
             With Fort Max, the second Head counts towards the TEAM star total. Does it also count towards Fort Max's CHARACTER star count or is that just Max and Cerebros stars combined?
         </question>
@@ -43,7 +43,7 @@
             While Fortress Maximus is in play, he and Cerebros's stars make up the character's star count. The second Head is not counted.
         </answer>
     </entry>
-    <entry id="610-12" tags="Fortress Maximus - Great War Veteran">
+    <entry source="Rules Roundup 2020-06-10" id="610-12" tags="Fortress Maximus - Great War Veteran">
         <question>
             On my starting team one of my characters is Quake with a Flintlock. Can I sideboard in Fortress Maximus if I also put Flintlock on him?
         </question>

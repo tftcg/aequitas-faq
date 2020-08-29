@@ -1,4 +1,4 @@
-<faq><target name="Dinobot Sludge - Mighty Stomper"><entry id="42" mode="alt">
+<faq><target name="Dinobot Sludge - Mighty Stomper"><entry source="Wave 1 FAQ" id="42" mode="alt">
       <question>
     Dinobot Sludge’s health is 12. Let’s say there are 15 damage counters total on my other Dinobots.
 When I flip Dinobot Sludge to alt mode, can I move all those damage counters onto him?
@@ -7,7 +7,7 @@ When I flip Dinobot Sludge to alt mode, can I move all those damage counters ont
     Yes. This will, of course, cause Dinobot Sludge to be KO’d. He’ll be sad.
 </answer>
     </entry>
-  <entry id="218-19" tags="Dinobot Sludge - Mighty Stomper">
+  <entry source="Rules Roundup 2019-02-18" id="218-19" tags="Dinobot Sludge - Mighty Stomper">
       <question>
 Does each damage counter moved by Dinobot Sludge's Alt Mode ability create a new instance of damage, or does the total amount you want to move count as one instance?
       </question>
@@ -15,7 +15,7 @@ Does each damage counter moved by Dinobot Sludge's Alt Mode ability create a new
 Neither. Moving damage counters does not count as repairing or taking damage.
       </answer>
     </entry>
-    <entry id="528-11" tags="Grimlock - Powerful Commander,Dinobot Sludge - Mighty Stomper,Volcanicus - Fiery Champion">
+    <entry source="Rules Roundup 2019-05-28" id="528-11" tags="Grimlock - Powerful Commander,Dinobot Sludge - Mighty Stomper,Volcanicus - Fiery Champion">
       <question>
 If I start my game with Wave 1 Dinobot Sludge and Wave 2 Grimlock and Dinobot Swoop. After I was able to bring the rest of my Wave 2 Dinobots into the KO area, Grimlock is KO’d and Dinobot Sludge was the only card left on my battlefield in bot mode. On my turn, I played the Dinobot Enigma and then flipped Dinobot Sludge to take all of his damage, was this correct? Also, what if I had played a Brainstorm then an I Still Function! and then a Dinobot Enigma after which I would flip Dinobot Sludge? Is that a better scenario?
       </question>
@@ -24,7 +24,7 @@ In your first scenario, Volcanicus appears on the battlefield with 55 damage cou
 In your second scenario, you can I Still Function! one of the five Dinobots and then use the Dinobot Engima to form Volcanicus. Volcanicus will have 54 damage counters on him (because of the 1 damage ISF! repairs). No matter what, he will be KO’d at the end of the turn, so repairing him with Dinobot Sludge probably won’t do a lot.
       </answer>
     </entry>
-    <entry id="228-4" tags="Combiner,Volcanicus - Fiery Champion,KO,Dreadwing - Sky Destroyer">
+    <entry source="Rules Roundup 2019-02-28" id="228-4" tags="Combiner,Volcanicus - Fiery Champion,KO,Dreadwing - Sky Destroyer">
       <question>
 Does the I Still Function! + Dreadwing rule apply generally to Combiners or is it specific to Dreadwing’s method of Combination? Suppose I control Dinobot Sludge - Mighty Stomper and have the five Dinobot components in my KO Area. Can I Brainstorm+ I Still Function! + Dinobot Enigma and expect to keep Volcanicus at the end of the turn?
       </question>

@@ -1,16 +1,16 @@
-<faq><target name="Overwhelming Advantage"><entry id="73">
+<faq><target name="Overwhelming Advantage"><entry source="Wave 4 FAQ" id="73">
       <question>Say I have 3 Decepticons on the battlefield when I play Overwhelming Advantage. Can I put just 2 cards from my hand on top of my deck?</question>
       <answer>Yes. Each Plan is optional, so you could anywhere from 0 to 3 cards from your hand on top of your deck.</answer>
     </entry>
-    <entry id="74">
+    <entry source="Wave 4 FAQ" id="74">
       <question>Do I have to choose one of my characters when I play Overwhelming Advantage?</question>
       <answer>Yes. Even if you have two characters with the right upgrades and you plan to attack with both of them during your turn, you choose which character will be affected when you play Overwhelming Advantage.</answer>
     </entry>
-    <entry id="75">
+    <entry source="Wave 4 FAQ" id="75">
       <question>If I meet all the conditions listed in the second ability (WOOHOO!), and the 15 damage is enough to KO the defender, will my opponent flip battle cards?</question>
       <answer>No. As soon as the defender is KO’d, the attack ends.</answer>
     </entry>
-  <entry id="9-21">
+  <entry source="Rules Roundup 2019-11-08" id="9-21">
       <question>
 If I play Brainstorm into 2 Overwhelming Advantages and meet all the requirements, can I do 15 damage to 2 different enemies? Or must they target the same character?
         </question>

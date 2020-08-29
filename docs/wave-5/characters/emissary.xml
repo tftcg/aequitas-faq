@@ -1,4 +1,4 @@
-<faq><target name="Emissary"><entry id="15">
+<faq><target name="Emissary"><entry source="Wave 5 FAQ" id="15">
         <question>
             Can Fortress Maximus have a different head than Cerebros?
         </question>
@@ -8,7 +8,7 @@
         </answer>
     </entry>
         
-        <entry id="18">
+        <entry source="Wave 5 FAQ" id="18">
             <question>
                 Can I play Emissary with any character that has a body mode?
             </question>

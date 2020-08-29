@@ -1,4 +1,4 @@
-<faq><target name="Aerialbot Enigma"><entry id="628-5" tags="Silverbolt - Aerialbot Leader">
+<faq><target name="Aerialbot Enigma"><entry source="Rules Roundup 2019-06-28" id="628-5" tags="Silverbolt - Aerialbot Leader">
       <question>
 I have a question about the interaction between Anticipation Engine and the Enigmas. Let’s say Silverbolt has an Anticipation Engine equipped and the Aerialbots are all in bot mode. He attacks and flips the Aerialbot Enigma. What happens now? If the Aerialbots combine to form Superion does the attack continue, and if so, what is the base attack used to compute damage? Is it Superion’s attack or Silverbolt’s?
       </question>
@@ -6,7 +6,7 @@ I have a question about the interaction between Anticipation Engine and the Enig
 The attack continues, except now Superion (untapped) is attacking the target Silverbolt was previously attacking. Superion’s attack will be used to calculate damage. 
       </answer>
     </entry>
-    <entry id="628-6" tags="Aerialbot Enigma">
+    <entry source="Rules Roundup 2019-06-28" id="628-6" tags="Aerialbot Enigma">
       <question>
 And to go one step further, as the Enigma is revealed by Anticipation Engine and not as part of the attack, is it correct you can’t take advantage of the green pip to send it to hand?
       </question>

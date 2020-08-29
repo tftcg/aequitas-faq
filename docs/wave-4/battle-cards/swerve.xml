@@ -1,4 +1,4 @@
-<faq><target name="Swerve"><entry id="9-22">
+<faq><target name="Swerve"><entry source="Rules Roundup 2019-11-08" id="9-22">
       <question>
 If I have a Cassette in Bot Mode that is chosen as a defender but flip a Swerve does it fizzle the attack when the character flips to Cassette due to the Stealth on that side as long as another target is legal to attack? Or not, since it's already been chosen as the defender?
         </question>
@@ -6,7 +6,7 @@ If I have a Cassette in Bot Mode that is chosen as a defender but flip a Swerve 
 Once an attack is legally declared, the defender picking up Stealth won’t matter.
       </answer>
     </entry>
-    <entry id="9-23">
+    <entry source="Rules Roundup 2019-11-08" id="9-23">
       <question>
 If I flip a character who lets me play a card for free such as Detritus - Arms Dealer who allows me to play a Black Pip card, can I play a Smoke Cloak this way to give Detritus Tough 1 for that battle, or does it apply after flips have ready happened?
         </question>

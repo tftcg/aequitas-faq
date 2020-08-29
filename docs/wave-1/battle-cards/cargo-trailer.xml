@@ -1,4 +1,4 @@
-<faq><target name="Cargo Trailer"><entry id="77">
+<faq><target name="Cargo Trailer"><entry source="Wave 1 FAQ" id="77">
       <question>
     If my character has 2 Cargo Trailers, and I play a different Utility, do I scrap both Cargo Trailers?
 </question>
@@ -6,7 +6,7 @@
     Yes. The character can hold up to 3 Cargo Trailers or a different Utility, bot not both.
 </answer>
     </entry>
-  <entry id="201-9" tags="Motormaster - Stunticon Leader,Combiner">
+  <entry source="Rules Roundup 2019-02-01" id="201-9" tags="Motormaster - Stunticon Leader,Combiner">
       <question>
 If Motormaster or Ironhide - Steadfast Brawler have three Cargo Trailer attached to them and they combine, can the Cargo Trailers be transferred over to the new Combiner even though the new Combiner is not a Truck? If so, can you transfer all three Cargo Trailers or just one? 
       </question>
@@ -14,7 +14,7 @@ If Motormaster or Ironhide - Steadfast Brawler have three Cargo Trailer attached
 You can transfer all three Cargo Trailers.
     </answer>
     </entry>
-    <entry id="222-1">
+    <entry source="Rules Roundup 2019-02-22" id="222-1">
       <question>
 If I’m running Stunticons and have two Cargo Trailers on Motormaster, and one on Offroad, will the combined Menasor be able to merge all three into his one Utility slot or will he just attach Motormaster’s two?
       </question>

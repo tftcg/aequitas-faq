@@ -1,20 +1,20 @@
-<faq><target name="Confidence"><entry id="36" mode="combiner">
+<faq><target name="Confidence"><entry source="Wave 2 and 3 FAQ" id="36" mode="combiner">
       <question>If I play an Action that lets me play another Action, such as Confidence, does that Action count as the extra one that Menasor lets me play?</question>
       <answer>No. If another card lets you play an Action, that won’t count for Menasor. You can play that Action and then another one for Menasor.</answer>
     </entry>
-  <entry id="67">
+  <entry source="Wave 2 and 3 FAQ" id="67">
       <question>Does the Action I play have to be one of the cards I drew?</question>
       <answer>No. You can play any Action in your hand after you scrap 2 cards from it.</answer>
     </entry>
-    <entry id="68">
+    <entry source="Wave 2 and 3 FAQ" id="68">
       <question>What happens if I have no other cards in my hand when I play Confidence?</question>
       <answer>You’ll draw 2 cards and them immediately scrap them. You won’t be able to play an Action because your hand will be empty.</answer>
     </entry>
-  <entry id="98">
+  <entry source="Wave 2 and 3 FAQ" id="98">
       <question>What happens if I have no other cards in my hand when I play Confidence?</question>
       <answer>You’ll draw 2 cards and them immediately scrap them. You won’t be able to play an Upgrade because your hand will be empty.</answer>
     </entry>
-  <entry id="2-49" tags="Captain Wheeljack - Engineering - Scientist">
+  <entry source="Rules Roundup 2019-07-29" id="2-49" tags="Captain Wheeljack - Engineering - Scientist">
       <question>
 I have a team of all Autobots, including Captain Wheeljack in bot mode. I play Brainstorm, and as the first action, play Confidence. Do I play my second action for Brainstorm now, or do I resolve Confidence first and play an action via Confidence? Either way, this will trigger Captain Wheeljack’s "When you play your third action" ability. Do I draw the card for that immediately, or do I wait until all the actions played via Confidence and Brainstorm have resolved?
 </question>

@@ -1,6 +1,6 @@
-<faq><target name="Personal Targeting Drone"><entry id="175" xref="Wave-2-3#177" />
-    <entry id="176" xref="Wave-2-3#178" />
-  <entry id="2-16">
+<faq><target name="Personal Targeting Drone"><entry source="Wave 2 and 3 FAQ" id="175" xref="Wave-2-3#177" />
+    <entry source="Wave 2 and 3 FAQ" id="176" xref="Wave-2-3#178" />
+  <entry source="Rules Roundup 2019-07-29" id="2-16">
       <question>
 The cards Dismantling Claw, Reactive Armor and Personal Targeting Drone say "When this upgrade is scrapped from a character...". Do these effects trigger when the character is KO'd and the upgrade goes to the scrap pile? Do these effects trigger when you replace the upgrade and it goes to the scrap pile?
 </question>

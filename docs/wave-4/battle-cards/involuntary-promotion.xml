@@ -1,8 +1,8 @@
-<faq><target name="Involuntary Promotion"><entry id="66">
+<faq><target name="Involuntary Promotion"><entry source="Wave 4 FAQ" id="66">
       <question>What happens if the character I bring back from the KO area ends up with enough damage counters to KO it?</question>
       <answer>Both characters will end up KO’d, but the character that started in the KO area will be on the battlefield for a short time. For example, any ability that triggers when Upgrades are moved onto that character will still happen. If that character has any revenge abilities, those abilities will also happen.</answer>
     </entry>
-  <entry id="10-31">
+  <entry source="Rules Roundup 2019-11-22" id="10-31">
       <question>
 Involuntary Promotion: if I play it and chose a tapped character, does the revived character come back tapped or untapped?  
         </question>
@@ -10,7 +10,7 @@ Involuntary Promotion: if I play it and chose a tapped character, does the reviv
 Untapped.
       </answer>
     </entry>
-    <entry id="9-3">
+    <entry source="Rules Roundup 2019-11-08" id="9-3">
       <question>
 If I have a character with Bumpers attached, and I play Involuntary Promotion on a car in my KO area, does the returned character receive the Bumpers in time to prevent the damage counters from being moved?
         </question>
@@ -18,7 +18,7 @@ If I have a character with Bumpers attached, and I play Involuntary Promotion on
 The damage and upgrades are moved at the same time. Bumpers’ effect won’t stop the damage counters from being moved.
       </answer>
     </entry>
-    <entry id="9-5" tags="Battle Master">
+    <entry source="Rules Roundup 2019-11-08" id="9-5" tags="Battle Master">
       <question>
 Can I KO a Battle Master with Involuntary Promotion if I have no bots in my KO area?
         </question>
@@ -26,7 +26,7 @@ Can I KO a Battle Master with Involuntary Promotion if I have no bots in my KO a
 Yes. If you have no characters in KO or the characters in your KO area have too many stars, you can use Involuntary Promotion to KO one of your characters.
       </answer>
     </entry>
-    <entry id="9-6">
+    <entry source="Rules Roundup 2019-11-08" id="9-6">
       <question>
 Regarding Involuntary Promotion trigger timings, when I shift the upgrade and damage counters to the returned character. Do I get to choose to shift the damage counters first followed by the upgrades since they are both my triggers?
         </question>
@@ -34,7 +34,7 @@ Regarding Involuntary Promotion trigger timings, when I shift the upgrade and da
 No part of Involuntary Promotion is a triggered ability. The instructions are all followed in order and the damage counters and upgrades are moved at the same time.
       </answer>
     </entry>
-    <entry id="9-15">
+    <entry source="Rules Roundup 2019-11-08" id="9-15">
       <question>
 Does Involuntary Promotion count as "repairing" the resurrected character? In other words, could Torox or Ratchet benefit from its play?
         </question>

@@ -1,8 +1,8 @@
-<faq><target name="Air Raid - Fearless Flyer"><entry id="15" mode="bot">
+<faq><target name="Air Raid - Fearless Flyer"><entry source="Wave 2 and 3 FAQ" id="15" mode="bot">
       <question>If Air Raid has an Upgrade that does damage to an enemy, will Air Raid’s ability trigger and let me scrap an Upgrade from that enemy?</question>
       <answer>No, unless the Upgrade specifically says that the upgraded character does the damage. Air Raid must do the damage for the ability to trigger.</answer>
     </entry>
-  <entry id="322-7" tags="Air Raid - Fearless Flyer">
+  <entry source="Rules Roundup 2019-03-22" id="322-7" tags="Air Raid - Fearless Flyer">
       <question>
 Does Air Raid's bot mode ability trigger if you use Armed Hovercraft to do 1 damage to an enemy team?
       </question>
@@ -10,7 +10,7 @@ Does Air Raid's bot mode ability trigger if you use Armed Hovercraft to do 1 dam
 Armed Hovercraft does the damage, not the character that has it equipped.
       </answer>
     </entry>
-    <entry id="401-9" tags="Air Raid - Fearless Flyer,Sunstorm - Fusion Flyer">
+    <entry source="Rules Roundup 2019-04-01" id="401-9" tags="Air Raid - Fearless Flyer,Sunstorm - Fusion Flyer">
       <question>
 My opponent's Air Raid (Bot Mode) attacks my Sunstorm (with Crash Landing), doing enough Damage to KO Sunstorm. Air Raid's player is able to Scrap the Crash Landing before I can use it to KO an Aerialbot, correct?
       </question>

@@ -1,4 +1,4 @@
-<faq><target name="Showing Off"><entry id="10-2">
+<faq><target name="Showing Off"><entry source="Rules Roundup 2019-11-22" id="10-2">
       <question>
 With Showing Off, would a Bot receive any and all "when you flip to" triggers during the process or does it only count the final mode it's flipped to? For example, if Grimlock - Dinobot Leader is in bot mode and plays Showing Off, could he end in Bot mode with the Bold 3 from his Alt mode?
         </question>
@@ -8,7 +8,7 @@ Yes, you can first flip Grimlock to alt mode, causing the ability on that mode t
           <tftcg-note>While the alt mode ability triggers when Grimlock is flipped to alt-mode, note that the trigger does not resolve until after Showing Off has completed and Grimlock is back in bot-mode. </tftcg-note>
       </answer>
     </entry>
-    <entry id="10-6" tags="Sergeant Springer - Special Ops - Aerial Defense">
+    <entry source="Rules Roundup 2019-11-22" id="10-6" tags="Sergeant Springer - Special Ops - Aerial Defense">
       <question>
 For Showing Off, can I flip Sergeant Springer to one alt mode and use its effect then flip to the other Alt mode and use its effect too? Or must I resolve Showing Off completely first?
         </question>

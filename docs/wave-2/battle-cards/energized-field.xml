@@ -1,12 +1,12 @@
-<faq><target name="Energized Field"><entry id="75">
+<faq><target name="Energized Field"><entry source="Wave 2 and 3 FAQ" id="75">
       <question>If I flip two orange battle icons, does it deal 2 damage?</question>
       <answer>No. The ability does a maximum of 1 damage, no matter how many orange battle icons you flip.</answer>
     </entry>
-  <entry id="72">
+  <entry source="Wave 4 FAQ" id="72">
       <question>If Overheat is revealed, do effects like Energized Field’s still work?</question>
       <answer>Yes. With Overheat, orange battle icons don’t add to the attack value, but they were still flipped, so any other effects that care about flipping orange battle icons will still work. The same is true for black battle icons.</answer>
     </entry>
-  <entry id="502-1">
+  <entry source="Rules Roundup 2019-05-02" id="502-1">
       <question>
 My question is the following scenario:
 Player A has one bot remaining with 1 health 

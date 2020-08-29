@@ -1,4 +1,4 @@
-<faq><target name="Incoming Transmission"><entry id="502-10" tags="Major Shockwave - Applied Sciences - Scientist">
+<faq><target name="Incoming Transmission"><entry source="Rules Roundup 2019-05-02" id="502-10" tags="Major Shockwave - Applied Sciences - Scientist">
       <question>
 If I play Incoming Transmission while I have Major Shockwave on the field, and I draw the two cards, am I able to look at the next card in the deck BEFORE I put a card on the top of my deck, or must I complete Incoming Transmission before looking?
       </question>
@@ -6,7 +6,7 @@ If I play Incoming Transmission while I have Major Shockwave on the field, and I
 In this scenario, you may look at the next card in the deck before you put a card on the top of your deck.
       </answer>
     </entry>
-  <entry id="412-16" tags="Thrust - Supersonic Interceptor">
+  <entry source="Rules Roundup 2019-04-12" id="412-16" tags="Thrust - Supersonic Interceptor">
       <question>
 Does Thrust count as a Tap ability? Similarly, does Incoming Transmission count as a Plan effect? Or, because neither have the keywords, are they exceptions to the rule?
       </question>

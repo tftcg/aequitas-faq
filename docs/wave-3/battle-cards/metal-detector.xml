@@ -1,8 +1,8 @@
-<faq><target name="Metal Detector"><entry id="48">
+<faq><target name="Metal Detector"><entry source="Wave 4 FAQ" id="48">
       <question>If Crowbar is put onto a character during a battle after it attacks, is it scrapped after the battle?</question>
       <answer>No. The ability triggers only if the character is holding the Crowbar as it attacks. If Crowbar appears after that point (say because of Metal Detector), it can stay for at least another attack.</answer>
     </entry>
-  <entry id="628-24" tags="Dreadwing - Sky Destroyer,Predaking - Ferocious Hunter">
+  <entry source="Rules Roundup 2019-06-28" id="628-24" tags="Dreadwing - Sky Destroyer,Predaking - Ferocious Hunter">
       <question> 
 What exactly happens when I attack using...
     1. Dreadwing with 2 Anticipation Engines and 2 Metal Detectors?
@@ -12,7 +12,7 @@ What exactly happens when I attack using...
 With multiple Anticipation Engines and/or Metal Detectors, you handle the abilities one at a time. If you have an Anticipation Engine and a Metal Detector, you must specify which one you are using before revealing the card. If the card you reveal doesn’t match the type of card you’re looking for, it just stays on top of your deck. The next ability will reveal the same card, so choose wisely. 
       </answer>
     </entry>
-    <entry id="5-4">
+    <entry source="Rules Roundup 2019-09-06" id="5-4">
       <question>
 I have Cliffjumper in Car mode with a Metal Detector.
 Cliffjumper attacks and taps.
@@ -23,7 +23,7 @@ Does Cliffjumper attack untapped?
 Yes, he does.
 </answer>
     </entry>
-    <entry id="5-5" tags="Specialist Flamewar - Special Ops - Hunter">
+    <entry source="Rules Roundup 2019-09-06" id="5-5" tags="Specialist Flamewar - Special Ops - Hunter">
       <question>
 Since it sounds like (understandably) that a comprehensive rules document might take a while, perhaps you could answer a more specific timing question then.
 

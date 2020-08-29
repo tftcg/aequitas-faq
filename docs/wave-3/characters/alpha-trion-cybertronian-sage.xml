@@ -1,9 +1,9 @@
-<faq><target name="Alpha Trion - Cybertronian Sage"><entry id="131" mode="bot">
+<faq><target name="Alpha Trion - Cybertronian Sage"><entry source="Wave 2 and 3 FAQ" id="131" mode="bot">
       <question>If the card I play with a blue battle icon also has other battle icons, do those count in the battle?</question>
       <answer>Yes. For example, if it has orange battle icons, those will add to the character’s attack total. If it has a green battle icon, it can be swapped with a card in your hand after the battle.</answer>
     </entry>
-    <entry id="132" xref="Rules_Roundup-2019-07-12#1-18" mode="bot" />
-  <entry id="528-1" tags="Raider Cindersaur - Black Ops - Demolitions,Alpha Trion - Cybertronian Sage,Battle Icon">
+    <entry source="Wave 2 and 3 FAQ" id="132" xref="Rules_Roundup-2019-07-12#1-18" mode="bot" />
+  <entry source="Rules Roundup 2019-05-28" id="528-1" tags="Raider Cindersaur - Black Ops - Demolitions,Alpha Trion - Cybertronian Sage,Battle Icon">
       <question>
 Alpha Trion and Raider Cindersaur label actions by the colored battle icons. Can you explain what makes a card an Orange or Blue Card? Does that mean that they have to have at least one orange icon to be an orange card? If this is the case, then can Alpha Trion use his ability to play a Roll Out! because it has at least 1 blue icon?
       </question>
@@ -11,7 +11,7 @@ Alpha Trion and Raider Cindersaur label actions by the colored battle icons. Can
 A “blue card” is a card with at least one blue battle icon, and so on for the other colors, so you would be able to play Roll Out with Alpha Trion’s ability.
       </answer>
     </entry>
-    <entry id="607-1" tags="Alpha Trion - Cybertronian Sage">
+    <entry source="Rules Roundup 2019-06-07" id="607-1" tags="Alpha Trion - Cybertronian Sage">
       <question>
 If I Attack with Alpha Trion or Optimus Prime - Battlefield Legend and flip a Heroic Team-Up, can I use it to tap an untapped character of mine and have the Attack total added to Alpha Trion or Optimus? I would think so as the defense has yet to kick in and it is a playable action. 
       </question>

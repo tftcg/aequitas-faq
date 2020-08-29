@@ -1,20 +1,20 @@
-<faq><target name="Captain Elita-1 - Special Ops - Ranger"><entry id="134" mode="alt">
+<faq><target name="Captain Elita-1 - Special Ops - Ranger"><entry source="Wave 2 and 3 FAQ" id="134" mode="alt">
       <question>Do damage counters already on Captain Elita-1 affect how many I can move onto her?</question>
       <answer>Yes. For example, if Captain Elita-1 (with 17 health) already has 9 damage counters on her, you can’t move more than 7 more damage counters onto her using her ability.</answer>
     </entry>
-    <entry id="135" mode="alt">
+    <entry source="Wave 2 and 3 FAQ" id="135" mode="alt">
       <question>Does moving damage counters from one character to another count as repairing the first character or doing damage to the second character?</question>
       <answer>No. Any abilities that care about damage being done or repaired won’t affect the move.</answer>
     </entry>
-    <entry id="136" mode="bot">
+    <entry source="Wave 2 and 3 FAQ" id="136" mode="bot">
       <question>What happens if I don’t want to play a card I scrap?</question>
       <answer>The card will stay in the scrap pile.</answer>
     </entry>
-    <entry id="137" mode="bot">
+    <entry source="Wave 2 and 3 FAQ" id="137" mode="bot">
       <question>If Captain Elita-1 is my last character and is KO’d, do I get to use her ability before I lose the game?</question>
       <answer>No. You’ll lose the game just after she is KO’d, before you can use her ability.</answer>
     </entry>
-  <entry id="517-7" tags="Captain Elita-1 - Special Ops - Ranger">
+  <entry source="Rules Roundup 2019-05-17" id="517-7" tags="Captain Elita-1 - Special Ops - Ranger">
       <question>
 How does the new Captain Elita-1 interact with I Still Function!? If my opponent KO’s her during their turn, and I scrap I Still Function as one of the two cards from her trigger, is Elita-1 a valid target for the card?
       </question>
@@ -22,7 +22,7 @@ How does the new Captain Elita-1 interact with I Still Function!? If my opponent
 Elita-1 would be a valid target for I Still Function!, but she would still be KO’d at the end of the turn. She would trigger again.
       </answer>
     </entry>
-    <entry id="517-8" tags="Captain Elita-1 - Special Ops - Ranger">
+    <entry source="Rules Roundup 2019-05-17" id="517-8" tags="Captain Elita-1 - Special Ops - Ranger">
       <question>
 What if I use I Still Function during my turn to bring back Elita-1 and then, at end of turn, when she is KO’d again, she reveals another I Still Function? If I am able to bring back a character with it, when is that character KO’d by I Still Function's effect?
       </question>

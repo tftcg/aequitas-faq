@@ -1,4 +1,4 @@
-<faq><target name="Predaking - Ferocious Hunter"><entry id="315-22" tags="Predacon Rampage - Savage Hunter,Predaking - Ferocious Hunter">
+<faq><target name="Predaking - Ferocious Hunter"><entry source="Rules Roundup 2019-03-15" id="315-22" tags="Predacon Rampage - Savage Hunter,Predaking - Ferocious Hunter">
       <question>
 Following up on this ruling: 
 "Based off the I Still Function! Ruling, would I be able to transform Razorclaw to bot mode, then combine into Predaking but retain his flip ability to attack untapped characters since he's part of the Combiner? 
@@ -9,7 +9,7 @@ Does this mean that if I flip Rampage into bot-mode and combine into Predaking t
 Rampage’s ability has not triggered yet and would not carry over as it does not specify the duration of “this turn” like Razorclaw’s ability does.
       </answer>
     </entry>
-    <entry id="628-24" tags="Dreadwing - Sky Destroyer,Predaking - Ferocious Hunter">
+    <entry source="Rules Roundup 2019-06-28" id="628-24" tags="Dreadwing - Sky Destroyer,Predaking - Ferocious Hunter">
       <question> 
 What exactly happens when I attack using...
     1. Dreadwing with 2 Anticipation Engines and 2 Metal Detectors?
@@ -19,7 +19,7 @@ What exactly happens when I attack using...
 With multiple Anticipation Engines and/or Metal Detectors, you handle the abilities one at a time. If you have an Anticipation Engine and a Metal Detector, you must specify which one you are using before revealing the card. If the card you reveal doesn’t match the type of card you’re looking for, it just stays on top of your deck. The next ability will reveal the same card, so choose wisely. 
       </answer>
     </entry>
-    <entry id="218-26" tags="Dreadwing - Sky Destroyer,Predaking - Ferocious Hunter">
+    <entry source="Rules Roundup 2019-02-18" id="218-26" tags="Dreadwing - Sky Destroyer,Predaking - Ferocious Hunter">
       <question>
 If Dreadwing is equipped with Combat Training and 2 weapons and/or armors, does Combat Training give Dreadwing bold/tough 2 since he has 2 weapons/armors? Same question can be asked for Predaking; Does he get Bold 5 if he has 5 weapons and combat training?
       </question>
@@ -27,7 +27,7 @@ If Dreadwing is equipped with Combat Training and 2 weapons and/or armors, does 
 No. A single Combat Training gives Bold/Tough 1 at most.
       </answer>
     </entry>
-    <entry id="211-8" tags="Predaking - Ferocious Hunter">
+    <entry source="Rules Roundup 2019-02-11" id="211-8" tags="Predaking - Ferocious Hunter">
       <question>
 Does Predaking just have 5 weapon slots, or 5 weapon slots and the usual 1 utility and armor slot?
       </question>
@@ -35,7 +35,7 @@ Does Predaking just have 5 weapon slots, or 5 weapon slots and the usual 1 utili
 All characters will have the default slots unless otherwise specified. He has 5 weapon, 1 armor, 1 utility.
       </answer>
     </entry>
-    <entry id="607-8" tags="Combiner,Predaking - Ferocious Hunter">
+    <entry source="Rules Roundup 2019-06-07" id="607-8" tags="Combiner,Predaking - Ferocious Hunter">
       <question>
 Same for Predaking? So he could be combined with up to 3 Laser Cutlasses?
       </question>

@@ -1,4 +1,4 @@
-<faq><target name="Increased Durability"><entry id="64">
+<faq><target name="Increased Durability"><entry source="Wave 4 FAQ" id="64">
       <question>Let’s say the upgraded character normally has 10 health. It gets upgraded with Increased Durability, then gets 12 damage counters. If Increased Durability is scrapped, what happens?</question>
       <answer>Any time the game notices a character with a number of damage counters equal to or greater than its current health, the character is KO’d. So your character is KO’d. Sorry.</answer>
     </entry>

@@ -1,4 +1,4 @@
-<faq><target name="Hybrid Battle Icon"><entry id="13">
+<faq><target name="Hybrid Battle Icon"><entry source="Wave 5 FAQ" id="13">
             <question>
                 What are Hybrid Battle Icons?
             </question>
@@ -7,7 +7,7 @@
             </answer>
         </entry>
         
-        <entry id="14">
+        <entry source="Wave 5 FAQ" id="14">
             <question>
                 If an effect refers to the battle icons you've flipped, can that effect see a hybrid icon if the character doesn't match its trait?
             </question>

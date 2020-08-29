@@ -1,4 +1,4 @@
-<faq><target name="Team-Up Tactics"><entry id="122">
+<faq><target name="Team-Up Tactics"><entry source="Wave 1 FAQ" id="122">
       <question>
     What happens if a character is both a Truck and a Car?
 </question>
@@ -6,7 +6,7 @@
     There aren’t any characters that are both a Truck and a Car.
 </answer>
     </entry>
-    <entry id="123">
+    <entry source="Wave 1 FAQ" id="123">
       <question>
     Yeah, but like, what if?
 </question>
@@ -14,7 +14,7 @@
     That’s not a real question.
 </answer>
     </entry>
-    <entry id="124">
+    <entry source="Wave 1 FAQ" id="124">
       <question>
     Come on… I want to know!
 </question>
@@ -22,7 +22,7 @@
     You would repair 2 damage from it and then you would draw 2 cards.
 </answer>
     </entry>
-    <entry id="125">
+    <entry source="Wave 1 FAQ" id="125">
       <question>
     When are you going to make a character that’s a Truck and a Car?
 </question>
@@ -30,7 +30,7 @@
     …
 </answer>
     </entry>
-  <entry id="502-3" tags="Menasor - Menacing Colossus">
+  <entry source="Rules Roundup 2019-05-02" id="502-3" tags="Menasor - Menacing Colossus">
       <question>
 I have Menasor on the field and two Team-Up Tactics in my hand. If I play them, do they do nothing, am I forced to pick one effect, or do both effects go off?
       </question>

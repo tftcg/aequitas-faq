@@ -1,8 +1,8 @@
-<faq><target name="Field Communicator"><entry id="78">
+<faq><target name="Field Communicator"><entry source="Wave 2 and 3 FAQ" id="78">
       <question>What happens if I put this on a Specialist when there’s only 1 card left in my deck?</question>
       <answer>In that case, you’ll scrap that card. Then you’ll shuffle all the other cards in your scrap pile into your deck. Then you may play the card you scrapped. If you don’t, it will stay in your scrap pile.</answer>
     </entry>
-  <entry id="7-6">
+  <entry source="Rules Roundup 2019-10-11" id="7-6">
       <question>
 I have a Torox with Tooth and Claw and Mining Pick in his Armor Slot, as well as Divebomb with a Field Communicator. If I combine them into Predaking via the Predacon Enigma, am I required to keep Tooth and Claw in order to carry the Mining Pick to Predaking's armor slot, or can I bring the Field Communicator instead?
         </question>
@@ -10,7 +10,7 @@ I have a Torox with Tooth and Claw and Mining Pick in his Armor Slot, as well as
 Once an Upgrade is legally put into a slot, it stays there, even if the ability that allowed it to be upgraded in the first place no longer applies. In your example, you could keep Mining Pick in Predaking’s Armor slot. Upgrades that are on characters that combine into Combiners are considered to stay in their slots, even though those slots now belong to the Combiner.
       </answer>
     </entry>
-    <entry id="7-10" tags="Sergeant Cog - Artillery - Mechanic,Private Red Heat - Infantry - Emergency Response">
+    <entry source="Rules Roundup 2019-10-11" id="7-10" tags="Sergeant Cog - Artillery - Mechanic,Private Red Heat - Infantry - Emergency Response">
       <question>
 I have a question regarding Sergeant Cog. When he dies, I place him on Private Red Heat, and Trigger his ability. Let’s say I draw 2 cards. I can then upgrade each of my characters, and let’s say I play Field Communicator on one of my specialists from the Cog trigger, do I resolve Field Communicator’s trigger before finishing the last Cog upgrade trigger, or do I finish the Cog trigger, and then resolve the Field Communicator trigger?
         </question>
@@ -18,7 +18,7 @@ I have a question regarding Sergeant Cog. When he dies, I place him on Private R
 Finish the Cog trigger completely, then resolve any resulting triggers like Field Communicator in an order of your choosing.
       </answer>
     </entry>
-    <entry id="201-1">
+    <entry source="Rules Roundup 2019-02-01" id="201-1">
       <question>
 Are actions played with Field Communicator set aside like actions played from a hand, or do they remain in the scrap pile?
       </question>
@@ -26,7 +26,7 @@ Are actions played with Field Communicator set aside like actions played from a 
 They are set aside like actions played from a hand.
     </answer>
     </entry>
-    <entry id="405-5">
+    <entry source="Rules Roundup 2019-04-05" id="405-5">
       <question>
 I have Wheeljack - Weapons Inventor in alt mode on the field. I play Leap of Faith and flip Field Communicator as my first card. I play Field Communicator and equip it to Wheeljack. With this scenario, does Wheeljack’s ability to draw then scrap a card occur before I do my second flip for Leap of Faith or does it have to wait until Leap of Faith has fully resolved?
       </question>
@@ -34,7 +34,7 @@ I have Wheeljack - Weapons Inventor in alt mode on the field. I play Leap of Fai
 EDIT: You must resolve Leap of Faith and the second card you flip from Leap of Faith, then Field Communicator’s ability and Wheeljack’s ability can be resolved in an order of your choosing.
       </answer>
     </entry>
-    <entry id="412-7">
+    <entry source="Rules Roundup 2019-04-12" id="412-7">
       <question>
 Say I have a Field Communicator on a Specialist (Let's say it's Arcee, because why not?). Is it then possible to play a second Field Communicator to replace the first? (In order to re-trigger the effect on a specialist)
       </question>
@@ -42,7 +42,7 @@ Say I have a Field Communicator on a Specialist (Let's say it's Arcee, because w
 Yes.
       </answer>
     </entry>
-    <entry id="2-46" tags="Wheeljack - Weapons Inventor">
+    <entry source="Rules Roundup 2019-07-29" id="2-46" tags="Wheeljack - Weapons Inventor">
       <question>
 I play Full Loadout on Wave 1 Wheeljack in Alt Mode. I play Multi-Tool, Multi-Mission Gear, and Field Communicator onto him. How are the triggers handled? Do I resolve each Upgrade and Wheeljack trigger mid-Loadout, or do I wait until I play all three upgrades then resolve the six triggers?
 </question>

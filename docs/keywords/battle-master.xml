@@ -1,4 +1,4 @@
-<faq><target name="Battle Master"><entry id="106">
+<faq><target name="Battle Master"><entry source="Wave 2 and 3 FAQ" id="106">
       <question>
           What are Battle Masters?
       </question>
@@ -8,7 +8,7 @@ after they are KO’d. Battle Masters don’t have an alt mode and can’t flip 
 battlefield. There are both Autobot and Decepticon Battle Masters.
       </answer>
     </entry>
-    <entry id="107">
+    <entry source="Wave 2 and 3 FAQ" id="107">
       <question>
              Battle Masters are the same size as battle cards! What does that mean?
         </question>
@@ -18,7 +18,7 @@ just like other characters. They can attack and be attacked, they can be damaged
 upgraded, and so on.
       </answer>
     </entry>
-    <entry id="108">
+    <entry source="Wave 2 and 3 FAQ" id="108">
       <question>
              If Battle Masters don’t have an alt mode, how do they start the game?
         </question>
@@ -26,7 +26,7 @@ upgraded, and so on.
              They start on the battlefield in bot mode.
       </answer>
     </entry>
-    <entry id="109">
+    <entry source="Wave 2 and 3 FAQ" id="109">
       <question>
              If a card tells me to flip a Battle Master, what happens?
         </question>
@@ -35,7 +35,7 @@ upgraded, and so on.
 followed if possible.
       </answer>
     </entry>
-    <entry id="110">
+    <entry source="Wave 2 and 3 FAQ" id="110">
       <question>
              So how do I access the upgrade mode?
         </question>
@@ -44,7 +44,7 @@ followed if possible.
 mode.
       </answer>
     </entry>
-    <entry id="111">
+    <entry source="Wave 2 and 3 FAQ" id="111">
       <question>
              Most of the time, characters are KO’d on their opponent’s turn. If that happens to my Battle
 Master, can I still play the upgrade?
@@ -53,7 +53,7 @@ Master, can I still play the upgrade?
              Yes. This may cause some abilities to trigger that normally don’t during your opponent’s turn.
       </answer>
     </entry>
-    <entry id="112">
+    <entry source="Wave 2 and 3 FAQ" id="112">
       <question>
              When I play the Battle Master in upgrade mode, does it count as my upgrade play for the
 turn?
@@ -66,7 +66,7 @@ attack. Playing the upgrade mode in those situations doesn’t stop you from the
 upgrade from your hand before you attack.
       </answer>
     </entry>
-    <entry id="113">
+    <entry source="Wave 2 and 3 FAQ" id="113">
       <question>
              What happens if the Battle Master upgrade would leave the battlefield?
         </question>
@@ -76,15 +76,15 @@ happen if the upgrade would be returned to your hand, returned to your deck, dir
 scrapped, or if the character that had it is KO’d.
       </answer>
     </entry>
-  <entry id="152" mode="alt">
+  <entry source="Wave 2 and 3 FAQ" id="152" mode="alt">
       <question>Do I count Battle Masters in my KO area?</question>
       <answer>Battle Masters in your KO area will be in their upgrade mode, either because they were played and subsequently left the battlefield or because you didn’t play the upgrade after the character was KO’d. This means they won’t be characters in the KO area and won’t add to Private Sideswipe’s bonus.</answer>
     </entry>
-  <entry id="160">
+  <entry source="Wave 2 and 3 FAQ" id="160">
       <question>Sergeant Cog is a Weaponizer. That sounds awesome! What’s a Weaponizer?</question>
       <answer>All the rules that apply to Battle Masters also apply to Weaponizers. Sergeant Cog represents more advanced weaponry. Sergeant Cog’s card is the same size as most characters.</answer>
     </entry>
-    <entry id="8" tags="Battle Master,Weaponizer">
+    <entry source="Wave 4 FAQ" id="8" tags="Battle Master,Weaponizer">
         <question>
              What are Battle Masters &amp; Weaponizers?
         </question>
@@ -94,7 +94,7 @@ In Siege 2 (Wave 4), there are two Weaponizers, each made up of two cards. They 
 After a Battle Master or Weaponizer Upgrade would leave the battlefield, it’s put into your KO area instead.
         </answer>
     </entry>
-    <entry id="4-14">
+    <entry source="Rules Roundup 2019-08-23" id="4-14">
       <question>
 I have a character with a weapon and Spare Parts. My opponent hits me with Disarm or Debilitating Crystal. Is the weapon returned to my hand or does Spare Parts get scrapped, or returned to my hand instead?
         </question>
@@ -103,7 +103,7 @@ Same scenario, but my weapon is a Battle Master/Weaponizer.
 In both scenarios, Spare Parts does not protect your weapon. A Battle Master or Weaponizer in weapon mode would go to KO rather than to your hand.
         </answer>
     </entry>
-  <entry id="510-1">
+  <entry source="Rules Roundup 2019-05-10" id="510-1">
       <question>
 Can you use I Still Function to replay a Battle Master?
       </question>
@@ -111,7 +111,7 @@ Can you use I Still Function to replay a Battle Master?
 Hard no.
       </answer>
     </entry>
-    <entry id="502-7" tags="KO">
+    <entry source="Rules Roundup 2019-05-02" id="502-7" tags="KO">
       <question>
 When KO’d, a Battle Master comes back as a weapon. Then once it gets destroyed, it goes into the KO area. My question is, can you flip it back to bot mode in the KO area after it falls off?
       </question>
@@ -119,7 +119,7 @@ When KO’d, a Battle Master comes back as a weapon. Then once it gets destroyed
 No. You may only flip characters in the KO area using your normal once-per-turn flip.
       </answer>
     </entry>
-    <entry id="10-21">
+    <entry source="Rules Roundup 2019-11-22" id="10-21">
       <question>
 Does an Autobot Battle Master in upgrade mode on a character still count as an Autobot on the battlefield when putting cards on your KO area for Daring Escape?
         </question>
@@ -127,7 +127,7 @@ Does an Autobot Battle Master in upgrade mode on a character still count as an A
 No. Daring Escape only counts Autobot characters.
       </answer>
     </entry>
-    <entry id="1-10" tags="Battle Master">
+    <entry source="Rules Roundup 2019-07-12" id="1-10" tags="Battle Master">
       <question>
 Do you have to attach the Battle Master's Upgrade side? My Wife pulled 2 Lionizers in Turbo Sealed but pull no Orange. When I KO'd Lionizer, would she be forced to scrap EM24 IR Laser Launcher, or could she choose not to attach Lionizer?
 </question>
@@ -135,7 +135,7 @@ Do you have to attach the Battle Master's Upgrade side? My Wife pulled 2 Lionize
 Yes, you must attach the Battle Master’s Upgrade side. When you attach the Battle Master, you must scrap the older upgrade; in this case, EM24 IR Laser Launcher.
 </answer>
     </entry>
-    <entry id="1-22">
+    <entry source="Rules Roundup 2019-07-12" id="1-22">
       <question>
 If I were to have any Battle Master in upgrade form attached to a character ,and my opponent plays Raider Ion Storm’s ability of “when this attacks return the defender’s upgrade to its owner’s hand,” what happens to the Battle Masters? If they leave the battlefield, do they go to the KO area?
 </question>
@@ -143,7 +143,7 @@ If I were to have any Battle Master in upgrade form attached to a character ,and
 Yes. They go to the KO area.
 </answer>
     </entry>
-    <entry id="3-10" tags="Battle Master,Weaponizer,KO,Tie-Break">
+    <entry source="Rules Roundup 2019-08-09" id="3-10" tags="Battle Master,Weaponizer,KO,Tie-Break">
       <question>
 If a Battle Master or Weaponizer is in the KO Pile, and the match runs to time and damage on all characters is assessed, should they count their damage for that total, or are they simply an upgrade with no damage on them?
 </question>
@@ -153,7 +153,7 @@ They are an upgrade with no damage on them.
           <tftcg-note>This FAQ item refers to a form of tie-breaker from November 2019 tournament rules prior to November 2019. It is no longer relevant. </tftcg-note>
 </answer>
     </entry>
-    <entry id="3-11">
+    <entry source="Rules Roundup 2019-08-09" id="3-11">
       <question>
 If I KO my opponent’s Battle Master and it has a Dismantling Claw on it, and it scraps my Dismantling Claw, I think my Dismantling Claw would therefore scrap the newly applied Battle Master due to he is now a weapon on my opponents bot. Is that correct?
 </question>
@@ -161,7 +161,7 @@ If I KO my opponent’s Battle Master and it has a Dismantling Claw on it, and i
 That is correct.
 </answer>
     </entry>
-    <entry id="3-17" tags="Battle Master,Cornered!">
+    <entry source="Rules Roundup 2019-08-09" id="3-17" tags="Battle Master,Cornered!">
       <question>
 Would Cornered work on a Battle Master causing it to flip to its upgrade side? If yes, what would happen to the upgrade?
 </question>
@@ -169,7 +169,7 @@ Would Cornered work on a Battle Master causing it to flip to its upgrade side? I
 No, you can’t flip a Battle Master while it’s on the battlefield.
 </answer>
     </entry>
-    <entry id="412-14" tags="Battle Master,KO">
+    <entry source="Rules Roundup 2019-04-12" id="412-14" tags="Battle Master,KO">
       <question>
 Regarding when Battle Masters go to the KO area when they're removed from the battlefield in upgrade mode: Do they switch to bot mode when they go there or do they stay in upgrade mode? And if they do stay in upgrade mode, how does this interact with Emergency Maintenance?
       </question>
@@ -177,7 +177,7 @@ Regarding when Battle Masters go to the KO area when they're removed from the ba
 They stay on their Upgrade side and it does not interact with Emergency Maintenance because upgrades are not counted as characters.
       </answer>
     </entry>
-    <entry id="412-18" tags="Battle Master,KO">
+    <entry source="Rules Roundup 2019-04-12" id="412-18" tags="Battle Master,KO">
       <question>
 So, when a Battle Master is KO'd, does it count as a KO since they are technically not sent to the KO pile? Or is the instance of "KO" simply contingent on reaching your HP total?
       </question>
@@ -185,7 +185,7 @@ So, when a Battle Master is KO'd, does it count as a KO since they are technical
 It is a KO and they go to the KO Area, before flipping to its Upgrade side.
       </answer>
     </entry>
-    <entry id="412-19" tags="Battle Master,KO,Wheeljack - Weapons Inventor">
+    <entry source="Rules Roundup 2019-04-12" id="412-19" tags="Battle Master,KO,Wheeljack - Weapons Inventor">
       <question>
 Speaking of when a Battle Master is KO'd, it states that you "play" the Upgrade side. Does that mean that you are technically Upgrading a character triggering effects like Wheeljack's alt mode? Furthermore--and I think I know the answer to this question--does this "play" take up the Upgrade for a turn?
       </question>
@@ -193,7 +193,7 @@ Speaking of when a Battle Master is KO'd, it states that you "play" the Upgrade 
 Playing the Upgrade side of a Battle Master is just like playing an Upgrade from anywhere else. Wheeljack’s ability will trigger. As you probably know, this does not count as the one upgrade for your turn.
       </answer>
     </entry>
-    <entry id="607-15">
+    <entry source="Rules Roundup 2019-06-07" id="607-15">
       <question>
 Why is it you cannot increase a character’s attack with a reattached Battle Master during an attack, but you can increase Optimus Prime - Battlefield Legend’s attack if you flip an action like Leap into Battle? How is this any different to using OPBL’s skill to play Quartermaster and attaching a battle masters upgrade form before defense flips?
       </question>
@@ -201,7 +201,7 @@ Why is it you cannot increase a character’s attack with a reattached Battle Ma
 You can use Quartermaster to attach a KO’d Battle Master to OPBL. If OPBL’s ability results in a weapon being attached to him (for example via Quartermaster), the attack bonus of that weapon will apply because you haven’t counted attack yet. However, if the weapon gives the character bold, bold will have no affect because you’ve already flipped battle cards.
       </answer>
     </entry>
-    <entry id="2-17" tags="Battle Master">
+    <entry source="Rules Roundup 2019-07-29" id="2-17" tags="Battle Master">
       <question>
 Do Battle Masters in Upgrade mode count towards Stars in the KO area for Emergency Maintenance?
 </question>
@@ -209,7 +209,7 @@ Do Battle Masters in Upgrade mode count towards Stars in the KO area for Emergen
 No. When in Upgrade mode, Battle Masters do not count as characters, so they would not be counted by Emergency Maintenance on the battlefield or in the KO area.
 </answer>
     </entry>
-    <entry id="2-27">
+    <entry source="Rules Roundup 2019-07-29" id="2-27">
       <question>
 In the FAQ it says that Sergeant Cog, as a Weaponizer, interacts with cards in the same manner as a Battle Master. The battle card Quartermaster specifies recalling a KO'd Battle Master in weapon mode. Will this be able to target Heavy Force Defensebreaker Cannon in the KO pile the same way it would target a Battle Master?
 </question>
@@ -217,7 +217,7 @@ In the FAQ it says that Sergeant Cog, as a Weaponizer, interacts with cards in t
 No, it is a Weaponizer and not a Battle Master.
 </answer>
     </entry>
-    <entry id="2-35" tags="Battle Master,I Still Function!">
+    <entry source="Rules Roundup 2019-07-29" id="2-35" tags="Battle Master,I Still Function!">
       <question>
 Once a Battle Master is in the KO pile does it still count as a character while in it's upgrade mode? Can I bring it back to the field with ISF? Is it forced back into bot mode to take the damage if it can? If not does it automatically equip? if it can equip, is it forced to ko pile at the end of the turn?
 </question>
@@ -225,7 +225,7 @@ Once a Battle Master is in the KO pile does it still count as a character while 
 No, no, not applicable, not applicable, not applicable.
 </answer>
     </entry>
-    <entry id="9-5" tags="Battle Master">
+    <entry source="Rules Roundup 2019-11-08" id="9-5" tags="Battle Master">
       <question>
 Can I KO a Battle Master with Involuntary Promotion if I have no bots in my KO area?
         </question>

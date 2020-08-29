@@ -1,4 +1,4 @@
-<faq><target name="Swap Missions"><entry id="114">
+<faq><target name="Swap Missions"><entry source="Wave 1 FAQ" id="114">
       <question>
     What happens if all my characters are tapped when I play Swap Missions?
 </question>
@@ -6,7 +6,7 @@
     First you’ll untap one of your characters. Then, because that will be your only untapped character, you’ll immediately tap it.
 </answer>
     </entry>
-    <entry id="115">
+    <entry source="Wave 1 FAQ" id="115">
       <question>
     What happens if all my characters are untapped when I play Swap Missions?
 </question>
@@ -14,7 +14,7 @@
     Playing Swap Missions in this case is probably a bad idea. Because all your characters are already untapped, you can’t untap any of them. Then you’ll tap one of them.
 </answer>
     </entry>
-  <entry id="510-1">
+  <entry source="Rules Roundup 2019-05-10" id="510-1">
       <question>
 If I have a Micromaster in Bot mode, and I use an action that taps it, such as Inferno Breath or Swap Missions, will tapping it with one of those actions let me activate the Micromaster's Tap ability?
       </question>
@@ -22,7 +22,7 @@ If I have a Micromaster in Bot mode, and I use an action that taps it, such as I
 No. Those are mutually exclusive. Tap abilities on Micro Masters are costs for triggering their abilities, so other in-game actions do not allow you to use that ability.
       </answer>
     </entry>
-    <entry id="422-1">
+    <entry source="Rules Roundup 2019-04-22" id="422-1">
       <question>
 I have Optimus Prime - Battlefield Legend and an untapped partner bot on my side. I attack with Optimus in bot mode. One of his flips is Swap Missions. If I elect to play Swap Missions, Optimus untaps and my 2nd bot taps. What happens next? I argued Optimus was still the attacker even though he is untapped, so combat with him should proceed. My opponent argued the other bot was now the attacker since only a tapped bot can attack (since the two "swapped" missions), then utilizes the earlier flip's battle icons.
       </question>
@@ -30,7 +30,7 @@ I have Optimus Prime - Battlefield Legend and an untapped partner bot on my side
 The first suggestion is correct in this scenario.
       </answer>
     </entry>
-    <entry id="2-8">
+    <entry source="Rules Roundup 2019-07-29" id="2-8">
       <question>
 If I use Swap Missions to untap a tapper character and then tap an untapped character, and that same untapped character has a tap ability – does Swap Missions trigger that tapped ability?
 </question>

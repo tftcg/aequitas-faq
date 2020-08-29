@@ -1,4 +1,4 @@
-<faq><target name="Battlefield Scan"><entry id="171">
+<faq><target name="Battlefield Scan"><entry source="Wave 2 and 3 FAQ" id="171">
       <question>What does it mean that a character can’t use brave or stealth?</question>
       <answer>Basically, just ignore that the character has that ability when determining which character you’re attacking.</answer>
     </entry>

@@ -1,4 +1,4 @@
-<faq><target name="Outside the Game"><entry id="20">
+<faq><target name="Outside the Game"><entry source="Tournament FAQ" id="20">
           <question>
  What does a 'Character card from outside the game' mean?
           </question>
@@ -10,7 +10,7 @@ Character cards from outside the game must be legal within the event format.
           </answer>
       </entry>
 
-      <entry id="21">
+      <entry source="Tournament FAQ" id="21">
           <question>
 What does a 'Battle card from outside the game' mean?
           </question>

@@ -1,4 +1,4 @@
-<faq><target name="Backfire"><entry id="40">
+<faq><target name="Backfire"><entry source="Wave 4 FAQ" id="40">
       <question>If the damage done by Backfire is enough to KO the attacker, does the attacker still do attack damage?</question>
       <answer>No. You reveal Backfire before battle cards are flipped. In fact, if Backfire KO’s the attacker, the attack will end and no one flips battle cards.</answer>
     </entry>

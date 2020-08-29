@@ -1,4 +1,4 @@
-<faq><target name="Metroplex - Autobot City"><entry id="502-8" tags="Metroplex - Autobot City,Slammer - Combat Drone">
+<faq><target name="Metroplex - Autobot City"><entry source="Rules Roundup 2019-05-02" id="502-8" tags="Metroplex - Autobot City,Slammer - Combat Drone">
       <question>
 I'm playing a game of Stunticons vs. Metroplex.
 Turn 1, Metroplex Flips and Attacks.
@@ -9,7 +9,7 @@ Does Turn 2 end now or does the Stunticon player get to keep attacking since the
 After each attack concludes, the game checks to see if the opponent has any untapped characters. In this scenario, Slammer is there, so the Stunticon player does not get to keep attacking.
       </answer>
     </entry>
-    <entry id="412-15" tags="Metroplex - Autobot City,Menasor - Menacing Colossus">
+    <entry source="Rules Roundup 2019-04-12" id="412-15" tags="Metroplex - Autobot City,Menasor - Menacing Colossus">
       <question>
 I am playing with Metroplex, and I have Backup Beam and Debilitating Crystal attached to him. My opponent has Menasor equipped with Stunticon Swagger. It is my turn, and I play Height Advantage to get the extra bold 4 to try and activate Metroplex's triggered ability from card flipping. As I declare him as the attacker, and Menasor as the defender, Debilitating Crystal activates. I choose to bounce Swagger to my opponent's hand. Does my bold then become active because the effect of Swagger is no longer active? Am I allowed to use the bold from the upgrade and the action now?
       </question>
@@ -17,7 +17,7 @@ I am playing with Metroplex, and I have Backup Beam and Debilitating Crystal att
 Yes. Both bold effects would apply in this scenario. Stunticon Swagger does not stop a character from getting bold prior to the attack.
       </answer>
     </entry>
-    <entry id="211-11" tags="Grimlock - Dinobot Leader,Metroplex - Autobot City,Scamper - City Patrol">
+    <entry source="Rules Roundup 2019-02-11" id="211-11" tags="Grimlock - Dinobot Leader,Metroplex - Autobot City,Scamper - City Patrol">
       <question>
 So the board is 1 Grimlock on Player 1’s side and a Metroplex and Scamper on Player 2’s side. Player 1 attacks Metroplex since Scamper is untapped and unable to be targeted. Then Grimlock gets enough attack to kill both characters with skill since Metroplex is heavily damaged and Scamper has low defense and life. So, since the Grimlock attacked Metroplex while Scamper had Heroism, I assume that since Heroism only changes where the damage goes and not the actual attack that the damage a character takes through the effect of Heroism is effect damage and not battle damage. I want to know the ruling because if the damage IS battle damage then Grimlock’s skill does trigger and Player 2 loses, since Scamper would die as the rollover would kill Metroplex but if it is effect damage, then Grimlock’s skill wouldn't trigger and only Scamper would be KO’d.
       </question>
@@ -25,7 +25,7 @@ So the board is 1 Grimlock on Player 1’s side and a Metroplex and Scamper on P
 The damage redirected by Heroism is still attack damage. So Scamper would take enough to get KO’d and then Grimlock’s ability would trigger and the defender would have to assign the extra damage to Metroplex.
       </answer>
     </entry>
-    <entry id="211-19" tags="Insecticon Skrapnel - Insecticon Leader,Metroplex - Autobot City">
+    <entry source="Rules Roundup 2019-02-11" id="211-19" tags="Insecticon Skrapnel - Insecticon Leader,Metroplex - Autobot City">
       <question>
 Can you also go into more depth about the rulings for Megatron - Living Weapon and Insecticon Skrapnel? I found it very confusing that MLW can swap a Weapon in his Armor Slot via Swap Parts and that Skrapnel treats Metroplex's 1 Damage to all Opponents as Attack Damage.
       </question>
@@ -33,7 +33,7 @@ Can you also go into more depth about the rulings for Megatron - Living Weapon a
 The Skrapnel ruling has been corrected. The 1 damage to all opponents is not attack damage. The Megatron question is a little ambiguous. If you play Swap parts on a Megatron with a weapon in his armor slot, you can move it to another character and put it into their weapon slot. If Megatron had two weapons, you would have to choose which one the other character kept. If you are swapping a weapon from the other character to Megatron in bot mode, you can put it into any of his slots. If you are swapping a weapon and armor from another character to Megatron, Living Weapon in bot-mode, the legal assignments are (Weapon in the weapon slot, armor in the armor slot; Weapon in the utility slot, armor in the armor slot; weapon in the armor slot, armor also in the armor slot, then one of them gets scrapped).
       </answer>
     </entry>
-  <entry id="228-14" tags="Metroplex - Autobot City,Slammer - Combat Drone">
+  <entry source="Rules Roundup 2019-02-28" id="228-14" tags="Metroplex - Autobot City,Slammer - Combat Drone">
       <question>
 How does Protected by Metroplex function in situations where damage is being dealt to multiple bots simultaneously?  Let's say I have Metroplex and Slammer out, both are at 1 HP, and Slammer is equipped with Protected by Metroplex. It's the opponent’s turn and he plays Strafing Run as his action before combat, which deals 1 damage to both Metroplex and Slammer simultaneously. Is the 1 damage to Slammer moved over to Metroplex before he *dies* from the 1 damage he is already receiving?
       </question>
@@ -41,7 +41,7 @@ How does Protected by Metroplex function in situations where damage is being dea
 All damage done by Strafing Run will be done simultaneously, no matter where that damage ends up. Metroplex would end up taking 2 damage and then be KO’d in this scenario. Slammer would live on, driven by vengeance.
       </answer>
     </entry>
-    <entry id="2-23" tags="Metroplex - Autobot City,Six-Gun - Heavy Weapon Expert">
+    <entry source="Rules Roundup 2019-07-29" id="2-23" tags="Metroplex - Autobot City,Six-Gun - Heavy Weapon Expert">
       <question>
 My friends and I played a game where Metroplex had Six-Gun deployed in alt mode. The defending player had a tapped character with 1 health left and an untapped, undamaged character. Metroplex converted into bot mode and attacked the character, and Six-Gun's ability KO’d the defending character. Does Metroplex still flip battle cards to see if it can use the bot mode ability or does the death of the tapped character mean the attack stops?
 </question>
@@ -49,7 +49,7 @@ My friends and I played a game where Metroplex had Six-Gun deployed in alt mode.
 No, Metroplex does not flip battle cards in this scenario.
 </answer>
     </entry>
-    <entry id="2-30" tags="Metroplex - Autobot City">
+    <entry source="Rules Roundup 2019-07-29" id="2-30" tags="Metroplex - Autobot City">
       <question>
 Can a 13-star character be put in the sideboard for a Metroplex deck and still fight with Metro's friends, swapping Metroplex out?
 </question>
@@ -57,7 +57,7 @@ Can a 13-star character be put in the sideboard for a Metroplex deck and still f
 You can have a 13-star character in your sideboard. However, Metroplex’s 3 component bots enter the game only if Metroplex is your starting character. This means you could play the next game with only the 13-star character as your team, but this sounds unwise.
 </answer>
     </entry>
-    <entry id="9-16" tags="Metroplex - Autobot City,Trypticon - Assault Base">
+    <entry source="Rules Roundup 2019-11-08" id="9-16" tags="Metroplex - Autobot City,Trypticon - Assault Base">
       <question>
 If I’m playing Metroplex and I get KO’d in round one, can I sideboard in Trypticon?
         </question>

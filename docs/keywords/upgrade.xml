@@ -1,4 +1,4 @@
-<faq><target name="Upgrade"><entry id="9">
+<faq><target name="Upgrade"><entry source="Wave 1 FAQ" id="9">
         <question>
              Can I have more than one of the same Upgrade on the battlefield?
         </question>
@@ -7,7 +7,7 @@
 example.
     </answer>
     </entry>
-      <entry id="10">
+      <entry source="Wave 1 FAQ" id="10">
         <question>
              Some Upgrades say "Put on [something] only." How does that work?
         </question>
@@ -17,7 +17,7 @@ as Melee, Plane, or Insecticon. An Upgrade can be put on a character only if tha
 listed requirement.
     </answer>
     </entry>
-      <entry id="11">
+      <entry source="Wave 1 FAQ" id="11">
         <question>
              Let’s say I have an Upgrade that says "Put on Planes only" and I put it on a Plane. But then next turn I
 flip the Plane to its other mode, and it’s no longer a Plane. What happens?

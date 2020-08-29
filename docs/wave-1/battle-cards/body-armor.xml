@@ -1,4 +1,4 @@
-<faq><target name="Body Armor"><entry id="5-6">
+<faq><target name="Body Armor"><entry source="Rules Roundup 2019-09-06" id="5-6">
       <question>
 Apologies if this has been asked before but have a question about type-specific upgrades like Power Sword and Body Armor - These cards specifically requiring Melee characters.
 If a character changes type - what happens to the upgrade?
@@ -7,7 +7,7 @@ If a character changes type - what happens to the upgrade?
 Traits, like Melee, are only requirements for upgrades to be attached to a character. Once attached, they stay on when a character flips between alt and bot modes.
 </answer>
     </entry>
-    <entry id="412-4">
+    <entry source="Rules Roundup 2019-04-12" id="412-4">
       <question>
 Say Optimus Prime - Battlefield Legend attack a character with a Body Armor equipped, during the attack, Vaporize is revealed as attacking, and I choose to use the Vaporize on the Body Armor, does the defender still have tough 3?
       </question>

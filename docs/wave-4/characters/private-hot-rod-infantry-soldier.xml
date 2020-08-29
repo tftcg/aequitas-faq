@@ -1,8 +1,8 @@
-<faq><target name="Private Hot Rod - Infantry - Soldier"><entry id="26" mode="alt">
+<faq><target name="Private Hot Rod - Infantry - Soldier"><entry source="Wave 4 FAQ" id="26" mode="alt">
       <question>What does “reshuffle your deck” mean?</question>
       <answer>Reshuffling your deck is when you shuffle your scrap pile into your deck because your deck is empty. If you shuffle your deck for another reason, that’s not “reshuffling your deck.” That’s just shuffling your deck.</answer>
     </entry>
-    <entry id="27" mode="alt">
+    <entry source="Wave 4 FAQ" id="27" mode="alt">
       <question>Hot Rod’s ability puts a card from the bottom of my deck under himself. What does that mean?</question>
       <answer>The card under Hot Rod is basically out of play for a while. It’s not considered on the battlefield, even though that’s where it is physically, so none of its abilities apply. If it’s an Upgrade, that Upgrade isn’t on Hot Rod, and so on. It’s also not in your scrap pile, so it won’t be shuffled into your deck when it’s empty. The card is used by its bot mode ability.</answer>
     </entry>

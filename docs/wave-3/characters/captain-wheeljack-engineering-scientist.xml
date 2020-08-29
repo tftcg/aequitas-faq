@@ -1,12 +1,12 @@
-<faq><target name="Captain Wheeljack - Engineering - Scientist"><entry id="142" mode="alt">
+<faq><target name="Captain Wheeljack - Engineering - Scientist"><entry source="Wave 2 and 3 FAQ" id="142" mode="alt">
       <question>When do I use this ability?</question>
       <answer>You use it before the game begins. After you put the Brainstorm into your hand, you’ll shuffle the rest of your deck. Then you’ll draw the normal 3 cards at the start of the game. This means you’ll start the game with 4 cards in hand (Brainstorm plus the 3 you draw). You’ll still draw a card at the start of your first turn.</answer>
     </entry>
-    <entry id="143" mode="bot">
+    <entry source="Wave 2 and 3 FAQ" id="143" mode="bot">
       <question>Can this ability trigger more than once in a the same turn?</question>
       <answer>No. You play your third action in a turn only once.</answer>
     </entry>
-  <entry id="426-13" tags="Captain Wheeljack - Engineering - Scientist">
+  <entry source="Rules Roundup 2019-04-26" id="426-13" tags="Captain Wheeljack - Engineering - Scientist">
       <question>
 Does Captain Wheeljack's bot mode skill trigger if you play Special Ops Mission and then play 2 secret actions?
       </question>
@@ -14,7 +14,7 @@ Does Captain Wheeljack's bot mode skill trigger if you play Special Ops Mission 
 Sure does.
       </answer>
     </entry>
-    <entry id="2-49" tags="Captain Wheeljack - Engineering - Scientist">
+    <entry source="Rules Roundup 2019-07-29" id="2-49" tags="Captain Wheeljack - Engineering - Scientist">
       <question>
 I have a team of all Autobots, including Captain Wheeljack in bot mode. I play Brainstorm, and as the first action, play Confidence. Do I play my second action for Brainstorm now, or do I resolve Confidence first and play an action via Confidence? Either way, this will trigger Captain Wheeljack’s "When you play your third action" ability. Do I draw the card for that immediately, or do I wait until all the actions played via Confidence and Brainstorm have resolved?
 </question>

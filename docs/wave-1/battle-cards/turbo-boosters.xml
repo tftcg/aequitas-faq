@@ -1,4 +1,4 @@
-<faq><target name="Turbo Boosters"><entry id="126">
+<faq><target name="Turbo Boosters"><entry source="Wave 1 FAQ" id="126">
       <question>
     What happens if I put Turbo Booster on a character that’s already untapped?
 </question>
@@ -6,7 +6,7 @@
     Nothing much. It will get the +1 attack bonus, but the untap ability won’t do anything.
 </answer>
     </entry>
-  <entry id="5-4">
+  <entry source="Rules Roundup 2019-09-06" id="5-4">
       <question>
 I have Cliffjumper in Car mode with a Metal Detector.
 Cliffjumper attacks and taps.
@@ -17,7 +17,7 @@ Does Cliffjumper attack untapped?
 Yes, he does.
 </answer>
     </entry>
-    <entry id="322-8" tags="Wheeljack - Weapons Inventor">
+    <entry source="Rules Roundup 2019-03-22" id="322-8" tags="Wheeljack - Weapons Inventor">
       <question>
 Wheeljack is in car mode is equipped with the following: 
 Multi-Tool, Turbo Boosters, and Scrapper Gauntlets.

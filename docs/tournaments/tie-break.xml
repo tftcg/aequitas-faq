@@ -1,4 +1,4 @@
-<faq><target name="Tie-Break"><entry id="8">
+<faq><target name="Tie-Break"><entry source="Tournament FAQ" id="8">
           <question>
               What if each player wins the same number of games?
           </question>
@@ -12,7 +12,7 @@
               If the tiebreaker procedure can’t break the tie (for example, if all cards in all decks have exactly one white battle icon), flip a coin to determine the winner.
           </answer>
       </entry>
-      <entry id="9">
+      <entry source="Tournament FAQ" id="9">
           <question>
               What is the tie-breaker procedure if a player won in extra time?
           </question>
@@ -20,7 +20,7 @@
               If a player wins a game in extra time, bringing the match score to a tie, players present their teams and their decks (without sideboarding) as though they were about to start another game, and then resolve the tiebreaker procedure.
           </answer>
       </entry>
-  <entry id="3-10" tags="Battle Master,Weaponizer,KO,Tie-Break">
+  <entry source="Rules Roundup 2019-08-09" id="3-10" tags="Battle Master,Weaponizer,KO,Tie-Break">
       <question>
 If a Battle Master or Weaponizer is in the KO Pile, and the match runs to time and damage on all characters is assessed, should they count their damage for that total, or are they simply an upgrade with no damage on them?
 </question>

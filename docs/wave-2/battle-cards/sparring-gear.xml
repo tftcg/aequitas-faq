@@ -1,4 +1,4 @@
-<faq><target name="Sparring Gear"><entry id="10-33">
+<faq><target name="Sparring Gear"><entry source="Rules Roundup 2019-11-22" id="10-33">
       <question>
 My question is about the interaction of Debilitating Crystal and the new Expanded Rules document. If my attacker has a Debilitating Crystal, and the Defender has a Gyro Blaster I wish to return, I believe the Gyro Blaster would still limit each character to 2 flips this battle. Is this correct? I know a previous Rules Roundup clarified that a Security Console would still Draw and Plan even if a Debilitating Crystal returned it. Is this also the case with a Sparring Gear I wish to return? Do they still have Tough 2 this battle?
         </question>
@@ -6,7 +6,7 @@ My question is about the interaction of Debilitating Crystal and the new Expande
 Expanded Rules point 8.5 indicates the Gyro Blaster is returned before flips are determined, so it will not affect them. Likewise, Sparring Gear will no longer grant Tough 2 when flips are determined.
       </answer>
     </entry>
-    <entry id="528-8" tags="General Megatron - Infantry - Leader">
+    <entry source="Rules Roundup 2019-05-28" id="528-8" tags="General Megatron - Infantry - Leader">
       <question>
 If I start my turn with 3 Attack Drones and a Sparring Gear on General Megatron, does that count as 4 Upgrades (Meaning each Attack Drone counts, and therefore trigger his ability), or only 2, since only 2 slots are filled?
       </question>

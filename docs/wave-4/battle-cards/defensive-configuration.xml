@@ -1,8 +1,8 @@
-<faq><target name="Defensive Configuration"><entry id="52">
+<faq><target name="Defensive Configuration"><entry source="Wave 4 FAQ" id="52">
       <question>Say the upgraded character has 2 Armors and Defensive Configuration is scrapped. What happens?</question>
       <answer>In most cases, this means the character won’t have enough Armor slots to keep both Armors. If it’s your character, you choose which one the character keeps. The other one is scrapped.</answer>
     </entry>
-  <entry id="10-24">
+  <entry source="Rules Roundup 2019-11-22" id="10-24">
       <question>
 Let's say I've got an Armor on one of my characters as well as Defensive Configuration, giving me an extra empty Armor slot. I then play Hunker Down which checks to see if I have an Armor or not. Since Configuration will be giving me an empty Armor slot, would I be able to put an Armor on my character through Hunker, or will it not work since I do still have an Armor in the 1st Armor slot?
         </question>

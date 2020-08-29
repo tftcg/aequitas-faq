@@ -1,4 +1,4 @@
-<faq><target name="Aerial Recon"><entry id="71">
+<faq><target name="Aerial Recon"><entry source="Wave 1 FAQ" id="71">
       <question>
     If I don’t scrap the card I look at, what do I do with it?
 </question>
@@ -6,7 +6,7 @@
     Just put it back on top of your deck.
 </answer>
     </entry>
-  <entry id="218-20" tags="Dreadwing - Sky Destroyer">
+  <entry source="Rules Roundup 2019-02-18" id="218-20" tags="Dreadwing - Sky Destroyer">
       <question>
 What happens if you have 2 Aerial Recons on Dreadwing? Do you scrap the top card or not?
       </question>

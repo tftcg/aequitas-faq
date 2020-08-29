@@ -187,10 +187,12 @@ def generate_leaf(tag_node, faq_db, output_dir, leaf_template, hyperlinker, pare
         # then generate an xml version
         xmlname = re.sub(r'.html', '.xml', filename)
         f = open(xmlname, 'w')
-        f.write('<faq><target name="' + re.sub(r' & ', ' &amp; ', leaf_name) + '">')
+        escaped_leaf_name = re.sub(r' & ', ' &amp; ', leaf_name)
+        f.write('<faq><target name="' + escaped_leaf_name + '">')
         for entry in found_entries:
             # [source_name, source_url, entry_node, faqfile, hyperlinks]
             txt = ET.tostring(entry[2], encoding="unicode")
+            txt = re.sub(r'<entry ', '<entry source="' + entry[0] + '" ', txt)
             f.write(re.sub(r' & ', ' &amp; ', txt))
 
         f.write("</target></faq>")

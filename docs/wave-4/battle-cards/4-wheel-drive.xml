@@ -1,8 +1,8 @@
-<faq><target name="4-Wheel Drive"><entry id="38">
+<faq><target name="4-Wheel Drive"><entry source="Wave 4 FAQ" id="38">
       <question>If I play this on a Truck, and later in the turn it flips so it’s no longer a Truck, what happens to its attack?</question>
       <answer>If the character stops being a Truck, 4-Wheel Drive stops applying, and its base attack will revert to whatever is printed on the card.</answer>
     </entry>
-    <entry id="39">
+    <entry source="Wave 4 FAQ" id="39">
       <question>How do other attack bonuses work with 4-Wheel Drive?</question>
       <answer>Changing a character’s base attack is just like changing the number that’s printed on the card. From there, all other bonuses apply as normal. For example, if you have a Truck with 3 attack upgraded with Indestructible Sword (that gives it +2 attack), its attack will be 9 (7 from 4-Wheel Drive +2 from the upgrade). If it stops being a Truck that turn, its attack will be 5 (base 3 attack +2 from the upgrade).</answer>
     </entry>

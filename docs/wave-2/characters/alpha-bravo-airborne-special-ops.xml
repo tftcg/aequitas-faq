@@ -1,8 +1,8 @@
-<faq><target name="Alpha Bravo - Airborne Special Ops"><entry id="16" mode="alt">
+<faq><target name="Alpha Bravo - Airborne Special Ops"><entry source="Wave 2 and 3 FAQ" id="16" mode="alt">
       <question>What happens if the 1 damage is enough to KO the attacking Plane?</question>
       <answer>Well, it doesn’t sound like it was a great attack for your opponent. No battle cards will be flipped, and the attack will end.</answer>
     </entry>
-  <entry id="315-3" tags="Alpha Bravo - Airborne Special Ops,Superion - Sky Protector">
+  <entry source="Rules Roundup 2019-03-15" id="315-3" tags="Alpha Bravo - Airborne Special Ops,Superion - Sky Protector">
       <question>
 I’ve heard that a Combiner can keep the skills of the characters its used to combine. Is this true? E.G. Alpha Bravo can give pierce 3, does Superion also get pierce 3?
       </question>
@@ -10,7 +10,7 @@ I’ve heard that a Combiner can keep the skills of the characters its used to c
 This would not apply to Alpha Bravo, as he has a static ability of pierce 3. However, any effects effecting one of the Combiner pieces will continue to affect the character once they are in Combiner mode for the duration of that affect.
       </answer>
     </entry>
-    <entry id="426-11" tags="Slipstream - Strategic Seeker,Alpha Bravo - Airborne Special Ops">
+    <entry source="Rules Roundup 2019-04-26" id="426-11" tags="Slipstream - Strategic Seeker,Alpha Bravo - Airborne Special Ops">
       <question>
 If I attack with Slipstream in alt mode with no damage, and my opponent has an Alpha Bravo in alt mode, is Slipstream able to fling the damage Alpha Bravo or does she miss her window to activate because she had no damage at the time the attack was declared? Also, if both characters had 1 health remaining, which effect would proc first? And would Alpha Bravo be able to resolve if Slipstream's ability KO's him?
       </question>

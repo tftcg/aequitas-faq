@@ -1,4 +1,4 @@
-<faq><target name="Optimus Prime - Battlefield Legend"><entry id="57" mode="bot">
+<faq><target name="Optimus Prime - Battlefield Legend"><entry source="Wave 1 FAQ" id="57" mode="bot">
       <question>
     If I flip a white battle icon, do I flip the extra cards before using Optimus Prime’s ability?
 </question>
@@ -7,7 +7,7 @@
 from white battle icons.
 </answer>
     </entry>
-    <entry id="58" mode="bot">
+    <entry source="Wave 1 FAQ" id="58" mode="bot">
       <question>
     If I play one of the Actions I flip, do I still count its orange battle icons?
 </question>
@@ -15,7 +15,7 @@ from white battle icons.
     Yes. The Action card was still flipped for the attack, so its orange battle icons will still count.
 </answer>
     </entry>
-    <entry id="59" mode="bot">
+    <entry source="Wave 1 FAQ" id="59" mode="bot">
       <question>
     If the Action I play gives Optimus Prime Bold, can I flip more battle cards?
 </question>
@@ -23,7 +23,7 @@ from white battle icons.
     No. You’ve already flipped cards for that attack.
 </answer>
     </entry>
-  <entry id="6-1">
+  <entry source="Rules Roundup 2019-09-20" id="6-1">
       <question>
 The opponent had an Optimus Prime - Battlefield Legend with an Anticipation Engine and attacked my Ramhorn. I had a Force Field in hand and was ready to play my white armor, when he flipped a Security Checkpoint with Anticipation Engine. Do I still get to play the Force Field in this situation or does the Checkpoint get rid of the Force Field before I play it?
         </question>
@@ -31,7 +31,7 @@ The opponent had an Optimus Prime - Battlefield Legend with an Anticipation Engi
 Because attack triggers will resolve before defense triggers, in this scenario Security Checkpoint will get rid of your Force Field before you can play it.
       </answer>
     </entry>
-    <entry id="315-12">
+    <entry source="Rules Roundup 2019-03-15" id="315-12">
       <question>
 What happens if I attack with Optimus Prime - Battlefield Legend in alt mode with Power Punch attached, and I hit a Swap Parts and move the Power Punch to a new bot. What happens to the Power Punch? Also, what about a card like Erratic Lightning? if I move it on Optimus with Swap Parts would his attack bonus stay the same?
       </question>
@@ -39,7 +39,7 @@ What happens if I attack with Optimus Prime - Battlefield Legend in alt mode wit
 Power Punch stays on the other character. Erratic Lightning gives Optimus +3 attack.
       </answer>
     </entry>
-    <entry id="4-2">
+    <entry source="Rules Roundup 2019-08-23" id="4-2">
       <question>
 I have a ruling question about Optimus Prime - Battlefield Legend. If I my attack checks an action like Pep Talk, when do I activate the effect? Immediately (I draw 2 cards, then continue the check) or after resolution? (continue the checks, then draw two cards). On a similar note. If I decide to use an action with an orange or white pip, am I still able to keep the pip effect, or does that vanish with the card?
         </question>
@@ -47,7 +47,7 @@ I have a ruling question about Optimus Prime - Battlefield Legend. If I my attac
 First, you attack with OPBL, then you flip the Battle Cards (including any Bold). If you flip a white battle icon, you flip two more Battle Cards. Then, you check if you have flipped an Action. You can play one of the actions. You will still get plus attack from the orange icons flipped on that Action.
 </answer>
     </entry>
-    <entry id="510-1">
+    <entry source="Rules Roundup 2019-05-10" id="510-1">
       <question>
 If I attack with either Optimus Prime - Battlefield Legend or Alpha Trion and flip an EMP Wave for Attack flips and choose to play it, after it taps all characters in play does the attack still take place?
       </question>
@@ -55,7 +55,7 @@ If I attack with either Optimus Prime - Battlefield Legend or Alpha Trion and fl
 “Yes. That’s a really good idea.” - Ken Nagle, Transformers TCG Design Lead.
       </answer>
     </entry>
-    <entry id="510-1">
+    <entry source="Rules Roundup 2019-05-10" id="510-1">
       <question>
 When attacking with Optimus Prime - Battlefield Legend we know you can't play Supercharge from your attack flip, but what if you play Leap of Faith and scrap Supercharge?
       </question>
@@ -64,7 +64,7 @@ You CAN play Supercharge off of OPBL (or via Leap of Faith), but it probably won
 However, if the character you give Bold 3 to gets to attack later in the same turn, that Bold 3 will be in effect.
       </answer>
     </entry>
-    <entry id="510-1">
+    <entry source="Rules Roundup 2019-05-10" id="510-1">
       <question>
 If Optimus Prime - Battlefield Legend checks a secret action on attack can he set it?
       </question>
@@ -72,7 +72,7 @@ If Optimus Prime - Battlefield Legend checks a secret action on attack can he se
 Yes, although it won’t be much of a surprise to your opponent.
       </answer>
     </entry>
-  <entry id="502-6">
+  <entry source="Rules Roundup 2019-05-02" id="502-6">
       <question>
 If Optimus Prime - Battlefield Legend is at 13 damage counters and he attacks and flips into One Shall Stand One Shall Fall, and I assign 3 damage to him, causing him to KO, what happens to the ATK Damage? Or is there no attack and the turn ends? Does my opponent need to flip for defense? 
       </question>
@@ -80,7 +80,7 @@ If Optimus Prime - Battlefield Legend is at 13 damage counters and he attacks an
 In this scenario, the attack ends and you do not flip for defense.
       </answer>
     </entry>
-    <entry id="RR1-1">
+    <entry source="Rules Roundup 2019-RR-1" id="RR1-1">
       <question>
 If Optimus Prime - Battlefield Legend attacks in Bot Mode and you flip a New Designs, can it be used to put an upgrade on to one of my characters? Also is this the same if I flip a Brainstorm?
       </question>
@@ -88,7 +88,7 @@ If Optimus Prime - Battlefield Legend attacks in Bot Mode and you flip a New Des
 Yes to both!
       </answer>
     </entry>
-    <entry id="RR1-20" tags="Thrust - Supersonic Interceptor">
+    <entry source="Rules Roundup 2019-RR-1" id="RR1-20" tags="Thrust - Supersonic Interceptor">
       <question>
 Would Thrust grant +5 to Optimus Prime - Battlefield Legend if Rapid Conversion was played when using Prime’s bot mode ability.
       </question>
@@ -96,7 +96,7 @@ Would Thrust grant +5 to Optimus Prime - Battlefield Legend if Rapid Conversion 
 No. The amount of bonus granted by Thrust is granted at the time his ability is triggered and not modified afterwards.
       </answer>
     </entry>
-    <entry id="RR1-25">
+    <entry source="Rules Roundup 2019-RR-1" id="RR1-25">
       <question>
 Optimus Prime - Battlefield Legend flips Supercharge, would this result in additional Bold 3 if I played that from his ability?
       </question>
@@ -104,7 +104,7 @@ Optimus Prime - Battlefield Legend flips Supercharge, would this result in addit
 He would have Bold 3, but would not be allowed to flip additional cards.
       </answer>
     </entry>
-  <entry id="10-27" tags="Private Turbo Board - Air Command - Evac">
+  <entry source="Rules Roundup 2019-11-22" id="10-27" tags="Private Turbo Board - Air Command - Evac">
       <question>
 If you have Private Turbo Board defending against Optimus Prime - Battlefield Legend, after his opponent already played an Upgrade and an Action for their turn, and Optimus flips an Action, may he use it?
         </question>
@@ -112,7 +112,7 @@ If you have Private Turbo Board defending against Optimus Prime - Battlefield Le
 No.
       </answer>
     </entry>
-    <entry id="218-1">
+    <entry source="Rules Roundup 2019-02-18" id="218-1">
       <question>
 When Optimus Prime - Battlefield Legend returns a card from your scrap pile to your hand, does your opponent get to look at the card being returned? 
       </question>
@@ -120,7 +120,7 @@ When Optimus Prime - Battlefield Legend returns a card from your scrap pile to y
 Yes.
       </answer>
     </entry>
-    <entry id="218-5">
+    <entry source="Rules Roundup 2019-02-18" id="218-5">
       <question>
 Say I use Optimus Prime - Battlefield Legend's Bot Mode skill to use a Focus Fire and I also had 2 Focus Fires in my hand. Since I technically played the Focus Fire I flipped, would I then be able to play the 2 in my hand right after?
       </question>
@@ -128,7 +128,7 @@ Say I use Optimus Prime - Battlefield Legend's Bot Mode skill to use a Focus Fir
 Yes, but bold would not have any impact on that attack.
       </answer>
     </entry>
-    <entry id="218-18">
+    <entry source="Rules Roundup 2019-02-18" id="218-18">
       <question>
 Say I attack with Optimus Prime - Battlefield Legend with a Rapid Conversion in my hand and flip a Brainstorm for the attack. If I play the Brainstorm and play the Rapid Conversion from hand to target Optimus, am I able to play the action that he retrieves from the graveyard as the second action for Brainstorm?
       </question>
@@ -136,7 +136,7 @@ Say I attack with Optimus Prime - Battlefield Legend with a Rapid Conversion in 
 No. You must fully resolve Brainstorm before the ability from his flip triggers.
       </answer>
     </entry>
-    <entry id="218-30">
+    <entry source="Rules Roundup 2019-02-18" id="218-30">
       <question>
 The rules state that when you play an action, you set it off to the side. When Optimus Prime - Battlefield Legend plays an action as part of his attack ability, is that card set aside, thus removing the pip from counting attack damage? Example: Prime flips Zap and Supercharge during his attack. He chooses to play Zap. Is his final attack value 9 or 10?
       </question>
@@ -144,7 +144,7 @@ The rules state that when you play an action, you set it off to the side. When O
 The Zap gets set aside, but the orange icon would still increase the attack.
       </answer>
     </entry>
-    <entry id="517-2" tags="Private Firedrive - Ground Command - Artillery">
+    <entry source="Rules Roundup 2019-05-17" id="517-2" tags="Private Firedrive - Ground Command - Artillery">
       <question>
 Similarly, let's say I have Optimus Prime - Battlefield Legend on the field in Bot mode and during my attack I flip a Quartermaster to bring back the Duo-Charge Electrostatic Photon Cannon and put it onto Optimus Prime. For that battle, does Optimus Prime get +3 attack? Am I also able to scrap cards from my hand to increase the attack?
       </question>
@@ -152,7 +152,7 @@ Similarly, let's say I have Optimus Prime - Battlefield Legend on the field in B
 Optimus Prime - Battlefield Legend will get the +3 attack, but since the weapon with the very long name was attached after he began his attack, the ability will not trigger and you will not be able to scrap any cards to add to your attack.
       </answer>
     </entry>
-    <entry id="517-6" tags="Major Ultra Magnus - Infantry - City Commander,Nemesis Prime - Dark Clone">
+    <entry source="Rules Roundup 2019-05-17" id="517-6" tags="Major Ultra Magnus - Infantry - City Commander,Nemesis Prime - Dark Clone">
       <question>
 If I have Major Ultra Magnus with 16 Damage on him and my opponent has Nemesis Prime with 15 Damage on him and I Attack Optimus Prime - Battlefield Legend, causing my bot mode skill to trigger, does this cause Major Ultra Magnus to be KO’d and Nemesis Prime to be KO’d therefore no combat with Optimus?
       </question>
@@ -160,7 +160,7 @@ If I have Major Ultra Magnus with 16 Damage on him and my opponent has Nemesis P
 That is correct.
       </answer>
     </entry>
-    <entry id="422-1">
+    <entry source="Rules Roundup 2019-04-22" id="422-1">
       <question>
 I have Optimus Prime - Battlefield Legend and an untapped partner bot on my side. I attack with Optimus in bot mode. One of his flips is Swap Missions. If I elect to play Swap Missions, Optimus untaps and my 2nd bot taps. What happens next? I argued Optimus was still the attacker even though he is untapped, so combat with him should proceed. My opponent argued the other bot was now the attacker since only a tapped bot can attack (since the two "swapped" missions), then utilizes the earlier flip's battle icons.
       </question>
@@ -168,7 +168,7 @@ I have Optimus Prime - Battlefield Legend and an untapped partner bot on my side
 The first suggestion is correct in this scenario.
       </answer>
     </entry>
-    <entry id="422-1">
+    <entry source="Rules Roundup 2019-04-22" id="422-1">
       <question>
 If Optimus Prime - Battlefield Legend attacks with Power Punch. And flips over Swap Parts you move all upgrades to another character does Power Punch/Grenade Launcher destroy itself?
       </question>
@@ -176,7 +176,7 @@ If Optimus Prime - Battlefield Legend attacks with Power Punch. And flips over S
 No, after the battle, you check, and the upgraded character is not the one who attacked, so it would not scrap itself.
       </answer>
     </entry>
-  <entry id="322-9">
+  <entry source="Rules Roundup 2019-03-22" id="322-9">
       <question>
 If I attack with Optimus Prime - Battlefield Legend, equipped with Recon System, can I select the scrapped card since it was still flipped during an attack by Optimus Prime?
       </question>
@@ -184,7 +184,7 @@ If I attack with Optimus Prime - Battlefield Legend, equipped with Recon System,
 If you scrap an action, Optimus Prime won’t be able to find it, as it has left the played area.
       </answer>
     </entry>
-    <entry id="401-2">
+    <entry source="Rules Roundup 2019-04-01" id="401-2">
       <question>
 If Optimus Prime - Battlefield Legend attacks and flips an Espionage and uses it for his effect, can you also add it back to your hand, with the green icon mechanic? Or does the ‘played’ card become in play for the turn, thus, not being able to add it?
       </question>
@@ -192,7 +192,7 @@ If Optimus Prime - Battlefield Legend attacks and flips an Espionage and uses it
 In this scenario, you would be able to add Espionage back to your hand.
       </answer>
     </entry>
-    <entry id="412-4">
+    <entry source="Rules Roundup 2019-04-12" id="412-4">
       <question>
 Say Optimus Prime - Battlefield Legend attack a character with a Body Armor equipped, during the attack, Vaporize is revealed as attacking, and I choose to use the Vaporize on the Body Armor, does the defender still have tough 3?
       </question>
@@ -200,7 +200,7 @@ Say Optimus Prime - Battlefield Legend attack a character with a Body Armor equi
 OPBL’s ability says it triggers before defense flips, so the defender would lose that tough 3 in this scenario.
       </answer>
     </entry>
-    <entry id="308-7" tags="Silverbolt - Aerialbot Leader,Thrust - Supersonic Interceptor">
+    <entry source="Rules Roundup 2019-03-08" id="308-7" tags="Silverbolt - Aerialbot Leader,Thrust - Supersonic Interceptor">
       <question>
 Say Silverbolt attacks and his alt-mode ability triggers, allowing him to flip to bot mode thus making his base attack 3. If that is the case, then why would Optimus Prime - Battlefield Legend not get +5 attack if he attacks, uses his bot-mode ability and flips Rapid Conversion which in turn flips a tapped Thrust to bot-mode? Both Silverbolt and Thrust have triggered abilities but only Silverbolt benefits from the higher attack value. Why? Thrust’s alt-mode effect mentions “this character” NOT “this mode” or “alt mode”?
       </question>
@@ -208,7 +208,7 @@ Say Silverbolt attacks and his alt-mode ability triggers, allowing him to flip t
 Thrust’s ability only triggers at the time of attack and does not check again. Silverbolt is not adding his attack, he is using his attack to determine the damage at the last point after he’s flipped and just before damage is dealt.
     </answer>
     </entry>
-    <entry id="211-17">
+    <entry source="Rules Roundup 2019-02-11" id="211-17">
       <question>
 If I attack with Optimus Prime - Battlefield Legend in Bot Mode, flip Roll Out!, and choose to play it, will my Optimus’ damage be calculated on his starting Bot Mode, or resulting Alt Mode?
       </question>
@@ -216,7 +216,7 @@ If I attack with Optimus Prime - Battlefield Legend in Bot Mode, flip Roll Out!,
 Attack damage is calculated after you use this ability, so the base will be 6.
       </answer>
     </entry>
-    <entry id="211-18" tags="Decepticon Shockwave - Cybertron Commander,Nemesis Prime - Dark Clone">
+    <entry source="Rules Roundup 2019-02-11" id="211-18" tags="Decepticon Shockwave - Cybertron Commander,Nemesis Prime - Dark Clone">
       <question>
 If I have Shockwave in play and my opponent has 2 characters with 1 damage left each (say Optimus Prime - Battlefield Legend with 13 damage and Nemesis Prime with 15 damage) and I play System Reboot forcing them to discard 2 cards, can they choose to put both damage on Nemesis Prime or must they put 1 damage on each?
       </question>
@@ -224,7 +224,7 @@ If I have Shockwave in play and my opponent has 2 characters with 1 damage left 
 Each card discarded creates a new instance of 1 damage, so they will be forced to put one damage on each.
       </answer>
     </entry>
-    <entry id="528-3">
+    <entry source="Rules Roundup 2019-05-28" id="528-3">
       <question>
 If Optimus Prime - Battlefield Legend has Inverted on him, and during the attack flips Security Checkpoint and chooses to play it, does the Security Checkpoint count as Orange due to Inverted, which triggers the Secret Action Infiltrate?
       </question>
@@ -232,7 +232,7 @@ If Optimus Prime - Battlefield Legend has Inverted on him, and during the attack
 Yes. While OPBL is battling, the blue icons on Security Checkpoint become orange. When you play Security Checkpoint, your opponent’s Infiltrate sees you playing an orange action and triggers.
       </answer>
     </entry>
-    <entry id="607-1" tags="Alpha Trion - Cybertronian Sage">
+    <entry source="Rules Roundup 2019-06-07" id="607-1" tags="Alpha Trion - Cybertronian Sage">
       <question>
 If I Attack with Alpha Trion or Optimus Prime - Battlefield Legend and flip a Heroic Team-Up, can I use it to tap an untapped character of mine and have the Attack total added to Alpha Trion or Optimus? I would think so as the defense has yet to kick in and it is a playable action. 
       </question>
@@ -240,7 +240,7 @@ If I Attack with Alpha Trion or Optimus Prime - Battlefield Legend and flip a He
 Heroic Team-Up can only increase the attack of an untapped Autobot. If Alpha Trion or OPBL attacked, it would be tapped by this point.
       </answer>
     </entry>
-    <entry id="607-15">
+    <entry source="Rules Roundup 2019-06-07" id="607-15">
       <question>
 Why is it you cannot increase a character’s attack with a reattached Battle Master during an attack, but you can increase Optimus Prime - Battlefield Legend’s attack if you flip an action like Leap into Battle? How is this any different to using OPBL’s skill to play Quartermaster and attaching a battle masters upgrade form before defense flips?
       </question>
@@ -248,7 +248,7 @@ Why is it you cannot increase a character’s attack with a reattached Battle Ma
 You can use Quartermaster to attach a KO’d Battle Master to OPBL. If OPBL’s ability results in a weapon being attached to him (for example via Quartermaster), the attack bonus of that weapon will apply because you haven’t counted attack yet. However, if the weapon gives the character bold, bold will have no affect because you’ve already flipped battle cards.
       </answer>
     </entry>
-    <entry id="2-5">
+    <entry source="Rules Roundup 2019-07-29" id="2-5">
       <question>
 Can you use Optimus Prime - Battlefield Legend to play a Secret Action?
 </question>
@@ -256,7 +256,7 @@ Can you use Optimus Prime - Battlefield Legend to play a Secret Action?
 Yes. Secret Actions are actions.
 </answer>
     </entry>
-    <entry id="2-6">
+    <entry source="Rules Roundup 2019-07-29" id="2-6">
       <question>
 If Optimus Prime - Battlefield Legend plays an orange battle icon card off his flips, and I reveal Infiltrate to scrap it, does the battle icon still count when calculating attack/defense and damage?
 </question>
@@ -264,7 +264,7 @@ If Optimus Prime - Battlefield Legend plays an orange battle icon card off his f
 The orange battle icon card increases OPBL’s attack after it is flipped. Removing the card from the played area after it’s flipped doesn’t change that.
 </answer>
     </entry>
-    <entry id="9-1">
+    <entry source="Rules Roundup 2019-11-08" id="9-1">
       <question>
 Optimus Prime - Battlefield Legend flips completely for his attack &amp; chooses Leap of Faith as his Action. The first card Leap of Faith reveals is Grenade Launcher. If I attach it to Optimus Prime Battlefield Legend, does he immediately get the +4 Attack boost?
         </question>
@@ -272,7 +272,7 @@ Optimus Prime - Battlefield Legend flips completely for his attack &amp; chooses
 Yes.
       </answer>
     </entry>
-    <entry id="9-2">
+    <entry source="Rules Roundup 2019-11-08" id="9-2">
       <question>
 Optimus Prime - Battlefield Legend is equipped with Power Punch, flips completely for his attack, and chooses Leap of Faith as his Action. The first card Leap of Faith reveals is W-5 Gyro Blaster. If OPBL attaches this, do I keep all the flips revealed from Power Punch? If so, does that mean my opponent now cannot flip more than 2 cards for their defense now that W-5 Gyro Blaster has been attached?
         </question>

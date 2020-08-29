@@ -1,4 +1,4 @@
-<faq><target name="Private Fixit - Rescue Patrol - Medic"><entry id="25" mode="bot">
+<faq><target name="Private Fixit - Rescue Patrol - Medic"><entry source="Wave 4 FAQ" id="25" mode="bot">
       <question>What happens if a player has fewer than 4 cards in hand and the tap ability is used?</question>
       <answer>Each player draw 4 cards, no matter how many cards they scrapped.</answer>
     </entry>

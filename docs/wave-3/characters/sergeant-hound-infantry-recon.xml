@@ -1,4 +1,4 @@
-<faq><target name="Sergeant Hound - Infantry - Recon"><entry id="162" mode="bot">
+<faq><target name="Sergeant Hound - Infantry - Recon"><entry source="Wave 2 and 3 FAQ" id="162" mode="bot">
       <question>Say Sergeant Hound has an Armor, and I play another Armor to replace that one. Will his ability trigger?</question>
       <answer>Yes. “When you upgrade this” means when any new upgrade is put onto Sergeant Hound.</answer>
     </entry>

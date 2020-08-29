@@ -1,4 +1,4 @@
-<faq><target name="Sabotaged Armaments"><entry id="10-7">
+<faq><target name="Sabotaged Armaments"><entry source="Rules Roundup 2019-11-22" id="10-7">
       <question>
 What is the timing for Sabotaged Armaments versus weapons like Power Punch?
         </question>
@@ -6,7 +6,7 @@ What is the timing for Sabotaged Armaments versus weapons like Power Punch?
 Sabotaged Armaments is revealed when one of your characters defends, before Battle Cards are flipped. Power Punch will be scrapped before it can affect that battle.
       </answer>
     </entry>
-    <entry id="10-34">
+    <entry source="Rules Roundup 2019-11-22" id="10-34">
       <question>
 If an opponent attacks me with a Sturdy Javelin on a ranged character and I reveal a Sabotaged Armaments I played last turn, how do the cards resolve? Does the Javelin scrap and deal two damage before the secret action takes effect or does the secret action scrap the Javelin before the two damage is dealt?
         </question>
@@ -14,7 +14,7 @@ If an opponent attacks me with a Sturdy Javelin on a ranged character and I reve
 The attacking player will scrap the Javelin to do 2 Damage. Because attacker effects resolve before defender effects.
       </answer>
     </entry>
-    <entry id="9-14">
+    <entry source="Rules Roundup 2019-11-08" id="9-14">
       <question>
 When you use Sabotaged Armaments, and your opponent has a Power Punch on the attacker, do they get the Bold before Sabotaged Armaments activates?
         </question>

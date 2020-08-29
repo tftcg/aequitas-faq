@@ -1,4 +1,4 @@
-<faq><target name="Prowl - Military Strategist"><entry id="60" mode="alt">
+<faq><target name="Prowl - Military Strategist"><entry source="Wave 1 FAQ" id="60" mode="alt">
       <question>
     If I flip Prowl to alt mode and give my Cars Bold 2, but later in the turn I flip one of my Cars so it’s no
 longer a Car, does it keep Bold 2 until end of turn?
@@ -7,7 +7,7 @@ longer a Car, does it keep Bold 2 until end of turn?
     Yes. Once the bonus has applied, the character will keep Bold 2 until the end of the turn.
 </answer>
     </entry>
-    <entry id="61" mode="bot">
+    <entry source="Wave 1 FAQ" id="61" mode="bot">
       <question>
     Prowl’s ability says "When one of your Cars is KO’d -&gt; Repair 3 damage from one of your other
 characters." Does "one of your other characters" mean other than Prowl or other than the Car that was
@@ -17,7 +17,7 @@ KO’d?
     It means other than Prowl. Prowl can’t repair himself.
 </answer>
     </entry>
-  <entry id="412-3">
+  <entry source="Rules Roundup 2019-04-12" id="412-3">
       <question>
 Does Prowl - Military Strategist (bot mode) ability trigger when Prowl - Military Strategist gets KOed?
       </question>

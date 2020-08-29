@@ -1,4 +1,4 @@
-<faq><target name="Safeguard"><entry id="3">
+<faq><target name="Safeguard"><entry source="Wave 4 FAQ" id="3">
         <question>
              What is Safeguard?
         </question>
@@ -6,7 +6,7 @@
              Safeguard is a new keyword ability that limits how much damage can be done to a character that’s undamaged.
         </answer>
         </entry>
-      <entry id="4">
+      <entry source="Wave 4 FAQ" id="4">
         <question>
              Does Safeguard apply to all damage or just attack damage?
         </question>
@@ -14,7 +14,7 @@
              All damage, including damage done by Actions or other abilities.
         </answer>
         </entry>
-      <entry id="5">
+      <entry source="Wave 4 FAQ" id="5">
         <question>
              Does Safeguard work if something tries to move a damage counter onto the character while it’s undamaged?
         </question>
@@ -22,7 +22,7 @@
              No. Moving damage counters doesn’t count as damaging the character, although after the damage counter is moved, the character will be damaged and Safeguard will no longer work. Sneaky!
         </answer>
         </entry>
-      <entry id="6">
+      <entry source="Wave 4 FAQ" id="6">
         <question>
              Can Safeguard apply to the same character more than once?
         </question>
@@ -30,7 +30,7 @@
              Yes. Safeguard works as long as the character is currently undamaged, even if it was previously damaged in the game. If you repair that damage, Safeguard can cushion another blow.
         </answer>
         </entry>
-    <entry id="10-14" tags="Pierce,Insecticon Skrapnel - Insecticon Leader,Safeguard">
+    <entry source="Rules Roundup 2019-11-22" id="10-14" tags="Pierce,Insecticon Skrapnel - Insecticon Leader,Safeguard">
       <question>
 Is Pierce damage still considered attack damage? For example, if someone is attacking me with Pierce 4 against a character like Insecticon Skrapnel whose text is “can’t take more than 3 damage during an attack”, does that mean even though they have Pierce 4 after adding attack damage, would they only do 3, or would they do 4? 
         </question>
@@ -38,7 +38,7 @@ Is Pierce damage still considered attack damage? For example, if someone is atta
 Pierce is an ability that applies to attack damage. But, effects like Insecticon Skrapnel’s or the Safeguard ability will still apply. In your example, Skrapnel would take only 3 damage.
       </answer>
     </entry>
-    <entry id="10-39" tags="Safeguard,Raider Kickback - Infantry Soldier">
+    <entry source="Rules Roundup 2019-11-22" id="10-39" tags="Safeguard,Raider Kickback - Infantry Soldier">
       <question>
 Beginning player here, not sure where else to go for clarification in general. My buddy and I played a killer game with Insecticons (me) v Special Ops Specialists (buddy). All three of his characters had Safeguard. I swung into one of them (undamaged) with Raider Kickback (bot) and flipped one blue and several orange. My thinking was the one damage from Kickback's ability would eliminate the Safeguard, thus allowing all combat damage to be applied. Then came the confusion. I believe his thinking was that all the damage came at once, prevented to some degree by Safeguard. After scouring stupid Google for help to no avail, I decided to simply concede to his perspective and move the game along. He won, but it was close, and it would have been a drastically different story had all that combat damage been applied.
         </question>

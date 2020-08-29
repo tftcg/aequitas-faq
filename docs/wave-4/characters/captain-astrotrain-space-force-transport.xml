@@ -1,4 +1,4 @@
-<faq><target name="Captain Astrotrain - Space Force - Transport"><entry id="14">
+<faq><target name="Captain Astrotrain - Space Force - Transport"><entry source="Wave 4 FAQ" id="14">
       <question>Each of Captain Astrotrain’s abilities triggers if he has a certain number of Upgrades. What happens if the ability triggers, but then his Upgrades are scrapped during the attack?</question>
       <answer>Once the ability triggers, it doesn’t matter how many Upgrades Captain Astrotrain has. He’ll keep the specified bonus until end of turn.</answer>
     </entry>

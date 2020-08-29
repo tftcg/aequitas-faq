@@ -1,4 +1,4 @@
-<faq><target name="Superion - Sky Protector"><entry id="315-3" tags="Alpha Bravo - Airborne Special Ops,Superion - Sky Protector">
+<faq><target name="Superion - Sky Protector"><entry source="Rules Roundup 2019-03-15" id="315-3" tags="Alpha Bravo - Airborne Special Ops,Superion - Sky Protector">
       <question>
 I’ve heard that a Combiner can keep the skills of the characters its used to combine. Is this true? E.G. Alpha Bravo can give pierce 3, does Superion also get pierce 3?
       </question>
@@ -6,7 +6,7 @@ I’ve heard that a Combiner can keep the skills of the characters its used to c
 This would not apply to Alpha Bravo, as he has a static ability of pierce 3. However, any effects effecting one of the Combiner pieces will continue to affect the character once they are in Combiner mode for the duration of that affect.
       </answer>
     </entry>
-    <entry id="607-7" tags="Combiner,Superion - Sky Protector">
+    <entry source="Rules Roundup 2019-06-07" id="607-7" tags="Combiner,Superion - Sky Protector">
       <question>
 If I have a Laser Cutlass on an Aerialbot and combine, do I keep the Laser Cutlass because it was put on a 7-star or less bot in the first instance?
       </question>

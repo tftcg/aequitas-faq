@@ -1,9 +1,9 @@
-<faq><target name="Thrust - Supersonic Interceptor"><entry id="53" mode="alt">
+<faq><target name="Thrust - Supersonic Interceptor"><entry source="Wave 2 and 3 FAQ" id="53" mode="alt">
       <question>Can I use Thrust’s ability if he’s tapped when I attack with one of my other characters?</question>
       <answer>No. You can’t tap Thrust if he’s already tapped.</answer>
     </entry>
-    <entry id="54" xref="Rules_Roundup-2019-07-12#1-2" mode="alt" />
-  <entry id="6-7" tags="Chop Shop - Sneaky Insecticon,Thrust - Supersonic Interceptor">
+    <entry source="Wave 2 and 3 FAQ" id="54" xref="Rules_Roundup-2019-07-12#1-2" mode="alt" />
+  <entry source="Rules Roundup 2019-09-20" id="6-7" tags="Chop Shop - Sneaky Insecticon,Thrust - Supersonic Interceptor">
       <question>
 Please clarify the interaction between Thrust and Chop Shop under the following scenario:
     Chop Shop flips to bot-mode
@@ -20,7 +20,7 @@ Is this correct?
 You can choose to resolve Thrust and Chop Shop’s abilities in this order. You could also choose to resolve them in the other order, but that would probably not turn out as well for you, so maybe don’t.
       </answer>
     </entry>
-    <entry id="6-8" tags="Thrust - Supersonic Interceptor">
+    <entry source="Rules Roundup 2019-09-20" id="6-8" tags="Thrust - Supersonic Interceptor">
       <question>
 In a situation where someone is using Thrust and an Anticipation Engine attached to a different bot, could that person use Thrust's ability multiple times if they flip a Ready for Action using the Anticipation Engine?
         </question>
@@ -28,7 +28,7 @@ In a situation where someone is using Thrust and an Anticipation Engine attached
 Thrust’s ability only triggers once–when one of your other characters attacks. To use Thrust’s ability more than once, you need to untap Thrust and attack a second time with one of your other characters.
       </answer>
     </entry>
-    <entry id="RR1-20" tags="Thrust - Supersonic Interceptor">
+    <entry source="Rules Roundup 2019-RR-1" id="RR1-20" tags="Thrust - Supersonic Interceptor">
       <question>
 Would Thrust grant +5 to Optimus Prime - Battlefield Legend if Rapid Conversion was played when using Prime’s bot mode ability.
       </question>
@@ -36,7 +36,7 @@ Would Thrust grant +5 to Optimus Prime - Battlefield Legend if Rapid Conversion 
 No. The amount of bonus granted by Thrust is granted at the time his ability is triggered and not modified afterwards.
       </answer>
     </entry>
-    <entry id="401-7" tags="Thrust - Supersonic Interceptor">
+    <entry source="Rules Roundup 2019-04-01" id="401-7" tags="Thrust - Supersonic Interceptor">
       <question>
 Let's say a Grenade Launcher is put on Thrust, then a DIFFERENT character is tapped to attack, the player decides to tap Thrust also in order to activate his ability. 
 1. Does the extra attacks that Thrust gives to the attacking character include the Grenade Launcher's +4? 
@@ -47,7 +47,7 @@ Let's say a Grenade Launcher is put on Thrust, then a DIFFERENT character is tap
 2. No. As you noted, the character with Grenade Launcher did not attack.
       </answer>
     </entry>
-    <entry id="412-16" tags="Thrust - Supersonic Interceptor">
+    <entry source="Rules Roundup 2019-04-12" id="412-16" tags="Thrust - Supersonic Interceptor">
       <question>
 Does Thrust count as a Tap ability? Similarly, does Incoming Transmission count as a Plan effect? Or, because neither have the keywords, are they exceptions to the rule?
       </question>
@@ -55,7 +55,7 @@ Does Thrust count as a Tap ability? Similarly, does Incoming Transmission count 
 No. Thrust doesn’t use the Tap symbol and Incoming Transmission does not say “Plan” (and is slightly different from Plan because it isn’t optional to place the card back).
       </answer>
     </entry>
-    <entry id="308-7" tags="Silverbolt - Aerialbot Leader,Thrust - Supersonic Interceptor">
+    <entry source="Rules Roundup 2019-03-08" id="308-7" tags="Silverbolt - Aerialbot Leader,Thrust - Supersonic Interceptor">
       <question>
 Say Silverbolt attacks and his alt-mode ability triggers, allowing him to flip to bot mode thus making his base attack 3. If that is the case, then why would Optimus Prime - Battlefield Legend not get +5 attack if he attacks, uses his bot-mode ability and flips Rapid Conversion which in turn flips a tapped Thrust to bot-mode? Both Silverbolt and Thrust have triggered abilities but only Silverbolt benefits from the higher attack value. Why? Thrust’s alt-mode effect mentions “this character” NOT “this mode” or “alt mode”?
       </question>
@@ -63,7 +63,7 @@ Say Silverbolt attacks and his alt-mode ability triggers, allowing him to flip t
 Thrust’s ability only triggers at the time of attack and does not check again. Silverbolt is not adding his attack, he is using his attack to determine the damage at the last point after he’s flipped and just before damage is dealt.
     </answer>
     </entry>
-    <entry id="607-13" tags="Thrust - Supersonic Interceptor">
+    <entry source="Rules Roundup 2019-06-07" id="607-13" tags="Thrust - Supersonic Interceptor">
       <question>
 Would Micro Capacitor work for Thrust even though Thrust doesn’t have the tap symbol on his card? 
       </question>

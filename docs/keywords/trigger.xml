@@ -1,4 +1,4 @@
-<faq><target name="Trigger"><entry id="15" tags="Trigger">
+<faq><target name="Trigger"><entry source="Wave 1 FAQ" id="15" tags="Trigger">
         <question>
              What is a triggered ability?
         </question>
@@ -10,7 +10,7 @@ mode." The effects of these abilities happen immediately after you flip the char
 mode.
     </answer>
     </entry>
-      <entry id="16" tags="Trigger">
+      <entry source="Wave 1 FAQ" id="16" tags="Trigger">
         <question>
              What happens if more than one triggered ability triggers at the same time?
         </question>
@@ -21,7 +21,7 @@ first the player whose turn it is handles all their triggered abilities in any o
 does the same with their triggered abilities.
     </answer>
     </entry>
-<entry id="412-17" tags="Trigger">
+<entry source="Rules Roundup 2019-04-12" id="412-17" tags="Trigger">
       <question>
 Simultaneous triggers are resolved in the order you choose, but when do you choose the order? Is it when they trigger, or as each resolves? Example: Abilities A, B, and C all trigger simultaneously. Can I resolve A, see the results of that, and then choose whether I want to do B or C next?
       </question>
@@ -29,7 +29,7 @@ Simultaneous triggers are resolved in the order you choose, but when do you choo
 Yes. You choose which to use one at a time.
       </answer>
     </entry>
-    <entry id="412-17b" tags="Trigger">
+    <entry source="Rules Roundup 2019-04-12" id="412-17b" tags="Trigger">
       <question>
 How do nested triggers resolve? Example: I trigger A, B, and C. B triggers D and E. What order do those resolve in? (Assuming choices, of course).
       </question>

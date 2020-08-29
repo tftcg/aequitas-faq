@@ -1,4 +1,4 @@
-<faq><target name="Bumblebee - Trusted Lieutenant"><entry id="2">
+<faq><target name="Bumblebee - Trusted Lieutenant"><entry source="Tournament FAQ" id="2">
           <question>Which promo cards are permitted in Constructed tournaments?</question>
           <answer>
               P1: Bumblebee - Electrum Warrior
@@ -15,7 +15,7 @@
               P12: Tandem Targeting System (Energon Edition Foil Variant)
           </answer>
       </entry>
-      <entry id="315-6">
+      <entry source="Rules Roundup 2019-03-15" id="315-6">
       <question>
 We were having a debate at the local draft on when cards such as Bumblebee - Trusted Lieutenant says: When this attacks -&gt; You may scrap an Action from your hand. If you do, draw 2 cards. Our question is about flipping. Is tapping to attack put the flip cards on (basically all Transformers state: When this attacks/or defends -&gt; flip 2 battle cards) This isn’t stated specifically in the rules, but with cards like Dinobot Snarl allowing you to plan 2, you could very easily want to flip then place 2 defensive cards on top (or if you utilized Plan prior to the attack). We have all been playing it is before the flip, but since it isn’t stated anywhere that we could see officially, we’d love a clarification.
       </question>
@@ -23,7 +23,7 @@ We were having a debate at the local draft on when cards such as Bumblebee - Tru
 Any ability that just says “When this attacks” and doesn’t look at what you flipped happens before you flip battle cards.
       </answer>
     </entry>
-    <entry id="401-5">
+    <entry source="Rules Roundup 2019-04-01" id="401-5">
       <question>
 Would playing multiple instances of Steamroll in the same turn allow for damage, if it were high enough to KO the second character as well as the initial character that was knocked out, to carry over to a second or third target? For example: Brainstorm into two Steamrolls or play Steamroll and then flip Bumblebee - Trusted Lieutenant into alt-mode and play a second or even a third Steamroll (if Brainstorm was played first). 
       </question>
@@ -31,7 +31,7 @@ Would playing multiple instances of Steamroll in the same turn allow for damage,
 Playing more than one instance of Steamroll on the same character has no additional effect. The extra damage will carry over only once.
       </answer>
     </entry>
-    <entry id="308-12">
+    <entry source="Rules Roundup 2019-03-08" id="308-12">
       <question>
 When you attack and scrap an action, what happens first: the draw two or the attack flip?
       </question>

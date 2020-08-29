@@ -1,4 +1,4 @@
-<faq><target name="Minor Medic Kit"><entry id="70">
+<faq><target name="Minor Medic Kit"><entry source="Wave 4 FAQ" id="70">
       <question>Let’s say the upgraded character normally has 10 health. It gets upgraded with Minor Medic Kit, then gets 10 damage counters. If Minor Medic Kit is scrapped, what happens?</question>
       <answer>Any time the game notices a character with a number of damage counters equal to or greater than its current health, the character is KO’d. So your character is KO’d. Really sorry.</answer>
     </entry>

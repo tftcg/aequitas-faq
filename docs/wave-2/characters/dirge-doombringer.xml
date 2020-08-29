@@ -1,12 +1,12 @@
-<faq><target name="Dirge - Doombringer"><entry id="27" mode="alt">
+<faq><target name="Dirge - Doombringer"><entry source="Wave 2 and 3 FAQ" id="27" mode="alt">
       <question>After Dirge’s ability resolves, does the bonus change if the number of characters in my opponent’s KO area changes later in the turn?</question>
       <answer>No. you count the number of characters in your opponent’s KO area when the ability resolves. After that, even if you KO another character, the attack bonus won’t change.</answer>
     </entry>
-    <entry id="28" mode="bot">
+    <entry source="Wave 2 and 3 FAQ" id="28" mode="bot">
       <question>What happens if I play Steamroll and choose Dirge?</question>
       <answer>If you attack with Dirge and it does more than enough attack damage to KO the defender, Steamroll’s ability will work, but Dirge’s ability won’t trigger. If Dirge does exactly enough damage to KO the defender, Steamroll won’t do anything.</answer>
     </entry>
-  <entry id="218-8" tags="Volcanicus - Fiery Champion,Dirge - Doombringer">
+  <entry source="Rules Roundup 2019-02-18" id="218-8" tags="Volcanicus - Fiery Champion,Dirge - Doombringer">
       <question>
 If my opponent has a combined Volcanicus in their K.O. Area, and I flip Dirge to Alt Mode, does Dirge get +1 or +5 attack?
       </question>

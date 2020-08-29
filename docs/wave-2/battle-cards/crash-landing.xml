@@ -1,4 +1,4 @@
-<faq><target name="Crash Landing"><entry id="7-12">
+<faq><target name="Crash Landing"><entry source="Rules Roundup 2019-10-11" id="7-12">
       <question>
 I’m playing with a plane card, for example Captain Starscream, and it has on it the utility card Energy Pack. The total damage he has on him at the time is 19 and then I play the utility card Crash Landing on him, scrapping the Energy Pack and instantly KO’ing him, does the Crash Landing take effect or not?
         </question>
@@ -6,7 +6,7 @@ I’m playing with a plane card, for example Captain Starscream, and it has on i
 No, Crash Landing only triggers on your opponent's turn, so it would not trigger here.
 </answer>
     </entry>
-  <entry id="315-14" tags="Thundercracker - Mach Warrior,Autobot Hound - Long-Range Scout">
+  <entry source="Rules Roundup 2019-03-15" id="315-14" tags="Thundercracker - Mach Warrior,Autobot Hound - Long-Range Scout">
       <question>
 Had an interesting situation occur last night. Had Thundercracker on defense with 4 health remaining equipped with a Crash Landing. Autobot Hound was attacking who only had 2 health remaining. Hound had enough attack power after flipping to take out Thundercracker. Both were the last bots on each side, would Crash Landing still go off, creating a Draw?
       </question>
@@ -14,7 +14,7 @@ Had an interesting situation occur last night. Had Thundercracker on defense wit
 Hound will KO Thundercracker and win the game before Thundercracker can Crash Land and KO Hound.
       </answer>
     </entry>
-    <entry id="222-1">
+    <entry source="Rules Roundup 2019-02-22" id="222-1">
       <question>
 If one of my planes is equipped with a Grenade Launcher and a Crash Landing before getting KO'd, would the Grenade Launcher add an additional 4 damage to Crash Landing's effect?
       </question>
@@ -22,7 +22,7 @@ If one of my planes is equipped with a Grenade Launcher and a Crash Landing befo
 It will include the attack modifier from the Grenade Launcher.
       </answer>
     </entry>
-    <entry id="401-3" tags="Dreadwing - Sky Destroyer">
+    <entry source="Rules Roundup 2019-04-01" id="401-3" tags="Dreadwing - Sky Destroyer">
       <question>
 Quick question: If Dreadwing has two Crash Landings equipped, does it deal double damage when KO'd? And if it does, can I do 7 damage to two separate targets?
       </question>
@@ -31,7 +31,7 @@ Quick answer: Yes, and yes.
 Not so quick answer: Each Crash Landing is triggered separately.
       </answer>
     </entry>
-    <entry id="401-9" tags="Air Raid - Fearless Flyer,Sunstorm - Fusion Flyer">
+    <entry source="Rules Roundup 2019-04-01" id="401-9" tags="Air Raid - Fearless Flyer,Sunstorm - Fusion Flyer">
       <question>
 My opponent's Air Raid (Bot Mode) attacks my Sunstorm (with Crash Landing), doing enough Damage to KO Sunstorm. Air Raid's player is able to Scrap the Crash Landing before I can use it to KO an Aerialbot, correct?
       </question>
@@ -39,7 +39,7 @@ My opponent's Air Raid (Bot Mode) attacks my Sunstorm (with Crash Landing), doin
 In this scenario, Air Raid’s ability can’t do anything because Sunstorm has been KO’d and as a result, his upgrades have been scrapped. Crash Landing’s effect will work.
       </answer>
     </entry>
-    <entry id="228-6">
+    <entry source="Rules Roundup 2019-02-28" id="228-6">
       <question>
 Can Crash Landing still proc its effect if I use it on my last character or does the game check for loss condition first?
       </question>
@@ -47,7 +47,7 @@ Can Crash Landing still proc its effect if I use it on my last character or does
 No. If Crash Landing is on your last character, its effect will never trigger.
       </answer>
     </entry>
-    <entry id="9-7" tags="Raider Tailwind - Air Strike Patrol - Strategist">
+    <entry source="Rules Roundup 2019-11-08" id="9-7" tags="Raider Tailwind - Air Strike Patrol - Strategist">
       <question>
 If I equip Crash Landing on an Air Strike Patrol bot that is buffed by Tailwind's +2 Attack, does it trigger Crash Landing with the extra Attack?
         </question>

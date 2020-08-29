@@ -1,4 +1,4 @@
-<faq><target name="Lucky Vest"><entry id="69">
+<faq><target name="Lucky Vest"><entry source="Wave 4 FAQ" id="69">
       <question>How does Lucky Vest interact with other effects that modify the amount of attack damage a character can take?</question>
       <answer>Lucky Vest doesn’t directly modify how much attack damage is being done to the character (note it doesn’t use “instead”), so it waits for effects like Blast Suit to apply, then sees if the character is taking more than 4 attack damage. If it is, the character takes 4 attack damage.</answer>
     </entry>

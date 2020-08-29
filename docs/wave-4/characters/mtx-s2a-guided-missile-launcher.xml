@@ -1,8 +1,8 @@
-<faq><target name="MTX-S2A Guided Missile Launcher"><entry id="23" mode="bot">
+<faq><target name="MTX-S2A Guided Missile Launcher"><entry source="Wave 4 FAQ" id="23" mode="bot">
       <question>This Weapon can be in an Armor or Utility slot. When I play it, do I have to say which slot it’s in?</question>
       <answer>Yes. Usually, players indicate which slot an Upgrade is in by placing it on a particular side of the character: Weapons on the left, Armors on the right, and Utilities below. Once the Upgrade is in a slot, it can’t be moved to another slot to free up space.</answer>
     </entry>
-    <entry id="24" mode="bot">
+    <entry source="Wave 4 FAQ" id="24" mode="bot">
       <question>If MXT-S2A Guided Missile Launcher is put into an Armor slot, does it then count as an Armor?</question>
       <answer>No. It’s always a Weapon, no matter what slot it’s in.</answer>
     </entry>

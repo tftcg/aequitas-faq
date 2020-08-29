@@ -1,8 +1,8 @@
-<faq><target name="Vandalize"><entry id="105">
+<faq><target name="Vandalize"><entry source="Wave 2 and 3 FAQ" id="105">
       <question>If I choose Weapons and my opponent has characters with Weapons in either Utility or Armor slots, are those Weapons scrapped?</question>
       <answer>Yes. It only matters what kind of Upgrade it is, not what slot it’s in.</answer>
     </entry>
-  <entry id="228-15">
+  <entry source="Rules Roundup 2019-02-28" id="228-15">
       <question>
 How does Spare Parts interact with Vandalize? If my opponent plays Vandalize, and I have 1 bot with Spare Parts and a Grenade Launcher equipped, are both upgrades scrapped? Or does Spare Parts absorb the destroy effect targeting Grenade Launcher, even though Spare Parts is already being destroyed simultaneously by Vandalize?
       </question>
@@ -11,7 +11,7 @@ Vandalize scraps all your opponent’s weapons OR all their armors OR all their 
 However, if a card did try to scrap Spare Parts and Grenade Launcher at the same time, Spare Parts could save your Grenade Launcher.
       </answer>
     </entry>
-    <entry id="2-36" tags="Captain Starscream - Infantry - Air Commander">
+    <entry source="Rules Roundup 2019-07-29" id="2-36" tags="Captain Starscream - Infantry - Air Commander">
       <question>
 If I have Captain Starscream in bot mode, and I play Vandalize, and scrapping, say, two upgrades on Enemy 1 and one upgrade on Enemy 2, do I then do two damage to Enemy 1, and one damage to Enemy 2?
 </question>

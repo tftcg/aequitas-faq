@@ -1,8 +1,8 @@
-<faq><target name="Major Ultra Magnus - Infantry - City Commander"><entry id="148" mode="alt">
+<faq><target name="Major Ultra Magnus - Infantry - City Commander"><entry source="Wave 2 and 3 FAQ" id="148" mode="alt">
       <question>When do I use this ability?</question>
       <answer>You use it before the game begins. You’ll put Ultra Magnus Armor onto Major Ultra Magnus, then shuffle the rest of your deck and draw 3 cards for your opening hand.</answer>
     </entry>
-  <entry id="517-1" tags="Major Ultra Magnus - Infantry - City Commander,Private Firedrive - Ground Command - Artillery">
+  <entry source="Rules Roundup 2019-05-17" id="517-1" tags="Major Ultra Magnus - Infantry - City Commander,Private Firedrive - Ground Command - Artillery">
       <question>
 Let's say I have Major Ultra Magnus in bot mode and Private Firedrive on the field, with Firedrive having 1 health remaining. If I attack with Ultra Magnus and trigger his bot mode ability, which causes Firedrive to die and I put the Duo-Charge Electrostatic Photon Cannon onto Ultra Magnus, what happens? Does Ultra Magnus get the +3 attack for this battle? Am I able to scrap cards from my hand to increase said attack?
       </question>
@@ -10,7 +10,7 @@ Let's say I have Major Ultra Magnus in bot mode and Private Firedrive on the fie
 Major Ultra Magnus will get the +3 attack, but since the long-name weapon was attached after he began his attack, the ability will not trigger and you will not be able to scrap any cards to add to your attack.
       </answer>
     </entry>
-    <entry id="517-6" tags="Major Ultra Magnus - Infantry - City Commander,Nemesis Prime - Dark Clone">
+    <entry source="Rules Roundup 2019-05-17" id="517-6" tags="Major Ultra Magnus - Infantry - City Commander,Nemesis Prime - Dark Clone">
       <question>
 If I have Major Ultra Magnus with 16 Damage on him and my opponent has Nemesis Prime with 15 Damage on him and I Attack Optimus Prime - Battlefield Legend, causing my bot mode skill to trigger, does this cause Major Ultra Magnus to be KO’d and Nemesis Prime to be KO’d therefore no combat with Optimus?
       </question>
@@ -18,7 +18,7 @@ If I have Major Ultra Magnus with 16 Damage on him and my opponent has Nemesis P
 That is correct.
       </answer>
     </entry>
-    <entry id="426-10" tags="Specialist Ratchet - Engineering - Rescue &amp; Repair,Private Trailbreaker - Infantry - Fortification &amp; Defense,Major Ultra Magnus - Infantry - City Commander">
+    <entry source="Rules Roundup 2019-04-26" id="426-10" tags="Specialist Ratchet - Engineering - Rescue &amp; Repair,Private Trailbreaker - Infantry - Fortification &amp; Defense,Major Ultra Magnus - Infantry - City Commander">
       <question>
 For Wave 3 Ratchet, Ultra Magnus, Trailbreaker and Wheeljack. Do you search for their related card before you draw starting hand or after?
       </question>

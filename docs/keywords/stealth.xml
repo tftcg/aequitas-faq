@@ -1,4 +1,4 @@
-<faq><target name="Stealth"><entry id="11">
+<faq><target name="Stealth"><entry source="Wave 2 and 3 FAQ" id="11">
       <question>
              What is Stealth?
         </question>
@@ -8,7 +8,7 @@ of reprisal. When choosing which enemy to attack, you must attack a character wi
 if able.
         </answer>
     </entry>
-    <entry id="12">
+    <entry source="Wave 2 and 3 FAQ" id="12">
       <question>
              If my opponent has one tapped character with stealth, and the rest of their creatures are
 untapped, which character can I attack?
@@ -18,7 +18,7 @@ untapped, which character can I attack?
 tapped character is the only one that can be attacked, that’s where your attack is headed.
         </answer>
     </entry>
-    <entry id="13">
+    <entry source="Wave 2 and 3 FAQ" id="13">
       <question>
              What happens if a character has brave and stealth?
         </question>
@@ -28,7 +28,7 @@ and you must attack other characters if able. This basically means you must atta
 you can attack, the same as if those abilities weren’t there.
         </answer>
     </entry>
-  <entry id="8-1" tags="Razorclaw - Predacon Leader,Stealth">
+  <entry source="Rules Roundup 2019-10-25" id="8-1" tags="Razorclaw - Predacon Leader,Stealth">
       <question>
 Razorclaw’s robot mode ability says that when he flips to that mode he can attack untapped characters that turn as though they were tapped. If a character has Stealth when untapped, does Razorclaw treat them as tapped or untapped for the purpose of their Stealth?
         </question>
@@ -36,7 +36,7 @@ Razorclaw’s robot mode ability says that when he flips to that mode he can att
 The character will still have Stealth. Razorclaw’s ability changes the way that Razorclaw can attack but doesn’t actually change the Tapped/Untapped state of other cards.
       </answer>
     </entry>
-    <entry id="211-3" tags="Predacon Headstrong - Ground Assault,Brave,Stealth">
+    <entry source="Rules Roundup 2019-02-11" id="211-3" tags="Predacon Headstrong - Ground Assault,Brave,Stealth">
       <question>
 If you have a Stealthiness attached to Headstrong in his Alternate Mode, what happens? Does Brave trump the Stealth or vice versa?
       </question>

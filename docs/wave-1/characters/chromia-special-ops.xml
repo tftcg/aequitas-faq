@@ -1,4 +1,4 @@
-<faq><target name="Chromia - Special Ops"><entry id="37" mode="bot">
+<faq><target name="Chromia - Special Ops"><entry source="Wave 1 FAQ" id="37" mode="bot">
       <question>
     Let’s say I reveal one white battle icon during Chromia’s attack. Then I flip another white battle icon
 in the two bonus cards. Will her ability trigger?
@@ -8,7 +8,7 @@ in the two bonus cards. Will her ability trigger?
 checking if that ability triggers or not.
 </answer>
     </entry>
-  <entry id="RR1-24" tags="Chromia - Special Ops">
+  <entry source="Rules Roundup 2019-RR-1" id="RR1-24" tags="Chromia - Special Ops">
       <question>
 While playing Chromia, you trigger her ability by flipping 2 white icons for your first 2 battle card flips, is that when your draw into hand happens? Or do you continue your battle flips then take your draw into hand?
       </question>

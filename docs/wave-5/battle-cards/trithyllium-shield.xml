@@ -1,4 +1,4 @@
-<faq><target name="Trithyllium Shield"><entry id="48">
+<faq><target name="Trithyllium Shield"><entry source="Wave 5 FAQ" id="48">
             <question>
                 If the upgraded character is defending against a Decepticon Leader, does it also get +1 defense from the first ability?
             </question>
@@ -6,7 +6,7 @@
                 Yes. Both abilities apply. The upgraded character gets +1 defense and the attacker gets their Pierce total reduced by 3.
           </answer>
       </entry>
-      <entry id="49">
+      <entry source="Wave 5 FAQ" id="49">
         
             <question>
                 If the attacking character is a Decepticon Leader but it doesn't have Pierce or it has Pierce 2 or less, what happens?

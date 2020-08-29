@@ -1,8 +1,8 @@
-<faq><target name="Backup Bag"><entry id="169">
+<faq><target name="Backup Bag"><entry source="Wave 2 and 3 FAQ" id="169">
       <question>Can I use Backup Bag to save a Weapon or Armor that causes itself to be scrapped, such as Grenade Launcher?</question>
       <answer>Yes.</answer>
     </entry>
-  <entry id="7-8">
+  <entry source="Rules Roundup 2019-10-11" id="7-8">
       <question>
 Dreadwing is equipped with Forcefield, Emergency Defense Field, and Backup Bag takes 5 or more attack damage, what happens? I think that the Forcefield would try to scrap first (reducing the damage to 4) and the Back-Up Bag would save it... then the Emergency Defense Field would make Dreadwing take no damage and scrap. Is that right?
         </question>
@@ -10,7 +10,7 @@ Dreadwing is equipped with Forcefield, Emergency Defense Field, and Backup Bag t
 That is correct!
       </answer>
     </entry>
-    <entry id="10-28">
+    <entry source="Rules Roundup 2019-11-22" id="10-28">
       <question>
 Question regarding interaction between Backup Bag and weapons which can be scrapped during attack (e.g. Sturdy Javelin and Multi-Missile Pod). If I choose to scrap the weapon and it's saved by Backup Bag, can I choose to scrap it again during the same attack?
         </question>
@@ -18,7 +18,7 @@ Question regarding interaction between Backup Bag and weapons which can be scrap
 No. It scraps as a result of a triggered ability, which does not trigger again. You would have to somehow attack a second time.
       </answer>
     </entry>
-    <entry id="628-15">
+    <entry source="Rules Roundup 2019-06-28" id="628-15">
       <question>
 If I play a Device Virus and select one of my armors to scrap but I have Backup Bag on that character and it scraps instead, would my opponent have to scrap armors or utilities?
       </question>
@@ -26,7 +26,7 @@ If I play a Device Virus and select one of my armors to scrap but I have Backup 
 Your opponent would have to scrap the type of upgrade you chose with Device Virus.  
       </answer>
     </entry>
-    <entry id="1-27">
+    <entry source="Rules Roundup 2019-07-12" id="1-27">
       <question>
 Question regarding Backup Bag + Grenade Launcher / Power Punch / RR Disruptor Blade Can I scrap backup bag instead of a weapon?
 </question>
@@ -34,7 +34,7 @@ Question regarding Backup Bag + Grenade Launcher / Power Punch / RR Disruptor Bl
 Yes!
 </answer>
     </entry>
-    <entry id="528-6">
+    <entry source="Rules Roundup 2019-05-28" id="528-6">
       <question>
 Say I attack using a character equipped with Backup Bag and Grenade Launcher. After the attack, would Grenade Launcher get scrapped or would Backup Bag prevent that?
       </question>
@@ -42,7 +42,7 @@ Say I attack using a character equipped with Backup Bag and Grenade Launcher. Af
 Backup Bag would be scrapped in place of Grenade Launcher in this scenario.
       </answer>
     </entry>
-    <entry id="528-7">
+    <entry source="Rules Roundup 2019-05-28" id="528-7">
       <question>
 If your character takes 10 damage while it has a Force Field and a Backup Bag, will the Backup Bag save the Force Field from being scrapped while also reducing the damage down to 4?
       </question>
@@ -50,7 +50,7 @@ If your character takes 10 damage while it has a Force Field and a Backup Bag, w
 It is Force Field’s own ability that is causing it to be scrapped, so Backup Back will apply. The character will take 4 attack damage and lose the Backup Bag.
       </answer>
     </entry>
-    <entry id="2-18">
+    <entry source="Rules Roundup 2019-07-29" id="2-18">
       <question>
 Say I have a weapon on a character and Backup Bag as well. For my turn I placed a different or same weapon on the same character. But because I already have a weapon taken up does the original weapon get scrapped or can I keep both weapons and scrap Backup Bag instead?
 </question>

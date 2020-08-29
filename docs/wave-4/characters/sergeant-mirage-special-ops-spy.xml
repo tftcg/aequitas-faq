@@ -1,8 +1,8 @@
-<faq><target name="Sergeant Mirage - Special Ops - Spy"><entry id="34" mode="alt">
+<faq><target name="Sergeant Mirage - Special Ops - Spy"><entry source="Wave 4 FAQ" id="34" mode="alt">
       <question>Is the card I reveal the card (or the first card) I draw?</question>
       <answer>Yes. Whether it has a blue battle icon or not, it will the card you next draw.</answer>
     </entry>
-    <entry id="35" mode="bot">
+    <entry source="Wave 4 FAQ" id="35" mode="bot">
       <question>Several cards in this set put battle cards under characters on the battlefield. If my opponent does this, and one of those cards is a Secret Action, will Sergeant Mirage’s ability see it and give him Tough 2?</question>
       <answer>No. Sergeant Mirage’s ability looks only in the played area. Secret Actions that somehow end up in your opponent’s KO area, scrap pile, or under a character on the battlefield don’t count.</answer>
     </entry>

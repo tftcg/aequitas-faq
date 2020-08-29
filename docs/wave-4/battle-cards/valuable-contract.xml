@@ -1,8 +1,8 @@
-<faq><target name="Valuable Contract"><entry id="84">
+<faq><target name="Valuable Contract"><entry source="Wave 4 FAQ" id="84">
       <question>Do I have to show my opponent which card I’m putting into my hand?</question>
       <answer>Yes. Your opponent is allowed to see the card and verify it has exactly 1 star.</answer>
     </entry>
-    <entry id="85">
+    <entry source="Wave 4 FAQ" id="85">
       <question>Say I upgrade a character that already has a Bounty ability with Valuable Contract. If it does enough attack damage to an enemy to KO it, what happens?</question>
       <answer>In that case, you’ll get to use both Bounty abilities in either order. You can’t use the character’s Bounty ability twice or Valuable Contract’s Bounty ability twice though.</answer>
     </entry>

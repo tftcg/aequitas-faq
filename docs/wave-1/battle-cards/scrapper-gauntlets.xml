@@ -1,4 +1,4 @@
-<faq><target name="Scrapper Gauntlets"><entry id="110">
+<faq><target name="Scrapper Gauntlets"><entry source="Wave 1 FAQ" id="110">
       <question>
     If one of my opponent’s characters has a Weapon, can I choose not to scrap it and draw a card?
 </question>
@@ -6,7 +6,7 @@
     No. If there is an enemy Weapon, you must scrap it. You draw a card only if you can’t scrap an enemy Weapon.
 </answer>
     </entry>
-  <entry id="10-38">
+  <entry source="Rules Roundup 2019-11-22" id="10-38">
       <question>
 I have a character with a Reactive Armor. I play a Scrapper Gauntlets on that character. My opponent only has a single Armor in play.  What is the timing on the triggers here?  Are they considered simultaneous, or does one need to happen before the other?
         </question>
@@ -14,7 +14,7 @@ I have a character with a Reactive Armor. I play a Scrapper Gauntlets on that ch
 They trigger simultaneously and you resolve them in an order of your choosing.
       </answer>
     </entry>
-    <entry id="1-2">
+    <entry source="Rules Roundup 2019-07-12" id="1-2">
       <question>
 If Thrust has a Grenade Launcher and boosts a character that is attacking, and the opponent reveals a Bolster, to play a Scrapper Gauntlets to scrap the Grenade Launcher, does Thrust donate 7 or 3 attack to the attacking character?
 </question>
@@ -22,7 +22,7 @@ If Thrust has a Grenade Launcher and boosts a character that is attacking, and t
 7 attack. The amount has already been locked in.
 </answer>
     </entry>
-    <entry id="322-8" tags="Wheeljack - Weapons Inventor">
+    <entry source="Rules Roundup 2019-03-22" id="322-8" tags="Wheeljack - Weapons Inventor">
       <question>
 Wheeljack is in car mode is equipped with the following: 
 Multi-Tool, Turbo Boosters, and Scrapper Gauntlets.
@@ -34,7 +34,7 @@ For my action, I play Swap Parts between Wheeljack and Bumblebee. There are a LO
 These would all trigger at the same, so you would choose the order they happen in.
       </answer>
     </entry>
-    <entry id="308-19">
+    <entry source="Rules Roundup 2019-03-08" id="308-19">
       <question>
 If a character is equipped with 3 Combat Drones and the enemy plays a card such as Scrapper Gauntlets which scraps an enemy weapon, would just 1 of the 3 Combat Drones be scrapped or all 3? Thanks for all you guys do! Wave 2 is amazing!
       </question>

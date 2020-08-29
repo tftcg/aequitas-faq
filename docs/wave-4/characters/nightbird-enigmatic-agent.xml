@@ -1,4 +1,4 @@
-<faq><target name="Nightbird - Enigmatic Agent"><entry id="2">
+<faq><target name="Nightbird - Enigmatic Agent"><entry source="Tournament FAQ" id="2">
           <question>Which promo cards are permitted in Constructed tournaments?</question>
           <answer>
               P1: Bumblebee - Electrum Warrior
@@ -15,7 +15,7 @@
               P12: Tandem Targeting System (Energon Edition Foil Variant)
           </answer>
       </entry>
-      <entry id="9-8" tags="Nightbird - Enigmatic Agent">
+      <entry source="Rules Roundup 2019-11-08" id="9-8" tags="Nightbird - Enigmatic Agent">
       <question>
 Nightbird stealing cards from an opponent's scrap pile: Can I keep them after playing them?
         </question>

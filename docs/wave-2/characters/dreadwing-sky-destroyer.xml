@@ -1,4 +1,4 @@
-<faq><target name="Dreadwing - Sky Destroyer"><entry id="1">
+<faq><target name="Dreadwing - Sky Destroyer"><entry source="Wave 2 and 3 FAQ" id="1">
       <question>
              What are Combiners? 
         </question>
@@ -10,7 +10,7 @@ A character in Combiner mode is a single character, even though it’s made up o
 A character in Combiner mode can’t flip. Ignore any instruction to flip it. Also, a character in Combiner mode can’t “break apart” into its individual cards.
         </answer>
     </entry>
-  <entry id="8-3">
+  <entry source="Rules Roundup 2019-10-25" id="8-3">
       <question>
 Finally, how does Dreadwing - Sky Destroyer’s combine ability work with this scenario? Does the “untap step” happen before the end of turn step? Do they happen in a sequence of the active player’s choice? Or does the untapping of all characters happen even before this?
         </question>
@@ -18,7 +18,7 @@ Finally, how does Dreadwing - Sky Destroyer’s combine ability work with this s
 Characters untap before the end of turn step, so you both players would untap all of their characters, then you could combine Dreadwing, then your opponent could start their turn.
       </answer>
     </entry>
-    <entry id="6-9">
+    <entry source="Rules Roundup 2019-09-20" id="6-9">
       <question>
 If Dreadwing - Sky Destroyer has 2 Spinner Rims attached and flips a white trigger on attacking, does he flip 1 extra battle card for each Spinner Rims attached, or just 1 extra?
         </question>
@@ -26,7 +26,7 @@ If Dreadwing - Sky Destroyer has 2 Spinner Rims attached and flips a white trigg
 Both copies of Spinner Rims will trigger and allow you to flip an extra Battle Card, for a total of two, in this scenario.
       </answer>
     </entry>
-    <entry id="315-10" tags="Dreadwing - Sky Destroyer">
+    <entry source="Rules Roundup 2019-03-15" id="315-10" tags="Dreadwing - Sky Destroyer">
       <question>
 Since Dreadwing has two upgrades slots, if I have Bravery equipped, can I choose to play another utility to get it off it, or does it get equipped?
       </question>
@@ -34,7 +34,7 @@ Since Dreadwing has two upgrades slots, if I have Bravery equipped, can I choose
 If a character has an open upgrade slot, new upgrades won’t cause you to scrap any existing upgrades.
       </answer>
     </entry>
-    <entry id="628-24" tags="Dreadwing - Sky Destroyer,Predaking - Ferocious Hunter">
+    <entry source="Rules Roundup 2019-06-28" id="628-24" tags="Dreadwing - Sky Destroyer,Predaking - Ferocious Hunter">
       <question> 
 What exactly happens when I attack using...
     1. Dreadwing with 2 Anticipation Engines and 2 Metal Detectors?
@@ -44,7 +44,7 @@ What exactly happens when I attack using...
 With multiple Anticipation Engines and/or Metal Detectors, you handle the abilities one at a time. If you have an Anticipation Engine and a Metal Detector, you must specify which one you are using before revealing the card. If the card you reveal doesn’t match the type of card you’re looking for, it just stays on top of your deck. The next ability will reveal the same card, so choose wisely. 
       </answer>
     </entry>
-    <entry id="218-20" tags="Dreadwing - Sky Destroyer">
+    <entry source="Rules Roundup 2019-02-18" id="218-20" tags="Dreadwing - Sky Destroyer">
       <question>
 What happens if you have 2 Aerial Recons on Dreadwing? Do you scrap the top card or not?
       </question>
@@ -52,7 +52,7 @@ What happens if you have 2 Aerial Recons on Dreadwing? Do you scrap the top card
 Any time more than 1 triggered ability triggers from the same action, do them in any order. For the first Aerial Recon, if you leave the card on the top of your deck, it will still be there for the second Aerial Recon.
       </answer>
     </entry>
-    <entry id="218-21" tags="Dreadwind - Air Defense,Blackwing Aerial Attacker,Dreadwing - Sky Destroyer">
+    <entry source="Rules Roundup 2019-02-18" id="218-21" tags="Dreadwind - Air Defense,Blackwing Aerial Attacker,Dreadwing - Sky Destroyer">
       <question>
 Dreadwind and Blackwing are both in the K.O. Area. If you combine them, Dreadwing would still be K.O.'d. What happens if you play I Still Function! on one of them, then combine them?
       </question>
@@ -60,7 +60,7 @@ Dreadwind and Blackwing are both in the K.O. Area. If you combine them, Dreadwin
 Dreadwind and Blackwing cannot be combined if they are both in the K.O. Area because their abilities won’t work. If you use I Still Function! to return one of them to the Battlefield, at end of turn, two abilities happen: I Still Function K.O.’s the character and the combining ability of whichever character you brought back happens. If you combine first, then I Still Function! still applies and will K.O. a combined Dreadwing. If I Still Function! K.O.’s the character you brought back first, the combining ability won’t do anything, and you’ll have Dreadwind and Blackwing in K.O. separately. Essentially, you can have Dreadwing in K.O. or Dreadwind and Blackwing in K.O.
       </answer>
     </entry>
-    <entry id="218-22" tags="Dreadwind - Air Defense,Blackwing Aerial Attacker,Dreadwing - Sky Destroyer">
+    <entry source="Rules Roundup 2019-02-18" id="218-22" tags="Dreadwind - Air Defense,Blackwing Aerial Attacker,Dreadwing - Sky Destroyer">
       <question>
 So what happens when your opponent is tapped out and you attack with Blackwing/Dreadwind and combine at the end of your turn? Your attack step is over, right? Can you not attack with Dreadwing the turn he comes into play in that case? Does your opponent take a turn and not attack because their characters are all tapped, or do you have to attack with Dreadwing the turn he comes into play since your opponent is tapped out?
       </question>
@@ -68,7 +68,7 @@ So what happens when your opponent is tapped out and you attack with Blackwing/D
 Because your turn is over and you’re past the attack and untap steps, you cannot attack again.
       </answer>
     </entry>
-    <entry id="218-26" tags="Dreadwing - Sky Destroyer,Predaking - Ferocious Hunter">
+    <entry source="Rules Roundup 2019-02-18" id="218-26" tags="Dreadwing - Sky Destroyer,Predaking - Ferocious Hunter">
       <question>
 If Dreadwing is equipped with Combat Training and 2 weapons and/or armors, does Combat Training give Dreadwing bold/tough 2 since he has 2 weapons/armors? Same question can be asked for Predaking; Does he get Bold 5 if he has 5 weapons and combat training?
       </question>
@@ -76,7 +76,7 @@ If Dreadwing is equipped with Combat Training and 2 weapons and/or armors, does 
 No. A single Combat Training gives Bold/Tough 1 at most.
       </answer>
     </entry>
-    <entry id="405-1" tags="Dreadwing - Sky Destroyer">
+    <entry source="Rules Roundup 2019-04-05" id="405-1" tags="Dreadwing - Sky Destroyer">
       <question>
 How do double Forcefields work on Dreadwing? Will both be scrapped in a single attack thus making 1 pointless? Or will 1 trigger and resolve then the 2nd is left on?
       </question>
@@ -84,7 +84,7 @@ How do double Forcefields work on Dreadwing? Will both be scrapped in a single a
 Both Forcefields will try to apply. You’ll need to choose one, which would reduce the damage, making the other Forcefield no longer apply to the scenario.
       </answer>
     </entry>
-    <entry id="405-3" tags="Dreadwind - Air Defense,Dreadwing - Sky Destroyer,Blackwing Aerial Attacker">
+    <entry source="Rules Roundup 2019-04-05" id="405-3" tags="Dreadwind - Air Defense,Dreadwing - Sky Destroyer,Blackwing Aerial Attacker">
       <question>
 Re: Rules Roundup: 2/18 - as related to Dreadwing and 'So what happens when your opponent is tapped out and you attack with Blackwing/Dreadwind and combine at the end of your turn?' The answer to this question is as I understood it, however, what is the sequence of play in this situation?
       </question>
@@ -92,7 +92,7 @@ Re: Rules Roundup: 2/18 - as related to Dreadwing and 'So what happens when your
 You would attack, check if all characters are tapped. If they are tapped, untap them, then end the turn. At that point, you may Combine. 
       </answer>
     </entry>
-    <entry id="322-10" tags="Dreadwing - Sky Destroyer">
+    <entry source="Rules Roundup 2019-03-22" id="322-10" tags="Dreadwing - Sky Destroyer">
       <question>
 My question revolves around Dreadwing, and if there are 2 Security Consoles equipped in the 2 Utility Slots. Would you resolve each Security Console's effects one at a time? Or would you Draw 2 Cards and then Plan 2? (As each Security Console gives lets your Draw a card then Plan 1)
       </question>
@@ -100,7 +100,7 @@ My question revolves around Dreadwing, and if there are 2 Security Consoles equi
 Multiple Security Consoles should be resolved one at a time. Their effects do not combine. If you put a card on the top of your deck from the first one, be sure to act surprised when you draw it again.
       </answer>
     </entry>
-    <entry id="401-3" tags="Dreadwing - Sky Destroyer">
+    <entry source="Rules Roundup 2019-04-01" id="401-3" tags="Dreadwing - Sky Destroyer">
       <question>
 Quick question: If Dreadwing has two Crash Landings equipped, does it deal double damage when KO'd? And if it does, can I do 7 damage to two separate targets?
       </question>
@@ -109,7 +109,7 @@ Quick answer: Yes, and yes.
 Not so quick answer: Each Crash Landing is triggered separately.
       </answer>
     </entry>
-    <entry id="412-8" tags="Dreadwing - Sky Destroyer">
+    <entry source="Rules Roundup 2019-04-12" id="412-8" tags="Dreadwing - Sky Destroyer">
       <question>
 If Dreadwing has two Force Fields equipped, wouldn't they both be scrapped at the same time? If a character would take 5 or more attack damage, both Force Fields would be triggered. Then you resolve them one at a time, in the order of your choice. The first one would scrap and reduce damage taken to 4. The second would scrap but the damage was already reduced to 4. This follows the Dinobot Sludge + Data Pad ruling where both effects are triggered at attack, and even if Data Pad puts your hand equal to your opponent, you still resolve Sludge's ability to draw 2 cards. Correct?
       </question>
@@ -117,7 +117,7 @@ If Dreadwing has two Force Fields equipped, wouldn't they both be scrapped at th
 No. Force Field is not a triggered ability. See explanation regarding replacement effects above.
       </answer>
     </entry>
-    <entry id="308-15" tags="Dreadwing - Sky Destroyer,Blackwing Aerial Attacker">
+    <entry source="Rules Roundup 2019-03-08" id="308-15" tags="Dreadwing - Sky Destroyer,Blackwing Aerial Attacker">
       <question>
 You target Blackwing, bring him back and combine. Now, Blackwing is technically gone right? As Dreadwing is its own bot. But you said I Still Function! KO’s Dreadwing. 
       </question>
@@ -125,7 +125,7 @@ You target Blackwing, bring him back and combine. Now, Blackwing is technically 
 As a Combiner, Dreadwing is a mode of Blackwing. Dreadwing is also a mode of Dreadwind.
     </answer>
     </entry>
-    <entry id="228-4" tags="Combiner,Volcanicus - Fiery Champion,KO,Dreadwing - Sky Destroyer">
+    <entry source="Rules Roundup 2019-02-28" id="228-4" tags="Combiner,Volcanicus - Fiery Champion,KO,Dreadwing - Sky Destroyer">
       <question>
 Does the I Still Function! + Dreadwing rule apply generally to Combiners or is it specific to Dreadwing’s method of Combination? Suppose I control Dinobot Sludge - Mighty Stomper and have the five Dinobot components in my KO Area. Can I Brainstorm+ I Still Function! + Dinobot Enigma and expect to keep Volcanicus at the end of the turn?
       </question>

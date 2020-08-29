@@ -1,4 +1,4 @@
-<faq><target name="Permitted and Banned Cards"><entry id="1">
+<faq><target name="Permitted and Banned Cards"><entry source="Tournament FAQ" id="1">
           <question>Which card sets are permitted in Constructed tournaments?</question>
           <answer>
               Wave 1: Transformers TCG Booster Packs
@@ -17,7 +17,7 @@
               Wave One Energon Edition (Character and Battle Cards)
           </answer>
       </entry>
-      <entry id="2">
+      <entry source="Tournament FAQ" id="2">
           <question>Which promo cards are permitted in Constructed tournaments?</question>
           <answer>
               P1: Bumblebee - Electrum Warrior
@@ -34,14 +34,14 @@
               P12: Tandem Targeting System (Energon Edition Foil Variant)
           </answer>
       </entry>
-      <entry id="3">
+      <entry source="Tournament FAQ" id="3">
           <question>What Cards are banned in Constructed Tournaments?</question>
           <answer>
               The Battle Cards Swap Parts and Press the Advantage are banned from use in Constructed play. 
               The Battle Card Multi-Mission Gear has also been announced as banned.
           </answer>
       </entry>
-  <entry id="7-9" tags="Permitted and Banned Cards">
+  <entry source="Rules Roundup 2019-10-11" id="7-9" tags="Permitted and Banned Cards">
       <question>
 Are Character cards with Voice Actor signatures on them (if you got your card signed, something I might want to do) legal for tournament play? If so, are there any specifics? (in another TCG, as long as the signature doesn't cover any of the text on the card; it's legal)
         </question>

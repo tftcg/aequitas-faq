@@ -1,8 +1,8 @@
-<faq><target name="Fog of War"><entry id="81">
+<faq><target name="Fog of War"><entry source="Wave 2 and 3 FAQ" id="81">
       <question>Who scraps cards from their hand first?</question>
       <answer>Actually, you each scrap cards at the same time. Each player should choose the cards they’re going to scrap and set them aside without revealing them. Once both players are ready, they turn them face up and put them in their scrap pile.</answer>
     </entry>
-  <entry id="1-1">
+  <entry source="Rules Roundup 2019-07-12" id="1-1">
       <question>
 I have a question about Wave 1 Shockwave’s bot mode ability. If I cause my opponent to scrap several cards at once (like with Fog of War), do they take 1 damage per card they scrap of just 1 damage in total.
 </question>

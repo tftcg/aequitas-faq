@@ -1,8 +1,8 @@
-<faq><target name="Contract Contingency"><entry id="46">
+<faq><target name="Contract Contingency"><entry source="Wave 4 FAQ" id="46">
       <question>Can I choose a character that doesn’t have a Bounty ability just to get the attack bonus?</question>
       <answer>Yes. The last ability won’t do anything, but you’ll still get the +2 attack.</answer>
     </entry>
-  <entry id="10-16">
+  <entry source="Rules Roundup 2019-11-22" id="10-16">
       <question>
 If Nightbird attacks with a Contract Contingency and it triggers Nightbird’s bounty, can I take another Contract Contingency from my opponent’s scrap pile, play this, then trigger Nightbird’s bounty again?
 Or can you only trigger Contract Contingency once because you are not getting 4 or more attack damage through after applying the plus 2 to the already finished attack?

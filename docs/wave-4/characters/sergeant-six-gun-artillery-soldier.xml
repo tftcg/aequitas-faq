@@ -1,8 +1,8 @@
-<faq><target name="Sergeant Six-Gun - Artillery - Soldier"><entry id="22" mode="bot">
+<faq><target name="Sergeant Six-Gun - Artillery - Soldier"><entry source="Wave 4 FAQ" id="22" mode="bot">
       <question>If I have a Weapon in my hand that gives an attack bonus because of an ability in its text box, will that bonus count for Six-Gun’s ability?</question>
       <answer>No. You can scrap a Weapon only if it has a + number in the orange stats box.</answer>
     </entry>
-  <entry id="10-26" tags="Sergeant Six-Gun - Artillery - Soldier">
+  <entry source="Rules Roundup 2019-11-22" id="10-26" tags="Sergeant Six-Gun - Artillery - Soldier">
       <question>
 Interesting Sergeant Six-Gun question. If I have both of his Upgrades on one character, and say an Armor in his Armor slot (so in this case Six-Gun’s Upgrades are in Weapon and Utility, respectively), can I scrap said armor to put on a Utility? One of his guns says you can put in Armor or Utility slots but I'm not sure if you could scrap one to play the other.
         </question>

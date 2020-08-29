@@ -1,4 +1,4 @@
-<faq><target name="Battle Icon"><entry id="5" tags="Battle Icon">
+<faq><target name="Battle Icon"><entry source="Wave 2 and 3 FAQ" id="5" tags="Battle Icon">
       <question>
              What is a Green Battle Icon?
         </question>
@@ -10,7 +10,7 @@ scrapped at the end of the turn, along with all the other cards you played or fl
 turn.
         </answer>
     </entry>
-    <entry id="6" tags="Battle Icon">
+    <entry source="Wave 2 and 3 FAQ" id="6" tags="Battle Icon">
       <question>
              I flipped 2 cards with green battle icons. Can I return both of them to my hand by swapping
 two cards?
@@ -20,7 +20,7 @@ two cards?
 
         </answer>
     </entry>
-    <entry id="7" tags="Battle Icon">
+    <entry source="Wave 2 and 3 FAQ" id="7" tags="Battle Icon">
       <question>
              If both players flip a card with a green battle icon, who decides first?
         </question>
@@ -28,7 +28,7 @@ two cards?
              The player whose turn it is goes first, then the other player.
         </answer>
     </entry>
-  <entry id="129" tags="Battle Icon">
+  <entry source="Wave 2 and 3 FAQ" id="129" tags="Battle Icon">
       <question>
           What is a Black Battle Icon?
       </question>
@@ -41,7 +41,7 @@ Remember that pierce numbers add up, so flipping two black icons in an attack wi
 attacker pierce 2, and so on.
       </answer>
     </entry>
-    <entry id="130" tags="Battle Icon">
+    <entry source="Wave 2 and 3 FAQ" id="130" tags="Battle Icon">
       <question>
              Do black battle icons have any effect on a character that’s defending?
         </question>
@@ -50,7 +50,7 @@ attacker pierce 2, and so on.
 doesn’t work on defense anyway.)
       </answer>
     </entry>
-  <entry id="315-7" tags="Battle Icon">
+  <entry source="Rules Roundup 2019-03-15" id="315-7" tags="Battle Icon">
       <question>
 So on Spare Parts it says after each battle you may swap 1 card from your hand with one of your flipped green pip cards, is this just a printing of the base rule, or a card effect that lets you swap out a second green pip?
       </question>
@@ -58,7 +58,7 @@ So on Spare Parts it says after each battle you may swap 1 card from your hand w
 That’s just reminder text for anyone who may have forgotten how the green battle icons work.
       </answer>
     </entry>
-    <entry id="315-15" tags="Battle Icon">
+    <entry source="Rules Roundup 2019-03-15" id="315-15" tags="Battle Icon">
       <question>
 What does ‘each battle’ entail regarding green icons? For example, if my opponent has 3 attacks on my one character, every time I flip a green battle icon for each individual battle that turn, I can add one green icon for each battle, totaling 3? 
       </question>
@@ -66,7 +66,7 @@ What does ‘each battle’ entail regarding green icons? For example, if my opp
 Yes. You can get one green battle icon per battle.
       </answer>
     </entry>
-    <entry id="315-17" tags="Battle Icon">
+    <entry source="Rules Roundup 2019-03-15" id="315-17" tags="Battle Icon">
       <question>
 Hello. I have a question about green pips and turns with multiple attacks. When does the card exchange happen? After each attack? After all attacks are resolved? If it is after all attacks are resolved, do you only exchange for one card, or do you exchange for each attack? In the rules it used the term battle and I was not sure if that meant each attack or all attacks.
       </question>
@@ -74,7 +74,7 @@ Hello. I have a question about green pips and turns with multiple attacks. When 
 You can swap for a green battle icon card after each attack has finished. If there are multiple attacks in a turn, you can swap for one green battle icon card after each of those attacks, I.E. attack, swap, attack, swap, and so on.
       </answer>
     </entry>
-    <entry id="218-29" tags="Battle Icon">
+    <entry source="Rules Roundup 2019-02-18" id="218-29" tags="Battle Icon">
       <question>
 Does Inverted! supersede other effects that look at pips? Or can the order be chosen? For example, Inverted! with Thermal Weaponry, could a blue pip add to pierce before changing into an orange pip?
       </question>
@@ -82,7 +82,7 @@ Does Inverted! supersede other effects that look at pips? Or can the order be ch
 Battle icon colors do not exist simultaneously. When Battle Icons are made to change colors, it happens instantaneously.
       </answer>
     </entry>
-    <entry id="401-11" tags="Battle Icon">
+    <entry source="Rules Roundup 2019-04-01" id="401-11" tags="Battle Icon">
       <question> 
 The wording on what exactly goes on with green pip cards added to the hand from the flip zone has me minorly confused. 
 1. When the swap occurs, is the card from hand exchanged scrapped then or at the end of the turn?
@@ -93,7 +93,7 @@ The wording on what exactly goes on with green pip cards added to the hand from 
 2. It does not trigger Shockwave’s ability because you’re not scrapping a card from your hand. The flipped cards are being scrapped.
       </answer>
     </entry>
-  <entry id="211-14" tags="Battle Icon">
+  <entry source="Rules Roundup 2019-02-11" id="211-14" tags="Battle Icon">
       <question>
 Let's say that my opponent has 1 single untapped character with 2 defense. It is my turn and I have 2 or 3 characters, so I will attack multiple times. During my first attack my opponent flipped 1 or 2 blue icons. The question is: During my second attack, my opponent's character will start the battling with 2 defense or with 4 defense? Also, the same may happen with the orange icon if I got a way to attack twice with the same player in a turn?
       </question>
@@ -101,7 +101,7 @@ Let's say that my opponent has 1 single untapped character with 2 defense. It is
 The Battle Icons you flip are only effective for that individual battle. Attack and Defense increases will not carry over.
       </answer>
     </entry>
-    <entry id="528-1" tags="Raider Cindersaur - Black Ops - Demolitions,Alpha Trion - Cybertronian Sage,Battle Icon">
+    <entry source="Rules Roundup 2019-05-28" id="528-1" tags="Raider Cindersaur - Black Ops - Demolitions,Alpha Trion - Cybertronian Sage,Battle Icon">
       <question>
 Alpha Trion and Raider Cindersaur label actions by the colored battle icons. Can you explain what makes a card an Orange or Blue Card? Does that mean that they have to have at least one orange icon to be an orange card? If this is the case, then can Alpha Trion use his ability to play a Roll Out! because it has at least 1 blue icon?
       </question>
@@ -109,7 +109,7 @@ Alpha Trion and Raider Cindersaur label actions by the colored battle icons. Can
 A “blue card” is a card with at least one blue battle icon, and so on for the other colors, so you would be able to play Roll Out with Alpha Trion’s ability.
       </answer>
     </entry>
-    <entry id="528-2" tags="Battle Icon">
+    <entry source="Rules Roundup 2019-05-28" id="528-2" tags="Battle Icon">
       <question>
 Say I, on my opponent's turn, have Infiltrate facedown and they play a secret action that has an orange icon (I, of course, don't know this). How does this interaction work, considering secret actions are considered actions?
       </question>
@@ -117,7 +117,7 @@ Say I, on my opponent's turn, have Infiltrate facedown and they play a secret ac
 Infiltrate will never affect a Secret Action because as you’ve said, you can’t see its Battle Icons as it’s played.
       </answer>
     </entry>
-    <entry id="2-28" tags="Battle Icon">
+    <entry source="Rules Roundup 2019-07-29" id="2-28" tags="Battle Icon">
       <question>
 Question about green battle icons and how the work. The text on a card with a green icon says "After a battle, you swap a card from your hand with a green icon you flipped" does this mean since Swarm makes you flip the battle cards. Can you grab a green icon you flipped for Swarm after you battle?
 </question>

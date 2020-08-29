@@ -1,4 +1,4 @@
-<faq><target name="I Still Function!"><entry id="96">
+<faq><target name="I Still Function!"><entry source="Wave 1 FAQ" id="96">
       <question>
     How many damage counters does a character in the KO area have?
 </question>
@@ -6,7 +6,7 @@
     A KO’d character has damage counters on it equal to its health. Note that this is true even if it took more damage while on the battlefield. For example, if a character with 7 health takes 10 damage, it ends up in the KO area with 7 damage counters. If you return it with I Still Function!, it will end up with 6 damage counters.
 </answer>
     </entry>
-    <entry id="97">
+    <entry source="Wave 1 FAQ" id="97">
       <question>
     What mode is the returned character in?
 </question>
@@ -14,8 +14,8 @@
     It stays in whatever mode it was KO’d in. If you haven’t already flipped one of your characters, you can flip the returned character to its other mode.
 </answer>
     </entry>
-      <entry id="98" xref="Rules_Roundup-2019-07-12#1-21" />
-  <entry id="8-6" tags="Torox - Fueler">
+      <entry source="Wave 1 FAQ" id="98" xref="Rules_Roundup-2019-07-12#1-21" />
+  <entry source="Rules Roundup 2019-10-25" id="8-6" tags="Torox - Fueler">
       <question>
 Say I have Torox in alt mode and my opponent plays I Still Function! Since ISF repairs 1 damage when it pulls the character from the KO area, and Torox’ alt mode skill shuts down healing, would the character being revived with ISF:
     a) Get brought back, then immediately KO’d due to having damage equal to its health
@@ -26,7 +26,7 @@ Say I have Torox in alt mode and my opponent plays I Still Function! Since ISF r
     The character is brought back and then immediately KO’d as it has an amount of damage equal to its health.
       </answer>
     </entry>
-    <entry id="7-3">
+    <entry source="Rules Roundup 2019-10-11" id="7-3">
       <question>
 In a turn where I play Brainstorm, allowing for 2 more actions. I play I Still Function!, bringing Buzzsaw (Spy) from the KO Area, then I play Recover Cassette, putting Buzzsaw underneath Soundwave. Will that cancel out I Still Function!?
         </question>
@@ -34,7 +34,7 @@ In a turn where I play Brainstorm, allowing for 2 more actions. I play I Still F
 Yes, it will. Once Buzzsaw goes underneath Soundwave, all existing and/or pending game effects stop applying to him.
       </answer>
     </entry>
-    <entry id="315-22" tags="Predacon Rampage - Savage Hunter,Predaking - Ferocious Hunter">
+    <entry source="Rules Roundup 2019-03-15" id="315-22" tags="Predacon Rampage - Savage Hunter,Predaking - Ferocious Hunter">
       <question>
 Following up on this ruling: 
 "Based off the I Still Function! Ruling, would I be able to transform Razorclaw to bot mode, then combine into Predaking but retain his flip ability to attack untapped characters since he's part of the Combiner? 
@@ -45,7 +45,7 @@ Does this mean that if I flip Rampage into bot-mode and combine into Predaking t
 Rampage’s ability has not triggered yet and would not carry over as it does not specify the duration of “this turn” like Razorclaw’s ability does.
       </answer>
     </entry>
-    <entry id="4-5">
+    <entry source="Rules Roundup 2019-08-23" id="4-5">
       <question>
 If I have a tapped character get KO’d that has already attacked, if I play I Still Function!, does he come from the KO pile untapped?
         </question>
@@ -53,7 +53,7 @@ If I have a tapped character get KO’d that has already attacked, if I play I S
 Tapped characters get KO’d into the KO Area and are no longer tapped or untapped once in the KO Area. I Still Function! Returns the KO’d character to the Battlefield untapped.
 </answer>
     </entry>
-    <entry id="628-17" tags="Wheeljack - Weapons Inventor,Insecticon Skrapnel - Insecticon Leader,Ransack - Insecticon Commando">
+    <entry source="Rules Roundup 2019-06-28" id="628-17" tags="Wheeljack - Weapons Inventor,Insecticon Skrapnel - Insecticon Leader,Ransack - Insecticon Commando">
       <question> 
 My opponent has Wheeljack untapped and I have Skrapnel untapped. It's my turn and I flip Skrapnel to alt mode, then play I Still Function! to bring back Ransack in bot mode from the KO area. Then I attack with Ransack to Wheeljack, and after the flip of battle cards, Ransack is KO’d. Does Skrapnel’s ability trigger because of Ransack getting KO’d and make Wheeljack tap, letting me attack with Skrapnel?
       </question>
@@ -61,7 +61,7 @@ My opponent has Wheeljack untapped and I have Skrapnel untapped. It's my turn an
 You can do either, but not both. If you want to tap a character using Skrapnel’s flip trigger, you must KO Ransack before he can attack. If you want to attack with Ransack, it will be too late to flip Skrapnel to utilize his flip trigger. 
       </answer>
     </entry>
-    <entry id="218-2">
+    <entry source="Rules Roundup 2019-02-18" id="218-2">
       <question>
 If I play I Still Function! and bring a character back from the K.O Area and you have other untapped characters, is the character you returned from the K.O Area required to take its turn first or can you use it after some of your other characters have had their turn? 
       </question>
@@ -69,7 +69,7 @@ If I play I Still Function! and bring a character back from the K.O Area and you
 If you’re attacking with multiple characters, you can attack in any order. I Still Function! doesn’t give you an extra attack by itself.
       </answer>
     </entry>
-    <entry id="218-21" tags="Dreadwind - Air Defense,Blackwing Aerial Attacker,Dreadwing - Sky Destroyer">
+    <entry source="Rules Roundup 2019-02-18" id="218-21" tags="Dreadwind - Air Defense,Blackwing Aerial Attacker,Dreadwing - Sky Destroyer">
       <question>
 Dreadwind and Blackwing are both in the K.O. Area. If you combine them, Dreadwing would still be K.O.'d. What happens if you play I Still Function! on one of them, then combine them?
       </question>
@@ -77,7 +77,7 @@ Dreadwind and Blackwing are both in the K.O. Area. If you combine them, Dreadwin
 Dreadwind and Blackwing cannot be combined if they are both in the K.O. Area because their abilities won’t work. If you use I Still Function! to return one of them to the Battlefield, at end of turn, two abilities happen: I Still Function K.O.’s the character and the combining ability of whichever character you brought back happens. If you combine first, then I Still Function! still applies and will K.O. a combined Dreadwing. If I Still Function! K.O.’s the character you brought back first, the combining ability won’t do anything, and you’ll have Dreadwind and Blackwing in K.O. separately. Essentially, you can have Dreadwing in K.O. or Dreadwind and Blackwing in K.O.
       </answer>
     </entry>
-    <entry id="517-7" tags="Captain Elita-1 - Special Ops - Ranger">
+    <entry source="Rules Roundup 2019-05-17" id="517-7" tags="Captain Elita-1 - Special Ops - Ranger">
       <question>
 How does the new Captain Elita-1 interact with I Still Function!? If my opponent KO’s her during their turn, and I scrap I Still Function as one of the two cards from her trigger, is Elita-1 a valid target for the card?
       </question>
@@ -85,7 +85,7 @@ How does the new Captain Elita-1 interact with I Still Function!? If my opponent
 Elita-1 would be a valid target for I Still Function!, but she would still be KO’d at the end of the turn. She would trigger again.
       </answer>
     </entry>
-    <entry id="308-2">
+    <entry source="Rules Roundup 2019-03-08" id="308-2">
       <question>
 Are cards with no battle icons (such as I Still Function!) considered a separate battle icon color for Grapple - Autobot Architect's bot mode ability?
       </question>
@@ -93,7 +93,7 @@ Are cards with no battle icons (such as I Still Function!) considered a separate
 No. Cards with no battle icons would not apply to Grapple - Autobot Architect’s bot mode ability.
     </answer>
     </entry>
-    <entry id="308-4">
+    <entry source="Rules Roundup 2019-03-08" id="308-4">
       <question>
 So with the ruling for combiners KO’ing after you play I Still Function! because the sort of 'status effect' of the card, would all buffs/debuffs/other status effects carry over to Combiner mode?
       </question>
@@ -101,7 +101,7 @@ So with the ruling for combiners KO’ing after you play I Still Function! becau
 Yes.
     </answer>
     </entry>
-    <entry id="308-15" tags="Dreadwing - Sky Destroyer,Blackwing Aerial Attacker">
+    <entry source="Rules Roundup 2019-03-08" id="308-15" tags="Dreadwing - Sky Destroyer,Blackwing Aerial Attacker">
       <question>
 You target Blackwing, bring him back and combine. Now, Blackwing is technically gone right? As Dreadwing is its own bot. But you said I Still Function! KO’s Dreadwing. 
       </question>
@@ -109,7 +109,7 @@ You target Blackwing, bring him back and combine. Now, Blackwing is technically 
 As a Combiner, Dreadwing is a mode of Blackwing. Dreadwing is also a mode of Dreadwind.
     </answer>
     </entry>
-    <entry id="308-17" tags="Razorclaw - Predacon Leader">
+    <entry source="Rules Roundup 2019-03-08" id="308-17" tags="Razorclaw - Predacon Leader">
       <question>
 Based off the I Still Function! Ruling, would I be able to transform Razorclaw to bot mode, then combine into Predaking but retain his flip ability to attack untapped characters since he's part of the Combiner?
       </question>
@@ -117,7 +117,7 @@ Based off the I Still Function! Ruling, would I be able to transform Razorclaw t
 Yes.
     </answer>
     </entry>
-    <entry id="528-11" tags="Grimlock - Powerful Commander,Dinobot Sludge - Mighty Stomper,Volcanicus - Fiery Champion">
+    <entry source="Rules Roundup 2019-05-28" id="528-11" tags="Grimlock - Powerful Commander,Dinobot Sludge - Mighty Stomper,Volcanicus - Fiery Champion">
       <question>
 If I start my game with Wave 1 Dinobot Sludge and Wave 2 Grimlock and Dinobot Swoop. After I was able to bring the rest of my Wave 2 Dinobots into the KO area, Grimlock is KO’d and Dinobot Sludge was the only card left on my battlefield in bot mode. On my turn, I played the Dinobot Enigma and then flipped Dinobot Sludge to take all of his damage, was this correct? Also, what if I had played a Brainstorm then an I Still Function! and then a Dinobot Enigma after which I would flip Dinobot Sludge? Is that a better scenario?
       </question>
@@ -126,7 +126,7 @@ In your first scenario, Volcanicus appears on the battlefield with 55 damage cou
 In your second scenario, you can I Still Function! one of the five Dinobots and then use the Dinobot Engima to form Volcanicus. Volcanicus will have 54 damage counters on him (because of the 1 damage ISF! repairs). No matter what, he will be KO’d at the end of the turn, so repairing him with Dinobot Sludge probably won’t do a lot.
       </answer>
     </entry>
-    <entry id="228-4" tags="Combiner,Volcanicus - Fiery Champion,KO,Dreadwing - Sky Destroyer">
+    <entry source="Rules Roundup 2019-02-28" id="228-4" tags="Combiner,Volcanicus - Fiery Champion,KO,Dreadwing - Sky Destroyer">
       <question>
 Does the I Still Function! + Dreadwing rule apply generally to Combiners or is it specific to Dreadwing’s method of Combination? Suppose I control Dinobot Sludge - Mighty Stomper and have the five Dinobot components in my KO Area. Can I Brainstorm+ I Still Function! + Dinobot Enigma and expect to keep Volcanicus at the end of the turn?
       </question>
@@ -134,7 +134,7 @@ Does the I Still Function! + Dreadwing rule apply generally to Combiners or is i
 The same ruling applies. If you I Still Function! One of the Dinobots and then play Dinobot Enigma, at the end of your turn, Volcanicus will be KO’d.
       </answer>
     </entry>
-    <entry id="2-29" tags="Blaster - Communications,Soundwave - Communications,I Still Function!">
+    <entry source="Rules Roundup 2019-07-29" id="2-29" tags="Blaster - Communications,Soundwave - Communications,I Still Function!">
       <question>
 Blaster vs. Soundwave. Ravage is in the KO area. Step #1, I play brainstorm. Step #2, I play I Still Function, which brings him back with 1 health. Step #3, I play Recover Cassette, which puts him under Soundwave to heal 2 damage. Now for the question: does I Still Function resolve and Ravage goes back into the KO area? Or does Ravage bypass that effect, thus he is not KO’d?
 </question>
@@ -142,7 +142,7 @@ Blaster vs. Soundwave. Ravage is in the KO area. Step #1, I play brainstorm. Ste
 Ravage is not KO’d. I Still Function does not find him on the battlefield.
 </answer>
     </entry>
-    <entry id="2-35" tags="Battle Master,I Still Function!">
+    <entry source="Rules Roundup 2019-07-29" id="2-35" tags="Battle Master,I Still Function!">
       <question>
 Once a Battle Master is in the KO pile does it still count as a character while in it's upgrade mode? Can I bring it back to the field with ISF? Is it forced back into bot mode to take the damage if it can? If not does it automatically equip? if it can equip, is it forced to ko pile at the end of the turn?
 </question>

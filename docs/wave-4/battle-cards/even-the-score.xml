@@ -1,8 +1,8 @@
-<faq><target name="Even the Score"><entry id="56">
+<faq><target name="Even the Score"><entry source="Wave 4 FAQ" id="56">
       <question>How does Even the Score interact with effects that modify how much attack damage a character takes, such as Blast Suit.</question>
       <answer>Even the Score doesn’t directly modify how much attack damage is being done to the character (note it doesn’t use “instead”), so it waits for effects like Blast Suit to apply, then sees if the character is taking more than enough attack damage to be KO’d.</answer>
     </entry>
-    <entry id="57">
+    <entry source="Wave 4 FAQ" id="57">
       <question>Is the damage done to the attacker attack damage?</question>
       <answer>No. Only damage done by the attacker counts as attack damage. Damage done by other cards, such as the damage done by Even the Score, isn’t attack damage.</answer>
     </entry>

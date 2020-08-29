@@ -1,12 +1,12 @@
-<faq><target name="Lockdown - Bounty Hunter"><entry id="16" mode="bot">
+<faq><target name="Lockdown - Bounty Hunter"><entry source="Wave 4 FAQ" id="16" mode="bot">
       <question>Lockdown’s Bounty ability puts a card from the bottom of my deck under himself. What does it mean when a card is under Lockdown?</question>
       <answer>The cards under Lockdown are basically out of play for a while. They’re not considered on the battlefield, even if that’s where they are physically, so none of their abilities apply. If one of those cards is an Upgrade, that Upgrade isn’t on Lockdown, and so on. They’re also not in your scrap pile, so they won’t be shuffled into your deck when it’s empty. They’re just used to keep track of the bonuses from Lockdown’s other abilities.</answer>
     </entry>
-    <entry id="17" mode="bot">
+    <entry source="Wave 4 FAQ" id="17" mode="bot">
       <question>Can I look at the card as it’s put under Lockdown?</question>
       <answer>No. The card is face-down, so neither player can look at it while it’s under Lockdown.</answer>
     </entry>
-    <entry id="18" mode="bot">
+    <entry source="Wave 4 FAQ" id="18" mode="bot">
       <question>What happens to the cards under Lockdown if he is KO’d?</question>
       <answer>They’re put into your scrap pile.</answer>
     </entry>

@@ -1,4 +1,4 @@
-<faq><target name="Sergeant Barricade - Infantry - Enforcer"><entry id="33" mode="bot">
+<faq><target name="Sergeant Barricade - Infantry - Enforcer"><entry source="Wave 4 FAQ" id="33" mode="bot">
       <question>Sergeant Barricade’s ability puts a flipped card under himself instead of into your scrap pile. What does it mean when a card is under Sergeant Barricade?</question>
       <answer>The card under Sergeant Barricade is basically out of play for a bit (at least, until you play it using the alt ode ability). While the card is under Sergeant Barricade, it’s not considered on the battlefield, even if that’s where it is physically, so none of its abilities apply. If the card is an Upgrade, that Upgrade isn’t on Sergeant Barricade, and so on. It’s also not in your scrap pile, so it won’t be shuffled into your deck when it’s empty.</answer>
     </entry>

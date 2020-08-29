@@ -1,4 +1,4 @@
-<faq><target name="Reckless Charge"><entry id="211-4" tags="KO">
+<faq><target name="Reckless Charge"><entry source="Rules Roundup 2019-02-11" id="211-4" tags="KO">
       <question>
 Do you check for KO as soon as you calculate damage or is it at the end of the attack phase? Is there a specific order for extra damage calculation outside the normal attack? This matters because of Reckless Charge potentially KOing both attacker and defender simultaneously. It also matters because of Electrified Spikes.
       </question>

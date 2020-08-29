@@ -1,4 +1,4 @@
-<faq><target name="Swarm!"><entry id="119">
+<faq><target name="Swarm!"><entry source="Wave 1 FAQ" id="119">
       <question>
     Can my opponent choose a different one of their characters for each 1 damage? Can I choose a different creature for each 1 repair?
 </question>
@@ -6,7 +6,7 @@
     Yes to both.
 </answer>
     </entry>
-    <entry id="120">
+    <entry source="Wave 1 FAQ" id="120">
       <question>
     Are the flipped battle cards put into the scrap pile?
 </question>
@@ -14,7 +14,7 @@
     Not right away. Set them aside for now, in the same place you put played Actions cards and battle cards flipped during the attack. Those cards will all be scrapped at the end of the turn.
 </answer>
     </entry>
-  <entry id="628-2" tags="Play">
+  <entry source="Rules Roundup 2019-06-28" id="628-2" tags="Play">
       <question>
 Are cards flipped during battle the only ones that don't hit the Scrap Pile until the end of a turn?
       </question>

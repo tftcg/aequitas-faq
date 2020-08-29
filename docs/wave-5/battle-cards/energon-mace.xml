@@ -1,4 +1,4 @@
-<faq><target name="Energon Mace"><entry id="34">
+<faq><target name="Energon Mace"><entry source="Wave 5 FAQ" id="34">
             <question>
                 If the upgraded character is attacking an Autobot Leader, does it also get +1 attack from the first ability?
             </question>
@@ -7,7 +7,7 @@
           </answer>
         
       </entry>
-  <entry id="38">
+  <entry source="Wave 5 FAQ" id="38">
             <question>
                 If one of my characters has a Weapon or Utility in its Armor slot (e.g. Energon Mace), can I play Ghost Shield to upgrade that character?
             </question>

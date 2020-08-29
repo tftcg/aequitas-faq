@@ -1,20 +1,20 @@
-<faq><target name="Motormaster - Stunticon Leader"><entry id="37" mode="alt">
+<faq><target name="Motormaster - Stunticon Leader"><entry source="Wave 2 and 3 FAQ" id="37" mode="alt">
       <question>What happens if my opponent’s card tries to move damage counters onto one of my other characters?</question>
       <answer>Motormaster’s ability won’t affect any card that tries to move damage counters from one character to another. That doesn’t count as dealing damage. (The damage was already dealt.  It’s just moving.)</answer>
     </entry>
-    <entry id="38" mode="alt">
+    <entry source="Wave 2 and 3 FAQ" id="38" mode="alt">
       <question>Does Motormaster’s ability have any effect on my own cards?</question>
       <answer>No. Your cards can still do damage to your other characters. (Although they hope you have a good reason for doing that.)</answer>
     </entry>
-    <entry id="39" mode="bot">
+    <entry source="Wave 2 and 3 FAQ" id="39" mode="bot">
       <question>Can I choose an untapped Stunticon to defend, even if I have other tapped Stunticons?</question>
       <answer>Yes. You can choose any Stunticon to defend, ignoring abilities like brave and stealth, and ignoring which characters are tapped and untapped.</answer>
     </entry>
-    <entry id="40" mode="bot">
+    <entry source="Wave 2 and 3 FAQ" id="40" mode="bot">
       <question>Does Motormaster take the damage with his Alt Mode effect?</question>
       <answer>Motormaster takes damage that would normally be dealt to him, but does not take damage meant for other characters.</answer>
     </entry>
-  <entry id="201-2" tags="Motormaster - Stunticon Leader">
+  <entry source="Rules Roundup 2019-02-01" id="201-2" tags="Motormaster - Stunticon Leader">
       <question>
 With Motormaster’s ability, for instance, are both character cards and battle cards considered to be "cards"?
       </question>
@@ -22,7 +22,7 @@ With Motormaster’s ability, for instance, are both character cards and battle 
 Yes.
     </answer>
     </entry>
-    <entry id="201-9" tags="Motormaster - Stunticon Leader,Combiner">
+    <entry source="Rules Roundup 2019-02-01" id="201-9" tags="Motormaster - Stunticon Leader,Combiner">
       <question>
 If Motormaster or Ironhide - Steadfast Brawler have three Cargo Trailer attached to them and they combine, can the Cargo Trailers be transferred over to the new Combiner even though the new Combiner is not a Truck? If so, can you transfer all three Cargo Trailers or just one? 
       </question>
@@ -30,7 +30,7 @@ If Motormaster or Ironhide - Steadfast Brawler have three Cargo Trailer attached
 You can transfer all three Cargo Trailers.
     </answer>
     </entry>
-    <entry id="RR1-7" tags="Motormaster - Stunticon Leader">
+    <entry source="Rules Roundup 2019-RR-1" id="RR1-7" tags="Motormaster - Stunticon Leader">
       <question>
 Does Motormaster take the damage with his Alt Mode effect?
       </question>
@@ -38,7 +38,7 @@ Does Motormaster take the damage with his Alt Mode effect?
 Motormaster takes damage that would normally be dealt to him, but does not take damage meant for other characters.
       </answer>
     </entry>
-    <entry id="218-12" tags="Motormaster - Stunticon Leader">
+    <entry source="Rules Roundup 2019-02-18" id="218-12" tags="Motormaster - Stunticon Leader">
       <question>
 Related to that point, does Motormaster block Bombing Run? 
       </question>
@@ -46,7 +46,7 @@ Related to that point, does Motormaster block Bombing Run?
 No.
       </answer>
     </entry>
-    <entry id="517-9" tags="Motormaster - Stunticon Leader">
+    <entry source="Rules Roundup 2019-05-17" id="517-9" tags="Motormaster - Stunticon Leader">
       <question>
 With Motormaster's bot mode ability, when do you choose who going to defend? Is it before your opponent flips or after they flip and before you flip? The key phrase that I'm confused about is "If this would defend". When is the "defend" step?
       </question>
@@ -54,7 +54,7 @@ With Motormaster's bot mode ability, when do you choose who going to defend? Is 
 Motormaster’s bot mode ability is triggered in response to an attack, so the attacker will resolve all of their triggers from attacking, then Motormaster’s ability will allow you to choose a new defender, then the defense triggers will begin.
       </answer>
     </entry>
-    <entry id="5-7" tags="Motormaster - Stunticon Leader">
+    <entry source="Rules Roundup 2019-09-06" id="5-7" tags="Motormaster - Stunticon Leader">
       <question>
 Does Motormaster's ability prevent damage from character abilities? Such as Decepticon Shockwave's discard damage or Superion's first time combining ability if the opponent decided to target someone other than Motormaster?
         </question>
@@ -62,7 +62,7 @@ Does Motormaster's ability prevent damage from character abilities? Such as Dece
 Yes.
 </answer>
     </entry>
-    <entry id="401-4" tags="Motormaster - Stunticon Leader">
+    <entry source="Rules Roundup 2019-04-01" id="401-4" tags="Motormaster - Stunticon Leader">
       <question>
 My group has found conflicting answers in regard to Steamroll’s damage carryover being considered "combat damage" or not. FAQ on the app states that it is Attack Damage. Yet, Roundup 2/28/19 states that Motormaster would protect against Steamroll (making it non-attack damage) and Roundup 2/22/19 specifically states that Steamroll is NOT attack damage. 
       </question>
@@ -70,7 +70,7 @@ My group has found conflicting answers in regard to Steamroll’s damage carryov
 It’s possible you might be looking at an older iteration of the FAQ. There were conflicting answers earlier in the set’s life, but Steamroll’s damage carryover is not considered attack damage.
       </answer>
     </entry>
-    <entry id="412-11" tags="Motormaster - Stunticon Leader,Grimlock - Dinobot Leader">
+    <entry source="Rules Roundup 2019-04-12" id="412-11" tags="Motormaster - Stunticon Leader,Grimlock - Dinobot Leader">
       <question>
 A situation came up today after Grimlock in bot mode (Wave 1) attacked Motor Master in truck mode. Does the extra damage carry over if Motor Master is KO’d? We couldn’t quite figure out the timing. If Motor Master is KO’d, does his ability then not work, or is the extra damage assigned prior to the KO?
       </question>
@@ -78,7 +78,7 @@ A situation came up today after Grimlock in bot mode (Wave 1) attacked Motor Mas
 In this scenario, Motormaster would be KO’d and his ability would not apply. Grimlock’s ability will trigger after Motormaster is KO’d.
       </answer>
     </entry>
-    <entry id="308-5" tags="Motormaster - Stunticon Leader">
+    <entry source="Rules Roundup 2019-03-08" id="308-5" tags="Motormaster - Stunticon Leader">
       <question>
 Does Motormaster's bot mode skill redirect the attack to another of your Stunticons, or does the other Stunticon defend on behalf of Motormaster, with him still taking any resultant damage?
       </question>
@@ -86,7 +86,7 @@ Does Motormaster's bot mode skill redirect the attack to another of your Stuntic
 The other Stunticon defends and thus takes the attack damage.
     </answer>
     </entry>
-    <entry id="211-1" tags="Grimlock - Dinobot Leader,Motormaster - Stunticon Leader,Insecticon Skrapnel - Insecticon Leader">
+    <entry source="Rules Roundup 2019-02-11" id="211-1" tags="Grimlock - Dinobot Leader,Motormaster - Stunticon Leader,Insecticon Skrapnel - Insecticon Leader">
       <question>
 Does Grimlock's bot mode’s extra damage count as attack damage? If it does, and assuming Grimlock has 5 or more extra damage, how much damage does it do in the following situations:
 A. Damage is assigned to a bit with Force Field equipped.
@@ -97,7 +97,7 @@ C. Any bot that is protected by Motormaster alt mode skill.
 The extra damage is not attack damage, so if you are redirecting to a bot-mode Skrapnel or a character with a force field on it, they will take the full additional damage. On the other hand, a damage-capping effect on the character you’re attacking will be relevant. So, if you have a Skrapnel in bot-mode with 5 damage on him and Grimlock attacks him for say 10 damage, that damage will be reduced to 3 by Skrapnel’s ability, 2 of it will KO him, and the last point will be assigned to another character of the defending player’s choice.
       </answer>
     </entry>
-    <entry id="228-5" tags="Motormaster - Stunticon Leader">
+    <entry source="Rules Roundup 2019-02-28" id="228-5" tags="Motormaster - Stunticon Leader">
       <question>
 If I have 3 characters and one of them is Motormaster in alt mode. My opponent plays a Steamroll and does more than enough damage to KO one of my other two characters. Do I have to put the extra damage on Motormaster or can I put it on my third character? If I put it on my third character does Motormaster's ability cause that damage to be lost or does the Steamroll effect supersede Motormaster's ability?
       </question>

@@ -1,4 +1,4 @@
-<faq><target name="Faction"><entry id="3" tags="Faction">
+<faq><target name="Faction"><entry source="Wave 1 FAQ" id="3" tags="Faction">
         <question>
              Some cards refer to Autobots or Decepticons. How do I know which characters are Autobots?
         </question>
@@ -7,7 +7,7 @@
     </answer>
     </entry>
 
-<entry id="610-1" tags="Soldier's Blaster,Faction">
+<entry source="Rules Roundup 2020-06-10" id="610-1" tags="Soldier's Blaster,Faction">
         <question>
             How does Soldier's Blaster (and similar cards) work when interacting with a character who is both an Autobot and a Decepticon? 
         </question>

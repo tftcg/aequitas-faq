@@ -1,4 +1,4 @@
-<faq><target name="Play"><entry id="13" tags="Peace Through Tyranny">
+<faq><target name="Play"><entry source="Tournament FAQ" id="13" tags="Peace Through Tyranny">
           <question>
              What is the Extra Turn Rule?
           </question>
@@ -6,7 +6,7 @@
               Players can’t take more than two turns in a row under any circumstances. Any additional turns beyond two consecutive turns are skipped and not deferred or saved for the future. 
           </answer>
       </entry>
-      <entry id="14">
+      <entry source="Tournament FAQ" id="14">
           <question>
               How do you tap a card?
           </question>
@@ -14,7 +14,7 @@
               If a card is tapped, it must be clearly turned approximately 90 degrees.
           </answer>
       </entry>
-      <entry id="18">
+      <entry source="Tournament FAQ" id="18">
           <question>
               What is Hidden Information?
           </question>
@@ -25,7 +25,7 @@ However, players may choose to reveal their hands or any other hidden informatio
           </answer>
       </entry>
 
-  <entry id="RR1-12" tags="Play">
+  <entry source="Rules Roundup 2019-RR-1" id="RR1-12" tags="Play">
       <question>
 Must I attack every turn?
       </question>
@@ -33,7 +33,7 @@ Must I attack every turn?
 You must attack if you are able.
       </answer>
     </entry>
-    <entry id="RR1-13" tags="Play">
+    <entry source="Rules Roundup 2019-RR-1" id="RR1-13" tags="Play">
       <question>
 Must I flip a character every turn?
       </question>
@@ -41,7 +41,7 @@ Must I flip a character every turn?
 No. It’s your choice whether or not to flip a character.
       </answer>
     </entry>
-    <entry id="RR1-15" tags="Play">
+    <entry source="Rules Roundup 2019-RR-1" id="RR1-15" tags="Play">
       <question>
 The rulebook says "When your turn ends, put all battle cards you flipped for attacks during that turn into your scrap pile. Also put any Actions you played that turn into your scrap pile." When do you scrap the cards the defender flipped for attacks?
       </question>
@@ -49,7 +49,7 @@ The rulebook says "When your turn ends, put all battle cards you flipped for att
 At the same time.
       </answer>
     </entry>
-    <entry id="RR1-17" tags="Play,Jetfire - Air Guardian,Wheeljack - Weapons Inventor">
+    <entry source="Rules Roundup 2019-RR-1" id="RR1-17" tags="Play,Jetfire - Air Guardian,Wheeljack - Weapons Inventor">
       <question>
 Am I allowed to count the cards remaining in my deck (Obviously without looking at them face up)? Am I allowed to look through my scrap pile at any time, or only when prompted from a card? (e.g. Wheeljack or Jetfire)
       </question>
@@ -57,7 +57,7 @@ Am I allowed to count the cards remaining in my deck (Obviously without looking 
 Yes and yes.
       </answer>
     </entry>
-    <entry id="628-1" tags="Play,Wheeljack - Weapons Inventor">
+    <entry source="Rules Roundup 2019-06-28" id="628-1" tags="Play,Wheeljack - Weapons Inventor">
       <question>
 If you have no cards in your scrap pile and play a weapon to replace an already existing weapon on a character, does the replaced weapon immediately go to your scrap pile, or does it hit the scrap pile at the end of your turn? Asking because of Wheeljack's bot mode ability requiring a weapon in the scrap pile to give him the bold 3 effect.
       </question>
@@ -65,7 +65,7 @@ If you have no cards in your scrap pile and play a weapon to replace an already 
 Immediately.
       </answer>
     </entry>
-    <entry id="628-2" tags="Play">
+    <entry source="Rules Roundup 2019-06-28" id="628-2" tags="Play">
       <question>
 Are cards flipped during battle the only ones that don't hit the Scrap Pile until the end of a turn?
       </question>
@@ -73,7 +73,7 @@ Are cards flipped during battle the only ones that don't hit the Scrap Pile unti
 Actions that are played (including Secret Actions), cards you flipped during battle, and other cards you flip due to cards like Swarm!, for example, are all scrapped at the end of turn.
       </answer>
     </entry>
-    <entry id="628-23" tags="Play">
+    <entry source="Rules Roundup 2019-06-28" id="628-23" tags="Play">
       <question>
 If a card says reveal does it come into play or go back to the top. Example if I have Anticipation Engine and I reveal an upgrade does it stay in the play area until the end of turn, or go to the top of deck?
       </question>
@@ -81,7 +81,7 @@ If a card says reveal does it come into play or go back to the top. Example if I
 Just revealing a card doesn’t cause it to move.
       </answer>
     </entry>
-    <entry id="218-3" tags="Play">
+    <entry source="Rules Roundup 2019-02-18" id="218-3" tags="Play">
       <question>
 What counts as Attack Damage and what doesn't?
       </question>
@@ -89,7 +89,7 @@ What counts as Attack Damage and what doesn't?
 Attack Damage is damage dealt by the attacking character as a result of an attack. Any other damage, including damage dealt during an attack because of an ability, is non-attack damage.
       </answer>
     </entry>
-    <entry id="218-13" tags="Play">
+    <entry source="Rules Roundup 2019-02-18" id="218-13" tags="Play">
       <question>
 What happens if for any reason I`m unable to reshuffle my deck in the middle of an attack
       </question>
@@ -97,7 +97,7 @@ What happens if for any reason I`m unable to reshuffle my deck in the middle of 
 Do as much as you can. If you run out of cards in your deck and scrap pile during a battle, stop flipping and resolve that attack.
       </answer>
     </entry>
-    <entry id="218-16" tags="Play">
+    <entry source="Rules Roundup 2019-02-18" id="218-16" tags="Play">
       <question>
 If I manage to draw my entire deck into my hand, is my deck in constant reshuffle? 
       </question>
@@ -105,7 +105,7 @@ If I manage to draw my entire deck into my hand, is my deck in constant reshuffl
 No. You need to actually shuffle cards in to have a successful shuffle.
       </answer>
     </entry>
-    <entry id="218-34" tags="Play">
+    <entry source="Rules Roundup 2019-02-18" id="218-34" tags="Play">
       <question>
 If we play a game of sealed, that has a ton of bold shenanigans going on, and I flip my deck, shuffle up, scrap, and flip all of my new deck but am still owed more flips, am I just out of luck?
       </question>
@@ -113,7 +113,7 @@ If we play a game of sealed, that has a ton of bold shenanigans going on, and I 
 Yes.
       </answer>
     </entry>
-    <entry id="1-6" tags="Play">
+    <entry source="Rules Roundup 2019-07-12" id="1-6" tags="Play">
       <question>
 Can you scrap cards from your hand? This came up from playing a lot of the Turbo format with my kids. Inevitably someone had one or two cards that you couldn’t play with the characters. If you’re allowed to scrap them from your hand when drawn it would still allow those cards to be useful for the pips when battling.
 </question>
@@ -121,7 +121,7 @@ Can you scrap cards from your hand? This came up from playing a lot of the Turbo
 You cannot scrap cards from your hand for no reason or simply because you’d like to, but there are a plethora of effects in the game (such as green battle icons) that allow you to swap cards in and out of your hand.
 </answer>
     </entry>
-    <entry id="405-2" tags="Play">
+    <entry source="Rules Roundup 2019-04-05" id="405-2" tags="Play">
       <question>
 If you run out of cards in a deck, do you shuffle immediately or wait until you have to draw/flip? 
       </question>
@@ -129,7 +129,7 @@ If you run out of cards in a deck, do you shuffle immediately or wait until you 
 Reshuffle immediately.
       </answer>
     </entry>
-    <entry id="405-7" tags="Play">
+    <entry source="Rules Roundup 2019-04-05" id="405-7" tags="Play">
       <question>
 Scenario: You've just reshuffled your scrap pile, you have a very large hand, and you go into battle with a lot of bold. You run out of cards in your deck to flip, and there are no cards in your scrap pile. What happens?
       </question>
@@ -137,7 +137,7 @@ Scenario: You've just reshuffled your scrap pile, you have a very large hand, an
 You stop flipping and immediately regret holding onto so many cards.
       </answer>
     </entry>
-    <entry id="610-4" tags="Play,Head Mode &amp; Body Mode">
+    <entry source="Rules Roundup 2020-06-10" id="610-4" tags="Play,Head Mode &amp; Body Mode">
         <question>
             Can a card target something even if it won't have an effect? For example, can Unconventional Flying Object target a Body mode character?
         </question>
@@ -146,7 +146,7 @@ You stop flipping and immediately regret holding onto so many cards.
         </answer>
     </entry>
     
-    <entry id="322-3" tags="Play">
+    <entry source="Rules Roundup 2019-03-22" id="322-3" tags="Play">
       <question>
 To scrap an upgrade from my own character, would I need a new upgrade in my hand, or can I just scrap it without a replacement upgrade?
       </question>
@@ -154,7 +154,7 @@ To scrap an upgrade from my own character, would I need a new upgrade in my hand
 You need a new upgrade to replace a scrapped upgrade. Your robots like their weapons and don’t cotton to giving them up willingly.
       </answer>
     </entry>
-    <entry id="401-10" tags="Play">
+    <entry source="Rules Roundup 2019-04-01" id="401-10" tags="Play">
       <question>
 When playing Best 2 out of 3, how do you decide who goes first after the first match?
       </question>
@@ -162,7 +162,7 @@ When playing Best 2 out of 3, how do you decide who goes first after the first m
 There aren’t official rules for this, but we recommended letting the loser of the first game choosing who goes first in the next game.
       </answer>
     </entry>
-    <entry id="412-1" tags="Play">
+    <entry source="Rules Roundup 2019-04-12" id="412-1" tags="Play">
       <question>
 When determining who goes first, does whoever wins the method used get to choose who goes first or do they HAVE to go first?
       </question>
@@ -170,7 +170,7 @@ When determining who goes first, does whoever wins the method used get to choose
 For casual games, especially with newer players, we recommend the person randomly chosen goes first. For more serious, competitive games, that player can choose to go first or second.
       </answer>
     </entry>
-    <entry id="412-2" tags="Play">
+    <entry source="Rules Roundup 2019-04-12" id="412-2" tags="Play">
       <question>
 The Round Up two weeks ago mentioned that the loser of game 1 picks who goes first for game 2, and so on for game 3. However, the official and most recent FAQ that’s published says that the player who starts the game alternates. Which should we go by, officially, for the tiebreaker?
       </question>
@@ -178,7 +178,7 @@ The Round Up two weeks ago mentioned that the loser of game 1 picks who goes fir
 The player who goes first alternating is meant for casual play. In a multi-game structure or best two-out-of-three scenario, the loser of one game chooses who goes first in the next game.
       </answer>
     </entry>
-    <entry id="412-9" tags="Play">
+    <entry source="Rules Roundup 2019-04-12" id="412-9" tags="Play">
       <question>
 It is my turn; my opponent is tapped out. I have one untapped Bot, I play Inferno Breath and tap my bot to deal 3 damage. It is now my turn to attack, but I have no bots to attack. I figure we will both untap, but who goes next? Do I attack as I have not attacked for my turn? Is it my opponent’s turn even, though I did not attack? Rules state you must attack each turn.
       </question>
@@ -186,7 +186,7 @@ It is my turn; my opponent is tapped out. I have one untapped Bot, I play Infern
 If you have no untapped characters when it’s time to attack, you simply skip the attack and your turn ends. In the scenario you described, all characters will untap and your opponent’s turn will begin.
       </answer>
     </entry>
-    <entry id="412-10" tags="Play">
+    <entry source="Rules Roundup 2019-04-12" id="412-10" tags="Play">
       <question>
 When you play an action, is it set aside until the turn ends because I've seen people do that? Or when you play an action, is it set aside until it fully concludes its skill?
       </question>
@@ -194,7 +194,7 @@ When you play an action, is it set aside until the turn ends because I've seen p
 All actions (and cards you flip for the battle) go into the played area until the end of the turn, when they are scrapped. (Secret Actions may stay in the played area a little longer).
       </answer>
     </entry>
-    <entry id="412-13" tags="Play">
+    <entry source="Rules Roundup 2019-04-12" id="412-13" tags="Play">
       <question>
 Say I have 2 untapped bots and my opponent's bots are all tapped out. I do my first attack and flip. Do those cards go to the scrap pile after damage is done?
       </question>
@@ -202,7 +202,7 @@ Say I have 2 untapped bots and my opponent's bots are all tapped out. I do my fi
 They go to the scrap pile at the end of your turn.
       </answer>
     </entry>
-    <entry id="426-2" tags="Play">
+    <entry source="Rules Roundup 2019-04-26" id="426-2" tags="Play">
       <question>
 If my opponent has all tapped enemies and I have 3 untapped enemies, do I start my regular turn drawing my card, flipping one character, playing one action and upgrade, then attack with all 3 of my character one after another skipping the opponents turns until all of my characters are tapped? Or after each attack I make is my opponent allowed to draw a card, flip, and play an action and upgrade?
       </question>
@@ -210,7 +210,7 @@ If my opponent has all tapped enemies and I have 3 untapped enemies, do I start 
 All three attacks happen during the same turn. After your turn is done, then your opponent’s turn begins.
       </answer>
     </entry>
-    <entry id="426-5" tags="Play">
+    <entry source="Rules Roundup 2019-04-26" id="426-5" tags="Play">
       <question>
 Do the abilities that last "until end of turn" last until the end of your attack or until all cards untap?
       </question>
@@ -218,7 +218,7 @@ Do the abilities that last "until end of turn" last until the end of your attack
 Neither! They last until the end of your turn. Usually, the attack is the last thing to happen during a turn, but this isn’t always true. As abilities can trigger both after the attack and at the end of turn and untapping.
       </answer>
     </entry>
-    <entry id="211-10" tags="Play,Deck">
+    <entry source="Rules Roundup 2019-02-11" id="211-10" tags="Play,Deck">
       <question>
 Can you play action cards in your opponents turn when you’re responding to their attack and secondly can you have as many battle cards in your deck as you want, as long as it’s a minimum of 40?
       </question>
@@ -226,7 +226,7 @@ Can you play action cards in your opponents turn when you’re responding to the
 No, you may only play Actions if you have an Action play which is generally during your turn before you attack. You can have as many battle cards as you want over 40 as long as you can reasonably manage them.
       </answer>
     </entry>
-    <entry id="528-9" tags="Play">
+    <entry source="Rules Roundup 2019-05-28" id="528-9" tags="Play">
       <question>
 If my opponent has one tapped character and I have two untapped characters and I start my turn. I draw a card, flip a character for the turn and play an upgrade but no action. I attack with my first character. Since it is still my turn and I can attack one more time, can I play my one action for the turn for the second attack rather than the first if the scenario is more favorable? Or do all sequence events have to be done before all attacks? 
       </question>
@@ -234,7 +234,7 @@ If my opponent has one tapped character and I have two untapped characters and I
 Attacking is the last thing you do in your turn. So, if you want to play an action, you must do so before your first attack.
       </answer>
     </entry>
-    <entry id="2-2" tags="Play">
+    <entry source="Rules Roundup 2019-07-29" id="2-2" tags="Play">
       <question>
 Concerning “start of turn” effects timing around the drawing 1 card from the general card rules: which of the following is true:
     You Draw 1 card from general game rules, then activate Start of Turn Effects (like Omnibots’ start of turn effects playing upgrades).
@@ -245,7 +245,7 @@ Concerning “start of turn” effects timing around the drawing 1 card from the
     1.
 </answer>
     </entry>
-    <entry id="2-43" tags="Inverted!,Play">
+    <entry source="Rules Roundup 2019-07-29" id="2-43" tags="Inverted!,Play">
       <question>
 I have run into a situation where my deck had no cards and no discard pile to shuffle in. We ruled it as when I attacked or defended, I had no cards to flip so I added 0 to my attack and defense. We were wondering if this would be a proper ruling. Second, for the card Inverted. It says that for each orange pip you flip becomes a blue pip and vice versa. For cards that rely on you flipping a certain color pip, do the pips flipped count as what they are or the inverted color?
 </question>

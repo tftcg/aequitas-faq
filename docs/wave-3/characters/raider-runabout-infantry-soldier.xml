@@ -1,8 +1,8 @@
-<faq><target name="Raider Runabout - Infantry - Soldier"><entry id="157" mode="alt">
+<faq><target name="Raider Runabout - Infantry - Soldier"><entry source="Wave 2 and 3 FAQ" id="157" mode="alt">
       <question>If I have Runamuck on the battlefield when I flip Raider Runabout to alt mode but he’s not damaged, can I still flip him from bot mode to alt mode?</question>
       <answer>Yes. The effects work separately.</answer>
     </entry>
-    <entry id="158" mode="alt">
+    <entry source="Wave 2 and 3 FAQ" id="158" mode="alt">
       <question>So that means I can still repair a damage from Runamuck even if he’s already in alt mode?</question>
       <answer>Correct.</answer>
     </entry>

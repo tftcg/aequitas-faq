@@ -1,4 +1,4 @@
-<faq><target name="Prowl - Strategic Mastermind"><entry id="201-8" tags="Combiner,Optimus Maximus - Ultimate Defender,Prowl - Strategic Mastermind">
+<faq><target name="Prowl - Strategic Mastermind"><entry source="Rules Roundup 2019-02-01" id="201-8" tags="Combiner,Optimus Maximus - Ultimate Defender,Prowl - Strategic Mastermind">
       <question>
 The enigma cards mention a Combiner keeps an upgrade in each slot, but here's a weird scenario involving that: Say Prowl, Strategic Mastermind is upgraded with a Power Sword. Since he's a melee character, he can obviously take this upgrade. But could you keep that Power Sword on Optimus Maximus when he combines, even though he's a ranged character?
       </question>
@@ -6,7 +6,7 @@ The enigma cards mention a Combiner keeps an upgrade in each slot, but here's a 
 Yes.
     </answer>
     </entry>
-    <entry id="607-18" tags="Prowl - Strategic Mastermind,Autobot Mirage - Counterintelligence">
+    <entry source="Rules Roundup 2019-06-07" id="607-18" tags="Prowl - Strategic Mastermind,Autobot Mirage - Counterintelligence">
       <question>
 What happens when the Sentinel Prowl attacks with Combat Commands and I want to use it on Mirage, into a character equipped to with Security Console? Does turn player flip flop Mirage first to look for an action to scrap before they draw?
       </question>
@@ -14,7 +14,7 @@ What happens when the Sentinel Prowl attacks with Combat Commands and I want to 
 The attack causes two abilities to trigger. One is yours (Combat Commands) and the other is your opponent’s (Security Console). You do yours first, but this causes another of your abilities to trigger (Mirage). You continue to use your abilities until you have none, then your opponent can use any of their pending abilities in any order. In this scenario, you would first use Combat Commands’ ability, then use Mirage’s ability, then your opponent would use Security Console’s ability.
       </answer>
     </entry>
-    <entry id="607-19">
+    <entry source="Rules Roundup 2019-06-07" id="607-19">
       <question>
 Let's say I'm playing Sentinels and I have Ironhide - Steadfast Brawler in my KO area in Alt mode. I flip him to Bot mode, giving my characters Pierce 2 until the end of the turn. If I then put a Combat Commands onto one of my Bots in play, let's say Prowl - Strategic Mastermind, attack with him, and use Combat Commands to Trigger Ironhide's KO ability, do my characters get pierce 4 until the end of turn, or does it stay at pierce 2? 
       </question>

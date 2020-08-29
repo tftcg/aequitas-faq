@@ -1,4 +1,4 @@
-<faq><target name="Master Sword"><entry id="43">
+<faq><target name="Master Sword"><entry source="Wave 5 FAQ" id="43">
             <question>
                 If an effect puts a Weapon directly onto the battlefield without playing it, can I put Master Sword on a character that didn't have a Weapon?
             </question>
@@ -7,7 +7,7 @@
           </answer>
         
       </entry>
-      <entry id="44">
+      <entry source="Wave 5 FAQ" id="44">
             <question>
                 If one of my characters has an Armor or Utility in its Weapon slot, can I play Master Sword to upgrade that character?
             </question>

@@ -1,4 +1,4 @@
-<faq><target name="Bombshell - Decepticon Psy Ops"><entry id="315-19">
+<faq><target name="Bombshell - Decepticon Psy Ops"><entry source="Rules Roundup 2019-03-15" id="315-19">
       <question> 
 Let's say I have Bombshell - Decepticon Psy Ops equipped with a Data Pad. When he attacks, would I trigger Data Pad's effect or Bombshell's skill first? Or do I get to choose the order they trigger in?
       </question>
@@ -6,7 +6,7 @@ Let's say I have Bombshell - Decepticon Psy Ops equipped with a Data Pad. When h
 You may choose the order because they are both attack triggers on your cards.
       </answer>
     </entry>
-    <entry id="1-3">
+    <entry source="Rules Roundup 2019-07-12" id="1-3">
       <question>
 I was playing with Bombshell - Decepticon Psy Ops with 5 health left, against Shockwave - Cybertron Commander. I scrapped 11 cards to KO him, but should his bot mode ability have triggered, killing me in the process?
 </question>
@@ -14,7 +14,7 @@ I was playing with Bombshell - Decepticon Psy Ops with 5 health left, against Sh
 Shockwave’s ability will trigger 11 times, but if those are the last two characters on the battlefield, your opponent will lose the game because Shockwave has been KO’d by Bombshell’s ability, but Bombshell is not yet KO’d by Shockwave’s ability.
 </answer>
     </entry>
-    <entry id="308-16">
+    <entry source="Rules Roundup 2019-03-08" id="308-16">
       <question>
 Based off of the ruling for Autobot Cosmos - Recon &amp; Communication (bot mode) that states that if defender is KO'd due to Cosmos’ ability, no defense flips are performed, When Bombshell - Decepticon Psy Ops (bot mode) attacks, are there battle flips for either party if a KO occurs from a discard?
       </question>
@@ -22,7 +22,7 @@ Based off of the ruling for Autobot Cosmos - Recon &amp; Communication (bot mode
 Nope. That’d be a garden variety KO.
     </answer>
     </entry>
-    <entry id="211-6">
+    <entry source="Rules Roundup 2019-02-11" id="211-6">
       <question>
 Does Bombshell - Decepticon Psy Ops' effect trigger before or after battle cards are flipped for the attack?
       </question>
@@ -30,7 +30,7 @@ Does Bombshell - Decepticon Psy Ops' effect trigger before or after battle cards
 You choose to use his ability (or not) before cards are flipped by either player. If you do and the defending character is KO’d, nobody flips.
       </answer>
     </entry>
-    <entry id="211-7">
+    <entry source="Rules Roundup 2019-02-11" id="211-7">
       <question>
 If Bombshell - Decepticon Psy Ops uses its ability to KO an opponent's character card, does the battle end, or do you get to select a new target for an attack due to the original target no longer being active on your opponent’s side of the field?
       </question>
@@ -38,7 +38,7 @@ If Bombshell - Decepticon Psy Ops uses its ability to KO an opponent's character
 The battle ends. Bombshell is still swinging at the air where the defender used to be standing.
       </answer>
     </entry>
-    <entry id="228-10">
+    <entry source="Rules Roundup 2019-02-28" id="228-10">
       <question>
 If you attack with Bombshell - Decepticon Psy Ops in bot mode and the defender has the 1-star upgrade Recon System attached, is that +1 to the total number of cards to be scrapped by the attacker? No. Bombshell’s ability only counts stars from characters, not from battle cards.
 

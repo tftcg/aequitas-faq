@@ -1,8 +1,8 @@
-<faq><target name="Dampening Field"><entry id="172">
+<faq><target name="Dampening Field"><entry source="Wave 2 and 3 FAQ" id="172">
       <question>What happens if my opponent is supposed to flip more than 4 cards during the battle?</question>
       <answer>The extra cards are simply not flipped. It doesn’t matter whether those extra flips were because of abilities like bold, a white battle icon, or any other ability.</answer>
     </entry>
-  <entry id="1-23">
+  <entry source="Rules Roundup 2019-07-12" id="1-23">
       <question>
 If I Bolster into a Multi Mission Gear, can I play Dampening Field and it activates?
 </question>

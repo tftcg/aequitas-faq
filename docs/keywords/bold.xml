@@ -1,4 +1,4 @@
-<faq><target name="Bold"><entry id="6" tags="Bold,Tough">
+<faq><target name="Bold"><entry source="Wave 1 FAQ" id="6" tags="Bold,Tough">
         <question>
              What happens if a character has more than one instance of Bold or Tough?
         </question>
@@ -7,7 +7,7 @@
     </answer>
     </entry>
 
-<entry id="7-2" tags="Bold,Tough,Pierce">
+<entry source="Rules Roundup 2019-10-11" id="7-2" tags="Bold,Tough,Pierce">
       <question>
 There's now an upgrade that says "Opponents cannot have more than Bold 2" or something to that effect. Mechanically, 3 instances of Bold 2 have worked the same as Bold 6. It hasn't been explicitly said that Bold and Tough stack just like Pierce, so does it?
         </question>

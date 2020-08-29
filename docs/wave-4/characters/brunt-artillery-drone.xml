@@ -1,4 +1,4 @@
-<faq><target name="Brunt - Artillery Drone"><entry id="37" mode="bot">
+<faq><target name="Brunt - Artillery Drone"><entry source="Wave 4 FAQ" id="37" mode="bot">
       <question>Does Brunt have a bot mode?</question>
       <answer>No. As a drone, Brunt has only alt mode. Brunt can’t be flipped, so ignore any instruction that tells you to.  </answer>
     </entry>

@@ -1,8 +1,8 @@
-<faq><target name="Infiltrate"><entry id="186">
+<faq><target name="Infiltrate"><entry source="Wave 2 and 3 FAQ" id="186">
       <question>What happens if my opponent plays a Secret Action? I can’t see its battle icons!</question>
       <answer>Infiltrate won’t be revealed because of a Secret Action, even if that Secret Action has orange battle icons. This is also true when the Secret Action is later revealed. It was already played face down, so Infiltrate won’t notice it. Sneaky!</answer>
     </entry>
-  <entry id="8-9">
+  <entry source="Rules Roundup 2019-10-25" id="8-9">
       <question>
 If I have Infiltrate face down on the table during my opponent's turn when they play a secret action, can I reveal Infiltrate on the off chance that my opponent's secret action has an orange icon?
         </question>
@@ -10,7 +10,7 @@ If I have Infiltrate face down on the table during my opponent's turn when they 
 No. Although the game knows that Secret Actions are Actions, it doesn’t know specifically which one it is, so it doesn’t know which Battle Icons it has, meaning Infiltrate will not work in this scenario.
 </answer>
     </entry>
-  <entry id="628-3" tags="Secret Action">
+  <entry source="Rules Roundup 2019-06-28" id="628-3" tags="Secret Action">
       <question>
 Can you opt out of flipping a Secret Action, even if it triggers? For example, if Infiltrate is on the field and your opponent plays an orange Action, could you choose not to negate it and hold Infiltrate's negate effect for -- hypothetically -- a second action that they use through other means? 
       </question>
@@ -18,7 +18,7 @@ Can you opt out of flipping a Secret Action, even if it triggers? For example, i
 Revealing Secret Actions is optional. A little while back, we had answered a question pertaining to this issue and said revealing Secret Actions was mandatory. After testing and reflecting on this internally, we’ve decided to reverse that decision. If additional game actions occur after the event that would have revealed the Secret Action, the player whose Secret Action it is will be considered to have elected not to reveal it. Note: This doesn’t mean you should play fast in order to try and trip your opponent up. If your opponent has played a Secret Action, you should give them a reasonable chance to reveal it. 
       </answer>
     </entry>
-    <entry id="628-4">
+    <entry source="Rules Roundup 2019-06-28" id="628-4">
       <question>
 What happens when you Special Ops Mission two Infiltrates and your opponent plays an orange Action? 
       </question>
@@ -26,7 +26,7 @@ What happens when you Special Ops Mission two Infiltrates and your opponent play
 You can choose to reveal one Infiltrate and leave the other one facedown to reveal later. You are allowed to reveal both, but the first Infiltrate would make the second one ineffective. 
       </answer>
     </entry>
-    <entry id="1-13">
+    <entry source="Rules Roundup 2019-07-12" id="1-13">
       <question>
 Say I play Infiltrate on my turn, then on my opponent's turn they play Focus Fire, which lets them play a second Focus Fire, which then lets them play the 3rd Focus Fire.
 
@@ -36,7 +36,7 @@ If I reveal my Infiltrate and negate their first Focus Fire, does it negate the 
 If you negate a Focus Fire, it also negates the ability of Focus Fire to play other instances of Focus Fire, stopping the chain.
 </answer>
     </entry>
-    <entry id="1-31">
+    <entry source="Rules Roundup 2019-07-12" id="1-31">
       <question>
 Infiltrate and Peace Through Tyranny - since the ruling was made that one can choose if a Secret Action triggers. Can I wait to see if the person playing PTT KO's one of his characters before deciding to reveal Infiltrate?
 </question>
@@ -45,7 +45,7 @@ No, you cannot. KO’ing a character is part of Peace Through Tyranny’s effect
 Also, it would just be a straight up super not cool thing to do, man.
 </answer>
     </entry>
-  <entry id="528-2" tags="Battle Icon">
+  <entry source="Rules Roundup 2019-05-28" id="528-2" tags="Battle Icon">
       <question>
 Say I, on my opponent's turn, have Infiltrate facedown and they play a secret action that has an orange icon (I, of course, don't know this). How does this interaction work, considering secret actions are considered actions?
       </question>
@@ -53,7 +53,7 @@ Say I, on my opponent's turn, have Infiltrate facedown and they play a secret ac
 Infiltrate will never affect a Secret Action because as you’ve said, you can’t see its Battle Icons as it’s played.
       </answer>
     </entry>
-    <entry id="528-3">
+    <entry source="Rules Roundup 2019-05-28" id="528-3">
       <question>
 If Optimus Prime - Battlefield Legend has Inverted on him, and during the attack flips Security Checkpoint and chooses to play it, does the Security Checkpoint count as Orange due to Inverted, which triggers the Secret Action Infiltrate?
       </question>
@@ -61,7 +61,7 @@ If Optimus Prime - Battlefield Legend has Inverted on him, and during the attack
 Yes. While OPBL is battling, the blue icons on Security Checkpoint become orange. When you play Security Checkpoint, your opponent’s Infiltrate sees you playing an orange action and triggers.
       </answer>
     </entry>
-    <entry id="2-6">
+    <entry source="Rules Roundup 2019-07-29" id="2-6">
       <question>
 If Optimus Prime - Battlefield Legend plays an orange battle icon card off his flips, and I reveal Infiltrate to scrap it, does the battle icon still count when calculating attack/defense and damage?
 </question>
@@ -69,7 +69,7 @@ If Optimus Prime - Battlefield Legend plays an orange battle icon card off his f
 The orange battle icon card increases OPBL’s attack after it is flipped. Removing the card from the played area after it’s flipped doesn’t change that.
 </answer>
     </entry>
-    <entry id="2-12" tags="Thundercracker - Mach Warrior">
+    <entry source="Rules Roundup 2019-07-29" id="2-12" tags="Thundercracker - Mach Warrior">
       <question>
 Do character abilities still trigger if the requirements are met through cards played but negated by the opponent or otherwise?
 For example, Wave 1 Thundercracker’s bot mode ability --&gt; Player 1 uses Supercharge, but player 2 reveals Infiltrate and negates Supercharge. Does Thundercracker's ability still trigger because an action was played? Meaning he would indeed get +1?

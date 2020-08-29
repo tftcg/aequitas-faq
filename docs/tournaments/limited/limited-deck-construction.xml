@@ -1,4 +1,4 @@
-<faq><target name="Limited Deck Construction"><entry id="22">
+<faq><target name="Limited Deck Construction"><entry source="Tournament FAQ" id="22">
           <question>
 What are the rules for Limited deck construction?
           </question>
@@ -7,7 +7,7 @@ Limited decks must contain a minimum of 25 battle cards. The maximum deck size i
           </answer>
       </entry>
 
-      <entry id="23">
+      <entry source="Tournament FAQ" id="23">
           <question>
 What is the Card Pool?
           </question>

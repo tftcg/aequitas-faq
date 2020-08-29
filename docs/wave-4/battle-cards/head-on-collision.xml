@@ -1,4 +1,4 @@
-<faq><target name="Head-on Collision"><entry id="59">
+<faq><target name="Head-on Collision"><entry source="Wave 4 FAQ" id="59">
       <question>If the chosen character attacks in alt mode but then somehow flips to a different mode in the middle of the attack, does it keep the +3 attack bonus?</question>
       <answer>No. The +3 attack bonus applies as long as the character is attacking and in alt mode. As soon as one of those isn’t true, the bonus stops applying. However, if the character returns to alt mode while it’s still attacking, the bonus would apply again.</answer>
     </entry>

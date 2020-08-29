@@ -1,8 +1,8 @@
-<faq><target name="Silverbolt - Aerialbot Leader"><entry id="48" mode="alt">
+<faq><target name="Silverbolt - Aerialbot Leader"><entry source="Wave 2 and 3 FAQ" id="48" mode="alt">
       <question>If Silverbolt attacks while in alt mode, how is attack damage calculated?</question>
       <answer>Silverbolt’s ability will trigger after you’ve flipped battle cards (assuming you flip the required battle icons). He’ll be in bot mode when it’s time to calculate attack damage, so you’ll use his base 3 attack. Note that if he flips to bot mode, and his bot mode ability KO’s the defender, Silverbolt won’t do attack damage.</answer>
     </entry>
-  <entry id="628-5" tags="Silverbolt - Aerialbot Leader">
+  <entry source="Rules Roundup 2019-06-28" id="628-5" tags="Silverbolt - Aerialbot Leader">
       <question>
 I have a question about the interaction between Anticipation Engine and the Enigmas. Let’s say Silverbolt has an Anticipation Engine equipped and the Aerialbots are all in bot mode. He attacks and flips the Aerialbot Enigma. What happens now? If the Aerialbots combine to form Superion does the attack continue, and if so, what is the base attack used to compute damage? Is it Superion’s attack or Silverbolt’s?
       </question>
@@ -10,7 +10,7 @@ I have a question about the interaction between Anticipation Engine and the Enig
 The attack continues, except now Superion (untapped) is attacking the target Silverbolt was previously attacking. Superion’s attack will be used to calculate damage. 
       </answer>
     </entry>
-    <entry id="308-7" tags="Silverbolt - Aerialbot Leader,Thrust - Supersonic Interceptor">
+    <entry source="Rules Roundup 2019-03-08" id="308-7" tags="Silverbolt - Aerialbot Leader,Thrust - Supersonic Interceptor">
       <question>
 Say Silverbolt attacks and his alt-mode ability triggers, allowing him to flip to bot mode thus making his base attack 3. If that is the case, then why would Optimus Prime - Battlefield Legend not get +5 attack if he attacks, uses his bot-mode ability and flips Rapid Conversion which in turn flips a tapped Thrust to bot-mode? Both Silverbolt and Thrust have triggered abilities but only Silverbolt benefits from the higher attack value. Why? Thrust’s alt-mode effect mentions “this character” NOT “this mode” or “alt mode”?
       </question>

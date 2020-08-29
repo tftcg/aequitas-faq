@@ -1,4 +1,4 @@
-<faq><target name="Callous Leadership"><entry id="6-6">
+<faq><target name="Callous Leadership"><entry source="Rules Roundup 2019-09-20" id="6-6">
       <question>
 Callous Leadership says "move up to 5 damage counters from..." and I was asked if you can put an excess amount of damage on somebody i.e putting 5 on an Acid Storm who only has 4 health left, or can you only move four damage counters on him?
         </question>
@@ -6,7 +6,7 @@ Callous Leadership says "move up to 5 damage counters from..." and I was asked i
 Yes, you can move 5 damage to a character even if they have fewer than 5 health remaining.
       </answer>
     </entry>
-    <entry id="607-3">
+    <entry source="Rules Roundup 2019-06-07" id="607-3">
       <question>
 If I equipped Insecticon Skrapnel - Insecticon Leader with a card that is worth 1 star, would he then be considered a leader with 8 stars? Could I then use Callous Leadership on him?
       </question>

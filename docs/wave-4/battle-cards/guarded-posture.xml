@@ -1,4 +1,4 @@
-<faq><target name="Guarded Posture"><entry id="58">
+<faq><target name="Guarded Posture"><entry source="Wave 4 FAQ" id="58">
       <question>Say a character with base attack 0 has Guarded Posture, and then I put a Primary Laser (a Weapon that gives it +2 attack) on it. What is the character’s attack?</question>
       <answer>It will have 1 attack. Although a character’s attack can’t go below 0, the -1 applies again once your character’s attack is raised.</answer>
     </entry>
