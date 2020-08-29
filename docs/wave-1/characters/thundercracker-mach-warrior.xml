@@ -1,0 +1,42 @@
+<faq><target name="Thundercracker - Mach Warrior"><entry id="69" mode="alt">
+      <question>
+    What happens if my opponent doesn’t have any melee enemies?
+</question>
+      <answer>
+    In that case, nothing happens.
+</answer>
+    </entry>
+  <entry id="315-14" tags="Thundercracker - Mach Warrior,Autobot Hound - Long-Range Scout">
+      <question>
+Had an interesting situation occur last night. Had Thundercracker on defense with 4 health remaining equipped with a Crash Landing. Autobot Hound was attacking who only had 2 health remaining. Hound had enough attack power after flipping to take out Thundercracker. Both were the last bots on each side, would Crash Landing still go off, creating a Draw?
+      </question>
+      <answer>
+Hound will KO Thundercracker and win the game before Thundercracker can Crash Land and KO Hound.
+      </answer>
+    </entry>
+    <entry id="426-14">
+      <question>
+Does Thundercracker - Mach Warrior get +1 attack if you play a Secret Action?
+      </question>
+      <answer>
+That’s a big 10-4.
+      </answer>
+    </entry>
+  <entry id="2-12" tags="Thundercracker - Mach Warrior">
+      <question>
+Do character abilities still trigger if the requirements are met through cards played but negated by the opponent or otherwise?
+For example, Wave 1 Thundercracker’s bot mode ability --&gt; Player 1 uses Supercharge, but player 2 reveals Infiltrate and negates Supercharge. Does Thundercracker's ability still trigger because an action was played? Meaning he would indeed get +1?
+</question>
+      <answer>
+The Infiltrate will scrap the action you played and negate its effect, but Thundercracker’s ability still triggers because you played an action.
+</answer>
+    </entry>
+    <entry id="2-48" tags="Thundercracker - Mach Warrior">
+      <question>
+How does Brainstorm work, exactly? Do I play the two actions from my hand immediately, then resolve them, or do I resolve the first action before playing and resolving the second action? What if a character's trigger happens between actions, such as Wave 1 Thundercracker? Are triggers resolved before or after the action that triggers them?
+</question>
+      <answer>
+You play one action from your hand, then you play the second, then resolve the triggers caused by those actions.
+</answer>
+    </entry>
+    </target></faq>

@@ -1,0 +1,10 @@
+<faq><target name="Intrusion Countermeasures Software"><entry id="40">
+            <question>
+                If the opponent's card includes other instructions, are those followed?
+            </question>
+            <answer>
+                Yes. You won't scrap any cards from your hand and instead, you'll draw 2 cards, but anything else your opponent's card said to do, you'll still do. If part of the effect refers to the card you scrapped, that part of the effect won't do anything.
+          </answer>
+        
+      </entry>
+  </target></faq>

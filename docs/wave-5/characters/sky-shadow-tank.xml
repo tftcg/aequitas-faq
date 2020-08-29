@@ -1,0 +1,9 @@
+<faq><target name="Sky Shadow (Tank)"><entry id="610-14" tags="KO,Sky Shadow Sync,Sky Shadow - Elite Warrior,Sky Shadow (Tank),Sky Shadow (Plane)">
+        <question>
+            In this scenario, the Stratagem Sky Shadow Sync is also in play. What exactly happens when you only have Sky Shadow (Tank) and Sky Shadow (Plane) as your last characters and both get KO'd at the same time?
+        </question>
+        <answer>
+            If all your characters are KOed, and there is no other card text saying otherwise (like a head's deploy ability), you lose. Sky Shadow Sync doesn't include such text, so if Sky Shadow (Tank) and Sky Shadow (Plane) are your last characters and both get KO'd at the same time, you lose the game.
+        </answer>
+    </entry>
+    </target></faq>

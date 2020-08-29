@@ -1,0 +1,33 @@
+<faq><target name="Specialist Ratchet - Engineering - Rescue &amp; Repair"><entry id="167" mode="alt">
+      <question>When do I use this ability?</question>
+      <answer>You use it before the game begins. After you put the Medic! into your hand, you’ll shuffle the rest of your deck. Then you’ll draw the normal 3 cards at the start of the game. This means you’ll start the game with 4 cards in hand (Medic! plus the 3 you draw). You’ll still draw a card at the start of your first turn.</answer>
+    </entry>
+    <entry id="168" mode="bot">
+      <question>If I move damage counters from one of my characters to another character, will Specialist Ratchet’s ability trigger?</question>
+      <answer>No. Moving damage counters is different than repairing.</answer>
+    </entry>
+  <entry id="502-4" tags="Specialist Ratchet - Engineering - Rescue &amp; Repair">
+      <question>
+If you play Salvage for Parts while Specialist Ratchet is in bot mode, and you scrap, say, 2 opponent upgrades along with yours do you get to use the repair for the opponents scrapped upgrades as attack for Ratchet?
+      </question>
+      <answer>
+For Salvage for Parts, you’re doing all of the repairing, so Ratchet’s ability will trigger that many times. In this scenario, that would give Ratchet +4 Attack.
+      </answer>
+    </entry>
+    <entry id="426-9" tags="Specialist Ratchet - Engineering - Rescue &amp; Repair">
+      <question>
+Say Specialist Ratchet (In bot mode) got a +3 attack bonus from his skill, and then flipped to alt mode. Would that +3 attack carry over into alt mode for the turn?
+      </question>
+      <answer>
+Yes.
+      </answer>
+    </entry>
+    <entry id="426-10" tags="Specialist Ratchet - Engineering - Rescue &amp; Repair,Private Trailbreaker - Infantry - Fortification &amp; Defense,Major Ultra Magnus - Infantry - City Commander">
+      <question>
+For Wave 3 Ratchet, Ultra Magnus, Trailbreaker and Wheeljack. Do you search for their related card before you draw starting hand or after?
+      </question>
+      <answer>
+Before the game starts, find their related card, shuffle, then draw three cards for your opening hand.
+      </answer>
+    </entry>
+    </target></faq>

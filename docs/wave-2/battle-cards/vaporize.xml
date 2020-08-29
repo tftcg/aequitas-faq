@@ -1,0 +1,9 @@
+<faq><target name="Vaporize"><entry id="412-4">
+      <question>
+Say Optimus Prime - Battlefield Legend attack a character with a Body Armor equipped, during the attack, Vaporize is revealed as attacking, and I choose to use the Vaporize on the Body Armor, does the defender still have tough 3?
+      </question>
+      <answer>
+OPBL’s ability says it triggers before defense flips, so the defender would lose that tough 3 in this scenario.
+      </answer>
+    </entry>
+    </target></faq>

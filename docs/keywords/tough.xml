@@ -1,0 +1,18 @@
+<faq><target name="Tough"><entry id="6" tags="Bold,Tough">
+        <question>
+             What happens if a character has more than one instance of Bold or Tough?
+        </question>
+        <answer>
+             Each Bold or Tough ability works. For example, if a creature with Bold 1 got a Weapon that gave it Bold 2, it would flip 3 additional cards when attacking.
+    </answer>
+    </entry>
+
+<entry id="7-2" tags="Bold,Tough,Pierce">
+      <question>
+There's now an upgrade that says "Opponents cannot have more than Bold 2" or something to that effect. Mechanically, 3 instances of Bold 2 have worked the same as Bold 6. It hasn't been explicitly said that Bold and Tough stack just like Pierce, so does it?
+        </question>
+      <answer>
+Yes. Bold, Tough, Pierce, and other key words with numerical values do stack.
+      </answer>
+    </entry>
+    </target></faq>

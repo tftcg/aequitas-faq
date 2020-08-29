@@ -1,0 +1,52 @@
+<faq><target name="Superior Jetpack"><entry id="8-4">
+      <question>
+This was written in Rules Roundup 10/11/19:
+“I play Brainstorm. Using my 2 actions, I play Ancient Wisdom first, then System Reboot. I draw Unleash Potential off of System Reboot, do I get to play it for free now?
+Both Brainstorm and Ancient Wisdom resolve “top to bottom”. When you play Brainstorm, then you play Ancient Wisdom, you must play Unleash Potential at that moment. In your case, you’ve moved past Ancient Wisdom and are continuing with Brainstorm, playing System Reboot. It’s now too late to play Unleash Potential with your previous Ancient Wisdom.”
+Would this rule also apply to Tech Research? You must play a Superior upgrade after playing Tech Research or else that Tech Research is not forfeit. Example: I play Brainstorm first, then I play Tech Research, then I play Medic. Can I play Superior Jetpack?
+        </question>
+      <answer>
+Superior upgrades only check to see if you have played Tech Research at some point previously in your turn. Therefore, there is no issue with playing other cards between Tech Research and a Superior upgrade.
+      </answer>
+    </entry>
+    <entry id="315-2" tags="Superior Jetpack,Superior Plating,Superior Cannon">
+      <question>
+Megatron - Arrogant Ruler’s ability says "If you flip to this mode you may play an upgrade”, Does this include all Superior Upgrades? (Jetpack, Plating, Cannon, etc.)
+      </question>
+      <answer>
+Yes, but only if you’ve already played Tech Research. Megatron’s ability doesn’t get around that requirement.
+      </answer>
+    </entry>
+    <entry id="222-1">
+      <question>
+Does Jetfire’s ability bypass Tech Research and allow me to attach cards like Superior Jetpack and Superior Plating?
+      </question>
+      <answer>
+Jetfire’s wording of “put” is different than “play”, which does circumvent the restrictions on cards like Superior Jetpack and Superior Plating.
+      </answer>
+    </entry>
+    <entry id="5-1">
+      <question>
+Can Quartermaster be used to move a Superior Cannon, Superior Jetpack, or Superior Plating from one character to another or do you still have to play a Tech Research first?
+        </question>
+      <answer>
+Yes, it can.
+</answer>
+    </entry>
+    <entry id="401-8" tags="Superior Cannon,Superior Jetpack,Superior Plating">
+      <question>
+Can Leap of Faith bypass the condition on all the Superior cards (Cannon, Jet pack, Plating) and allow you to attach them to a bot?
+      </question>
+      <answer>
+No.
+      </answer>
+    </entry>
+    <entry id="2-19" tags="Superior Plating,Superior Jetpack,Superior Cannon">
+      <question>
+If I play a card that allows me to play an upgrade, can I play a Superior Plating/Jetpack/Cannon without needing to play Tech Research?
+</question>
+      <answer>
+No.
+</answer>
+    </entry>
+    </target></faq>

@@ -1,0 +1,103 @@
+<faq><target name="Chop Shop - Sneaky Insecticon"><entry id="32" mode="alt">
+          <question>
+    If I scrap three Upgrades from Chop Shop, can I repair 1 damage from each of three of my
+Insecticons, or do I have to repair 3 damage from one Insecticon?
+</question>
+<answer>
+    You can choose a different Insecticon for each repair.
+</answer>
+</entry>
+    <entry id="33" mode="bot">
+      <question>
+    If Chop Shop has a Weapon attached to him, can you move another Weapon onto him?
+</question>
+      <answer>
+    Yes, but you’ll have to scrap the Weapon he originally had.
+</answer>
+    </entry>
+    <entry id="34" mode="bot">
+      <question>
+    If the Upgrade I move onto Chop Shop has an ability that triggers "when the Upgraded character
+attacks," does that ability trigger?
+</question>
+      <answer>
+    No. That Upgrade wasn’t on Chop Shop when he attacked, so that ability won’t trigger.
+</answer>
+    </entry>
+    <entry id="35" mode="bot">
+      <question>
+    If the Upgrade I move onto Chop Shop gives him Bold or an ability to flip extra battle cards when
+attacking, do I flip extra battle cards?
+</question>
+      <answer>
+    Yes. Chop Shop’s ability happens before you flip battle cards, so Upgrades that give Chop Shop Bold
+will work.
+</answer>
+    </entry>
+    <entry id="36" mode="bot">
+      <question>
+    Can Chop Shop’s ability be used to move an Upgrade that says "Put only on Planes" onto him?
+</question>
+      <answer>
+    No. Any ability that says what an Upgrade can be put on still apply, so you can’t sneak Upgrades onto
+Chop Shop that he can’t have.
+</answer>
+    </entry>
+  <entry id="6-7" tags="Chop Shop - Sneaky Insecticon,Thrust - Supersonic Interceptor">
+      <question>
+Please clarify the interaction between Thrust and Chop Shop under the following scenario:
+    Chop Shop flips to bot-mode
+    Equip a Grenade Launcher onto Thrust
+    Chop Shop attacks
+    Thrust and Chop Shop's abilities trigger at the same time, so order of resolution is up to the turn-player
+    1) Resolve Thrust's ability and tap him to add 7 atk (base + Grenade Launcher) to Chop Shop
+    2) Resolve Chop Shop's ability moving the Grenade Launcher from Thrust to Chop Shop
+    Chop Shop's final attack is [BASE] + [GRENADE_LAUNCHER] + [THRUST_BASE] + [GRENADE_LAUNCHER]; 4 + 4 + 3 + 4 = 15
+    Battle flips omitted
+Is this correct?
+        </question>
+      <answer>
+You can choose to resolve Thrust and Chop Shop’s abilities in this order. You could also choose to resolve them in the other order, but that would probably not turn out as well for you, so maybe don’t.
+      </answer>
+    </entry>
+    <entry id="315-8" tags="Chop Shop - Sneaky Insecticon">
+      <question>
+If Chop Shop in bot mode attacks and moves a Grenade Launcher from another character to him, those the Grenade Launcher sack itself?
+      </question>
+      <answer>
+Yes.
+      </answer>
+    </entry>
+    <entry id="315-9" tags="Chop Shop - Sneaky Insecticon">
+      <question>
+If Chop Shop in bot mode attacks, and moves a Bashing Shield from another character to him, does the effect of Bashing Shield activate?
+      </question>
+      <answer>
+Yes.
+      </answer>
+    </entry>
+    <entry id="201-5" tags="Chop Shop - Sneaky Insecticon">
+      <question>
+At what point does the upgrade I chose to move to Chop Shop take effect? During the attack so I gain the possible effect for my current attack, or does the cards effect (additional attack, additional bold, etc.) not happen until the next time I attack with Chop Shop?
+      </question>
+      <answer>
+You would get the benefits of the upgrade immediately, with the exception of abilities that trigger from Chop Shop attacking, because that event would have already passed (i.e. Data Pad).
+    </answer>
+    </entry>
+    <entry id="218-14" tags="Chop Shop - Sneaky Insecticon">
+      <question>
+Can Chop Shop (Bot Mode) take upgrades that normally couldn't be equipped to him?
+      </question>
+      <answer>
+No. You must be able to put said upgrades on Chop Shop legally.
+      </answer>
+    </entry>
+    <entry id="218-15" tags="Chop Shop - Sneaky Insecticon">
+      <question>
+Do effects on upgrades that trigger "when equipped" activate if Chop Shop (Bot Mode) takes them?
+      </question>
+      <answer>
+Yes.
+      </answer>
+    </entry>
+    </target></faq>

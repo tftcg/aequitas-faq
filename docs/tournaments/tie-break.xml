@@ -1,0 +1,33 @@
+<faq><target name="Tie-Break"><entry id="8">
+          <question>
+              What if each player wins the same number of games?
+          </question>
+          <answer>
+              At the end of the additional time, if the players have won an equal number of games, each player counts the amount of health remaining on their characters on the battlefield. The player with the higher remaining health wins the match. 
+              
+              If the remaining health is tied, each player counts the total number of stars of their characters on the battlefield. The player with the higher total stars wins the match. 
+              
+              If the total stars are tied, each player flips the top two cards of their deck. The player who flips the most white battle icons wins. If still tied, players repeat flipping two cards from the top of their deck until the tie is broken. If a player’s deck needs to be shuffled, that player shuffles cards from their scrap pile and any cards flipped during the tiebreaker procedure. 
+              
+              If the tiebreaker procedure can’t break the tie (for example, if all cards in all decks have exactly one white battle icon), flip a coin to determine the winner.
+          </answer>
+      </entry>
+      <entry id="9">
+          <question>
+              What is the tie-breaker procedure if a player won in extra time?
+          </question>
+          <answer> 
+              If a player wins a game in extra time, bringing the match score to a tie, players present their teams and their decks (without sideboarding) as though they were about to start another game, and then resolve the tiebreaker procedure.
+          </answer>
+      </entry>
+  <entry id="3-10" tags="Battle Master,Weaponizer,KO,Tie-Break">
+      <question>
+If a Battle Master or Weaponizer is in the KO Pile, and the match runs to time and damage on all characters is assessed, should they count their damage for that total, or are they simply an upgrade with no damage on them?
+</question>
+      <answer>
+They are an upgrade with no damage on them.
+
+          <tftcg-note>This FAQ item refers to a form of tie-breaker from November 2019 tournament rules prior to November 2019. It is no longer relevant. </tftcg-note>
+</answer>
+    </entry>
+    </target></faq>

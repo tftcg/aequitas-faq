@@ -1,0 +1,33 @@
+<faq><target name="Private Red Heat - Infantry - Emergency Response"><entry id="150" mode="bot">
+      <question>What happens if one of the characters has an upgrade of a certain type, such as a Weapon, and the other character doesn’t have an upgrade of that type?</question>
+      <answer>In that case, the upgrade will move to the other character. It doesn’t have to be an “even swap.”</answer>
+    </entry>
+    <entry id="151" mode="bot">
+      <question>What happens if one of the upgrades on one of the two characters has a “Put on … only” restriction that the other character doesn’t meet?</question>
+      <answer>In that case, that upgrade stays where it is. If the other character has a upgrade of the same type, it also stays where it is. Other types of upgrades may still be swapped.</answer>
+    </entry>
+  <entry id="7-10" tags="Sergeant Cog - Artillery - Mechanic,Private Red Heat - Infantry - Emergency Response">
+      <question>
+I have a question regarding Sergeant Cog. When he dies, I place him on Private Red Heat, and Trigger his ability. Let’s say I draw 2 cards. I can then upgrade each of my characters, and let’s say I play Field Communicator on one of my specialists from the Cog trigger, do I resolve Field Communicator’s trigger before finishing the last Cog upgrade trigger, or do I finish the Cog trigger, and then resolve the Field Communicator trigger?
+        </question>
+      <answer>
+Finish the Cog trigger completely, then resolve any resulting triggers like Field Communicator in an order of your choosing.
+      </answer>
+    </entry>
+    <entry id="628-21" tags="Sergeant Cog - Artillery - Mechanic,Private Red Heat - Infantry - Emergency Response">
+      <question>
+Cog is equipped to a bot who has a Micro-Capacitor. I use Red Heat to move Cog to another character: Does the Micro-Capacitor trigger first, therefore scrapping and untapping the bot, or does the swap happen first?
+      </question>
+      <answer>
+Micro-Capacitor must be attached to the character when you use its Tap ability in order to trigger. Unless Micro-Capacitor is attached to Red Heat in your example, Micro-Capacitor’s ability won’t trigger at all. 
+      </answer>
+    </entry>
+    <entry id="528-5" tags="Captain Ironhide - Infantry - Bodyguard,Private Red Heat - Infantry - Emergency Response">
+      <question>
+You previously ruled that Captain Ironhide can't use his Bot Mode ability to swap his weapon for an Energon Axe if he is undamaged. Does this also extend to other Upgrade movement effects? Does this mean I can't use Quartermaster or Private Red Heat to move an Energon Axe in play from a damaged character to an undamaged one?
+      </question>
+      <answer>
+That is correct. Energon Axe can only be put on damaged characters.
+      </answer>
+    </entry>
+    </target></faq>

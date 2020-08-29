@@ -1,0 +1,58 @@
+<faq><target name="Crash Landing"><entry id="7-12">
+      <question>
+I’m playing with a plane card, for example Captain Starscream, and it has on it the utility card Energy Pack. The total damage he has on him at the time is 19 and then I play the utility card Crash Landing on him, scrapping the Energy Pack and instantly KO’ing him, does the Crash Landing take effect or not?
+        </question>
+      <answer>
+No, Crash Landing only triggers on your opponent's turn, so it would not trigger here.
+</answer>
+    </entry>
+  <entry id="315-14" tags="Thundercracker - Mach Warrior,Autobot Hound - Long-Range Scout">
+      <question>
+Had an interesting situation occur last night. Had Thundercracker on defense with 4 health remaining equipped with a Crash Landing. Autobot Hound was attacking who only had 2 health remaining. Hound had enough attack power after flipping to take out Thundercracker. Both were the last bots on each side, would Crash Landing still go off, creating a Draw?
+      </question>
+      <answer>
+Hound will KO Thundercracker and win the game before Thundercracker can Crash Land and KO Hound.
+      </answer>
+    </entry>
+    <entry id="222-1">
+      <question>
+If one of my planes is equipped with a Grenade Launcher and a Crash Landing before getting KO'd, would the Grenade Launcher add an additional 4 damage to Crash Landing's effect?
+      </question>
+      <answer>
+It will include the attack modifier from the Grenade Launcher.
+      </answer>
+    </entry>
+    <entry id="401-3" tags="Dreadwing - Sky Destroyer">
+      <question>
+Quick question: If Dreadwing has two Crash Landings equipped, does it deal double damage when KO'd? And if it does, can I do 7 damage to two separate targets?
+      </question>
+      <answer>
+Quick answer: Yes, and yes.
+Not so quick answer: Each Crash Landing is triggered separately.
+      </answer>
+    </entry>
+    <entry id="401-9" tags="Air Raid - Fearless Flyer,Sunstorm - Fusion Flyer">
+      <question>
+My opponent's Air Raid (Bot Mode) attacks my Sunstorm (with Crash Landing), doing enough Damage to KO Sunstorm. Air Raid's player is able to Scrap the Crash Landing before I can use it to KO an Aerialbot, correct?
+      </question>
+      <answer>
+In this scenario, Air Raid’s ability can’t do anything because Sunstorm has been KO’d and as a result, his upgrades have been scrapped. Crash Landing’s effect will work.
+      </answer>
+    </entry>
+    <entry id="228-6">
+      <question>
+Can Crash Landing still proc its effect if I use it on my last character or does the game check for loss condition first?
+      </question>
+      <answer>
+No. If Crash Landing is on your last character, its effect will never trigger.
+      </answer>
+    </entry>
+    <entry id="9-7" tags="Raider Tailwind - Air Strike Patrol - Strategist">
+      <question>
+If I equip Crash Landing on an Air Strike Patrol bot that is buffed by Tailwind's +2 Attack, does it trigger Crash Landing with the extra Attack?
+        </question>
+      <answer>
+Crash Landing will do damage based on whatever the plane’s attack was when it was last on the battlefield. Bonuses like Tailwind’s will still apply because the plane is KO’d during the battle.
+      </answer>
+    </entry>
+    </target></faq>

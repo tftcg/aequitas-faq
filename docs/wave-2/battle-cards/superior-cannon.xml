@@ -1,0 +1,33 @@
+<faq><target name="Superior Cannon"><entry id="315-2" tags="Superior Jetpack,Superior Plating,Superior Cannon">
+      <question>
+Megatron - Arrogant Ruler’s ability says "If you flip to this mode you may play an upgrade”, Does this include all Superior Upgrades? (Jetpack, Plating, Cannon, etc.)
+      </question>
+      <answer>
+Yes, but only if you’ve already played Tech Research. Megatron’s ability doesn’t get around that requirement.
+      </answer>
+    </entry>
+    <entry id="5-1">
+      <question>
+Can Quartermaster be used to move a Superior Cannon, Superior Jetpack, or Superior Plating from one character to another or do you still have to play a Tech Research first?
+        </question>
+      <answer>
+Yes, it can.
+</answer>
+    </entry>
+    <entry id="401-8" tags="Superior Cannon,Superior Jetpack,Superior Plating">
+      <question>
+Can Leap of Faith bypass the condition on all the Superior cards (Cannon, Jet pack, Plating) and allow you to attach them to a bot?
+      </question>
+      <answer>
+No.
+      </answer>
+    </entry>
+    <entry id="2-19" tags="Superior Plating,Superior Jetpack,Superior Cannon">
+      <question>
+If I play a card that allows me to play an upgrade, can I play a Superior Plating/Jetpack/Cannon without needing to play Tech Research?
+</question>
+      <answer>
+No.
+</answer>
+    </entry>
+    </target></faq>

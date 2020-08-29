@@ -1,0 +1,10 @@
+<faq><target name="Blade Flurry"><entry id="31">
+            <question>
+                What happens if the character has a Weapon when I play Blade Flurry, but it loses it before it attacks?
+            </question>
+            <answer>
+                It will still have the +4 attack bonus. The bonus is determined when you play Blade Flurry and won't change even if the character gains or loses a Weapon later in the turn.
+          </answer>
+        
+      </entry>
+  </target></faq>

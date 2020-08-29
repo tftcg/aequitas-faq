@@ -1,0 +1,30 @@
+<faq><target name="Grapple - Autobot Architect"><entry id="30" mode="alt">
+      <question>Does it matter how many cards I discard this way?</question>
+      <answer>No. There just needs to be exactly four different colors among the battle icons on those cards.</answer>
+    </entry>
+    <entry id="31" xref="Rules_Roundup-2019-07-12#1-9" mode="bot" />
+  <entry id="315-20" tags="Grapple - Autobot Architect">
+      <question>
+For Grapple's abilities: Does he need exactly 4 different battle icons, all with different colors or just amongst all battle icons flipped/scrapped does need to be exactly 4 colors?
+      </question>
+      <answer>
+You can scrap any number of cards with any number of icons from your hand, they just need to contain four different colored battle icons among them. Grapple’s ability would work if you only scrapped a Roll Out! and a Spare Parts, for example.
+      </answer>
+    </entry>
+    <entry id="308-2">
+      <question>
+Are cards with no battle icons (such as I Still Function!) considered a separate battle icon color for Grapple - Autobot Architect's bot mode ability?
+      </question>
+      <answer>
+No. Cards with no battle icons would not apply to Grapple - Autobot Architect’s bot mode ability.
+    </answer>
+    </entry>
+    <entry id="308-11" tags="Grapple - Autobot Architect">
+      <question>
+Grapple’s effect of flipping exactly 4 different icons in battle and gains +4 attack and +4 defense says “until end of turn.” Does this mean the end of me attacking or my opponent? What I’m trying to know is if Grapple’s effect triggers, will he be able to defend with +4 defense? 
+      </question>
+      <answer>
+Your turn ends after you are done attacking. If you trigger his ability when attacking, the defense would not carry over to your opponent’s turn and vice versa.
+    </answer>
+    </entry>
+    </target></faq>

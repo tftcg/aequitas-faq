@@ -1,0 +1,17 @@
+<faq><target name="Marksmanship"><entry id="412-5">
+      <question>
+I couldn’t find this having been asked before - if Marksmanship is played against a Combiner - does this do the 2 damage? Are Combiners in bot mode? 
+      </question>
+      <answer>
+Combiner mode is not the same as bot mode, so Marksmanship would not do 2 damage.
+      </answer>
+    </entry>
+    <entry id="228-9">
+      <question>
+Are Combiners are considered to be in bot mode? I realize they say ‘Combiner’ in that slot but asking because of cards like Marksmanship. Can that target a combiner?
+      </question>
+      <answer>
+Combiner mode is a new third mode that is different than bot mode, so Marksmanship, for example, would not be applicable to a Combiner.
+      </answer>
+    </entry>
+    </target></faq>

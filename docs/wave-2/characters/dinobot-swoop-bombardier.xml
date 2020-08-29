@@ -1,0 +1,9 @@
+<faq><target name="Dinobot Swoop - Bombardier"><entry id="25" mode="bot">
+      <question>If the card I return to my hand also has orange battle icons, will those count toward Swoop’s attack?</question>
+      <answer>Yes. You don’t use Swoop’s ability until after the battle is finished.</answer>
+    </entry>
+    <entry id="26" mode="bot">
+      <question>If I flip more than one card with a green battle icon, can I return one to my hand using Swoop’s ability and another using the normal rules for green battle icons?</question>
+      <answer>Yes. You’ll need to swap a card from your hand for the other card, as normal.</answer>
+    </entry>
+  </target></faq>

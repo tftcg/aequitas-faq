@@ -1,0 +1,13 @@
+<faq><target name="Multi-Missile Pod"><entry id="41">
+      <question>Let’s say I have three Multi-Missile Pods and I decide to FIRE ALL THE MISSILES! What happens?</question>
+      <answer>Although you can totally FIRE ALL THE MISSILES, you still do it one at a time. So first you scrap one that will do 1 damage. Then you scrap the second to do 2 damage. Finally you scrap the last one to do 3 damage. 6 damage total.</answer>
+    </entry>
+  <entry id="10-28">
+      <question>
+Question regarding interaction between Backup Bag and weapons which can be scrapped during attack (e.g. Sturdy Javelin and Multi-Missile Pod). If I choose to scrap the weapon and it's saved by Backup Bag, can I choose to scrap it again during the same attack?
+        </question>
+      <answer>
+No. It scraps as a result of a triggered ability, which does not trigger again. You would have to somehow attack a second time.
+      </answer>
+    </entry>
+    </target></faq>

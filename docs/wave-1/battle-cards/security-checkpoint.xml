@@ -1,0 +1,25 @@
+<faq><target name="Security Checkpoint"><entry id="6-1">
+      <question>
+The opponent had an Optimus Prime - Battlefield Legend with an Anticipation Engine and attacked my Ramhorn. I had a Force Field in hand and was ready to play my white armor, when he flipped a Security Checkpoint with Anticipation Engine. Do I still get to play the Force Field in this situation or does the Checkpoint get rid of the Force Field before I play it?
+        </question>
+      <answer>
+Because attack triggers will resolve before defense triggers, in this scenario Security Checkpoint will get rid of your Force Field before you can play it.
+      </answer>
+    </entry>
+    <entry id="201-4" tags="Decepticon Shockwave - Cybertron Commander">
+      <question>
+I have Decepticon Shockwave in bot mode (untapped), and start by playing Brainstorm, then play Disruption to have the opponent scrap a card in hand, then Security Checkpoint and to have the opponent scrap 2 more cards. So a total of 3 cards were scrapped by 2 action cards. Would the opponent take 1 damage for each action card played (that made them scrap cards) or take 3 damage since the opponent scrapped 3 cards total?
+      </question>
+      <answer>
+The opponent would take 3 damage total.
+    </answer>
+    </entry>
+    <entry id="528-3">
+      <question>
+If Optimus Prime - Battlefield Legend has Inverted on him, and during the attack flips Security Checkpoint and chooses to play it, does the Security Checkpoint count as Orange due to Inverted, which triggers the Secret Action Infiltrate?
+      </question>
+      <answer>
+Yes. While OPBL is battling, the blue icons on Security Checkpoint become orange. When you play Security Checkpoint, your opponent’s Infiltrate sees you playing an orange action and triggers.
+      </answer>
+    </entry>
+    </target></faq>

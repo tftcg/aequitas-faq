@@ -1,0 +1,35 @@
+<faq><target name="Captain Omega Supreme - Transport - City Defender"><entry id="10" mode="alt">
+      <question>I noticed that Omega Supreme (Base) doesn’t have an ability to combine into Captain Omega Supreme. What happens if both the Spaceship and Tank are KO’d before I get the chance to combine?</question>
+      <answer>The combine abilities don’t work from the KO area, so in that case your Base would be left standing alone. Unless you have a way to bring the Spaceship or the Tank back onto the battlefield, you won’t be able to combine them into Captain Omega Supreme. Good luck!</answer>
+    </entry>
+    <entry id="11" mode="alt">
+      <question>The Spaceship and the Tank have very similar abilities to combine into Captain Omega Supreme. What happens if my opponent reshuffles their deck and both abilities would apply?</question>
+      <answer>Captain Omega Supreme can only be combined once. The redundant ability is ignored.</answer>
+    </entry>
+  <entry id="9-10" tags="Captain Omega Supreme - Transport - City Defender">
+      <question>
+Can Omega Supreme be used in a manner like the Sentinels where you can have a section of his base mode in your KO area at the start of the game?
+        </question>
+      <answer>
+No. Characters on your team always start on the battlefield unless specifically stated otherwise.
+      </answer>
+    </entry>
+    <entry id="9-12" tags="Captain Omega Supreme - Transport - City Defender">
+      <question>
+So, let's say we have Omega Supreme (Base), (Spaceship), and (Tank) verses Kickback, Shrapnel, Barrage and Ransack. No side has any KO bots.  All bots on Omega's team is tapped. Shrapnel and Barrage are tapped.  It's the Insecticons turn with Kickback and Ransack untapped and ready to attack. They have 4 battlecards in their deck. They send Kickback to attack Omega Supreme (Tank). Kickback needs to flip at least 8 Battlecards, so 4 Battlecards are first flipped, causing their deck to be reshuffled.  Captain Omega Supreme then formed. Kickback continues his same attack now onto Captain Omega Supreme, flipping at least 4 more battlecards. The player with Omega NOW gets to flip for defending. Since Captain Omega Supreme is now untapped, Ransack is no longer able to attack, thus ending the turn of the Insecticons.
+My question is, is the sequence of events that I have listed correct, or did I miss something?
+        </question>
+      <answer>
+Well don’t just leave us hanging! What cards were flipped? Who won?
+(Yes, everything you listed is correct).
+      </answer>
+    </entry>
+    <entry id="9-18" tags="Captain Omega Supreme - Transport - City Defender">
+      <question>
+For Omega Supreme, it says once your opponent shuffles their deck you combine. If I swing with one of Omega's pieces, but mid-attack my opponent shuffles their deck, do I combine and stop my attack because the character who triggered the attack isn't and my opponent has another character untapped? Along the same lines, when someone attacks into an Omega Supreme piece and they shuffle their deck. When you go to combine, does the attack still go through to the now combined Omega Supreme? Or does the attack get canceled as the original target isn't on the field anymore?
+        </question>
+      <answer>
+If a character attacks or defends, and in the middle of the attack, combines into another character, the new combined character continues to attack or defend. Note that the combined character is untapped and will remain untapped for the duration of the attack.
+      </answer>
+    </entry>
+    </target></faq>

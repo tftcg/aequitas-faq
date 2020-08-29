@@ -1,0 +1,10 @@
+<faq><target name="Regenerative Core"><entry id="45">
+            <question>
+                What does it mean to have a damage counter on an Upgrade?
+            </question>
+            <answer>
+                Those damage counters simply track how many times you can use Regenerative Core's ability. Those damage counters aren't on the upgraded character, so other effects can't remove them. The counters also aren't removed if the upgraded character is repaired.
+          </answer>
+        
+      </entry>
+  </target></faq>

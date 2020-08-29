@@ -1,0 +1,13 @@
+<faq><target name="Toolbox"><entry id="54">
+      <question>How does Energy Transfer interact with cards like Toolbox?</question>
+      <answer>Moving damage counters doesn’t count as repairing or damaging either character.</answer>
+    </entry>
+    <entry id="610-13" tags="Optimus Prime - Legendary Warrior">
+        <question>
+            If Optimus - Legendary Warrior attacks in bot-mode with less characters than your opponent and you choose to repair a character upgraded with Toolbox, will you repair 4 because there are two times, or is it just 3 because it is one time repairing?
+        </question>
+        <answer>
+            It's repair 1 "then" repair 1. So Toolbox will change it to repair 2, then repair 2, for a total of 4.
+        </answer>
+    </entry>
+    </target></faq>

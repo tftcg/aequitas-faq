@@ -1,0 +1,23 @@
+<faq><target name="Outside the Game"><entry id="20">
+          <question>
+ What does a 'Character card from outside the game' mean?
+          </question>
+          <answer> 
+When a card refers to “a Character card from outside the game”, those cards from outside the game must be in the possession of the player at the beginning of the match.
+Character cards from outside of the game do not count as part of players’ teams, decks, and sideboards, but must be referenced by other cards that are part of a player’s team, deck, or sideboard
+At the end of each game, any Character cards from outside the game that were introduced during play must be removed from players’ teams, decks, and sideboards. 
+Character cards from outside the game must be legal within the event format.
+          </answer>
+      </entry>
+
+      <entry id="21">
+          <question>
+What does a 'Battle card from outside the game' mean?
+          </question>
+          <answer> 
+When a card refers to “a Battle card from outside the game”, those cards from outside the game must be in player’s sideboard at the time of using the effect.
+At the end of each game any Battle cards from outside the game that were introduced during play are returned to players’ sideboards.
+Battle cards from outside the game come from the sideboard and adhere to all sideboard rules.
+          </answer>
+      </entry>
+  </target></faq>

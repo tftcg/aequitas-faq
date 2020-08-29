@@ -1,0 +1,21 @@
+<faq><target name="Full Loadout"><entry id="183">
+      <question>Can I play the upgrades in any order?</question>
+      <answer>You can.</answer>
+    </entry>
+  <entry id="3-14">
+      <question>
+Player plays Fully Loadout on Megatron - Living Weapon. Does Megatron have the ability to place three weapons in Bot Mode due to his ability?
+</question>
+      <answer>
+No. Full Loadout specifically says “A weapon, an armor, and a utility”. Megatron – Living Weapon only changes what can be put into his slots.
+</answer>
+    </entry>
+    <entry id="2-46" tags="Wheeljack - Weapons Inventor">
+      <question>
+I play Full Loadout on Wave 1 Wheeljack in Alt Mode. I play Multi-Tool, Multi-Mission Gear, and Field Communicator onto him. How are the triggers handled? Do I resolve each Upgrade and Wheeljack trigger mid-Loadout, or do I wait until I play all three upgrades then resolve the six triggers?
+</question>
+      <answer>
+Full Loadout will put all three upgrades onto Wheeljack. You then handle all of the triggers in an order of your choosing.
+</answer>
+    </entry>
+    </target></faq>

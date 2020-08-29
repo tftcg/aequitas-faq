@@ -1,0 +1,21 @@
+<faq><target name="Pincer Movement"><entry id="76">
+      <question>Say I play Pincer Movement, but the first attack ends up KOing the defender. Do I still get to attack again?</question>
+      <answer>No. If you can’t attack the same enemy with a different Decepticon, you don’t get the extra attack.</answer>
+    </entry>
+  <entry id="9-4" tags="Pincer Movement,Razorclaw - Predacon Leader,Brave">
+      <question>
+Regarding Pincer, will it allow the follow-up attack to bypass normal rule processes? For example, I attack with Razorclaw in Bot Mode against an untapped unit. Can my other Decepticon attack this untapped unit? What about bypassing Brave?
+        </question>
+      <answer>
+If you can’t legally choose another Decepticon as the attacker, and the same character as the defender, you don’t get the extra attack. In other words, you can’t just ignore Brave or other rules.
+      </answer>
+    </entry>
+    <entry id="9-11">
+      <question>
+How does Pincer Movement work?  If I have three untapped Decepticons and play Pincer Movement, do I get to attack the same enemy with each of my Decepticons in sequence, or do I only get one extra attack total.  If I can get multiple attacks this way, and I untap one of the previously attacking Decepticons (such as via Anticipation Engine revealing Ready for Action), can that Decepticon attack again?
+        </question>
+      <answer>
+Pincer Movement gives you only one additional attack. After you play it, the next time one of your Decepticons attacks an enemy this turn, you’ll get the extra attack after the current attack.
+      </answer>
+    </entry>
+    </target></faq>

@@ -1,0 +1,10 @@
+<faq><target name="Horri-Bull - Ground Trooper"><entry id="24" mode="alt">
+            <question>
+                Does moving a damage counter using Horri-Bull's ability count as damaging that character or repairing Horri-Bull?
+            </question>
+            <answer>
+        No. Moving damage counters never count as damaging or repairing a character.
+          </answer>
+        
+      </entry>
+  </target></faq>

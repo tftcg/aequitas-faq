@@ -1,0 +1,20 @@
+<faq><target name="Defensive Formation"><entry id="3-5">
+      <question>
+Does "outside the game" refer to the sideboard? The other question is if I play Brainstorm with Wave 3 Skywarp on the field, how do I proceed if I have 2 Defensive Formations at hand? Do I play the 1st Defensive Formation, draw a card and then play the 2nd Defensive Formation to draw a 2nd card? Or do I play the 1st defensive formation, then the 2nd, and then draw the 2 cards?
+</question>
+      <answer>
+It can refer to your sideboard, however your “outside the game” cards do not have to be in your sideboard to be considered detectable by the game.
+In resolving the Brainstorm, you will play both Defensive Formations. Skywarp’s ability will trigger for each of them, but you won’t draw cards for the ability until you’ve finished resolving the Brainstorm.
+
+          <tftcg-note>Later rules for competitive play required "outside the game" battle cards to be in your sideboard. </tftcg-note>
+</answer>
+    </entry>
+    <entry id="3-8">
+      <question>
+When defending I reveal the secret action Bolster. I then proceed to play Multi-Mission Gear to play Brainstorm, in turn playing Battlefield Report and Defensive Formation. As these 2 have the same trigger condition as Bolster, am I able to reveal them now that Bolster has finished resolving?
+</question>
+      <answer>
+In this scenario, it is too late to reveal them.
+</answer>
+    </entry>
+    </target></faq>

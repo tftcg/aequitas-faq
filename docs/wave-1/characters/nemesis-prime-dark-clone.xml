@@ -1,0 +1,49 @@
+<faq><target name="Nemesis Prime - Dark Clone"><entry id="55" mode="bot">
+      <question>
+    Can I look at the bottom card of my deck before putting it under Nemesis Prime?
+</question>
+      <answer>
+    No. Neither you nor your opponent will know what card it is.
+</answer>
+    </entry>
+    <entry id="56" mode="bot">
+      <question>
+    What happens to the cards under Nemesis Prime when he’s KO’d?
+</question>
+      <answer>
+    They’re put into the scrap pile, along with any Upgrades he had.
+</answer>
+    </entry>
+  <entry id="RR1-10" tags="Nemesis Prime - Dark Clone">
+      <question>
+If I'm attacking with Nemesis Prime and in the course of my attack burn through my deck, his ability triggers and I shuffle. Once done shuffling, the bottom card goes under him. Does he instantly get the +3 attack, or does it get added to his next attack?
+      </question>
+      <answer>
+He gets the +3 attack instantly.
+      </answer>
+    </entry>
+    <entry id="RR1-14" tags="Nemesis Prime - Dark Clone">
+      <question>
+Does Nemesis Prime keep his attack power from recycling scrap when he transforms to truck mode?
+      </question>
+      <answer>
+The ability that grants the attack bonus is not on his truck mode, so it does not increase his attack, although the face-down cards remain under him.
+      </answer>
+    </entry>
+    <entry id="517-6" tags="Major Ultra Magnus - Infantry - City Commander,Nemesis Prime - Dark Clone">
+      <question>
+If I have Major Ultra Magnus with 16 Damage on him and my opponent has Nemesis Prime with 15 Damage on him and I Attack Optimus Prime - Battlefield Legend, causing my bot mode skill to trigger, does this cause Major Ultra Magnus to be KO’d and Nemesis Prime to be KO’d therefore no combat with Optimus?
+      </question>
+      <answer>
+That is correct.
+      </answer>
+    </entry>
+    <entry id="211-18" tags="Decepticon Shockwave - Cybertron Commander,Nemesis Prime - Dark Clone">
+      <question>
+If I have Shockwave in play and my opponent has 2 characters with 1 damage left each (say Optimus Prime - Battlefield Legend with 13 damage and Nemesis Prime with 15 damage) and I play System Reboot forcing them to discard 2 cards, can they choose to put both damage on Nemesis Prime or must they put 1 damage on each?
+      </question>
+      <answer>
+Each card discarded creates a new instance of 1 damage, so they will be forced to put one damage on each.
+      </answer>
+    </entry>
+    </target></faq>

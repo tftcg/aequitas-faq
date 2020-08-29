@@ -1,0 +1,13 @@
+<faq><target name="Battlefield Incursion"><entry id="42">
+      <question>Can I play Battlefield Incursion if there are no characters under my Trypticon?</question>
+      <answer>You can. It won’t have any effect itself, but other cards may have effects that depend on you playing Actions.</answer>
+    </entry>
+  <entry id="10-23">
+      <question>
+Relentless Invasion returns Wipeout to the battlefield, I flip him to Bot mode, and attack with him.  After he gets pulled back under Trypticon, I use Battlefield Incursion the next turn to replay him.  Does Wipeout enter the battlefield in Bot mode or Alt mode?
+        </question>
+      <answer>
+Alt mode.
+      </answer>
+    </entry>
+    </target></faq>

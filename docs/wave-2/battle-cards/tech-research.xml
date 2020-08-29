@@ -1,0 +1,96 @@
+<faq><target name="Tech Research"><entry id="100">
+      <question>Tech Research… doesn’t do anything?</question>
+      <answer>Not by itself, but you’ll need to play it to play some Upgrades in the set.</answer>
+    </entry>
+  <entry id="8-4">
+      <question>
+This was written in Rules Roundup 10/11/19:
+“I play Brainstorm. Using my 2 actions, I play Ancient Wisdom first, then System Reboot. I draw Unleash Potential off of System Reboot, do I get to play it for free now?
+Both Brainstorm and Ancient Wisdom resolve “top to bottom”. When you play Brainstorm, then you play Ancient Wisdom, you must play Unleash Potential at that moment. In your case, you’ve moved past Ancient Wisdom and are continuing with Brainstorm, playing System Reboot. It’s now too late to play Unleash Potential with your previous Ancient Wisdom.”
+Would this rule also apply to Tech Research? You must play a Superior upgrade after playing Tech Research or else that Tech Research is not forfeit. Example: I play Brainstorm first, then I play Tech Research, then I play Medic. Can I play Superior Jetpack?
+        </question>
+      <answer>
+Superior upgrades only check to see if you have played Tech Research at some point previously in your turn. Therefore, there is no issue with playing other cards between Tech Research and a Superior upgrade.
+      </answer>
+    </entry>
+    <entry id="8-5">
+      <question>
+Along those lines, am I limited to playing 1 Unleashed Potential per Ancient Wisdom? Am I limited to playing 1 Superior upgrade per Tech Research?
+        </question>
+      <answer>
+Your Ancient Wisdom allows you to play a single Unleash Potential. After you’ve played Tech Research, the number of Superior upgrades you can play is only limited by the number of upgrades you can play.
+      </answer>
+    </entry>
+    <entry id="315-2" tags="Superior Jetpack,Superior Plating,Superior Cannon">
+      <question>
+Megatron - Arrogant Ruler’s ability says "If you flip to this mode you may play an upgrade”, Does this include all Superior Upgrades? (Jetpack, Plating, Cannon, etc.)
+      </question>
+      <answer>
+Yes, but only if you’ve already played Tech Research. Megatron’s ability doesn’t get around that requirement.
+      </answer>
+    </entry>
+    <entry id="315-4">
+      <question>
+Can I use Hunker Down to retrieve a Superior Plating from my scrap pile and play it on a bot (bypassing the Tech Research requirement)?
+      </question>
+      <answer>
+Yes. Hunker Down doesn’t ask you to play the card, so the requirement from Tech Research does not apply.
+      </answer>
+    </entry>
+    <entry id="315-11" tags="Decepticon Shockwave - Cybertron Commander">
+      <question>
+Let's say I have Shockwave in bot mode and when my opponent flips for an attack, they flip a card with a green icon (For this example, let's say Tech Research). They then swap a card from their hand to take said Tech Research. Would that swap count as scrapping the card, and therefore trigger Shockwave's ability?
+      </question>
+      <answer>
+No. Green battle icons do not cause a “scrap”, they cause a “swap”, causing the card to go into the played area. It will be scrapped at the end of the turn with the other cards flipped during that battle.
+      </answer>
+    </entry>
+    <entry id="4-3">
+      <question>
+I was wondering about Sergeant Chromia from Wave 3 and how the Alt mode flip ability works. Does the flip ability work in saying that you can play any blue armor upgrade, like possibly Superior Plating as an example, along with your original upgrade and action, or is it saying that the player is able to play an additional blue armor upgrade from hand along with their own upgrade and action on that turn?
+        </question>
+      <answer>
+Sergeant Chromia’s flip ability asks you to play a blue armor right then. If you don’t, you’ve forfeited the opportunity to do so. Your normal upgrade play and action play aren’t affected by this. The flip ability does not allow playing Superior Plating without previously having played Tech Research.
+</answer>
+    </entry>
+    <entry id="628-11">
+      <question>
+Does Leap of Faith get around requirement cards (Tech Research, Ancient Wisdom) like Hunker Down does? If I flip a superior equipment, can I play that without the Tech Research?
+      </question>
+      <answer>
+Leap of Faith gives you the ability to play a card, but that card’s requirements must still be met. 
+      </answer>
+    </entry>
+    <entry id="222-1">
+      <question>
+Does Jetfire’s ability bypass Tech Research and allow me to attach cards like Superior Jetpack and Superior Plating?
+      </question>
+      <answer>
+Jetfire’s wording of “put” is different than “play”, which does circumvent the restrictions on cards like Superior Jetpack and Superior Plating.
+      </answer>
+    </entry>
+    <entry id="5-1">
+      <question>
+Can Quartermaster be used to move a Superior Cannon, Superior Jetpack, or Superior Plating from one character to another or do you still have to play a Tech Research first?
+        </question>
+      <answer>
+Yes, it can.
+</answer>
+    </entry>
+    <entry id="426-4" tags="Jetfire - Air Guardian">
+      <question>
+Given Hunker Down, which says "Flip each of your characters from bot mode to tank mode. Then for each of your tanks that isn't upgraded with an Armor, put an Armor on it from your scrap pile", bypasses the requirement to play Tech Research for Superior Plating, does the same apply to Jetfire, whose wording is "When you flip to this mode - Put an Armor or Utility from your scrap pile onto this character"?
+      </question>
+      <answer>
+Yes.
+      </answer>
+    </entry>
+    <entry id="2-19" tags="Superior Plating,Superior Jetpack,Superior Cannon">
+      <question>
+If I play a card that allows me to play an upgrade, can I play a Superior Plating/Jetpack/Cannon without needing to play Tech Research?
+</question>
+      <answer>
+No.
+</answer>
+    </entry>
+    </target></faq>

@@ -1,0 +1,10 @@
+<faq><target name="Conversion Expertise"><entry id="32">
+            <question>
+                How does this Utility work with head and body mode?
+            </question>
+            <answer>
+                The combined character is in whatever mode the body card is in. If a character is in any mode other than alt or bot, Conversion Expertise won't give it any bonuses.
+          </answer>
+        
+      </entry>
+  </target></faq>

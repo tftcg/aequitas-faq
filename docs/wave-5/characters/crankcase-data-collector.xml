@@ -1,0 +1,10 @@
+<faq><target name="Crankcase - Data Collector"><entry id="23" mode="bot">
+            <question>
+                What happens if I have 5 cards in hand when Crankcase attacks but during the battle I go down to 4 or fewer cards in hand? Does Crankcase keep the attack bonus?
+            </question>
+            <answer>
+                Yes. All that matters is that you had 5 or more cards in hand when Crankcase attacked. The attack bonus will last until the end of the battle, even if the number of cards in your hand changes.
+          </answer>
+        
+      </entry>
+  </target></faq>

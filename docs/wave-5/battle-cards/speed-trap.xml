@@ -1,0 +1,10 @@
+<faq><target name="Speed Trap"><entry id="46">
+            <question>
+                Do Secret Actions count?
+            </question>
+            <answer>
+                Yes. The game will see a Secret Action played face down as an Action.
+          </answer>
+        
+      </entry>
+  </target></faq>

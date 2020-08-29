@@ -1,0 +1,50 @@
+<faq><target name="Weaponizer"><entry id="160">
+      <question>Sergeant Cog is a Weaponizer. That sounds awesome! What’s a Weaponizer?</question>
+      <answer>All the rules that apply to Battle Masters also apply to Weaponizers. Sergeant Cog represents more advanced weaponry. Sergeant Cog’s card is the same size as most characters.</answer>
+    </entry>
+    <entry id="8" tags="Battle Master,Weaponizer">
+        <question>
+             What are Battle Masters &amp; Weaponizers?
+        </question>
+        <answer>
+Battle Masters and Weaponizers are characters that start in bot mode and can be played in their Upgrade mode after they are KO’d. They don’t have alt modes and can’t flip while they are on the battlefield.
+In Siege 2 (Wave 4), there are two Weaponizers, each made up of two cards. They start assembled together in bot mode. When one of these Weaponizers is KO’d, it splits into two different Upgrades that you can then play. These Upgrades can be played on separate characters or onto the same character.
+After a Battle Master or Weaponizer Upgrade would leave the battlefield, it’s put into your KO area instead.
+        </answer>
+    </entry>
+    <entry id="4-14">
+      <question>
+I have a character with a weapon and Spare Parts. My opponent hits me with Disarm or Debilitating Crystal. Is the weapon returned to my hand or does Spare Parts get scrapped, or returned to my hand instead?
+        </question>
+      <answer>
+Same scenario, but my weapon is a Battle Master/Weaponizer.
+In both scenarios, Spare Parts does not protect your weapon. A Battle Master or Weaponizer in weapon mode would go to KO rather than to your hand.
+        </answer>
+    </entry>
+  <entry id="10-30" tags="Weaponizer">
+      <question>
+Can a Weaponizer be used as your sideboard character?
+        </question>
+      <answer>
+Yes. Although it is two cards, it is one character.
+      </answer>
+    </entry>
+    <entry id="3-10" tags="Battle Master,Weaponizer,KO,Tie-Break">
+      <question>
+If a Battle Master or Weaponizer is in the KO Pile, and the match runs to time and damage on all characters is assessed, should they count their damage for that total, or are they simply an upgrade with no damage on them?
+</question>
+      <answer>
+They are an upgrade with no damage on them.
+
+          <tftcg-note>This FAQ item refers to a form of tie-breaker from November 2019 tournament rules prior to November 2019. It is no longer relevant. </tftcg-note>
+</answer>
+    </entry>
+    <entry id="2-27">
+      <question>
+In the FAQ it says that Sergeant Cog, as a Weaponizer, interacts with cards in the same manner as a Battle Master. The battle card Quartermaster specifies recalling a KO'd Battle Master in weapon mode. Will this be able to target Heavy Force Defensebreaker Cannon in the KO pile the same way it would target a Battle Master?
+</question>
+      <answer>
+No, it is a Weaponizer and not a Battle Master.
+</answer>
+    </entry>
+    </target></faq>

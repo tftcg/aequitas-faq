@@ -1,0 +1,9 @@
+<faq><target name="Master of Metallikato"><entry id="14">
+            <question>
+                If an effect refers to the battle icons you've flipped, can that effect see a hybrid icon if the character doesn't match its trait?
+            </question>
+            <answer>
+                Yes. For example, Mindwipe - Hypnotist (body mode) is a melee character that has an ability that triggers "when this attacks and flip at least one black battle icon." If Mindwipe attacks and you flip Master of Metallikato (a battle card with a black ranged battle icon), Mindwipe's ability will trigger, even though the black battle icon will have no effect.
+            </answer>
+        </entry>
+    </target></faq>

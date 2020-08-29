@@ -1,0 +1,26 @@
+<faq><target name="Dreadwind - Air Defense"><entry id="18" xref="Wave-2-3#17" mode="bot" />
+  <entry id="218-21" tags="Dreadwind - Air Defense,Blackwing Aerial Attacker,Dreadwing - Sky Destroyer">
+      <question>
+Dreadwind and Blackwing are both in the K.O. Area. If you combine them, Dreadwing would still be K.O.'d. What happens if you play I Still Function! on one of them, then combine them?
+      </question>
+      <answer>
+Dreadwind and Blackwing cannot be combined if they are both in the K.O. Area because their abilities won’t work. If you use I Still Function! to return one of them to the Battlefield, at end of turn, two abilities happen: I Still Function K.O.’s the character and the combining ability of whichever character you brought back happens. If you combine first, then I Still Function! still applies and will K.O. a combined Dreadwing. If I Still Function! K.O.’s the character you brought back first, the combining ability won’t do anything, and you’ll have Dreadwind and Blackwing in K.O. separately. Essentially, you can have Dreadwing in K.O. or Dreadwind and Blackwing in K.O.
+      </answer>
+    </entry>
+    <entry id="218-22" tags="Dreadwind - Air Defense,Blackwing Aerial Attacker,Dreadwing - Sky Destroyer">
+      <question>
+So what happens when your opponent is tapped out and you attack with Blackwing/Dreadwind and combine at the end of your turn? Your attack step is over, right? Can you not attack with Dreadwing the turn he comes into play in that case? Does your opponent take a turn and not attack because their characters are all tapped, or do you have to attack with Dreadwing the turn he comes into play since your opponent is tapped out?
+      </question>
+      <answer>
+Because your turn is over and you’re past the attack and untap steps, you cannot attack again.
+      </answer>
+    </entry>
+    <entry id="405-3" tags="Dreadwind - Air Defense,Dreadwing - Sky Destroyer,Blackwing Aerial Attacker">
+      <question>
+Re: Rules Roundup: 2/18 - as related to Dreadwing and 'So what happens when your opponent is tapped out and you attack with Blackwing/Dreadwind and combine at the end of your turn?' The answer to this question is as I understood it, however, what is the sequence of play in this situation?
+      </question>
+      <answer>
+You would attack, check if all characters are tapped. If they are tapped, untap them, then end the turn. At that point, you may Combine. 
+      </answer>
+    </entry>
+    </target></faq>

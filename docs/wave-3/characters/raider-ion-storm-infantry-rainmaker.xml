@@ -1,0 +1,6 @@
+<faq><target name="Raider Ion Storm - Infantry - Rainmaker"><entry id="154" mode="bot">
+      <question>Is the upgrade returned before my opponent flips battle cards?</question>
+      <answer>Yes. Notably, if the upgrade gave your opponent’s character tough, the character won’t have tough when it’s time to flip battle cards.</answer>
+    </entry>
+    <entry id="155" xref="Rules_Roundup-2019-07-12#1-22" mode="bot" />
+  </target></faq>

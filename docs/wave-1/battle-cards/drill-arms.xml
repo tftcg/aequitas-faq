@@ -1,0 +1,45 @@
+<faq><target name="Drill Arms"><entry id="83">
+      <question>
+    If one of my opponent’s characters has an Armor, can I choose not to scrap it and draw a card?
+</question>
+      <answer>
+    No. If there is an enemy Armor, you must scrap it. You draw a card only if you can’t scrap an enemy Armor.
+</answer>
+    </entry>
+  <entry id="405-6">
+      <question>
+Playing Turbo. I have a Drill Arms in play. I draw the last card in my deck. I have no scrap pile. I play another Drill Arms on the same bot and there are no armors in play, sending the old Drill Arms to the scrap pile. What happens next? Do I draw the old Drill Arms?
+      </question>
+      <answer>
+In order to play the second Drill Arms, you first scrap the one that’s already in play. This immediately becomes the only card in your deck, so when you use the ability of the new Drill Arms, that’s the card you’ll draw.
+      </answer>
+    </entry>
+    <entry id="405-9">
+      <question>
+Drill Arms reads that you draw a card if you cannot scrap an opponent’s armor. What happens if your opponent uses spare parts and scraps that instead of an armor? Draw or no draw?
+      </question>
+      <answer>
+No draw.
+      </answer>
+    </entry>
+  <entry id="322-8" tags="Wheeljack - Weapons Inventor">
+      <question>
+Wheeljack is in car mode is equipped with the following: 
+Multi-Tool, Turbo Boosters, and Scrapper Gauntlets.
+Bumblebee - Courageous Scout is tapped, in car mode, and equipped with the following:
+Drill Arms, Crushing Size, and Multi Mission Gear.
+For my action, I play Swap Parts between Wheeljack and Bumblebee. There are a LOT of abilities that fire off here and I'm curious to know, what would be the appropriate order? Most importantly, when does Wheeljack's ability take priority?
+      </question>
+      <answer>
+These would all trigger at the same, so you would choose the order they happen in.
+      </answer>
+    </entry>
+    <entry id="2-1">
+      <question>
+How does Predaking hold five weapons? Does he wad them up into a ball and throw them at his opponents? Besides, those are really big hands -- it's not like he'll be able to squeeze five triggers at once let alone one. How would one wield, like, three axes anyway? Or three Drill Arms? Oh god.
+</question>
+      <answer>
+One finger per trigger.
+</answer>
+    </entry>
+    </target></faq>

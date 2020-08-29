@@ -1,0 +1,34 @@
+<faq><target name="Debilitating Crystal"><entry id="4-14">
+      <question>
+I have a character with a weapon and Spare Parts. My opponent hits me with Disarm or Debilitating Crystal. Is the weapon returned to my hand or does Spare Parts get scrapped, or returned to my hand instead?
+        </question>
+      <answer>
+Same scenario, but my weapon is a Battle Master/Weaponizer.
+In both scenarios, Spare Parts does not protect your weapon. A Battle Master or Weaponizer in weapon mode would go to KO rather than to your hand.
+        </answer>
+    </entry>
+  <entry id="10-33">
+      <question>
+My question is about the interaction of Debilitating Crystal and the new Expanded Rules document. If my attacker has a Debilitating Crystal, and the Defender has a Gyro Blaster I wish to return, I believe the Gyro Blaster would still limit each character to 2 flips this battle. Is this correct? I know a previous Rules Roundup clarified that a Security Console would still Draw and Plan even if a Debilitating Crystal returned it. Is this also the case with a Sparring Gear I wish to return? Do they still have Tough 2 this battle?
+        </question>
+      <answer>
+Expanded Rules point 8.5 indicates the Gyro Blaster is returned before flips are determined, so it will not affect them. Likewise, Sparring Gear will no longer grant Tough 2 when flips are determined.
+      </answer>
+    </entry>
+    <entry id="422-1">
+      <question>
+I was looking for clarity on when triggers occur during the window when attackers and defenders are declared. Can Debilitating Crystal bounce Security Console before it gets to trigger?
+      </question>
+      <answer>
+Choosing the attacker and which character it’s attacking is a single step. After that, any abilities that trigger when a character attacks (but don’t refer to what’s flipped) happen, followed by any abilities of the defender. In your scenario, Debilitating Crystal would not bounce Security Console before it triggers.
+      </answer>
+    </entry>
+    <entry id="412-15" tags="Metroplex - Autobot City,Menasor - Menacing Colossus">
+      <question>
+I am playing with Metroplex, and I have Backup Beam and Debilitating Crystal attached to him. My opponent has Menasor equipped with Stunticon Swagger. It is my turn, and I play Height Advantage to get the extra bold 4 to try and activate Metroplex's triggered ability from card flipping. As I declare him as the attacker, and Menasor as the defender, Debilitating Crystal activates. I choose to bounce Swagger to my opponent's hand. Does my bold then become active because the effect of Swagger is no longer active? Am I allowed to use the bold from the upgrade and the action now?
+      </question>
+      <answer>
+Yes. Both bold effects would apply in this scenario. Stunticon Swagger does not stop a character from getting bold prior to the attack.
+      </answer>
+    </entry>
+    </target></faq>

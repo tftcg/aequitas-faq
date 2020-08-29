@@ -1,0 +1,33 @@
+<faq><target name="Salvage for Parts"><entry id="109">
+      <question>
+    Will this repair damage from my opponent’s characters if they had Upgrades scrapped from them?
+</question>
+      <answer>
+    Yes.
+</answer>
+    </entry>
+  <entry id="510-1">
+      <question>
+How do Spare Parts and Salvage for Parts interact with each other, Salvage being played by my opponent, and Spare being on my own character?
+      </question>
+      <answer>
+If the character with Spare Parts has a weapon and/or an armor, Spare Parts will save one of them. Spare Parts won’t count when determining how much damage to repair.
+      </answer>
+    </entry>
+    <entry id="502-4" tags="Specialist Ratchet - Engineering - Rescue &amp; Repair">
+      <question>
+If you play Salvage for Parts while Specialist Ratchet is in bot mode, and you scrap, say, 2 opponent upgrades along with yours do you get to use the repair for the opponents scrapped upgrades as attack for Ratchet?
+      </question>
+      <answer>
+For Salvage for Parts, you’re doing all of the repairing, so Ratchet’s ability will trigger that many times. In this scenario, that would give Ratchet +4 Attack.
+      </answer>
+    </entry>
+    <entry id="2-18">
+      <question>
+Say I have a weapon on a character and Backup Bag as well. For my turn I placed a different or same weapon on the same character. But because I already have a weapon taken up does the original weapon get scrapped or can I keep both weapons and scrap Backup Bag instead?
+</question>
+      <answer>
+Playing the new weapon causes the old weapon to be scrapped, but it’s the rules of the game that are doing this, not an effect of the new weapon. Backup Bag affects only cards such as Salvage for Parts or Grenade Launcher.
+</answer>
+    </entry>
+    </target></faq>

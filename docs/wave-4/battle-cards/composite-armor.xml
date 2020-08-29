@@ -1,0 +1,9 @@
+<faq><target name="Composite Armor"><entry id="44">
+      <question>If I flip at least one black battle icon during the battle, when does Composite Armor do 1 damage to the attacker?</question>
+      <answer>The damage is done after the battle, just after you scrap Composite Armor.</answer>
+    </entry>
+    <entry id="45">
+      <question>If I didn’t flip a black battle icon during the battle, do I still have to scrap Composite Armor?</question>
+      <answer>Yes.</answer>
+    </entry>
+  </target></faq>

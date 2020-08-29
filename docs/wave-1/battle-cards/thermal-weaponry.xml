@@ -1,0 +1,17 @@
+<faq><target name="Thermal Weaponry"><entry id="218-29" tags="Battle Icon">
+      <question>
+Does Inverted! supersede other effects that look at pips? Or can the order be chosen? For example, Inverted! with Thermal Weaponry, could a blue pip add to pierce before changing into an orange pip?
+      </question>
+      <answer>
+Battle icon colors do not exist simultaneously. When Battle Icons are made to change colors, it happens instantaneously.
+      </answer>
+    </entry>
+    <entry id="308-9">
+      <question>
+What happens to Thermal Weaponry when Inverted! is in play?
+      </question>
+      <answer>
+Then your orange battle icons would add to your pierce but not your blues.
+    </answer>
+    </entry>
+    </target></faq>

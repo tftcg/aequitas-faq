@@ -1,0 +1,59 @@
+<faq><target name="Ironhide - Steadfast Brawler"><entry id="201-6" tags="Combiner,Optimus Maximus - Ultimate Defender,Ironhide - Steadfast Brawler">
+      <question>
+When Combiners combine can the keep an equipment that they normally couldn't equip? Example could Optimus Maximus keep a Power Sword from Ironhide even though he's a ranged character?
+      </question>
+      <answer>
+Yes.
+    </answer>
+    </entry>
+    <entry id="201-9" tags="Motormaster - Stunticon Leader,Combiner">
+      <question>
+If Motormaster or Ironhide - Steadfast Brawler have three Cargo Trailer attached to them and they combine, can the Cargo Trailers be transferred over to the new Combiner even though the new Combiner is not a Truck? If so, can you transfer all three Cargo Trailers or just one? 
+      </question>
+      <answer>
+You can transfer all three Cargo Trailers.
+    </answer>
+    </entry>
+    <entry id="510-1">
+      <question> 
+I have a ruling question on Insecticon Skrapnel - Insecticon leader. If my opponent attaches Combat Commands onto Ironhide - Steadfast Brawler and declares an attack into Skrapnel while Skrapnel is in bot mode, and uses Combat Commands’ effect to flip Autobot Hot Rod - Impulsive fighter and deal 1 damage to Skrapnel, do I only take 2 damage from the attack since Skrapnel is defending and any damage dealt to him while defending counts towards his skill based off of the FAQ in the Transformers official app? 
+      </question>
+      <answer>
+Apologies for the confusion here. We ruled this differently, but the FAQ was apparently not updated to reflect that. Here’s how that question should read:
+“Q: Let’s say Insecticon Skrapnel defends and the attacker has an ability that deals damage to him. Does that damage count for Insecticon Skrapnel’s ability? 
+A: No, only attack damage counts towards Skrapnel’s ability. Damage dealt by other abilities won’t count, even if it happens during an attack.”
+      </answer>
+    </entry>
+    <entry id="422-1">
+      <question>
+Combiners retain until-end of-turn-effects even after they combine, but what happens with effects that impact more than one character? For example, if I have 3 Sentinels in play and I flip Ironhide - Steadfast Brawler in the KO area to give them all Pierce 2 and then combine, does Optimus Maximus have Pierce 2 or Pierce 6?
+      </question>
+      <answer>
+In this scenario, Optimus Maximus would be granted Pierce 6.
+      </answer>
+    </entry>
+    <entry id="322-11" tags="Ironhide - Steadfast Brawler,Optimus Maximus - Ultimate Defender">
+      <question>
+Since Ironhide and Optimus Prime are both components of Optimus Maximus in Wave 2, how do their unique weapons from Wave 1 interact with the Combiner? Will Optimus Maximus take damage from Static Laser of Ironhide? Can I play Ion Blaster of Optimus Prime on a combined Optimus Maximus?
+      </question>
+      <answer>
+Optimus Maximus would take the damage from Static Laser of Ironhide, as he is not named Ironhide. You can keep Ion Blaster of Optimus Prime if you already had one upgraded to Optimus Prime - Gleaming Commander, but you could not put one onto Optimus Maximus.
+      </answer>
+    </entry>
+  <entry id="528-4" tags="Combiner,Optimus Maximus - Ultimate Defender,Ironhide - Steadfast Brawler">
+      <question>
+Since temporary effects applied to individual members of a Combiner team carry over to the Combined form for the turn, what happens if I have two active Sentinels, transform Wave 2 Ironhide in my KO area to give them Pierce 2, then play the Sentinel Enigma to combine them? Does Optimus Maximus then have Pierce 2 or Pierce 4?
+      </question>
+      <answer>
+In this scenario, Optimus Maximus would have Pierce 4.
+      </answer>
+    </entry>
+    <entry id="607-19">
+      <question>
+Let's say I'm playing Sentinels and I have Ironhide - Steadfast Brawler in my KO area in Alt mode. I flip him to Bot mode, giving my characters Pierce 2 until the end of the turn. If I then put a Combat Commands onto one of my Bots in play, let's say Prowl - Strategic Mastermind, attack with him, and use Combat Commands to Trigger Ironhide's KO ability, do my characters get pierce 4 until the end of turn, or does it stay at pierce 2? 
+      </question>
+      <answer>
+Each character’s ability is separate and stacks, so in this scenario you would end up with Pierce 4.
+      </answer>
+    </entry>
+  </target></faq>

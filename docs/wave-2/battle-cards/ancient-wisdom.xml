@@ -1,0 +1,109 @@
+<faq><target name="Ancient Wisdom"><entry id="59">
+      <question>What happens if I scrap two Actions or two Upgrades?</question>
+      <answer>In that case, you can return one card to your hand. The other card remains scrapped.</answer>
+    </entry>
+    <entry id="60">
+      <question>What happens if I play this card with 2 cards left in my deck?</question>
+      <answer>Whenever a card tells you to scrap (or reveal) cards from the top of your deck and then do something else with those cards, those cards aren’t included in the reshuffle. So you’ll scrap the top two cards, shuffle all other cards in your scrap pile into your deck, then return one or both scrapped cards to your hand, depending on what they are.</answer>
+    </entry>
+    <entry id="61">
+      <question>What happens if I play this card with 1 card left in my deck?</question>
+      <answer>In that case, you’ll scrap the one card and shuffle all other cards in your scrap pile into your deck. Then scrap the new top card of your deck, meaning you’ve scrapped a total of two cards.  Then return one or both scrapped cards to your hand, depending on what they are.</answer>
+    </entry>
+    <entry id="62">
+      <question>What happens to a scrapped card that I don’t return to my hand?</question>
+      <answer>It stays in the scrap pile.</answer>
+    </entry>
+    <entry id="63">
+      <question>If I scrap Unleash Potential and return it to my hand, can I then play it?</question>
+      <answer>Yes. You follow the instructions of Ancient Wisdom in the order written.</answer>
+    </entry>
+  <entry id="8-4">
+      <question>
+This was written in Rules Roundup 10/11/19:
+“I play Brainstorm. Using my 2 actions, I play Ancient Wisdom first, then System Reboot. I draw Unleash Potential off of System Reboot, do I get to play it for free now?
+Both Brainstorm and Ancient Wisdom resolve “top to bottom”. When you play Brainstorm, then you play Ancient Wisdom, you must play Unleash Potential at that moment. In your case, you’ve moved past Ancient Wisdom and are continuing with Brainstorm, playing System Reboot. It’s now too late to play Unleash Potential with your previous Ancient Wisdom.”
+Would this rule also apply to Tech Research? You must play a Superior upgrade after playing Tech Research or else that Tech Research is not forfeit. Example: I play Brainstorm first, then I play Tech Research, then I play Medic. Can I play Superior Jetpack?
+        </question>
+      <answer>
+Superior upgrades only check to see if you have played Tech Research at some point previously in your turn. Therefore, there is no issue with playing other cards between Tech Research and a Superior upgrade.
+      </answer>
+    </entry>
+    <entry id="8-5">
+      <question>
+Along those lines, am I limited to playing 1 Unleashed Potential per Ancient Wisdom? Am I limited to playing 1 Superior upgrade per Tech Research?
+        </question>
+      <answer>
+Your Ancient Wisdom allows you to play a single Unleash Potential. After you’ve played Tech Research, the number of Superior upgrades you can play is only limited by the number of upgrades you can play.
+      </answer>
+    </entry>
+    <entry id="7-1">
+      <question>
+I play Brainstorm. Using my 2 actions, I play Ancient Wisdom first, then System Reboot. I draw Unleash Potential off of System Reboot, do I get to play it for free now?
+        </question>
+      <answer>
+Both Brainstorm and Ancient Wisdom resolve “top to bottom”. When you play Brainstorm, then you play Ancient Wisdom, you must play Unleash Potential at that moment. In your case, you’ve moved past Ancient Wisdom and are continuing with Brainstorm, playing System Reboot. It’s now too late to play Unleash Potential with your previous Ancient Wisdom.
+      </answer>
+    </entry>
+    <entry id="628-11">
+      <question>
+Does Leap of Faith get around requirement cards (Tech Research, Ancient Wisdom) like Hunker Down does? If I flip a superior equipment, can I play that without the Tech Research?
+      </question>
+      <answer>
+Leap of Faith gives you the ability to play a card, but that card’s requirements must still be met. 
+      </answer>
+    </entry>
+    <entry id="1-19">
+      <question>
+Ancient Wisdom states, “You may play Unleash Potential.” Do that mean it’s allowing you it as a second action for that turn? If yes, can you play two Unleash Potentials? The text doesn’t specify a quantity.
+</question>
+      <answer>
+You may play one Unleash Potential.
+</answer>
+    </entry>
+    <entry id="222-1">
+      <question>
+If I play Ancient Wisdom and scrap two upgrades or two actions, do I just pick one to add to my hand and the other stays in the scrap pile? Or do I have to scrap an upgrade and an action to activate its effect.
+      </question>
+      <answer>
+You can pick one and the other stays in the scrap pile.
+      </answer>
+    </entry>
+    <entry id="517-11">
+      <question>
+If I play Ancient Wisdom and follow it with Unleash Potential 4 times in one game, am I allowed to add 4 copies of the same card; i.e. Mounted Missiles, to my hand, even though under normal deck constraints a playset is 3?
+      </question>
+      <answer>
+Yes, you can. Deck constraints only apply to your starting deck.
+
+          <tftcg-note>This changed in later competitive rules to state they could only pull from the sideboard, and that the only three copies applies to deck and sideboard. </tftcg-note>
+      </answer>
+    </entry>
+  <entry id="308-13">
+      <question>
+Would like to check with you during situation of Brainstorm being used, the other 2 actions after Brainstorm are Ancient Wisdom and Leap of Faith. While flipping for Leap of Faith, I somehow manage to flip 2 Unleash Potentials. Does that mean that I get to bring back two 1-star cards outside the game I owned?
+      </question>
+      <answer>
+Yes, if you played the Ancient Wisdom first.
+    </answer>
+    </entry>
+    <entry id="308-14">
+      <question>
+Next, is there a sequencing issue with the synergy of Ancient Wisdom and Unleash Potential? Say while playing Leap of Faith, I flipped Unleash Potential first and then flipped Ancient Wisdom, do I still get to bring in a 1-star card?
+      </question>
+      <answer>
+No, that would not do anything.
+    </answer>
+    </entry>
+    <entry id="9-24">
+      <question>
+I play Brainstorm, then Ancient Wisdom and System Reboot. My new hand is Multi-Mission Gear, Brainstorm, and 2 Unleashed Potential. Can I play Mutli-Mission Gear, then Brainstorm, and then both Unleashed Potentials?
+        </question>
+      <answer>
+Let’s walk through this whole play. You play Brainstorm and your first action is Ancient Wisdom. Ancient Wisdom has you scrap the top two cards of your deck and put an Action and/or Upgrade from among the scrapped cards into your hand. At this point, you can play Unleash Potential, if it’s in your hand.
+Let’s say you do. You get a card with 1 star from outside the game and put it into your hand. This may not be a great idea, because you then play the second action from Brainstorm, which is System Reboot. You scrap your hand (including that fancy star card you just snagged) and draw 4 cards.
+But instead, let’s say you don’t play Unleash Potential. That brings you to the end of Ancient Wisdom and now you System Reboot just as above.
+In either case, your new hand is Multi-Mission Gear, Brainstorm, and 2 Unleash Potentials. You’ve already played an Action this turn, so we’re guessing you’ll now play Multi-Mission Gear. This allows you to play an Action such as Brainstorm. Brainstorm will allow you to play 2 Unleash Potentials. You played Ancient Wisdom earlier in your turn, so you can get two 1-star cards from outside the game.
+</answer>
+    </entry>
+  </target></faq>

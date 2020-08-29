@@ -1,0 +1,9 @@
+<faq><target name="Energy Transfer"><entry id="54">
+      <question>How does Energy Transfer interact with cards like Toolbox?</question>
+      <answer>Moving damage counters doesn’t count as repairing or damaging either character.</answer>
+    </entry>
+    <entry id="55">
+      <question>Can I choose to move no damage counters?</question>
+      <answer>Yes. You can even play Energy Transfer if you have only one character or if none of your characters have damage counters on them. It won’t have any effect itself, but other cards may have effects that depend on you playing Actions, and you’ll get the orange battle icon back in your deck.</answer>
+    </entry>
+  </target></faq>

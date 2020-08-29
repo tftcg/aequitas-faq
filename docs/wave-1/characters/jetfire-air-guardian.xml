@@ -1,0 +1,25 @@
+<faq><target name="Jetfire - Air Guardian"><entry id="51" mode="bot">
+      <question>
+    Can I use Jetfire’s ability to put an Upgrade on him if he already has an Upgrade of that type?
+</question>
+      <answer>
+    Yes, but you’ll have to scrap the Upgrade of that type he originally had.
+</answer>
+    </entry>
+  <entry id="RR1-17" tags="Play,Jetfire - Air Guardian,Wheeljack - Weapons Inventor">
+      <question>
+Am I allowed to count the cards remaining in my deck (Obviously without looking at them face up)? Am I allowed to look through my scrap pile at any time, or only when prompted from a card? (e.g. Wheeljack or Jetfire)
+      </question>
+      <answer>
+Yes and yes.
+      </answer>
+    </entry>
+    <entry id="426-4" tags="Jetfire - Air Guardian">
+      <question>
+Given Hunker Down, which says "Flip each of your characters from bot mode to tank mode. Then for each of your tanks that isn't upgraded with an Armor, put an Armor on it from your scrap pile", bypasses the requirement to play Tech Research for Superior Plating, does the same apply to Jetfire, whose wording is "When you flip to this mode - Put an Armor or Utility from your scrap pile onto this character"?
+      </question>
+      <answer>
+Yes.
+      </answer>
+    </entry>
+    </target></faq>

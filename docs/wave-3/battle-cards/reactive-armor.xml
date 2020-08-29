@@ -1,0 +1,49 @@
+<faq><target name="Reactive Armor"><entry id="177">
+      <question>If any of these upgrades are scrapped because the character who had it was KO’d, does the ability trigger?</question>
+      <answer>Yes.</answer>
+    </entry>
+    <entry id="178">
+      <question>If one of these upgrades is on a character, and I play another upgrade of that type to replace it, does the ability trigger?</question>
+      <answer>Yes. Replacing an upgrade this way causes the old upgrade to be scrapped.</answer>
+    </entry>
+  <entry id="10-11">
+      <question>
+If my opponent KO’s Skytread (whichever), what happens to his Upgrades? Are they Scrapped? Are they eligible to be transferred to Raider Skytread? Can I choose to Scrap a Reactive Armor even if the other piece doesn't have an Armor?
+        </question>
+      <answer>
+If Skytread (whichever) has any upgrades prior to combining, those upgrades are scrapped. Raider Skytread can keep the upgrades from the Skytread (whichever) that was on the battlefield and not KO’d.
+      </answer>
+    </entry>
+    <entry id="10-38">
+      <question>
+I have a character with a Reactive Armor. I play a Scrapper Gauntlets on that character. My opponent only has a single Armor in play.  What is the timing on the triggers here?  Are they considered simultaneous, or does one need to happen before the other?
+        </question>
+      <answer>
+They trigger simultaneously and you resolve them in an order of your choosing.
+      </answer>
+    </entry>
+    <entry id="1-28">
+      <question>
+Question regarding Dismantling Claw / Reactive Armor. When character with such upgrade is KO’d can I use this ability?
+</question>
+      <answer>
+Yes, you can!
+</answer>
+    </entry>
+    <entry id="607-4">
+      <question>
+Do Dismantling Claw and Reactive Armor trigger when a character dies, since upgrades are scrapped upon KO?
+      </question>
+      <answer>
+When a character is KO’d, all upgrades attached to it are scrapped at the same time. This means they can see each other leave the battlefield, so both Dismantling Claw and Reactive Armor would trigger.
+      </answer>
+    </entry>
+    <entry id="2-16">
+      <question>
+The cards Dismantling Claw, Reactive Armor and Personal Targeting Drone say "When this upgrade is scrapped from a character...". Do these effects trigger when the character is KO'd and the upgrade goes to the scrap pile? Do these effects trigger when you replace the upgrade and it goes to the scrap pile?
+</question>
+      <answer>
+Yes and yes.
+</answer>
+    </entry>
+    </target></faq>

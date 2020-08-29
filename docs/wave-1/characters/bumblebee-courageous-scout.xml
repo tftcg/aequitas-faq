@@ -1,0 +1,32 @@
+<faq><target name="Bumblebee - Courageous Scout"><entry id="27" mode="alt">
+      <question>
+    What happens if I have no cards in my hand when I use this ability?
+</question>
+      <answer>
+    You’ll draw a card, look at it, and immediately put it on top of your deck. You can’t do anything else
+with the card (like play it) before putting it on top of your deck.
+</answer>
+    </entry>
+    <entry id="28" mode="bot">
+      <question>
+    Let’s say I reveal one white battle icon during Bumblebee’s combat. Then I flip another white battle
+icon in the two bonus cards. Will his ability trigger?
+</question>
+      <answer>
+    Yes. For any ability that looks at what battle icons you flipped, flip your two bonus cards before
+checking if that ability triggers or not.
+</answer>
+    </entry>
+  <entry id="322-8" tags="Wheeljack - Weapons Inventor">
+      <question>
+Wheeljack is in car mode is equipped with the following: 
+Multi-Tool, Turbo Boosters, and Scrapper Gauntlets.
+Bumblebee - Courageous Scout is tapped, in car mode, and equipped with the following:
+Drill Arms, Crushing Size, and Multi Mission Gear.
+For my action, I play Swap Parts between Wheeljack and Bumblebee. There are a LOT of abilities that fire off here and I'm curious to know, what would be the appropriate order? Most importantly, when does Wheeljack's ability take priority?
+      </question>
+      <answer>
+These would all trigger at the same, so you would choose the order they happen in.
+      </answer>
+    </entry>
+    </target></faq>

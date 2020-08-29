@@ -1,0 +1,60 @@
+<faq><target name="Decepticon Shockwave - Cybertron Commander"><entry id="39" xref="Rules_Roundup-2019-07-12#1-1" mode="bot" />
+      <entry id="40" xref="Rules_Roundup-2019-07-12#1-3" mode="bot" />
+  <entry id="315-11" tags="Decepticon Shockwave - Cybertron Commander">
+      <question>
+Let's say I have Shockwave in bot mode and when my opponent flips for an attack, they flip a card with a green icon (For this example, let's say Tech Research). They then swap a card from their hand to take said Tech Research. Would that swap count as scrapping the card, and therefore trigger Shockwave's ability?
+      </question>
+      <answer>
+No. Green battle icons do not cause a “scrap”, they cause a “swap”, causing the card to go into the played area. It will be scrapped at the end of the turn with the other cards flipped during that battle.
+      </answer>
+    </entry>
+    <entry id="201-4" tags="Decepticon Shockwave - Cybertron Commander">
+      <question>
+I have Decepticon Shockwave in bot mode (untapped), and start by playing Brainstorm, then play Disruption to have the opponent scrap a card in hand, then Security Checkpoint and to have the opponent scrap 2 more cards. So a total of 3 cards were scrapped by 2 action cards. Would the opponent take 1 damage for each action card played (that made them scrap cards) or take 3 damage since the opponent scrapped 3 cards total?
+      </question>
+      <answer>
+The opponent would take 3 damage total.
+    </answer>
+    </entry>
+    <entry id="628-13" tags="Decepticon Shockwave - Cybertron Commander">
+      <question>
+When my opponent plays Decepticon Shockwave and plays System Reboots to make me discard, say, 10 cards, if I have a Defensive Driving card attached to one of my characters, can I choose all 10 damage to be dealt to that character and make it all to zero since Shockwave ability reads as deal 1 damage to it?
+      </question>
+      <answer>
+Yes, Shockwave’s ability triggers individually per card discarded, so each instance of 1 damage would be reduced to 0 because of Defensive Driving. 
+      </answer>
+    </entry>
+    <entry id="1-24">
+      <question>
+What happens if you use a green battle icon if your opponent has Decepticon Shockwave - Cybertron Commander in bot mode?
+</question>
+      <answer>
+Green battle icons are a swap effect, not a scrap-from-your-hand effect.
+</answer>
+    </entry>
+    <entry id="517-5" tags="Decepticon Shockwave - Cybertron Commander,Captain Ironhide - Infantry - Bodyguard">
+      <question>
+If I have Captain Ironhide in alt mode and my opponent has Decepticon Shockwave in bot mode and causes me to scrap a card. If I direct that damage to Captain Ironhide does his alt mode skill deny the damage? 
+      </question>
+      <answer>
+Are opponents’ cards considered battle cards and character cards as per Captain Ironhide’s skill wording?
+The answer to both questions is yes!
+      </answer>
+    </entry>
+    <entry id="211-2">
+      <question>
+Does Defensive Driving completely negate Decepticon Shockwave - Cybertron Commander's bot mode ability?
+      </question>
+      <answer>
+Yes, each damage is individual and not a lump sum so it will be reduced to zero.
+      </answer>
+    </entry>
+    <entry id="211-18" tags="Decepticon Shockwave - Cybertron Commander,Nemesis Prime - Dark Clone">
+      <question>
+If I have Shockwave in play and my opponent has 2 characters with 1 damage left each (say Optimus Prime - Battlefield Legend with 13 damage and Nemesis Prime with 15 damage) and I play System Reboot forcing them to discard 2 cards, can they choose to put both damage on Nemesis Prime or must they put 1 damage on each?
+      </question>
+      <answer>
+Each card discarded creates a new instance of 1 damage, so they will be forced to put one damage on each.
+      </answer>
+    </entry>
+    </target></faq>

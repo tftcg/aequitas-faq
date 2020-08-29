@@ -1,0 +1,91 @@
+<faq><target name="Tap Ability"><entry id="114">
+      <question>
+          What are Tap Abilities?
+      </question>
+      <answer>
+Micro Masters tend to be small, and they’ll often be outmatched on the battlefield. But that
+doesn’t mean they can’t help your cause. They have tap abilities that give you an option other
+than attacking with them.
+      </answer>
+    </entry>
+    <entry id="115">
+      <question>
+             How can I recognize a tap ability?
+        </question>
+      <answer>
+             Tap abilities all have the tap symbol (marked as [t] in text documents like this one) to the left
+of the arrow.
+      </answer>
+    </entry>
+    <entry id="116">
+      <question>
+             How do tap abilities work?
+        </question>
+      <answer>
+             You can use one tap ability during your turn, before you attack. It’s one of your turn actions,
+just like playing an Action card, playing an Upgrade card, or flipping one of your characters to its
+other mode. To use the tap ability, the character that has the ability must be untapped. Using
+the ability causes the character to become tapped.
+      </answer>
+    </entry>
+    <entry id="117">
+      <question>
+             Does using a tap ability also mean the character attacks?
+        </question>
+      <answer>
+             No. Using a tap ability isn’t the same as attacking.
+      </answer>
+    </entry>
+    <entry id="118">
+      <question>
+             Do I have to use a tap ability during my turn?
+        </question>
+      <answer>
+             No. It’s your choice. You don’t have to use a tap ability, even if you could.
+      </answer>
+    </entry>
+    <entry id="119">
+      <question>
+             If I have more than one untapped character with a tap ability, can I use all of them in the
+same turn?
+        </question>
+      <answer>
+             No. You can use only one tap ability per turn.
+      </answer>
+    </entry>
+    <entry id="120">
+      <question>
+             Can I use a tap ability, then play an Action that untaps that character, then use that tap
+ability again?
+        </question>
+      <answer>
+             Nope. One tap ability per turn.
+      </answer>
+    </entry>
+    <entry id="121">
+      <question>
+             Some tap abilities say I have to scrap cards from my hand or other additional costs. Can I use
+a tap ability if I can’t pay that cost.
+        </question>
+      <answer>
+             No. For example, if a tap ability says you have to scrap a card from your hand with an orange
+battle icon, and you don’t have one, you can’t use that tap ability.
+      </answer>
+    </entry>
+  <entry id="502-9" tags="Raider Visper - Infantry - Patrol Leader,Tap Ability">
+      <question>
+If I’m defending with Raider Visper, who is untapped, and my opponent plays EMP Wave, do I get the option of discarding 3 green pips to force them to discard 3 cards? If they’re matching, do I get to draw three? Also, EMP Wave would always make it the turn of the person who didn’t play it, correct? Or if I’m attacking and play EMP Wave do I get to swing with a character that I just tapped?
+      </question>
+      <answer>
+No, a Tap ability is something you use on your turn, not whenever the character becomes tapped. If you play EMP Wave on your turn, all characters will be tapped. Your turn continues, and you can play an upgrade, flip a character, etc. At the end of your turn, all characters will untap, and your opponent’s turn will begin.
+      </answer>
+    </entry>
+    <entry id="2-22" tags="Tap Ability">
+      <question>
+How do I use a Micromaster’s tap ability? Let's say Raider Detour. I tap Raider Detour, then scrap a card with a blue battle icon, and draw my 2 cards. Does that mean I have used Raider Detour and now I attack with one of my other characters?
+</question>
+      <answer>
+You can still play an Action or Upgrade if you haven’t and would like to, but then you can move on. Each turn, you can use one tap ability. Raider Detour will not be able to attack because he is tapped. However if he were untapped somehow, he would still be able to attack.
+</answer>
+    </entry>
+    </target></faq>

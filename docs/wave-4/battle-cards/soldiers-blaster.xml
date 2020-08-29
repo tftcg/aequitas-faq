@@ -1,0 +1,9 @@
+<faq><target name="Soldier's Blaster"><entry id="610-1" tags="Soldier's Blaster,Faction">
+        <question>
+            How does Soldier's Blaster (and similar cards) work when interacting with a character who is both an Autobot and a Decepticon? 
+        </question>
+        <answer>
+            Different faction means "does not share a faction identity." For a character which is both an Autobot and a Decepticon, "not sharing a faction identity" means NOT Autobot and NOT Decepticon. Currently, this leaves Mercenary as the only different faction.
+        </answer>
+    </entry>
+    </target></faq>

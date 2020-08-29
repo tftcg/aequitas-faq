@@ -1,0 +1,157 @@
+<faq><target name="Combiner"><entry id="1">
+      <question>
+             What are Combiners? 
+        </question>
+      <answer>
+             It would be hard to have a set called Rise of the Combiners without… the Combiners!
+Combiners are teams of characters that join in a third mode called Combiner mode. Most teams have a corresponding battle card called an Enigma that combines the team under the right circumstances. One Combiner in this set (Dreadwing - Sky Destroyer) has a different way of combining.
+When a character is combined, it starts untapped and it gets all the damage counters from the characters that formed it. It can keep upgrades from those characters based on its upgrade slots. Unless the Combiner says differently, it will have 1 Weapon slot, 1 Utility slot, and 1 Armor slot like most characters. If there are too many Upgrades to fit into a slot, you can keep as many as you can fit, and the rest are scrapped.
+A character in Combiner mode is a single character, even though it’s made up of multiple cards.  When it attacks, the whole thing becomes tapped. If it’s KO’d (and somehow you haven’t lost the game), it stays in Combiner mode in the KO area.
+A character in Combiner mode can’t flip. Ignore any instruction to flip it. Also, a character in Combiner mode can’t “break apart” into its individual cards.
+        </answer>
+    </entry>
+  <entry id="201-6" tags="Combiner,Optimus Maximus - Ultimate Defender,Ironhide - Steadfast Brawler">
+      <question>
+When Combiners combine can the keep an equipment that they normally couldn't equip? Example could Optimus Maximus keep a Power Sword from Ironhide even though he's a ranged character?
+      </question>
+      <answer>
+Yes.
+    </answer>
+    </entry>
+    <entry id="201-7" tags="Combiner">
+      <question>
+When you play an Enigma of Combination to combine and all characters are in bot mode, do you also get to do the other text on the Enigma such as drawing 2 cards when you play the Stunticon Enigma, or do you only get that effect if you play the Stunticon Enigma once Menasor has already been formed?
+      </question>
+      <answer>
+You perform the actions on the card in the order that they’re written, which dictates when effects are applicable to a given scenario. For example, if you’ve already played an Enigma to combine, you would receive the top bonus.
+    </answer>
+    </entry>
+    <entry id="201-8" tags="Combiner,Optimus Maximus - Ultimate Defender,Prowl - Strategic Mastermind">
+      <question>
+The enigma cards mention a Combiner keeps an upgrade in each slot, but here's a weird scenario involving that: Say Prowl, Strategic Mastermind is upgraded with a Power Sword. Since he's a melee character, he can obviously take this upgrade. But could you keep that Power Sword on Optimus Maximus when he combines, even though he's a ranged character?
+      </question>
+      <answer>
+Yes.
+    </answer>
+    </entry>
+    <entry id="201-9" tags="Motormaster - Stunticon Leader,Combiner">
+      <question>
+If Motormaster or Ironhide - Steadfast Brawler have three Cargo Trailer attached to them and they combine, can the Cargo Trailers be transferred over to the new Combiner even though the new Combiner is not a Truck? If so, can you transfer all three Cargo Trailers or just one? 
+      </question>
+      <answer>
+You can transfer all three Cargo Trailers.
+    </answer>
+    </entry>
+    <entry id="201-10" tags="Combiner">
+      <question>
+Furthermore, can a Power Sword be transferred if the combined form is not Melee? 
+      </question>
+      <answer>
+Yes.
+    </answer>
+    </entry>
+    <entry id="201-11" tags="Combiner">
+      <question>
+If the Combiner is treated like a new character upon combination, will Armed Hovercraft activate if moved from a composite part to the Combiner upon combination? 
+      </question>
+      <answer>
+No. It would stay attached, but would not activate upon combination.
+    </answer>
+    </entry>
+  <entry id="RR1-6" tags="Combiner">
+      <question>
+Are Combiners able to flip to their separate alt modes once they are combined?
+      </question>
+      <answer>
+Currently there is no way to flip a Combiner once it is combined.
+      </answer>
+    </entry>
+    <entry id="218-23" tags="Combiner">
+      <question>
+Is keeping a weapon, armor, and utility a feature of combining or is it based on an action? 
+      </question>
+      <answer>
+It’s a feature of combining. Combiners have one of each slot unless otherwise specified.
+      </answer>
+    </entry>
+    <entry id="610-10" tags="Lose the Initiative,Combiner">
+        <question>
+            If a combiner combined and untapped. Would Lose the Initiative cancel the untap combiner effect?
+        </question>
+        <answer>
+            A team of characters combining isn't actually untapping; the resulting Combiner character is entering the battlefield untapped (like all characters which enter the battlefield after the start of the game, unless another card or ability says otherwise).
+        </answer>
+    </entry>
+    <entry id="308-3" tags="Combiner">
+      <question>
+With the some of the new combiner teams being over 25 points, how does this work? Do the players decide on the points totals they’ll be playing or are you still only able to take 25 points and you’ll not be able to use this team to combine?
+      </question>
+      <answer>
+In a normal game, you must still adhere to the 25-star limit when building your deck, but Optimus Maximus and Volcanicus have special rules on their cards that explain how they function with more than 25 stars.
+    </answer>
+    </entry>
+    <entry id="308-6" tags="Combiner">
+      <question>
+The enigma cards state that all the of the combiner component characters must be “in bot mode on the battlefield and/or in your KO area”. Do they still have to be in bot mode if they are in the KO area? Given how Volcanicus is formed I assumed they could be in alt mode, but now that the new rules state you can flip characters in the KO area, I’m not so sure.
+      </question>
+      <answer>
+Yes.
+    </answer>
+    </entry>
+    <entry id="308-10" tags="Combiner">
+      <question>
+When a Combiner combines and the upgrades on its components go onto it, does that count as putting it on a character in the same way that Swap Parts does? For example:  Torox has Energon Slingshot before Predacon Enigma was played.  When Predaking is combined into, will Slingshot count as being put on a melee character and have its ability to deal 1 damage activate?
+      </question>
+      <answer>
+No. Upgrades are not “put on” when Combining, they are “kept on”.
+    </answer>
+    </entry>
+    <entry id="211-9" tags="Combiner,KO">
+      <question>
+If a combiner is KO'd, do each of its individual components get put into the KO space, or does it stay a combiner? If it's the components, do they get KO'd in bot mode?
+      </question>
+      <answer>
+It is KO’d in combiner mode. That is generally the end of the game, but in corner cases like Volcanicus and REDACTED this can come up.
+      </answer>
+    </entry>
+    <entry id="528-4" tags="Combiner,Optimus Maximus - Ultimate Defender,Ironhide - Steadfast Brawler">
+      <question>
+Since temporary effects applied to individual members of a Combiner team carry over to the Combined form for the turn, what happens if I have two active Sentinels, transform Wave 2 Ironhide in my KO area to give them Pierce 2, then play the Sentinel Enigma to combine them? Does Optimus Maximus then have Pierce 2 or Pierce 4?
+      </question>
+      <answer>
+In this scenario, Optimus Maximus would have Pierce 4.
+      </answer>
+    </entry>
+    <entry id="228-4" tags="Combiner,Volcanicus - Fiery Champion,KO,Dreadwing - Sky Destroyer">
+      <question>
+Does the I Still Function! + Dreadwing rule apply generally to Combiners or is it specific to Dreadwing’s method of Combination? Suppose I control Dinobot Sludge - Mighty Stomper and have the five Dinobot components in my KO Area. Can I Brainstorm+ I Still Function! + Dinobot Enigma and expect to keep Volcanicus at the end of the turn?
+      </question>
+      <answer>
+The same ruling applies. If you I Still Function! One of the Dinobots and then play Dinobot Enigma, at the end of your turn, Volcanicus will be KO’d.
+      </answer>
+    </entry>
+    <entry id="607-7" tags="Combiner,Superion - Sky Protector">
+      <question>
+If I have a Laser Cutlass on an Aerialbot and combine, do I keep the Laser Cutlass because it was put on a 7-star or less bot in the first instance?
+      </question>
+      <answer>
+Yes. You can keep it if you want as Superion’s only weapon.
+      </answer>
+    </entry>
+    <entry id="607-8" tags="Combiner,Predaking - Ferocious Hunter">
+      <question>
+Same for Predaking? So he could be combined with up to 3 Laser Cutlasses?
+      </question>
+      <answer>
+Yes.
+      </answer>
+    </entry>
+    <entry id="607-11" tags="Combiner">
+      <question>
+When I play Brainstorm, Heat of Battle, then the Combiner Enigma, do all of my combiners get the BOLD 3 so therefore my Combined Combiner gets all of the BOLD stacked?
+      </question>
+      <answer>
+“Sadly, yes.” - Rules Master Matt Tabak.
+      </answer>
+    </entry>
+    </target></faq>

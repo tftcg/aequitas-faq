@@ -1,0 +1,33 @@
+<faq><target name="Razorclaw - Predacon Leader"><entry id="46" mode="bot">
+      <question>When I flip Razorclaw to bot mode, can he still attack tapped characters?</question>
+      <answer>Yes.</answer>
+    </entry>
+    <entry id="47" mode="bot">
+      <question>Can Razorclaw attack an untapped character that has stealth if there are other characters he could attack?</question>
+      <answer>Yes. Abilities like stealth and brave still function. You just treat untapped characters as though they were tapped when determining what Razorclaw can attack.</answer>
+    </entry>
+  <entry id="8-1" tags="Razorclaw - Predacon Leader,Stealth">
+      <question>
+Razorclaw’s robot mode ability says that when he flips to that mode he can attack untapped characters that turn as though they were tapped. If a character has Stealth when untapped, does Razorclaw treat them as tapped or untapped for the purpose of their Stealth?
+        </question>
+      <answer>
+The character will still have Stealth. Razorclaw’s ability changes the way that Razorclaw can attack but doesn’t actually change the Tapped/Untapped state of other cards.
+      </answer>
+    </entry>
+    <entry id="308-17" tags="Razorclaw - Predacon Leader">
+      <question>
+Based off the I Still Function! Ruling, would I be able to transform Razorclaw to bot mode, then combine into Predaking but retain his flip ability to attack untapped characters since he's part of the Combiner?
+      </question>
+      <answer>
+Yes.
+    </answer>
+    </entry>
+    <entry id="9-4" tags="Pincer Movement,Razorclaw - Predacon Leader,Brave">
+      <question>
+Regarding Pincer, will it allow the follow-up attack to bypass normal rule processes? For example, I attack with Razorclaw in Bot Mode against an untapped unit. Can my other Decepticon attack this untapped unit? What about bypassing Brave?
+        </question>
+      <answer>
+If you can’t legally choose another Decepticon as the attacker, and the same character as the defender, you don’t get the extra attack. In other words, you can’t just ignore Brave or other rules.
+      </answer>
+    </entry>
+    </target></faq>

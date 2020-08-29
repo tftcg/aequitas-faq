@@ -1,0 +1,157 @@
+<faq><target name="KO"><entry id="12">
+        <question>
+             If one of my characters is KO’d, does it keep its damage counters?
+        </question>
+        <answer>
+             A KO’d character has damage counters on it equal to its health. Note that this is true even if it took
+more damage while on the battlefield. For example, if a character with 7 health takes 10 damage, it ends
+up in the KO area with 7 damage counters.
+    </answer>
+    </entry>
+      <entry id="13">
+        <question>
+             If one of my characters is KO’d, what mode is it in?
+        </question>
+        <answer>
+             Characters don’t change modes when are KO’d. If a character was in bot mode when it was KO’d, it
+will be put in the KO area in bot mode.
+    </answer>
+    </entry>
+      <entry id="14">
+        <question>
+             If a card returns a KO’d character to the battlefield, what mode is it in? Is it tapped or untapped?
+        </question>
+        <answer>
+             Unless the card that returns the character says otherwise, it will be untapped and in the same mode it
+was in the KO area.
+    </answer>
+    </entry>
+
+<entry id="9" tags="KO">
+        <question>
+             Several cards in this set cause battle cards to be put into the KO area. What does that mean?
+        </question>
+        <answer>
+             Those cards are essentially out of the game, except if something specifically puts them somewhere else. They aren’t scrapped, so they won’t be reshuffled into your deck when your deck is empty.
+        </answer>
+    </entry>
+<entry id="502-7" tags="KO">
+      <question>
+When KO’d, a Battle Master comes back as a weapon. Then once it gets destroyed, it goes into the KO area. My question is, can you flip it back to bot mode in the KO area after it falls off?
+      </question>
+      <answer>
+No. You may only flip characters in the KO area using your normal once-per-turn flip.
+      </answer>
+    </entry>
+    <entry id="RR1-9" tags="KO">
+      <question>
+If a character flips in the KO area, will you benefit from any "When this character flips to this mode -" abilities? Do flip abilities matter if they're on the field or in the KO area, as long as the action of flipping happens?
+      </question>
+      <answer>
+K.O.’d characters flip abilities do not trigger when flipped unless specifically stated.
+      </answer>
+    </entry>
+    <entry id="RR1-16" tags="KO,Cliffjumper - Renegade Warrior">
+      <question>
+Does transforming a Car-mode character in the KO pile activate Cliffjumper's alternate mode ability?
+      </question>
+      <answer>
+Not unless specifically stated. K.O.’d characters flipping wont trigger any abilities unless otherwise stated.
+      </answer>
+    </entry>
+    <entry id="218-35" tags="KO">
+      <question>
+Can you heal damage from Characters in your K.O. Area?
+      </question>
+      <answer>
+No.
+      </answer>
+    </entry>
+  <entry id="405-8" tags="KO">
+      <question>
+    1. "When this is in your KO area and you flip to this mode =&gt; [do something]"
+This suggests to me that A) you can flip characters in the KO area, and B) character abilities are active while in the KO area. Is this correct?
+    2. If the answer to either the above is "yes", how does a card like Ransack work while in KO?
+"When you flip to this mode =&gt; move 2 damage counters from another character to this one."
+      </question>
+      <answer>
+1. Yes, when you flip a character in your turn, you can flip a character on the battlefield or in your KO area.
+2. Abilities only function in the KO area if they specifically say so. Most abilities, like Ransack’s, do not function in the KO area.
+      </answer>
+    </entry>
+    <entry id="610-5" tags="KO,Head Mode &amp; Body Mode,Decepticon Quake - Ground Assault">
+        <question>
+            Can you clarify timing on when heads activate in regard to finishing a trigger that caused the Body to be KO'd? Examples: Does Decepticon Quake damage his own Head when he dies? Octone killing a Body and then his bounty triggers does this kill the Head when it is played?
+        </question>
+        <answer>
+            A head’s deploy ability is a triggered ability. When both players trigger an ability at the same time the active player’s abilities will complete before the defending player. A player may order their own simultaneous triggers how they wish. The player controlling Quake may order Quake’s damage trigger and Quake’s head’s deploy trigger such that Quake’s damage ability resolves first, and Quake’s head second. If Octone’s controller is the active player, they must use Octone’s bounty trigger before the defending player resolves their head’s deploy trigger.
+            <tftcg-note>This answer is an update on the originally published answer in the Roundup</tftcg-note>
+        </answer>
+    </entry>
+    <entry id="610-14" tags="KO,Sky Shadow Sync,Sky Shadow - Elite Warrior,Sky Shadow (Tank),Sky Shadow (Plane)">
+        <question>
+            In this scenario, the Stratagem Sky Shadow Sync is also in play. What exactly happens when you only have Sky Shadow (Tank) and Sky Shadow (Plane) as your last characters and both get KO'd at the same time?
+        </question>
+        <answer>
+            If all your characters are KOed, and there is no other card text saying otherwise (like a head's deploy ability), you lose. Sky Shadow Sync doesn't include such text, so if Sky Shadow (Tank) and Sky Shadow (Plane) are your last characters and both get KO'd at the same time, you lose the game.
+        </answer>
+    </entry>
+    <entry id="3-10" tags="Battle Master,Weaponizer,KO,Tie-Break">
+      <question>
+If a Battle Master or Weaponizer is in the KO Pile, and the match runs to time and damage on all characters is assessed, should they count their damage for that total, or are they simply an upgrade with no damage on them?
+</question>
+      <answer>
+They are an upgrade with no damage on them.
+
+          <tftcg-note>This FAQ item refers to a form of tie-breaker from November 2019 tournament rules prior to November 2019. It is no longer relevant. </tftcg-note>
+</answer>
+    </entry>
+    <entry id="412-14" tags="Battle Master,KO">
+      <question>
+Regarding when Battle Masters go to the KO area when they're removed from the battlefield in upgrade mode: Do they switch to bot mode when they go there or do they stay in upgrade mode? And if they do stay in upgrade mode, how does this interact with Emergency Maintenance?
+      </question>
+      <answer>
+They stay on their Upgrade side and it does not interact with Emergency Maintenance because upgrades are not counted as characters.
+      </answer>
+    </entry>
+    <entry id="412-18" tags="Battle Master,KO">
+      <question>
+So, when a Battle Master is KO'd, does it count as a KO since they are technically not sent to the KO pile? Or is the instance of "KO" simply contingent on reaching your HP total?
+      </question>
+      <answer>
+It is a KO and they go to the KO Area, before flipping to its Upgrade side.
+      </answer>
+    </entry>
+    <entry id="412-19" tags="Battle Master,KO,Wheeljack - Weapons Inventor">
+      <question>
+Speaking of when a Battle Master is KO'd, it states that you "play" the Upgrade side. Does that mean that you are technically Upgrading a character triggering effects like Wheeljack's alt mode? Furthermore--and I think I know the answer to this question--does this "play" take up the Upgrade for a turn?
+      </question>
+      <answer>
+Playing the Upgrade side of a Battle Master is just like playing an Upgrade from anywhere else. Wheeljack’s ability will trigger. As you probably know, this does not count as the one upgrade for your turn.
+      </answer>
+    </entry>
+    <entry id="211-4" tags="KO">
+      <question>
+Do you check for KO as soon as you calculate damage or is it at the end of the attack phase? Is there a specific order for extra damage calculation outside the normal attack? This matters because of Reckless Charge potentially KOing both attacker and defender simultaneously. It also matters because of Electrified Spikes.
+      </question>
+      <answer>
+We are constantly checking for KO. In the case of Electrified Spikes, it will deal the damage to the attacker before combat damage is assigned. If the attacker is Ransack in bot-mode, he will benefit from the additional damage and increase his attack by 1.
+      </answer>
+    </entry>
+    <entry id="211-9" tags="Combiner,KO">
+      <question>
+If a combiner is KO'd, do each of its individual components get put into the KO space, or does it stay a combiner? If it's the components, do they get KO'd in bot mode?
+      </question>
+      <answer>
+It is KO’d in combiner mode. That is generally the end of the game, but in corner cases like Volcanicus and REDACTED this can come up.
+      </answer>
+    </entry>
+    <entry id="228-4" tags="Combiner,Volcanicus - Fiery Champion,KO,Dreadwing - Sky Destroyer">
+      <question>
+Does the I Still Function! + Dreadwing rule apply generally to Combiners or is it specific to Dreadwing’s method of Combination? Suppose I control Dinobot Sludge - Mighty Stomper and have the five Dinobot components in my KO Area. Can I Brainstorm+ I Still Function! + Dinobot Enigma and expect to keep Volcanicus at the end of the turn?
+      </question>
+      <answer>
+The same ruling applies. If you I Still Function! One of the Dinobots and then play Dinobot Enigma, at the end of your turn, Volcanicus will be KO’d.
+      </answer>
+    </entry>
+    </target></faq>

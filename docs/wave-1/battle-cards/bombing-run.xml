@@ -1,0 +1,17 @@
+<faq><target name="Bombing Run"><entry id="218-10">
+      <question>
+Say for instance that you were playing a full team of Aerialbots, with four planes in vehicle mode. Your opponent played a Strafing Run last turn and spread one damage to each of your characters. Your opponent has a Defensive Driving attached to one of their characters. You play a Bombing Run to move one damage from each of your planes to that character. What happens? Is all damage from Bombing Run dealt with a single damage at a time, per plane you have, or is the damage tallied and then moved in a single chunk? In other words, does that character take three damage from Bombing Run thanks to Defensive Driving, or none at all? Does Defensive Driving block Bombing Run at all, or is "moving" the same as "taking damage"?
+      </question>
+      <answer>
+Moving damage counters does not count as repairing or taking damage. So Defensive Driving would not block damage in this scenario. Maybe take a look at Bumpers!
+      </answer>
+    </entry>
+    <entry id="218-12" tags="Motormaster - Stunticon Leader">
+      <question>
+Related to that point, does Motormaster block Bombing Run? 
+      </question>
+      <answer>
+No.
+      </answer>
+    </entry>
+    </target></faq>

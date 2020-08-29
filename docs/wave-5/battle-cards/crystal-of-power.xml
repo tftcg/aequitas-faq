@@ -1,0 +1,18 @@
+<faq><target name="Crystal of Power"><entry id="33">
+            <question>
+                Can I play this on a character that already has a Weapon?
+            </question>
+            <answer>
+                Yes, but you'll have to replace that Weapon so Crystal of Power can be in both the Weapon and Armor slots.
+          </answer>
+        
+      </entry>
+  <entry id="610-9" tags="Crystal of Power,Sergeant Soundblaster - Weapons - Arms Dealer">
+        <question>
+            If Soundblaster brings back Crystal of Power with his ability that attaches a black pip weapon, back from the scrap, to himself, when he attacks, is the Crystal of Power scrapped at the end of the battle?
+        </question>
+        <answer>
+            Crystal of Power will stay on. The time when Crystal of Power checks for "When the upgraded character battles" was passed the moment Soundblaster tapped to attack. Crystal of Power will trigger the next time the character battles, either defending or attacking.
+        </answer>
+    </entry>
+    </target></faq>

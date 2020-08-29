@@ -1,0 +1,35 @@
+<faq><target name="Cliffjumper - Renegade Warrior"><entry id="38" mode="bot">
+      <question>
+    What happens if one of my characters that’s a Car while in alt mode but not in bot mode is KO’d
+while it’s in bot mode?
+</question>
+      <answer>
+    Characters are put in the KO area in the same mode they were in on the battlefield. In that case, the
+KO’d character isn’t a Car and won’t add to Cliffjumper’s bonus.
+</answer>
+    </entry>
+  <entry id="RR1-16" tags="KO,Cliffjumper - Renegade Warrior">
+      <question>
+Does transforming a Car-mode character in the KO pile activate Cliffjumper's alternate mode ability?
+      </question>
+      <answer>
+Not unless specifically stated. K.O.’d characters flipping wont trigger any abilities unless otherwise stated.
+      </answer>
+    </entry>
+    <entry id="628-12" tags="Autobot Hotrod - Impulsive Fighter,Cliffjumper - Renegade Warrior">
+      <question>
+Say I have Autobot Hot Rod (Sentinel) in the KO area and Cliffjumper in play in alt mode. When I flip Hot Rod in the KO area to bot mode, does it trigger Cliffjumper’s ability to draw a card? Since Cliffjumper’s ability doesn’t stipulate the Car has to be in play, it would seem like this would be valid, right?
+      </question>
+      <answer>
+No. Card abilities do not affect and are not affected by cards in the KO area unless specifically stated on the card. 
+      </answer>
+    </entry>
+    <entry id="426-7" tags="Sunstreaker - Bold Warrior,Cliffjumper - Renegade Warrior">
+      <question>
+If I flip Sunstreaker in KO area to alt mode to draw a card, would that still trigger Cliffjumper’s alt mode skill to draw a card?
+      </question>
+      <answer>
+No. Abilities only look at things on the battlefield unless specifically stated.
+      </answer>
+    </entry>
+    </target></faq>

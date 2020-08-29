@@ -1,0 +1,90 @@
+<faq><target name="Hunker Down"><entry id="93">
+      <question>
+    What happens to characters who are in alt mode?
+</question>
+      <answer>
+    Any character in alt mode, as well as characters who are in bot mode but whose alt mode isn’t a Tank, doesn’t flip. Then each Tank, whether it flipped or not, can get an Armor from your scrap pile.
+</answer>
+    </entry>
+    <entry id="94">
+      <question>
+    If I have more Armors in my scrap pile than I have Tanks, what happens?
+</question>
+      <answer>
+    You choose which Armor goes on which Tank. The same is true if you have more Tanks than you do scrapped Armors.
+</answer>
+    </entry>
+    <entry id="95" xref="Rules_Roundup-2019-07-12#1-17" />
+  <entry id="315-4">
+      <question>
+Can I use Hunker Down to retrieve a Superior Plating from my scrap pile and play it on a bot (bypassing the Tech Research requirement)?
+      </question>
+      <answer>
+Yes. Hunker Down doesn’t ask you to play the card, so the requirement from Tech Research does not apply.
+      </answer>
+    </entry>
+    <entry id="4-8">
+      <question>
+Question about Unconventional Flying Object. Can this be played on a Spaceship that is already in bot mode in order to flip it to alt mode, essentially ignoring the first sentence as "already done" (somewhat similar to Hunker Down)?
+        </question>
+      <answer>
+No, it cannot.
+</answer>
+    </entry>
+    <entry id="10-24">
+      <question>
+Let's say I've got an Armor on one of my characters as well as Defensive Configuration, giving me an extra empty Armor slot. I then play Hunker Down which checks to see if I have an Armor or not. Since Configuration will be giving me an empty Armor slot, would I be able to put an Armor on my character through Hunker, or will it not work since I do still have an Armor in the 1st Armor slot?
+        </question>
+      <answer>
+It will not work since your Tank already has an Armor attached.
+      </answer>
+    </entry>
+    <entry id="628-11">
+      <question>
+Does Leap of Faith get around requirement cards (Tech Research, Ancient Wisdom) like Hunker Down does? If I flip a superior equipment, can I play that without the Tech Research?
+      </question>
+      <answer>
+Leap of Faith gives you the ability to play a card, but that card’s requirements must still be met. 
+      </answer>
+    </entry>
+    <entry id="1-17" tags="Darkmount - Cruel Overlord">
+      <question>
+If I play Hunker Down and flip Darkmount to tank mode can I then choose to activate to Darkmount’s ability to discard a card from my hand before equipping an armor?
+</question>
+      <answer>
+No, you must finish resolving Hunker Down before any triggered abilities from character flips are resolved.
+</answer>
+    </entry>
+    <entry id="422-1">
+      <question>
+If I play Hunker Down while Megatron - Living Weapon has a weapon in his armor slot, do I have to replace the weapon with an armor from my scrap pile, or can I choose not to?
+      </question>
+      <answer>
+If you are able to, you must replace the weapon with an armor.
+      </answer>
+    </entry>
+    <entry id="322-4" tags="Demolisher - Devoted Decepticon,Megatron - Decepticon Leader">
+      <question>
+Regarding character triggers, the following scenario is Demolisher/Darkmount/Common Megatron all in bot mode. I play Brainstorm &gt; Hunker Down &gt; Rapid Conversion. Hunker Down flips all 3 to alt mode, then I play armors from the scrap pile if able. Once Hunker Down is complete, I play Rapid Conversion targeting Megatron to flip him into bot mode. Brainstorm is now resolved. Moving on to character triggers, would Demolisher’s ability now draw 1 or 2 cards? Would I be allowed to use Megatron’s flip ability? 
+      </question>
+      <answer>
+In this scenario, Demolisher’s ability would draw 1 card and you would be able to use Megatron’s flip ability.
+      </answer>
+    </entry>
+    <entry id="426-4" tags="Jetfire - Air Guardian">
+      <question>
+Given Hunker Down, which says "Flip each of your characters from bot mode to tank mode. Then for each of your tanks that isn't upgraded with an Armor, put an Armor on it from your scrap pile", bypasses the requirement to play Tech Research for Superior Plating, does the same apply to Jetfire, whose wording is "When you flip to this mode - Put an Armor or Utility from your scrap pile onto this character"?
+      </question>
+      <answer>
+Yes.
+      </answer>
+    </entry>
+    <entry id="308-18">
+      <question>
+I have a question: I have 3 tanks in bot mode and I play Hunker Down. I flip all of them to tank mode. Can I resolve their flip abilities first before the "Then" statement in Hunker Down where I search discard pile for armors?
+      </question>
+      <answer>
+You must finish Hunker Down before using any flip abilities, which includes getting armor.
+    </answer>
+    </entry>
+    </target></faq>

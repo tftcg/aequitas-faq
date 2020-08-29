@@ -1,0 +1,9 @@
+<faq><target name="Autobot Mirage - Counterintelligence"><entry id="607-18" tags="Prowl - Strategic Mastermind,Autobot Mirage - Counterintelligence">
+      <question>
+What happens when the Sentinel Prowl attacks with Combat Commands and I want to use it on Mirage, into a character equipped to with Security Console? Does turn player flip flop Mirage first to look for an action to scrap before they draw?
+      </question>
+      <answer>
+The attack causes two abilities to trigger. One is yours (Combat Commands) and the other is your opponent’s (Security Console). You do yours first, but this causes another of your abilities to trigger (Mirage). You continue to use your abilities until you have none, then your opponent can use any of their pending abilities in any order. In this scenario, you would first use Combat Commands’ ability, then use Mirage’s ability, then your opponent would use Security Console’s ability.
+      </answer>
+    </entry>
+    </target></faq>

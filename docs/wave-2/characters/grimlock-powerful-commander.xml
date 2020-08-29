@@ -1,0 +1,66 @@
+<faq><target name="Grimlock - Powerful Commander"><entry id="32" mode="bot">
+      <question>Does this mean I get a card from my collection? Do I have to own the card?</question>
+      <answer>Yes, you get a character that’s not in the current game and add it to your KO area.</answer>
+    </entry>
+    <entry id="33" mode="bot">
+      <question>Can I choose a Dinobot that has the same name as one of my characters?</question>
+      <answer>Yes. Twinsies!</answer>
+    </entry>
+    <entry id="34" mode="bot">
+      <question>Have y'all clarified as of yet if the new Grimlock can fetch the Wave 1 Dinobots?</question>
+      <answer>Yes. As written, Grimlock – Powerful Commander can find Wave 1 Dinobots.</answer>
+    </entry>
+    <entry id="35" mode="bot">
+      <question>Can Grimlock - Powerful Commander put another Grimlock - Powerful Commander into the KO area?</question>
+      <answer>Yes.</answer>
+    </entry>
+  <entry id="502-2" tags="Volcanicus - Fiery Champion,Grimlock - Powerful Commander">
+      <question>
+I wondering, given that Volcanicus is a Dinobot, is he a valid target for wave 2 Grimlock’s ability that lets you put Dinobots from outside the game into the KO area?
+      </question>
+      <answer>
+No. Volcanicus can’t exist outside of the game because he needs to be combined inside the game, so Grimlock cannot recruit him into the game.
+      </answer>
+    </entry>
+    <entry id="RR1-5" tags="Grimlock - Powerful Commander">
+      <question>
+Have y'all clarified as of yet if the new Grimlock can fetch the Wave 1 Dinobots?
+      </question>
+      <answer>
+Yes. As written, Grimlock - Powerful Commander can find Wave 1 Dinobots. 
+      </answer>
+    </entry>
+    <entry id="RR1-11">
+      <question>
+Can Grimlock - Powerful Commander put another Grimlock - Powerful Commander into the KO area?
+      </question>
+      <answer>
+Yes.
+      </answer>
+    </entry>
+    <entry id="628-7" tags="Grimlock - Powerful Commander,Volcanicus - Fiery Champion">
+      <question> 
+Since Wave 2 Grimlock is capable of grabbing duplicate characters from outside the game, including copies of himself, what happens if I have a Grimlock in my KO area and one on the battlefield when I play the Dinobot Enigma to combine into Volcanicus? Do I get to choose which Grimlock is used in the combination, or does the game default to the one on the battlefield?
+      </question>
+      <answer>
+You can choose either one. 
+      </answer>
+    </entry>
+    <entry id="628-8" tags="Grimlock - Powerful Commander,Volcanicus - Fiery Champion,Dinobot Enigma">
+      <question>
+If I can keep the original Grimlock on the battlefield, what happens then, if I use him to collect another set of Wave 2 Dinobots and play another Enigma? Does the first Volcanicus get Bold 2? Do I assemble a second Volcanicus?
+      </question>
+      <answer>
+Yes, you can assemble multiple versions of Volcanicus. In the extraordinarily unlikely event that you are able to assemble multiple iterations of Volcanicus on the battlefield before your opponent either defeats you or flips the table over, they would each get bold 2. 
+      </answer>
+    </entry>
+    <entry id="528-11" tags="Grimlock - Powerful Commander,Dinobot Sludge - Mighty Stomper,Volcanicus - Fiery Champion">
+      <question>
+If I start my game with Wave 1 Dinobot Sludge and Wave 2 Grimlock and Dinobot Swoop. After I was able to bring the rest of my Wave 2 Dinobots into the KO area, Grimlock is KO’d and Dinobot Sludge was the only card left on my battlefield in bot mode. On my turn, I played the Dinobot Enigma and then flipped Dinobot Sludge to take all of his damage, was this correct? Also, what if I had played a Brainstorm then an I Still Function! and then a Dinobot Enigma after which I would flip Dinobot Sludge? Is that a better scenario?
+      </question>
+      <answer>
+In your first scenario, Volcanicus appears on the battlefield with 55 damage counters on him. 
+In your second scenario, you can I Still Function! one of the five Dinobots and then use the Dinobot Engima to form Volcanicus. Volcanicus will have 54 damage counters on him (because of the 1 damage ISF! repairs). No matter what, he will be KO’d at the end of the turn, so repairing him with Dinobot Sludge probably won’t do a lot.
+      </answer>
+    </entry>
+    </target></faq>

@@ -1,0 +1,9 @@
+<faq><target name="Decepticon Venin - Insecticon Tyrant"><entry id="22" mode="alt">
+      <question>What happens if this is KO’d and my opponent has fewer than 2 cards in hand?</question>
+      <answer>If they have 1 card in hand, that card is scrapped. If they have an empty hand, nothing happens.</answer>
+    </entry>
+    <entry id="23" mode="alt">
+      <question>What happens if Venin and another of my Insecticons are KO’d at the same time?</question>
+      <answer>In that case, Venin’s ability will trigger twice. Your opponent will scrap 4 cards from their hand.</answer>
+    </entry>
+  </target></faq>

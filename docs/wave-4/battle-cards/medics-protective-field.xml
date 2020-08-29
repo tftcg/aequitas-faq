@@ -1,0 +1,9 @@
+<faq><target name="Medic's Protective Field"><entry id="10-9">
+      <question>
+What happens when I play Medic's Protective Field on Private Smokescreen (Alt Mode)?
+        </question>
+      <answer>
+Because the Safeguard value is the same, having two instances of it has no additional effect. Smokescreen can’t take more than 3 damage if undamaged. However, if a character has two instances of Safeguard with different values, the lowest value wins. For example, if a character has Safeguard 1 and Safeguard 3, that character can’t take more than 1 damage if undamaged.
+      </answer>
+    </entry>
+    </target></faq>

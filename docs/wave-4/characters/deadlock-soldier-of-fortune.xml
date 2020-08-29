@@ -1,0 +1,9 @@
+<faq><target name="Deadlock - Soldier Of Fortune"><entry id="9-9" tags="Revenge,Bounty,Raider Ratbat - Spy Patrol - Fuel Scout,Deadlock - Soldier Of Fortune">
+      <question>
+Revenge on Ratbat and Bounty on Deadlock both trigger upon Ratbat's KO, but which triggers first?
+        </question>
+      <answer>
+Bounty abilities and Revenge abilities will usually trigger at the same time. Bounty abilities are usually handled first because they belong to the active player.
+      </answer>
+    </entry>
+    </target></faq>

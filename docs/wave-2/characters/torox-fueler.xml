@@ -1,0 +1,16 @@
+<faq><target name="Torox - Fueler"><entry id="55" mode="alt">
+      <question>Can damage counters still be moved from enemy characters?</question>
+      <answer>Yes. If an effect moves a damage counter without saying the damage is repaired, that effect will still work.</answer>
+    </entry>
+  <entry id="8-6" tags="Torox - Fueler">
+      <question>
+Say I have Torox in alt mode and my opponent plays I Still Function! Since ISF repairs 1 damage when it pulls the character from the KO area, and Torox’ alt mode skill shuts down healing, would the character being revived with ISF:
+    a) Get brought back, then immediately KO’d due to having damage equal to its health
+    b) Not get brought back since ISF would have no effect after the card would be played
+    c) Get brought back as normal, ignoring Torox’ skill
+        </question>
+      <answer>
+    The character is brought back and then immediately KO’d as it has an amount of damage equal to its health.
+      </answer>
+    </entry>
+    </target></faq>

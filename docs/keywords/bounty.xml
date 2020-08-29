@@ -1,0 +1,33 @@
+<faq><target name="Bounty"><entry id="1">
+        <question>
+             What are Bounty abilities?
+        </question>
+        <answer>
+             There are two parts to a Bounty ability: a trigger condition that tells you to “use this card’s Bounty ability” and the Bounty ability itself that gives you a reward. In this set, all the conditions are the same: when the character does enough attack damage to KO an enemy. The rewards are different on each card.
+        </answer>
+        </entry>
+      <entry id="2">
+        <question>
+             If a character does more than enough attack damage to KO an enemy, does that count?
+        </question>
+        <answer>
+             Yes. The character can do more attack damage than is necessary to KO the enemy and you’ll still get the reward.
+        </answer>
+        </entry>
+    <entry id="10-40" tags="Bounty">
+      <question>
+Do you need to have the character in Bot mode showing the Bounty for this card to use the bounty. Or does the card activate the character’s Bounty regardless of mode?
+        </question>
+      <answer>
+Abilities are only active if that side is face-up. I.E. you must be in Bot Mode to use a Bot Mode ability.
+</answer>
+    </entry>
+  <entry id="9-9" tags="Revenge,Bounty,Raider Ratbat - Spy Patrol - Fuel Scout,Deadlock - Soldier Of Fortune">
+      <question>
+Revenge on Ratbat and Bounty on Deadlock both trigger upon Ratbat's KO, but which triggers first?
+        </question>
+      <answer>
+Bounty abilities and Revenge abilities will usually trigger at the same time. Bounty abilities are usually handled first because they belong to the active player.
+      </answer>
+    </entry>
+    </target></faq>

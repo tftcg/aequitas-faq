@@ -1,0 +1,49 @@
+<faq><target name="Quartermaster"><entry id="4-9">
+      <question>
+Can Quartermaster be used on Sergeant Cog? If not, is there a way to revive Cog from the KO/discard area for use again?
+        </question>
+      <answer>
+No, and not currently…
+</answer>
+    </entry>
+    <entry id="517-2" tags="Private Firedrive - Ground Command - Artillery">
+      <question>
+Similarly, let's say I have Optimus Prime - Battlefield Legend on the field in Bot mode and during my attack I flip a Quartermaster to bring back the Duo-Charge Electrostatic Photon Cannon and put it onto Optimus Prime. For that battle, does Optimus Prime get +3 attack? Am I also able to scrap cards from my hand to increase the attack?
+      </question>
+      <answer>
+Optimus Prime - Battlefield Legend will get the +3 attack, but since the weapon with the very long name was attached after he began his attack, the ability will not trigger and you will not be able to scrap any cards to add to your attack.
+      </answer>
+    </entry>
+    <entry id="5-1">
+      <question>
+Can Quartermaster be used to move a Superior Cannon, Superior Jetpack, or Superior Plating from one character to another or do you still have to play a Tech Research first?
+        </question>
+      <answer>
+Yes, it can.
+</answer>
+    </entry>
+    <entry id="528-5" tags="Captain Ironhide - Infantry - Bodyguard,Private Red Heat - Infantry - Emergency Response">
+      <question>
+You previously ruled that Captain Ironhide can't use his Bot Mode ability to swap his weapon for an Energon Axe if he is undamaged. Does this also extend to other Upgrade movement effects? Does this mean I can't use Quartermaster or Private Red Heat to move an Energon Axe in play from a damaged character to an undamaged one?
+      </question>
+      <answer>
+That is correct. Energon Axe can only be put on damaged characters.
+      </answer>
+    </entry>
+    <entry id="607-15">
+      <question>
+Why is it you cannot increase a character’s attack with a reattached Battle Master during an attack, but you can increase Optimus Prime - Battlefield Legend’s attack if you flip an action like Leap into Battle? How is this any different to using OPBL’s skill to play Quartermaster and attaching a battle masters upgrade form before defense flips?
+      </question>
+      <answer>
+You can use Quartermaster to attach a KO’d Battle Master to OPBL. If OPBL’s ability results in a weapon being attached to him (for example via Quartermaster), the attack bonus of that weapon will apply because you haven’t counted attack yet. However, if the weapon gives the character bold, bold will have no affect because you’ve already flipped battle cards.
+      </answer>
+    </entry>
+    <entry id="2-27">
+      <question>
+In the FAQ it says that Sergeant Cog, as a Weaponizer, interacts with cards in the same manner as a Battle Master. The battle card Quartermaster specifies recalling a KO'd Battle Master in weapon mode. Will this be able to target Heavy Force Defensebreaker Cannon in the KO pile the same way it would target a Battle Master?
+</question>
+      <answer>
+No, it is a Weaponizer and not a Battle Master.
+</answer>
+    </entry>
+    </target></faq>

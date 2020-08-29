@@ -1,0 +1,35 @@
+<faq><target name="Mounted Missiles"><entry id="86">
+      <question>Can I put Mounted Missiles into a Weapon slot?</question>
+      <answer>Yes. It can go into an Armor or Utility slot, but it doesn’t have to.</answer>
+    </entry>
+    <entry id="87">
+      <question>If I play Mounted Missiles on a character, do I have to choose which slot it’s going in?</question>
+      <answer>Yes. If you want it in the Armor slot, put it to the right of the character, where an Armor would normally go. If you want it in the Utility slot, put it below the character, where a Utility would normally go. Once Mounted Missiles is in a slot, it can’t move to another slot. This means that if you put it into a character’s Armor slot, you’d have to scrap Mounted Missiles if later you wanted to play an Armor on it.</answer>
+    </entry>
+  <entry id="510-1">
+      <question>
+If I have Captain Ironhide with Static Laser of Ironhide in the weapon slot and Mounted Missiles in the armor slot, and I attack with Captain Ironhide in bot mode, can I swap the Mounted Missiles with a blue pip weapon and it still be in the armor slot?
+      </question>
+      <answer>
+No. Unless either the weapon or the character states that the weapon can be in the armor slot, it can’t. So in this scenario, you would not be able to swap one weapon for another weapon from the armor slot However, you could swap Mounted Missiles for a blue weapon and put that weapon in the weapon slot, which would scrap the Static Laser of Ironhide.
+      </answer>
+    </entry>
+    <entry id="517-11">
+      <question>
+If I play Ancient Wisdom and follow it with Unleash Potential 4 times in one game, am I allowed to add 4 copies of the same card; i.e. Mounted Missiles, to my hand, even though under normal deck constraints a playset is 3?
+      </question>
+      <answer>
+Yes, you can. Deck constraints only apply to your starting deck.
+
+          <tftcg-note>This changed in later competitive rules to state they could only pull from the sideboard, and that the only three copies applies to deck and sideboard. </tftcg-note>
+      </answer>
+    </entry>
+  <entry id="422-1">
+      <question>
+If Mounted Missiles in the armor slot can you scrap it with a bashing shield?
+      </question>
+      <answer>
+No, it is still a weapon even though you’ve put it in the armor slot.
+      </answer>
+    </entry>
+    </target></faq>

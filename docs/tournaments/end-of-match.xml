@@ -1,0 +1,38 @@
+<faq><target name="End of Match"><entry id="10">
+          <question>
+              How is the winner of a match determined?
+          </question>
+          <answer>
+A Transformers TCG match consists of a series of games that are played until one player has won two games. Drawn games do not count toward this goal. If the round ends before a player has won two games, the winner of the match is the player who has won the most games at that point. If both players have equal game wins, the match is a draw.
+          </answer>
+      </entry>
+      <entry id="6">
+          <question>
+              What do you do if the time limit is up before a winner is determined?
+          </question>
+          <answer>
+              The player whose turn it is finishes their turn (including untapping all characters at the end
+              of the turn if all characters are tapped at this point). Play then continues as normal until a player 
+              wins the game or all characters are tapped at the end of a turn. If the game is incomplete at the end 
+              of the additional time, resolve Tiebreak procedures.
+          </answer>
+      </entry>
+      <entry id="7">
+          <question>
+              What if a judge had assigned a time extension?
+          </question>
+          <answer>
+              If a judge assigned a time extension (because of a long ruling, deck check, or other reason), the end-of-match procedure does not begin until the end of the time extension.
+          </answer>
+      </entry>
+      <entry id="11">
+          <question>
+              Can I concede or intentionally draw a game or match?
+          </question>
+          <answer>
+              If a game or match is not completed, players may concede or mutually agree to a draw in that game or match. A match is considered complete once the result slip is filled out or, if match slips are not being used, a player leaves the table after game play is finished.
+              Players may not agree to a concession or draw in exchange for any reward or incentive. Doing so will be considered Bribery (see section 5.2).
+              If a player refuses to play, it is assumed that they have conceded the match.
+          </answer>
+      </entry>
+  </target></faq>

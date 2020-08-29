@@ -1,0 +1,17 @@
+<faq><target name="Aerial Recon"><entry id="71">
+      <question>
+    If I don’t scrap the card I look at, what do I do with it?
+</question>
+      <answer>
+    Just put it back on top of your deck.
+</answer>
+    </entry>
+  <entry id="218-20" tags="Dreadwing - Sky Destroyer">
+      <question>
+What happens if you have 2 Aerial Recons on Dreadwing? Do you scrap the top card or not?
+      </question>
+      <answer>
+Any time more than 1 triggered ability triggers from the same action, do them in any order. For the first Aerial Recon, if you leave the card on the top of your deck, it will still be there for the second Aerial Recon.
+      </answer>
+    </entry>
+    </target></faq>

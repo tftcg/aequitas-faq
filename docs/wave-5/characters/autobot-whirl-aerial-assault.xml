@@ -1,0 +1,10 @@
+<faq><target name="Autobot Whirl - Aerial Assault"><entry id="21" mode="bot">
+            <question>
+                How does Autobot Whirl's ability to interact with other effects that modify the amount of attack damage a character can take?
+            </question>
+            <answer>
+                That ability doesn't directly modify how much attack damage is being done to Autobot Whirl (note it doesn't use "instead"), so it waits for other effects (like Blast Suit) to apply, then sees if Autobot Whirl is taking more than 5 attack damage from a Ranged character's attack. If it is, Autobot Whirl takes 5 attack damage.
+          </answer>
+        
+      </entry>
+  </target></faq>

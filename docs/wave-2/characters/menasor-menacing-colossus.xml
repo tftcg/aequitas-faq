@@ -1,0 +1,21 @@
+<faq><target name="Menasor - Menacing Colossus"><entry id="36" mode="combiner">
+      <question>If I play an Action that lets me play another Action, such as Confidence, does that Action count as the extra one that Menasor lets me play?</question>
+      <answer>No. If another card lets you play an Action, that won’t count for Menasor. You can play that Action and then another one for Menasor.</answer>
+    </entry>
+  <entry id="502-3" tags="Menasor - Menacing Colossus">
+      <question>
+I have Menasor on the field and two Team-Up Tactics in my hand. If I play them, do they do nothing, am I forced to pick one effect, or do both effects go off?
+      </question>
+      <answer>
+Menasor is not a truck or a car, so Team-Up Tactics would have no effect on him.
+      </answer>
+    </entry>
+    <entry id="412-15" tags="Metroplex - Autobot City,Menasor - Menacing Colossus">
+      <question>
+I am playing with Metroplex, and I have Backup Beam and Debilitating Crystal attached to him. My opponent has Menasor equipped with Stunticon Swagger. It is my turn, and I play Height Advantage to get the extra bold 4 to try and activate Metroplex's triggered ability from card flipping. As I declare him as the attacker, and Menasor as the defender, Debilitating Crystal activates. I choose to bounce Swagger to my opponent's hand. Does my bold then become active because the effect of Swagger is no longer active? Am I allowed to use the bold from the upgrade and the action now?
+      </question>
+      <answer>
+Yes. Both bold effects would apply in this scenario. Stunticon Swagger does not stop a character from getting bold prior to the attack.
+      </answer>
+    </entry>
+    </target></faq>

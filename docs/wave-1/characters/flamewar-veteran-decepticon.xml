@@ -1,0 +1,26 @@
+<faq><target name="Flamewar - Veteran Decepticon"><entry id="2">
+          <question>Which promo cards are permitted in Constructed tournaments?</question>
+          <answer>
+              P1: Bumblebee - Electrum Warrior
+              P2: Omega Supreme - Autobot Defense Base
+              P3: Private Smashdown
+              P4: Flamewar - Veteran Decepticon (Gold Foil Variant)
+              P5: Bumblebee - Trusted Lieutenant (Gold Foil Variant)
+              P6: Private Red Alert - Medic (Gold Foil Variant)
+              P7: Nightbird - Enigmatic Agent
+              P8: Raider Runamuck - Infantry Soldier (Gold Foil Variant)
+              P9: Raider Runabout - Infantry Soldier (Gold Foil Variant)
+              P10: Raider Road Hugger - Infantry Tactics (Gold Foil Variant)
+              P11: All-Out Attack (Energon Edition Foil Variant)
+              P12: Tandem Targeting System (Energon Edition Foil Variant)
+          </answer>
+      </entry>
+      <entry id="1-30">
+      <question>
+I have a tapped Flamewar - Veteran Decepticon with 3 life remaining with 2 other untapped characters and a facedown Bolster. My opponent has 3 untapped characters and taps their attacker, declaring Flamewar as my defender. Because the conditions are met, I reveal Bolster and play Multi-Mission Gear onto my Flamewar. That triggers Multi-Mission Gear and allows me to play an action, which I choose to play One Shall Stand, One Shall Fall targeting my Flamewar and one of my opponent's characters. This kills my Flamewar but the attacker still lives. What happens in this scenario? Does my opponent lose their attack because the defender was killed prior to battle cards being flipped? Or does my opponent get to choose another attack target?
+</question>
+      <answer>
+Your opponent has already chosen who they are attacking, so the attack would end because there is no longer a defender.
+</answer>
+    </entry>
+    </target></faq>

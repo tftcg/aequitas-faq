@@ -1,0 +1,21 @@
+<faq><target name="Lord Megatron - Conqueror of Cybertron"><entry id="19" mode="alt">
+      <question>What happens if my opponent doesn’t have enough cards in their deck to scrap?</question>
+      <answer>In that case, your opponent scraps all the cards in their deck. Then, setting those cards aside, they shuffle all the other cards in their scrap pile into their deck. Then they scrap enough cards from their reformed deck to scrap the total number of cards they were supposed to. In most cases, however many cards they were supposed to scrap will be the number of cards in their scrap pile after Megatron’s ability is finished. Sorry, after Lord Megatron’s ability is finished.</answer>
+    </entry>
+    <entry id="20" mode="bot">
+      <question>What does “reshuffles their deck” mean?</question>
+      <answer>Reshuffling your deck is when you shuffle your scrap pile into your deck because your deck is empty. If you shuffle your deck for another reason, that’s not “reshuffling your deck.” That’s just shuffling your deck.</answer>
+    </entry>
+    <entry id="21" mode="bot">
+      <question>Although it’s unlikely, let’s say my opponent’s deck runs out of cards, but there are no cards in their scrap pile. What happens?</question>
+      <answer>If there are no cards in their scrap pile, they can’t reshuffle their deck, so Megatron . . . sorry, Lord Megatron’s ability won’t trigger.</answer>
+    </entry>
+  <entry id="10-36" tags="Autobot Cosmos - Recon &amp; Communication,Lord Megatron - Conqueror of Cybertron">
+      <question>
+Autobot Cosmos is in Bot mode and attacks Lord Megatron in Bot mode. During Cosmos’ attack against Lord Megatron, I have to reshuffle. Does the reshuffle trigger both Cosmos and Lord Megatron's abilities at the same time? Or does Cosmos KO Lord Megatron first?
+        </question>
+      <answer>
+Cosmos would KO Lord Megatron first. Megatron’s ability will still happen afterwards if the game has not ended.
+      </answer>
+    </entry>
+    </target></faq>

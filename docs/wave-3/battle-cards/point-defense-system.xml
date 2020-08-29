@@ -1,0 +1,13 @@
+<faq><target name="Point-Defense System"><entry id="188">
+      <question>If the upgraded character defends against an enemy that has pierce 1, what happens?</question>
+      <answer>If a character’s pierce total is 0 or lower, treat that character as if it didn’t have pierce when determining how much damage is done. Pierce -1 doesn’t do anything weird.</answer>
+    </entry>
+  <entry id="6-3">
+      <question>
+I believe I know the answer to this one, but asking for clarity purposes - I attack with 5 ATK/Pierce 7 onto a character with Point-Defense System. Does the final attack get reduced to ATK 5/Pierce 5 (which I believe is the correct answer) or ATK 5/Pierce 3?
+        </question>
+      <answer>
+It would be reduced to 5 Attack, Pierce 5.
+      </answer>
+    </entry>
+    </target></faq>

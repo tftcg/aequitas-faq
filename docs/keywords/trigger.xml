@@ -1,0 +1,40 @@
+<faq><target name="Trigger"><entry id="15" tags="Trigger">
+        <question>
+             What is a triggered ability?
+        </question>
+        <answer>
+             A triggered ability is an ability that’s caused by a specified game action. They’re usually written in the
+form "When [something happens] -&gt; [effect]." The effect happens just after the specified game action is
+taken. For example, many characters have triggered abilities that start with "When you flip to this
+mode." The effects of these abilities happen immediately after you flip the character to the appropriate
+mode.
+    </answer>
+    </entry>
+      <entry id="16" tags="Trigger">
+        <question>
+             What happens if more than one triggered ability triggers at the same time?
+        </question>
+        <answer>
+             Triggered abilities always happen one at a time. If all the triggered abilities belong to one player, that
+player chooses their order. If both players have triggered abilities that would happen at the same time,
+first the player whose turn it is handles all their triggered abilities in any order, then the other player
+does the same with their triggered abilities.
+    </answer>
+    </entry>
+<entry id="412-17" tags="Trigger">
+      <question>
+Simultaneous triggers are resolved in the order you choose, but when do you choose the order? Is it when they trigger, or as each resolves? Example: Abilities A, B, and C all trigger simultaneously. Can I resolve A, see the results of that, and then choose whether I want to do B or C next?
+      </question>
+      <answer>
+Yes. You choose which to use one at a time.
+      </answer>
+    </entry>
+    <entry id="412-17b" tags="Trigger">
+      <question>
+How do nested triggers resolve? Example: I trigger A, B, and C. B triggers D and E. What order do those resolve in? (Assuming choices, of course).
+      </question>
+      <answer>
+Assuming you chose B as the first one, you can then choose A, C, D, or E.
+      </answer>
+    </entry>
+    </target></faq>

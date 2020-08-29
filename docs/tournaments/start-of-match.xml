@@ -1,0 +1,13 @@
+<faq><target name="Start of Match"><entry id="12">
+          <question>
+              How do we decide who goes first?
+          </question>
+          <answer>
+For the first game of a match, the winner of a random method (such as a die roll or coin toss) chooses
+either to play first or to play second.
+After each game in a match, the loser of that game chooses to either play first or play second in the next
+game. If the previous game was a draw, the player who chose at the beginning of the drawn game
+chooses again.
+          </answer>
+      </entry>
+  </target></faq>

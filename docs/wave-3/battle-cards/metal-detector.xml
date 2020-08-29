@@ -1,0 +1,46 @@
+<faq><target name="Metal Detector"><entry id="48">
+      <question>If Crowbar is put onto a character during a battle after it attacks, is it scrapped after the battle?</question>
+      <answer>No. The ability triggers only if the character is holding the Crowbar as it attacks. If Crowbar appears after that point (say because of Metal Detector), it can stay for at least another attack.</answer>
+    </entry>
+  <entry id="628-24" tags="Dreadwing - Sky Destroyer,Predaking - Ferocious Hunter">
+      <question> 
+What exactly happens when I attack using...
+    1. Dreadwing with 2 Anticipation Engines and 2 Metal Detectors?
+    2. Predaking with 3 Anticipation Engines?
+      </question>
+      <answer>
+With multiple Anticipation Engines and/or Metal Detectors, you handle the abilities one at a time. If you have an Anticipation Engine and a Metal Detector, you must specify which one you are using before revealing the card. If the card you reveal doesn’t match the type of card you’re looking for, it just stays on top of your deck. The next ability will reveal the same card, so choose wisely. 
+      </answer>
+    </entry>
+    <entry id="5-4">
+      <question>
+I have Cliffjumper in Car mode with a Metal Detector.
+Cliffjumper attacks and taps.
+Metal Detector flips over Turbo Boosters.
+Does Cliffjumper attack untapped?
+        </question>
+      <answer>
+Yes, he does.
+</answer>
+    </entry>
+    <entry id="5-5" tags="Specialist Flamewar - Special Ops - Hunter">
+      <question>
+Since it sounds like (understandably) that a comprehensive rules document might take a while, perhaps you could answer a more specific timing question then.
+
+Taken to a corner case, how would a player properly process an attack in the following scenario.
+
+Your team:
+
+Specialist Flamewar in bot mode equipped with an Anticipation Engine in her weapon slot, a Metal Detector in her Utility slot. She has Focus 2 from her bot mode ability.
+
+Her teammate, Raider Aimless has a Decepticon Crown equipped in his Utility slot giving out Plan 1 when a Decepticon attacks.
+
+Her other teammate General Optimus Prime is in Alt Mode giving Bold 1 and Tough 1 to his teammates.
+
+What would be the proper sequence of triggers when Specialist Flamewar initiates an attack? Which goes first Plan, Focus, the Equipment Triggers? Which Equipment Triggers first? Can both trigger on the same combat if you have an equipment and an action (or vice versa) as your top 2 cards?
+        </question>
+      <answer>
+When Specialist Flamewar attacks, the abilities of Anticipation Engine, Metal Detector, and Decepticon Crown will all trigger. As the attacking player, you will resolve all of those abilities in the order of your choosing, one at a time. Then you will use your Focus ability. Then, you will flip battle cards, including an extra from General Optimus’ Bold 1.
+</answer>
+    </entry>
+    </target></faq>

@@ -1,0 +1,35 @@
+<faq><target name="Dismantling Claw"><entry id="173" xref="Wave-2-3#177" />
+    <entry id="174" xref="Wave-2-3#178" />
+  <entry id="1-28">
+      <question>
+Question regarding Dismantling Claw / Reactive Armor. When character with such upgrade is KO’d can I use this ability?
+</question>
+      <answer>
+Yes, you can!
+</answer>
+    </entry>
+    <entry id="3-11">
+      <question>
+If I KO my opponent’s Battle Master and it has a Dismantling Claw on it, and it scraps my Dismantling Claw, I think my Dismantling Claw would therefore scrap the newly applied Battle Master due to he is now a weapon on my opponents bot. Is that correct?
+</question>
+      <answer>
+That is correct.
+</answer>
+    </entry>
+    <entry id="607-4">
+      <question>
+Do Dismantling Claw and Reactive Armor trigger when a character dies, since upgrades are scrapped upon KO?
+      </question>
+      <answer>
+When a character is KO’d, all upgrades attached to it are scrapped at the same time. This means they can see each other leave the battlefield, so both Dismantling Claw and Reactive Armor would trigger.
+      </answer>
+    </entry>
+    <entry id="2-16">
+      <question>
+The cards Dismantling Claw, Reactive Armor and Personal Targeting Drone say "When this upgrade is scrapped from a character...". Do these effects trigger when the character is KO'd and the upgrade goes to the scrap pile? Do these effects trigger when you replace the upgrade and it goes to the scrap pile?
+</question>
+      <answer>
+Yes and yes.
+</answer>
+    </entry>
+    </target></faq>

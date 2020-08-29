@@ -1,0 +1,17 @@
+<faq><target name="Treasure Hunt"><entry id="218-6">
+      <question>
+If I use Treasure Hunt with 2 cards left in my deck, if both are weapons, what happens?
+      </question>
+      <answer>
+Scrap the top two cards according to instructions, shuffle all the other cards in your Scrap Pile (not including the two you just scrapped) into your deck, then scrap two more cards from your deck, for a total of four. Then follow the rest of Treasure Hunt’s instructions.
+      </answer>
+    </entry>
+    <entry id="2-34">
+      <question>
+If I play Multi-Mission Gear on Private Camshaft first thing on my first turn, then use that to play Treasure Hunt, would the weapons &amp; armor I draw be valid to put on my Omnibots in that "At the start of your first turn &gt; You may play a..." window?
+</question>
+      <answer>
+Yes, after you’re done with Private Camshaft’s ability (including the Treasure Hunt it let you play) you would then handle other Omnibot abilities that trigger “at the start of your first turn.”
+</answer>
+    </entry>
+    </target></faq>

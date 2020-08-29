@@ -1,0 +1,19 @@
+<faq><target name="Energon Mace"><entry id="34">
+            <question>
+                If the upgraded character is attacking an Autobot Leader, does it also get +1 attack from the first ability?
+            </question>
+            <answer>
+                Yes. Both abilities apply and the upgraded character gets +1 attack and Pierce 3.
+          </answer>
+        
+      </entry>
+  <entry id="38">
+            <question>
+                If one of my characters has a Weapon or Utility in its Armor slot (e.g. Energon Mace), can I play Ghost Shield to upgrade that character?
+            </question>
+            <answer>
+                No. In order to play Ghost Shield, it must replace an Armor in that slot.
+          </answer>
+        
+      </entry>
+  </target></faq>

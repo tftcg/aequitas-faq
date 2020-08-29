@@ -1,0 +1,9 @@
+<faq><target name="Indestructible Sword"><entry id="39">
+      <question>How do other attack bonuses work with 4-Wheel Drive?</question>
+      <answer>Changing a character’s base attack is just like changing the number that’s printed on the card. From there, all other bonuses apply as normal. For example, if you have a Truck with 3 attack upgraded with Indestructible Sword (that gives it +2 attack), its attack will be 9 (7 from 4-Wheel Drive +2 from the upgrade). If it stops being a Truck that turn, its attack will be 5 (base 3 attack +2 from the upgrade).</answer>
+    </entry>
+  <entry id="65">
+      <question>If Indestructible Sword is on a character that gets KO’d, do I return the Sword to my hand?</question>
+      <answer>Yes. If a character is KO’d, all upgrades it had are scrapped at the same time. The game sees that the upgrade was scrapped from a character.</answer>
+    </entry>
+  </target></faq>

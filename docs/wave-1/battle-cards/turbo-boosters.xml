@@ -1,0 +1,32 @@
+<faq><target name="Turbo Boosters"><entry id="126">
+      <question>
+    What happens if I put Turbo Booster on a character that’s already untapped?
+</question>
+      <answer>
+    Nothing much. It will get the +1 attack bonus, but the untap ability won’t do anything.
+</answer>
+    </entry>
+  <entry id="5-4">
+      <question>
+I have Cliffjumper in Car mode with a Metal Detector.
+Cliffjumper attacks and taps.
+Metal Detector flips over Turbo Boosters.
+Does Cliffjumper attack untapped?
+        </question>
+      <answer>
+Yes, he does.
+</answer>
+    </entry>
+    <entry id="322-8" tags="Wheeljack - Weapons Inventor">
+      <question>
+Wheeljack is in car mode is equipped with the following: 
+Multi-Tool, Turbo Boosters, and Scrapper Gauntlets.
+Bumblebee - Courageous Scout is tapped, in car mode, and equipped with the following:
+Drill Arms, Crushing Size, and Multi Mission Gear.
+For my action, I play Swap Parts between Wheeljack and Bumblebee. There are a LOT of abilities that fire off here and I'm curious to know, what would be the appropriate order? Most importantly, when does Wheeljack's ability take priority?
+      </question>
+      <answer>
+These would all trigger at the same, so you would choose the order they happen in.
+      </answer>
+    </entry>
+    </target></faq>

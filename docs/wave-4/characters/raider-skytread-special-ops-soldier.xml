@@ -1,0 +1,25 @@
+<faq><target name="Raider Skytread - Special Ops - Soldier"><entry id="12" mode="alt">
+      <question>What happens if my last two characters are those two and they’re both KO’d at the same time. Dpo their Revenge abilities work and keep me in the game?</question>
+      <answer>Unfortunately, no. Once your last character is KO’d, you lose the game. Fortunately, having them both KO’d at the same time is pretty unusual.</answer>
+    </entry>
+    <entry id="13" mode="alt">
+      <question>Both Revenge abilities put cards from my hand under Raider Skytread. What does this mean?</question>
+      <answer>The cards under Raider Skytread are basically out of play for a while. They’re not considered on the battlefield, even if that’s where they are physically, so none of their abilities apply. If one of those cards is an Upgrade, that Upgrade isn’t on Raider Skytread, and so on. They’re also not in your scrap pile, so they won’t be shuffled into your deck when it’s empty. They can return to your hand using Raider Skytread’s last ability.</answer>
+    </entry>
+  <entry id="10-19" tags="Raider Skytread - Special Ops - Soldier">
+      <question>
+The answer from the last rules roundup states that the new combiners (Omega Supreme and Skytread) keep all upgrades and damage when they combine. Even with that explanation, rule enforcers where I play tell me that it doesn't apply to the KO'd Skytread's upgrades and that those upgrades are scrapped during the KO process before Revenge combining takes place and do not transfer to the combined Skytread. Can I please get a specific ruling on this?
+        </question>
+      <answer>
+Upgrades attached to the Skytread half that gets KO’d are scrapped at the same time. Those upgrades can’t be put on Raider Skytread.
+      </answer>
+    </entry>
+    <entry id="610-16" tags="Raider Skytread - Special Ops - Soldier">
+        <question>
+            Are the cards placed under Skytread randomized or placed in a specific order?
+        </question>
+        <answer>
+            The cards are face down and therefore randomized.
+        </answer>
+    </entry>
+  </target></faq>

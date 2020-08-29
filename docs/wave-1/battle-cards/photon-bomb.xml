@@ -1,0 +1,13 @@
+<faq><target name="Photon Bomb"><entry id="138" mode="alt">
+      <question>Can Captain Ironhide take non-attack damage from my cards?</question>
+      <answer>Yes. For example, if you play Photon Bomb, your Captain Ironhide will be damaged.</answer>
+    </entry>
+    <entry id="106">
+      <question>
+    What happens if this KO’s all characters on the battlefield?
+</question>
+      <answer>
+    In that case, the game is a draw. Time to start the next game!
+</answer>
+    </entry>
+  </target></faq>

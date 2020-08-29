@@ -1,0 +1,18 @@
+<faq><target name="Autobot Nautica - Camien Engineer"><entry id="19" mode="alt">
+            <question>
+                Doesn't the character always get +1 defense for each blue battle icon that's flipped?
+            </question>
+            <answer>
+                Autobot Nautica's bonus is in addition to the normal blue battle icon effect. Essentially, she gets +2 defense for each blue battle icon flipped.
+          </answer>
+      </entry>
+        
+    <entry id="20" mode="body">
+            <question>
+                Where does the Armor come from?
+            </question>
+            <answer>
+                It must be one in your hand.
+          </answer>
+      </entry>
+  </target></faq>

@@ -1,0 +1,156 @@
+<faq><target name="Grenade Launcher"><entry id="169">
+      <question>Can I use Backup Bag to save a Weapon or Armor that causes itself to be scrapped, such as Grenade Launcher?</question>
+      <answer>Yes.</answer>
+    </entry>
+  <entry id="88">
+      <question>
+    When does the ability check to see if Grenade Launcher should be scrapped?
+</question>
+      <answer>
+    Any ability that starts with "After the Upgraded character attacks" happens after attack damage is done and the battle ends.
+</answer>
+    </entry>
+    <entry id="89">
+      <question>
+    If Optimus Prime, Battlefield Legend attacks, and the Action I play puts a Grenade Launcher onto him, will that Grenade Launcher be scrapped?
+</question>
+      <answer>
+    Yes. After the battle, Grenade Launcher will see that the character it’s upgrading has attacked and its ability will make you scrap it. Similarly, if a character that has a Grenade Launcher attacks, but somehow no longer has that Grenade Launcher after the battle (say, because a Swap Parts put it on a different character), Grenade Launcher won’t be scrapped.
+</answer>
+    </entry>
+  <entry id="6-7" tags="Chop Shop - Sneaky Insecticon,Thrust - Supersonic Interceptor">
+      <question>
+Please clarify the interaction between Thrust and Chop Shop under the following scenario:
+    Chop Shop flips to bot-mode
+    Equip a Grenade Launcher onto Thrust
+    Chop Shop attacks
+    Thrust and Chop Shop's abilities trigger at the same time, so order of resolution is up to the turn-player
+    1) Resolve Thrust's ability and tap him to add 7 atk (base + Grenade Launcher) to Chop Shop
+    2) Resolve Chop Shop's ability moving the Grenade Launcher from Thrust to Chop Shop
+    Chop Shop's final attack is [BASE] + [GRENADE_LAUNCHER] + [THRUST_BASE] + [GRENADE_LAUNCHER]; 4 + 4 + 3 + 4 = 15
+    Battle flips omitted
+Is this correct?
+        </question>
+      <answer>
+You can choose to resolve Thrust and Chop Shop’s abilities in this order. You could also choose to resolve them in the other order, but that would probably not turn out as well for you, so maybe don’t.
+      </answer>
+    </entry>
+    <entry id="315-8" tags="Chop Shop - Sneaky Insecticon">
+      <question>
+If Chop Shop in bot mode attacks and moves a Grenade Launcher from another character to him, those the Grenade Launcher sack itself?
+      </question>
+      <answer>
+Yes.
+      </answer>
+    </entry>
+    <entry id="RR1-21" tags="Pierce,Megatron - Decepticon Leader">
+      <question>
+Common Megatron is in Bot mode. He has Grenade Launcher equipped giving him +4 attack. He attacks Barrage in Bot mode. Megatron does not flip any orange icons and Barrage does not flip any blue icons. Megatron's attack is 8 w/Pierce 3 (due to his ability), while Barrage has 2 defense. Does he only deal 6 damage for the entire attack or 3 only due to his Pierce 3?
+      </question>
+      <answer>
+6. Pierce is a minimum damage.
+      </answer>
+    </entry>
+    <entry id="628-26" tags="Captain Ironhide - Infantry - Bodyguard">
+      <question>
+Question on Captain Ironhide’s ability. His ability in bot mode states, “When this attacks, and has a weapon-you may swap that weapon with a (blue pip) weapon from your hand.”
+Do you declare Ironhide is attacking, then you get to swap the weapon with a (blue pip) weapon from your hand? And I assume the original weapon won’t have anything to do with the attack now. 
+Example, If I had a Grenade Launcher and swapped it with a Battering Ram, Captain Ironhide only gets the +2 from Battering Ram, and not the +4 from Grenade Launcher. Just trying to better understand when triggers happen in Transformers TCG. Thanks!
+      </question>
+      <answer>
+You declare that Ironhide is attacking and what Ironhide is attacking. This causes his ability to trigger. If you swap weapons, you do so before Battle Cards are flipped and before damage is done. This means that the attack value of the original weapon won’t apply, but the new weapon will. However, if the original weapon also has a triggered ability that triggers when Ironhide attacks, that ability will still work, even if that weapon is swapped before you handle that ability. 
+      </answer>
+    </entry>
+  <entry id="1-2">
+      <question>
+If Thrust has a Grenade Launcher and boosts a character that is attacking, and the opponent reveals a Bolster, to play a Scrapper Gauntlets to scrap the Grenade Launcher, does Thrust donate 7 or 3 attack to the attacking character?
+</question>
+      <answer>
+7 attack. The amount has already been locked in.
+</answer>
+    </entry>
+    <entry id="1-27">
+      <question>
+Question regarding Backup Bag + Grenade Launcher / Power Punch / RR Disruptor Blade Can I scrap backup bag instead of a weapon?
+</question>
+      <answer>
+Yes!
+</answer>
+    </entry>
+    <entry id="222-1">
+      <question>
+If one of my planes is equipped with a Grenade Launcher and a Crash Landing before getting KO'd, would the Grenade Launcher add an additional 4 damage to Crash Landing's effect?
+      </question>
+      <answer>
+It will include the attack modifier from the Grenade Launcher.
+      </answer>
+    </entry>
+    <entry id="222-1">
+      <question>
+Say I have Razorclaw equipped with Tooth and Claw, and because of that effect Razorclaw has a Grenade Launcher in its armor slot. If I combine into Predaking, can I transfer the Grenade Launcher from Razorclaw's armor slot to Predaking's armor slot?
+      </question>
+      <answer>
+You would have to keep Tooth and Claw to keep the Grenade Launcher for Predaking’s armor slot.
+      </answer>
+    </entry>
+    <entry id="422-1">
+      <question>
+If Optimus Prime - Battlefield Legend attacks with Power Punch. And flips over Swap Parts you move all upgrades to another character does Power Punch/Grenade Launcher destroy itself?
+      </question>
+      <answer>
+No, after the battle, you check, and the upgraded character is not the one who attacked, so it would not scrap itself.
+      </answer>
+    </entry>
+  <entry id="5-8" tags="Blurr - Fastest Bot in the Galaxy">
+      <question>
+If I have a Grenade Launcher on Blurr, and I attack a tapped character, which will occur first: the second attack on an untapped character, or scrapping the Grenade Launcher?
+        </question>
+      <answer>
+Grenade Launcher only lasts for one battle, so it would be scrapped before Blurr launches his second attack.
+</answer>
+    </entry>
+    <entry id="401-7" tags="Thrust - Supersonic Interceptor">
+      <question>
+Let's say a Grenade Launcher is put on Thrust, then a DIFFERENT character is tapped to attack, the player decides to tap Thrust also in order to activate his ability. 
+1. Does the extra attacks that Thrust gives to the attacking character include the Grenade Launcher's +4? 
+2. and Does the Grenade Launcher get removed after the attack, even though Thrust wasn't technically attacking?
+      </question>
+      <answer>
+1. Yes.
+2. No. As you noted, the character with Grenade Launcher did not attack.
+      </answer>
+    </entry>
+    <entry id="528-6">
+      <question>
+Say I attack using a character equipped with Backup Bag and Grenade Launcher. After the attack, would Grenade Launcher get scrapped or would Backup Bag prevent that?
+      </question>
+      <answer>
+Backup Bag would be scrapped in place of Grenade Launcher in this scenario.
+      </answer>
+    </entry>
+    <entry id="228-15">
+      <question>
+How does Spare Parts interact with Vandalize? If my opponent plays Vandalize, and I have 1 bot with Spare Parts and a Grenade Launcher equipped, are both upgrades scrapped? Or does Spare Parts absorb the destroy effect targeting Grenade Launcher, even though Spare Parts is already being destroyed simultaneously by Vandalize?
+      </question>
+      <answer>
+Vandalize scraps all your opponent’s weapons OR all their armors OR all their utilities. If your opponent chose to scrap weapons, Spare Parts would be scrapped instead. 
+However, if a card did try to scrap Spare Parts and Grenade Launcher at the same time, Spare Parts could save your Grenade Launcher.
+      </answer>
+    </entry>
+    <entry id="2-18">
+      <question>
+Say I have a weapon on a character and Backup Bag as well. For my turn I placed a different or same weapon on the same character. But because I already have a weapon taken up does the original weapon get scrapped or can I keep both weapons and scrap Backup Bag instead?
+</question>
+      <answer>
+Playing the new weapon causes the old weapon to be scrapped, but it’s the rules of the game that are doing this, not an effect of the new weapon. Backup Bag affects only cards such as Salvage for Parts or Grenade Launcher.
+</answer>
+    </entry>
+    <entry id="9-1">
+      <question>
+Optimus Prime - Battlefield Legend flips completely for his attack &amp; chooses Leap of Faith as his Action. The first card Leap of Faith reveals is Grenade Launcher. If I attach it to Optimus Prime Battlefield Legend, does he immediately get the +4 Attack boost?
+        </question>
+      <answer>
+Yes.
+      </answer>
+    </entry>
+    </target></faq>

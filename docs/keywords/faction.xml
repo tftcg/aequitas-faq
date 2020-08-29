@@ -1,0 +1,18 @@
+<faq><target name="Faction"><entry id="3" tags="Faction">
+        <question>
+             Some cards refer to Autobots or Decepticons. How do I know which characters are Autobots?
+        </question>
+        <answer>
+             Autobots have a red frame and the Autobot insignia in the lower right corner. Decepticons have a purple frame and the Decepticon insignia in the lower right corner. A few characters have "Autobot" or "Decepticon" in their names, although these aren’t the only Autobots and Decepticons.
+    </answer>
+    </entry>
+
+<entry id="610-1" tags="Soldier's Blaster,Faction">
+        <question>
+            How does Soldier's Blaster (and similar cards) work when interacting with a character who is both an Autobot and a Decepticon? 
+        </question>
+        <answer>
+            Different faction means "does not share a faction identity." For a character which is both an Autobot and a Decepticon, "not sharing a faction identity" means NOT Autobot and NOT Decepticon. Currently, this leaves Mercenary as the only different faction.
+        </answer>
+    </entry>
+    </target></faq>

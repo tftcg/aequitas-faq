@@ -1,0 +1,53 @@
+<faq><target name="Brave"><entry id="8">
+      <question>
+             What is Brave?
+        </question>
+      <answer>
+             Brave is a new keyword ability that helps some characters protect the rest of their team. When
+choosing which enemy to attack, you must choose one with brave if possible.
+        </answer>
+    </entry>
+    <entry id="9">
+      <question>
+             My opponent has two characters with brave that I could attack. What happens?
+        </question>
+      <answer>
+             You choose one of them to attack.
+        </answer>
+    </entry>
+    <entry id="10">
+      <question>
+             My opponent has one tapped character and one untapped character with brave. Do I have to
+attack the one with brave?
+        </question>
+      <answer>
+             No, and in fact you can’t even if you want to. Brave doesn’t override the rules for attacking
+tapped/untapped characters. If your opponent has any tapped characters you must attack one
+of them. If a tapped character had brave, you would have to attack that one if you could.
+        </answer>
+    </entry>
+  <entry id="7-5" tags="Brave">
+      <question>
+What happens if two characters both have Brave? Do I get to pick out of the two, which receives the damage?
+        </question>
+      <answer>
+If two or more characters have Brave, the attacking player can choose between them.
+      </answer>
+    </entry>
+    <entry id="211-3" tags="Predacon Headstrong - Ground Assault,Brave,Stealth">
+      <question>
+If you have a Stealthiness attached to Headstrong in his Alternate Mode, what happens? Does Brave trump the Stealth or vice versa?
+      </question>
+      <answer>
+The opponent can choose to attack any available target; they essentially cancel each other out.
+      </answer>
+    </entry>
+    <entry id="9-4" tags="Pincer Movement,Razorclaw - Predacon Leader,Brave">
+      <question>
+Regarding Pincer, will it allow the follow-up attack to bypass normal rule processes? For example, I attack with Razorclaw in Bot Mode against an untapped unit. Can my other Decepticon attack this untapped unit? What about bypassing Brave?
+        </question>
+      <answer>
+If you can’t legally choose another Decepticon as the attacker, and the same character as the defender, you don’t get the extra attack. In other words, you can’t just ignore Brave or other rules.
+      </answer>
+    </entry>
+    </target></faq>

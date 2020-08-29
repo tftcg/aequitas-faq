@@ -1,0 +1,85 @@
+<faq><target name="Wheeljack - Weapons Inventor"><entry id="70" mode="alt">
+      <question>
+    If I play an Action that puts an Upgrade on one of my Cars, does Wheeljack’s ability trigger?
+</question>
+      <answer>
+    Yes. That ability triggers no matter how the Upgrade was put onto one of your Cars.
+</answer>
+    </entry>
+  <entry id="315-1" tags="Volcanicus - Fiery Champion,Wheeljack - Weapons Inventor">
+      <question>
+I had Electrified Spikes on Volcanicus and Wheeljack attacked. Wheeljack did enough damage to kill me but I also flipped 2 orange battle icons and Wheeljack was my opponent’s last character. Which character would be KO’d first?
+      </question>
+      <answer>
+If the damage from Electrified Spikes KO’s the attacker, no attack damage is dealt during that combat. If that attacker was your opponent’s last character, you would win the game.
+      </answer>
+    </entry>
+    <entry id="RR1-17" tags="Play,Jetfire - Air Guardian,Wheeljack - Weapons Inventor">
+      <question>
+Am I allowed to count the cards remaining in my deck (Obviously without looking at them face up)? Am I allowed to look through my scrap pile at any time, or only when prompted from a card? (e.g. Wheeljack or Jetfire)
+      </question>
+      <answer>
+Yes and yes.
+      </answer>
+    </entry>
+    <entry id="628-1" tags="Play,Wheeljack - Weapons Inventor">
+      <question>
+If you have no cards in your scrap pile and play a weapon to replace an already existing weapon on a character, does the replaced weapon immediately go to your scrap pile, or does it hit the scrap pile at the end of your turn? Asking because of Wheeljack's bot mode ability requiring a weapon in the scrap pile to give him the bold 3 effect.
+      </question>
+      <answer>
+Immediately.
+      </answer>
+    </entry>
+    <entry id="628-17" tags="Wheeljack - Weapons Inventor,Insecticon Skrapnel - Insecticon Leader,Ransack - Insecticon Commando">
+      <question> 
+My opponent has Wheeljack untapped and I have Skrapnel untapped. It's my turn and I flip Skrapnel to alt mode, then play I Still Function! to bring back Ransack in bot mode from the KO area. Then I attack with Ransack to Wheeljack, and after the flip of battle cards, Ransack is KO’d. Does Skrapnel’s ability trigger because of Ransack getting KO’d and make Wheeljack tap, letting me attack with Skrapnel?
+      </question>
+      <answer>
+You can do either, but not both. If you want to tap a character using Skrapnel’s flip trigger, you must KO Ransack before he can attack. If you want to attack with Ransack, it will be too late to flip Skrapnel to utilize his flip trigger. 
+      </answer>
+    </entry>
+    <entry id="405-5">
+      <question>
+I have Wheeljack - Weapons Inventor in alt mode on the field. I play Leap of Faith and flip Field Communicator as my first card. I play Field Communicator and equip it to Wheeljack. With this scenario, does Wheeljack’s ability to draw then scrap a card occur before I do my second flip for Leap of Faith or does it have to wait until Leap of Faith has fully resolved?
+      </question>
+      <answer>
+EDIT: You must resolve Leap of Faith and the second card you flip from Leap of Faith, then Field Communicator’s ability and Wheeljack’s ability can be resolved in an order of your choosing.
+      </answer>
+    </entry>
+    <entry id="322-8" tags="Wheeljack - Weapons Inventor">
+      <question>
+Wheeljack is in car mode is equipped with the following: 
+Multi-Tool, Turbo Boosters, and Scrapper Gauntlets.
+Bumblebee - Courageous Scout is tapped, in car mode, and equipped with the following:
+Drill Arms, Crushing Size, and Multi Mission Gear.
+For my action, I play Swap Parts between Wheeljack and Bumblebee. There are a LOT of abilities that fire off here and I'm curious to know, what would be the appropriate order? Most importantly, when does Wheeljack's ability take priority?
+      </question>
+      <answer>
+These would all trigger at the same, so you would choose the order they happen in.
+      </answer>
+    </entry>
+    <entry id="412-19" tags="Battle Master,KO,Wheeljack - Weapons Inventor">
+      <question>
+Speaking of when a Battle Master is KO'd, it states that you "play" the Upgrade side. Does that mean that you are technically Upgrading a character triggering effects like Wheeljack's alt mode? Furthermore--and I think I know the answer to this question--does this "play" take up the Upgrade for a turn?
+      </question>
+      <answer>
+Playing the Upgrade side of a Battle Master is just like playing an Upgrade from anywhere else. Wheeljack’s ability will trigger. As you probably know, this does not count as the one upgrade for your turn.
+      </answer>
+    </entry>
+    <entry id="308-1" tags="Wheeljack - Weapons Inventor">
+      <question>
+If I start an attack with Wheeljack in bot mode, and there is a weapon in my scrap pile giving him Bold 3, but then I have to shuffle my scrap pile during the attack, do I keep the Bold 3 for that attack?
+      </question>
+      <answer>
+Bold and anything that effects how many cards you flip during a battle is locked in once you begin flipping, so you would keep the Bold 3 in this scenario.
+    </answer>
+    </entry>
+    <entry id="2-46" tags="Wheeljack - Weapons Inventor">
+      <question>
+I play Full Loadout on Wave 1 Wheeljack in Alt Mode. I play Multi-Tool, Multi-Mission Gear, and Field Communicator onto him. How are the triggers handled? Do I resolve each Upgrade and Wheeljack trigger mid-Loadout, or do I wait until I play all three upgrades then resolve the six triggers?
+</question>
+      <answer>
+Full Loadout will put all three upgrades onto Wheeljack. You then handle all of the triggers in an order of your choosing.
+</answer>
+    </entry>
+    </target></faq>

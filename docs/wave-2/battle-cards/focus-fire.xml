@@ -1,0 +1,41 @@
+<faq><target name="Focus Fire"><entry id="79">
+      <question>Do I count the Focus Fire I’m playing?</question>
+      <answer>Yes. The first one gives one of your characters bold 1.</answer>
+    </entry>
+    <entry id="80">
+      <question>If I play a second Focus Fire, can I give the same character bold 1 twice?</question>
+      <answer>Yes. You can give one character bold 1 twice (which is just like giving it bold 2), or you can give two separate characters bold 1.</answer>
+    </entry>
+  <entry id="218-5">
+      <question>
+Say I use Optimus Prime - Battlefield Legend's Bot Mode skill to use a Focus Fire and I also had 2 Focus Fires in my hand. Since I technically played the Focus Fire I flipped, would I then be able to play the 2 in my hand right after?
+      </question>
+      <answer>
+Yes, but bold would not have any impact on that attack.
+      </answer>
+    </entry>
+    <entry id="1-13">
+      <question>
+Say I play Infiltrate on my turn, then on my opponent's turn they play Focus Fire, which lets them play a second Focus Fire, which then lets them play the 3rd Focus Fire.
+
+If I reveal my Infiltrate and negate their first Focus Fire, does it negate the other 2 as well since the first one is discarded?
+</question>
+      <answer>
+If you negate a Focus Fire, it also negates the ability of Focus Fire to play other instances of Focus Fire, stopping the chain.
+</answer>
+    </entry>
+    <entry id="308-8" tags="Focus Fire">
+      <question>
+How does playing multiple Focus Fires simultaneously work? Does each consecutive copy stack with each other copy to produce a pattern of bold like this:-
+1 copy- Bold 1
+2 copies- Bold 4
+3 copies- Bold 9
+      </question>
+      <answer>
+No. Once an action is used, it’s done being used, so the pattern would be:
+1 copy - Bold 1
+2 copies - Bold 3 total
+3 copies - Bold 6 total
+    </answer>
+    </entry>
+    </target></faq>

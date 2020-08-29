@@ -1,0 +1,34 @@
+<faq><target name="Crushing Treads"><entry id="81">
+      <question>
+    If the Upgraded character’s defense is boosted by actions or Upgrades, does that raise its Pierce number?
+</question>
+      <answer>
+    Yes. For example, if you play an Armor card that gives that gives the Upgraded character +3 defense, Crushing Treads will give that character Pierce 3.
+</answer>
+    </entry>
+    <entry id="82">
+      <question>
+    Do blue battle icons add to a character’s defense even if it’s attacking?
+</question>
+      <answer>
+    No. Similarly, orange battle icons don’t raise a character’s attack when that character is defending.
+</answer>
+    </entry>
+  <entry id="4-6">
+      <question>
+If I have a Laser Cutlass and a Crushing Treads on say, Slammer, and I attack an opponent, does Slammer get the pierce 3 from the Laser Cutlass plus the pierce 3 from the Crushing Treads since pierce adds together and both pierce abilities are triggered differently? So, attacking for 4 with Pierce 6.
+        </question>
+      <answer>
+That’s correct. In this scenario you would be attacking for 4 with Pierce 6. Pierce stacks on Pierce, but not on regular attack damage.
+</answer>
+    </entry>
+    <entry id="610-4" tags="Play,Head Mode &amp; Body Mode">
+        <question>
+            Can a card target something even if it won't have an effect? For example, can Unconventional Flying Object target a Body mode character?
+        </question>
+        <answer>
+            Cards try to do as much as they can. You can play Unconventional Flying Object even if you don't have a Spaceship and it will only accomplish putting the Action into your scrap. There are a handful of Upgrades like Crushing Treads that are restricted to play on say "Put only on a Tank." – you can't play that card unless you have the specific kind of character to put it on. After you successfully put it on the right kind of character, the game won't check anymore if the upgrade is valid, so the character can flip to Bot mode, stop being a Tank, and the Upgrade will stay on.
+        </answer>
+    </entry>
+    
+    </target></faq>

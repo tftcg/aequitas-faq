@@ -1,0 +1,29 @@
+<faq><target name="Inferno Breath"><entry id="82">
+      <question>Can I play this if I have no untapped characters with 5 stars or more?</question>
+      <answer>No. If you can’t follow the instructions on the left side of the arrow on an Action, you can’t play the Action.</answer>
+    </entry>
+  <entry id="510-1">
+      <question>
+If I have a Micromaster in Bot mode, and I use an action that taps it, such as Inferno Breath or Swap Missions, will tapping it with one of those actions let me activate the Micromaster's Tap ability?
+      </question>
+      <answer>
+No. Those are mutually exclusive. Tap abilities on Micro Masters are costs for triggering their abilities, so other in-game actions do not allow you to use that ability.
+      </answer>
+    </entry>
+    <entry id="401-1">
+      <question>
+Let's say you have a team of combiners. And your opponent’s characters are all tapped out. You have one character untapped and all of your characters are in bot mode. I know you can’t use Inferno Breath in this instance because you wouldn’t be able to attack to end the turn. However, if you play Brainstorm and then play Inferno Breath, tapping your last character and then using the Brainstorm’s second effect to play and enigma and combine, is that a legal play?
+      </question>
+      <answer>
+In this scenario, you actually could play Inferno Breath because you can tap your last character. When it comes time to attack, if you have no untapped characters, your turn would end. If your opponent also has no untapped character, you would untap all characters as usual and your opponent’s turn would begin. If you play the enigma and combine your characters into a Combiner, the Combiner begins untapped, so it would be the character that attacks.
+      </answer>
+    </entry>
+    <entry id="412-9" tags="Play">
+      <question>
+It is my turn; my opponent is tapped out. I have one untapped Bot, I play Inferno Breath and tap my bot to deal 3 damage. It is now my turn to attack, but I have no bots to attack. I figure we will both untap, but who goes next? Do I attack as I have not attacked for my turn? Is it my opponent’s turn even, though I did not attack? Rules state you must attack each turn.
+      </question>
+      <answer>
+If you have no untapped characters when it’s time to attack, you simply skip the attack and your turn ends. In the scenario you described, all characters will untap and your opponent’s turn will begin.
+      </answer>
+    </entry>
+    </target></faq>

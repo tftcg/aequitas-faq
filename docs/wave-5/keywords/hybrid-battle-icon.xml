@@ -1,0 +1,18 @@
+<faq><target name="Hybrid Battle Icon"><entry id="13">
+            <question>
+                What are Hybrid Battle Icons?
+            </question>
+            <answer>
+        Some battle cards in this set have a new style of battle icons: hybrids. These battle icons have a both a color and the symbol of a trait. For example, the battle card Nitro Booster has a black Car battle icon. Hybrid battle icons always count as their color, except if they're flipped in battle for a character that doesn't match their trait, that battle icon will have no effect that battle.
+            </answer>
+        </entry>
+        
+        <entry id="14">
+            <question>
+                If an effect refers to the battle icons you've flipped, can that effect see a hybrid icon if the character doesn't match its trait?
+            </question>
+            <answer>
+                Yes. For example, Mindwipe - Hypnotist (body mode) is a melee character that has an ability that triggers "when this attacks and flip at least one black battle icon." If Mindwipe attacks and you flip Master of Metallikato (a battle card with a black ranged battle icon), Mindwipe's ability will trigger, even though the black battle icon will have no effect.
+            </answer>
+        </entry>
+    </target></faq>

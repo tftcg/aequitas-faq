@@ -1,0 +1,47 @@
+<faq><target name="Stealth"><entry id="11">
+      <question>
+             What is Stealth?
+        </question>
+      <answer>
+             Stealth is a new keyword ability that lets some characters strike from the shadows without fear
+of reprisal. When choosing which enemy to attack, you must attack a character without stealth
+if able.
+        </answer>
+    </entry>
+    <entry id="12">
+      <question>
+             If my opponent has one tapped character with stealth, and the rest of their creatures are
+untapped, which character can I attack?
+        </question>
+      <answer>
+             Stealth doesn’t override the rules for attacking tapped/untapped characters. Since the
+tapped character is the only one that can be attacked, that’s where your attack is headed.
+        </answer>
+    </entry>
+    <entry id="13">
+      <question>
+             What happens if a character has brave and stealth?
+        </question>
+      <answer>
+             Brave and stealth essentially cancel each other out. You must attack that character if able,
+and you must attack other characters if able. This basically means you must attack a character
+you can attack, the same as if those abilities weren’t there.
+        </answer>
+    </entry>
+  <entry id="8-1" tags="Razorclaw - Predacon Leader,Stealth">
+      <question>
+Razorclaw’s robot mode ability says that when he flips to that mode he can attack untapped characters that turn as though they were tapped. If a character has Stealth when untapped, does Razorclaw treat them as tapped or untapped for the purpose of their Stealth?
+        </question>
+      <answer>
+The character will still have Stealth. Razorclaw’s ability changes the way that Razorclaw can attack but doesn’t actually change the Tapped/Untapped state of other cards.
+      </answer>
+    </entry>
+    <entry id="211-3" tags="Predacon Headstrong - Ground Assault,Brave,Stealth">
+      <question>
+If you have a Stealthiness attached to Headstrong in his Alternate Mode, what happens? Does Brave trump the Stealth or vice versa?
+      </question>
+      <answer>
+The opponent can choose to attack any available target; they essentially cancel each other out.
+      </answer>
+    </entry>
+    </target></faq>

@@ -1,0 +1,9 @@
+<faq><target name="Reckless Charge"><entry id="211-4" tags="KO">
+      <question>
+Do you check for KO as soon as you calculate damage or is it at the end of the attack phase? Is there a specific order for extra damage calculation outside the normal attack? This matters because of Reckless Charge potentially KOing both attacker and defender simultaneously. It also matters because of Electrified Spikes.
+      </question>
+      <answer>
+We are constantly checking for KO. In the case of Electrified Spikes, it will deal the damage to the attacker before combat damage is assigned. If the attacker is Ransack in bot-mode, he will benefit from the additional damage and increase his attack by 1.
+      </answer>
+    </entry>
+    </target></faq>

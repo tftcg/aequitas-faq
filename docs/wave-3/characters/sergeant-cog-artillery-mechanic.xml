@@ -1,0 +1,50 @@
+<faq><target name="Sergeant Cog - Artillery - Mechanic"><entry id="160">
+      <question>Sergeant Cog is a Weaponizer. That sounds awesome! What’s a Weaponizer?</question>
+      <answer>All the rules that apply to Battle Masters also apply to Weaponizers. Sergeant Cog represents more advanced weaponry. Sergeant Cog’s card is the same size as most characters.</answer>
+    </entry>
+    <entry id="161">
+      <question>Wait, so does that mean I get to play a large upgrade on one of my characters?</question>
+      <answer>Yes. Heavy Force Defensebreaker Cannon is large. It can be played onto any character, large or small.</answer>
+    </entry>
+  <entry id="7-10" tags="Sergeant Cog - Artillery - Mechanic,Private Red Heat - Infantry - Emergency Response">
+      <question>
+I have a question regarding Sergeant Cog. When he dies, I place him on Private Red Heat, and Trigger his ability. Let’s say I draw 2 cards. I can then upgrade each of my characters, and let’s say I play Field Communicator on one of my specialists from the Cog trigger, do I resolve Field Communicator’s trigger before finishing the last Cog upgrade trigger, or do I finish the Cog trigger, and then resolve the Field Communicator trigger?
+        </question>
+      <answer>
+Finish the Cog trigger completely, then resolve any resulting triggers like Field Communicator in an order of your choosing.
+      </answer>
+    </entry>
+    <entry id="628-20" tags="Sergeant Cog - Artillery - Mechanic">
+      <question>
+Cog is equipped to a bot which dies while Scavenge the Battlefield is in effect. Will Cog transfer to another bot or will he leave the Battlefield first and end up in KO area?
+      </question>
+      <answer>
+Yes, Scavenge the Battlefield allows you to move Cog in his Weapon mode to another character on the Battlefield. 
+      </answer>
+    </entry>
+    <entry id="628-21" tags="Sergeant Cog - Artillery - Mechanic,Private Red Heat - Infantry - Emergency Response">
+      <question>
+Cog is equipped to a bot who has a Micro-Capacitor. I use Red Heat to move Cog to another character: Does the Micro-Capacitor trigger first, therefore scrapping and untapping the bot, or does the swap happen first?
+      </question>
+      <answer>
+Micro-Capacitor must be attached to the character when you use its Tap ability in order to trigger. Unless Micro-Capacitor is attached to Red Heat in your example, Micro-Capacitor’s ability won’t trigger at all. 
+      </answer>
+    </entry>
+    <entry id="517-10" tags="Sergeant Cog - Artillery - Mechanic">
+      <question>
+What is the order of operations with Sergeant Cog’s upgrade form?
+      </question>
+      <answer>
+Attach Cog, draw your cards, attach all of the upgrades, resolve abilities that trigger from attaching upgrades in an order of your choosing.
+      </answer>
+    </entry>
+    <entry id="607-5" tags="Sergeant Cog - Artillery - Mechanic">
+      <question>
+For your consideration, Cog. During your opponent's turn, they swing at and KO him. He attaches to one of your characters, leaving you with two. You draw your cards and find that you can attach a Multi-Mission Gear on a Specialist character, which of course you do thanks to his effect. With that Multi-Mission Gear, you decide to be rather aggressive and play a Peace Through Tyranny, KO’ing one of your characters to, and I quote, "take an extra turn after this one". 
+Now, in the context that it's currently your opponent's turn, and that you're taking an extra turn after "this one", would that mean that your "extra turn" would actually just be your next regular turn since the "next turn" is just your regular turn or am I mistaken? 
+      </question>
+      <answer>
+If you find a way to play Peace Through Tyranny on your opponent’s turn, you will take the next turn (the “extra turn”), then you’ll take your normal turn, then your opponent will take their turn, and so on.
+      </answer>
+    </entry>
+    </target></faq>

@@ -1,0 +1,100 @@
+<faq><target name="Swap Parts"><entry id="3">
+          <question>What Cards are banned in Constructed Tournaments?</question>
+          <answer>
+              The Battle Cards Swap Parts and Press the Advantage are banned from use in Constructed play. 
+              The Battle Card Multi-Mission Gear has also been announced as banned.
+          </answer>
+      </entry>
+  <entry id="89">
+      <question>
+    If Optimus Prime, Battlefield Legend attacks, and the Action I play puts a Grenade Launcher onto him, will that Grenade Launcher be scrapped?
+</question>
+      <answer>
+    Yes. After the battle, Grenade Launcher will see that the character it’s upgrading has attacked and its ability will make you scrap it. Similarly, if a character that has a Grenade Launcher attacks, but somehow no longer has that Grenade Launcher after the battle (say, because a Swap Parts put it on a different character), Grenade Launcher won’t be scrapped.
+</answer>
+    </entry>
+  <entry id="116">
+      <question>
+    What happens if one of the two characters doesn’t have any Upgrades?
+</question>
+      <answer>
+    In that case, just move all the Upgrades from the one character to the other. There doesn’t actually have to be a full swap.
+</answer>
+    </entry>
+    <entry id="117">
+      <question>
+    What happens if an Upgrade can’t be put on the other character? For example, say I have an Upgrade that says "Put on Cars only" and the other character isn’t a Car?
+</question>
+      <answer>
+    If an Upgrade can’t be put on the other character, it stays where it is. If the other character has an Upgrade of the same type, that Upgrade also stays where it is.
+</answer>
+    </entry>
+    <entry id="118">
+      <question>
+    If an Upgrade has an ability that says "When you put this on a character" or similar, will that ability trigger if I put it on a new character with Swap Parts?
+</question>
+      <answer>
+    Yes.
+</answer>
+    </entry>
+  <entry id="315-12">
+      <question>
+What happens if I attack with Optimus Prime - Battlefield Legend in alt mode with Power Punch attached, and I hit a Swap Parts and move the Power Punch to a new bot. What happens to the Power Punch? Also, what about a card like Erratic Lightning? if I move it on Optimus with Swap Parts would his attack bonus stay the same?
+      </question>
+      <answer>
+Power Punch stays on the other character. Erratic Lightning gives Optimus +3 attack.
+      </answer>
+    </entry>
+    <entry id="RR1-3">
+      <question>
+What happens if I have Megatron - Living Weapon equipped with 2 weapons and an armor and I play Swap Parts?
+      </question>
+      <answer>
+In this scenario, if the other character you are choosing with Swap Parts does not have an ability or effect that allows them to hold multiple weapons, you will be able to bring the armor and a weapon of your choice to them. The remaining weapon will stay on Megatron.
+      </answer>
+    </entry>
+    <entry id="628-16" tags="Sideboarding">
+      <question>
+Is it legal to have a copy of Swap Parts in my Side Board that I never put into my actual deck?
+      </question>
+      <answer>
+No, it is not legal. It is so not legal in fact, that it is illegal.
+      </answer>
+    </entry>
+    <entry id="422-1">
+      <question>
+If Optimus Prime - Battlefield Legend attacks with Power Punch. And flips over Swap Parts you move all upgrades to another character does Power Punch/Grenade Launcher destroy itself?
+      </question>
+      <answer>
+No, after the battle, you check, and the upgraded character is not the one who attacked, so it would not scrap itself.
+      </answer>
+    </entry>
+  <entry id="322-8" tags="Wheeljack - Weapons Inventor">
+      <question>
+Wheeljack is in car mode is equipped with the following: 
+Multi-Tool, Turbo Boosters, and Scrapper Gauntlets.
+Bumblebee - Courageous Scout is tapped, in car mode, and equipped with the following:
+Drill Arms, Crushing Size, and Multi Mission Gear.
+For my action, I play Swap Parts between Wheeljack and Bumblebee. There are a LOT of abilities that fire off here and I'm curious to know, what would be the appropriate order? Most importantly, when does Wheeljack's ability take priority?
+      </question>
+      <answer>
+These would all trigger at the same, so you would choose the order they happen in.
+      </answer>
+    </entry>
+    <entry id="308-10" tags="Combiner">
+      <question>
+When a Combiner combines and the upgrades on its components go onto it, does that count as putting it on a character in the same way that Swap Parts does? For example:  Torox has Energon Slingshot before Predacon Enigma was played.  When Predaking is combined into, will Slingshot count as being put on a melee character and have its ability to deal 1 damage activate?
+      </question>
+      <answer>
+No. Upgrades are not “put on” when Combining, they are “kept on”.
+    </answer>
+    </entry>
+    <entry id="211-19" tags="Insecticon Skrapnel - Insecticon Leader,Metroplex - Autobot City">
+      <question>
+Can you also go into more depth about the rulings for Megatron - Living Weapon and Insecticon Skrapnel? I found it very confusing that MLW can swap a Weapon in his Armor Slot via Swap Parts and that Skrapnel treats Metroplex's 1 Damage to all Opponents as Attack Damage.
+      </question>
+      <answer>
+The Skrapnel ruling has been corrected. The 1 damage to all opponents is not attack damage. The Megatron question is a little ambiguous. If you play Swap parts on a Megatron with a weapon in his armor slot, you can move it to another character and put it into their weapon slot. If Megatron had two weapons, you would have to choose which one the other character kept. If you are swapping a weapon from the other character to Megatron in bot mode, you can put it into any of his slots. If you are swapping a weapon and armor from another character to Megatron, Living Weapon in bot-mode, the legal assignments are (Weapon in the weapon slot, armor in the armor slot; Weapon in the utility slot, armor in the armor slot; weapon in the armor slot, armor also in the armor slot, then one of them gets scrapped).
+      </answer>
+    </entry>
+  </target></faq>

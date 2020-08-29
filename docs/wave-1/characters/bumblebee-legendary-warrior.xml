@@ -1,0 +1,51 @@
+<faq><target name="Bumblebee - Legendary Warrior"><entry id="29" mode="alt">
+      <question>
+    Does flipping Bumblebee to alt mode mean I have to attack with him that turn?
+</question>
+      <answer>
+    No. It just lets Bumblebee attack untapped enemies if you decide to attack with Bumblebee.
+</answer>
+    </entry>
+    <entry id="30" mode="alt">
+      <question>
+    Can Bumblebee still attack tapped enemies that turn?
+</question>
+      <answer>
+    Yes. Because Bumblebee will be able to attack any enemy, tapped or untapped, you choose which
+enemy he attacks.
+</answer>
+    </entry>
+    <entry id="31" mode="alt">
+      <question>
+    Does attacking an untapped enemy cause that enemy to become tapped?
+</question>
+      <answer>
+    No. The enemy will stay untapped. None of the other rules of combat change.
+</answer>
+    </entry>
+  <entry id="211-12">
+      <question>
+Say I have one tapped character without Brave, and one untapped character with Brave. My opponent has two untapped characters, one of which is Bumblebee - Legendary Warrior in Bot Mode. If my opponent flips Bumblebee to Alt Mode, will they be forced to choose Bumblebee as their attacker targeting the Brave character? Or, can they choose to attack with their other character, attacking the normal tapped target?
+      </question>
+      <answer>
+They do not have to attack with the Bumblebee. Brave is only relevant when choosing the target of your attack, not when choosing your attacker. If they do choose to attack with Bumblebee, they will need to choose the Brave target.
+      </answer>
+    </entry>
+    <entry id="528-10">
+      <question>
+Say I have Bumblebee - Legendary Warrior in bot mode to start the turn. I play Roll Out! (or any other character flipping card) to flip BB to alt mode where he gains the ability: When you flip to this mode -&gt; This character can attack untapped enemies this turn as though they were tapped.
+If I flip BB back to his Bot mode, does the Alt-mode ability still persist? From the wording I would assume yes, but wanted to make sure.
+      </question>
+      <answer>
+Yes. The effect applies for the entire turn, even if Bumblebee flips to his other mode.
+      </answer>
+    </entry>
+    <entry id="2-45">
+      <question>
+When Bumblebee - Legendary Warrior flips to alt mode to trigger its effect, does he still have to attack a tapped "Brave" character?
+</question>
+      <answer>
+Bumblebee can now attack any character, tapped or untapped. So if there’s a character with Brave, Bumblebee must attack it. If there are multiple characters with Brave, Bumblebee must attack one of them. Your choice.
+</answer>
+    </entry>
+    </target></faq>

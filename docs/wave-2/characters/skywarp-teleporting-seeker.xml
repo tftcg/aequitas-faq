@@ -1,0 +1,42 @@
+<faq><target name="Skywarp - Teleporting Seeker"><entry id="49" mode="bot">
+      <question>If I play a battle card with no battle icons, and then later in the turn I flip a battle card that has no battle icons, will Skywarp’s ability trigger again?</question>
+      <answer>No. The “once per turn” applies to playing and flipping, not each individually.</answer>
+    </entry>
+    <entry id="50" mode="bot">
+      <question>If I attack with another character and flip a battle card with no battle icons, will Skywarp’s ability trigger?</question>
+      <answer>Yes. This could matter if Skywarp gets to attack later in the turn.</answer>
+    </entry>
+    <entry id="51" xref="Rules_Roundup-2019-07-12#1-4" mode="alt" />
+  <entry id="315-5" tags="Skywarp - Teleporting Seeker">
+      <question>
+Can someone explain Skywarp's wave 2 ability? If a card with no battle icons is flipped by Skywarp or another one of your characters, it boosts his attack and defense stats by three. If he flips into his other mode, does he retain the stats? When you state end of turn on a card, does it mean the end of the character’s attack or the end of all characters’ attacks in that round, which would result in all characters untapping and the start of the next round?
+      </question>
+      <answer>
+If Skywarp gets the +3 attack and defense until the end of turn bonus and then flips to his alt mode, he’ll keep that bonus for the entire turn. Any effect that lasts “until end of turn” or “this turn” lasts the entire turn, meaning your attacks are done and your opponent’s turn is about to begin.
+      </answer>
+    </entry>
+    <entry id="1-21">
+      <question>
+If I use I Still Function to bring back Skywarp - Teleporting Seeker from the KO area, does his ability trigger (assuming he's on his bot mode)?
+</question>
+      <answer>
+No. The ability only functions on the battlefield. By the time he’s returned to the battlefield, you’ve already played I Still Function.
+</answer>
+    </entry>
+    <entry id="308-26">
+      <question>
+When Recon System is equipped on a character like Skywarp - Teleporting Seeker, will his ability still trigger if you scrap the only card with no icons, since you did actually flip the card, triggering Skywarp's ability?
+      </question>
+      <answer>
+Yes.
+    </answer>
+    </entry>
+    <entry id="228-11">
+      <question>
+With regards to Skywarp - Teleporting Seeker's bot mode skill, does that ability trigger when another character on your team battles and flips a card with no icons?
+      </question>
+      <answer>
+Yes.
+      </answer>
+    </entry>
+    </target></faq>

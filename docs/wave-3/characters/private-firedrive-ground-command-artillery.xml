@@ -1,0 +1,25 @@
+<faq><target name="Private Firedrive - Ground Command - Artillery"><entry id="10-35" tags="Private Firedrive - Ground Command - Artillery">
+      <question>
+Furthermore in the case of Firedrive’s weapon mode, it says the upgraded character gets the attack bonus, so will the character keep the attack bonus, just not the +3 since the weapon will be scrapped? 
+        </question>
+      <answer>
+Yes. The character will keep the Attack bonus but not the +3.
+      </answer>
+    </entry>
+    <entry id="517-1" tags="Major Ultra Magnus - Infantry - City Commander,Private Firedrive - Ground Command - Artillery">
+      <question>
+Let's say I have Major Ultra Magnus in bot mode and Private Firedrive on the field, with Firedrive having 1 health remaining. If I attack with Ultra Magnus and trigger his bot mode ability, which causes Firedrive to die and I put the Duo-Charge Electrostatic Photon Cannon onto Ultra Magnus, what happens? Does Ultra Magnus get the +3 attack for this battle? Am I able to scrap cards from my hand to increase said attack?
+      </question>
+      <answer>
+Major Ultra Magnus will get the +3 attack, but since the long-name weapon was attached after he began his attack, the ability will not trigger and you will not be able to scrap any cards to add to your attack.
+      </answer>
+    </entry>
+    <entry id="517-2" tags="Private Firedrive - Ground Command - Artillery">
+      <question>
+Similarly, let's say I have Optimus Prime - Battlefield Legend on the field in Bot mode and during my attack I flip a Quartermaster to bring back the Duo-Charge Electrostatic Photon Cannon and put it onto Optimus Prime. For that battle, does Optimus Prime get +3 attack? Am I also able to scrap cards from my hand to increase the attack?
+      </question>
+      <answer>
+Optimus Prime - Battlefield Legend will get the +3 attack, but since the weapon with the very long name was attached after he began his attack, the ability will not trigger and you will not be able to scrap any cards to add to your attack.
+      </answer>
+    </entry>
+    </target></faq>

@@ -1,0 +1,17 @@
+<faq><target name="Revenge"><entry id="7">
+        <question>
+             What are Revenge abilities?
+        </question>
+        <answer>
+             A Revenge ability is a triggered ability that triggers when the character with the ability is KO’d. There aren’t that many of them. They’re a Decepticon thing. The Decepticons must be up to something.
+        </answer>
+        </entry>
+    <entry id="9-9" tags="Revenge,Bounty,Raider Ratbat - Spy Patrol - Fuel Scout,Deadlock - Soldier Of Fortune">
+      <question>
+Revenge on Ratbat and Bounty on Deadlock both trigger upon Ratbat's KO, but which triggers first?
+        </question>
+      <answer>
+Bounty abilities and Revenge abilities will usually trigger at the same time. Bounty abilities are usually handled first because they belong to the active player.
+      </answer>
+    </entry>
+    </target></faq>

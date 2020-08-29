@@ -1,0 +1,17 @@
+<faq><target name="Pep Talk"><entry id="32" mode="bot">
+      <question>Let’s say my opponent plays Pep Talk, an Action that says “Draw 2 cards.” What happens?</question>
+      <answer>Assuming they drew a card at the start of their turn, Raider Caliburst’s ability would trigger twice. Your opponent could choose the same character for each one or they could choose a different character each time.</answer>
+    </entry>
+  <entry id="63">
+      <question>Let’s say my opponent plays Pep Talk, an Action that says “Draw 2 cards.” What happens?</question>
+      <answer>Assuming they drew a card at the start of their turn, you would reveal Hijack. Then instead them drawing two cards, you’d draw two cards. Hijack’s effect lasts for the rest of the turn, so if they tried to draw more cards, you’d draw them again.</answer>
+    </entry>
+  <entry id="4-2">
+      <question>
+I have a ruling question about Optimus Prime - Battlefield Legend. If I my attack checks an action like Pep Talk, when do I activate the effect? Immediately (I draw 2 cards, then continue the check) or after resolution? (continue the checks, then draw two cards). On a similar note. If I decide to use an action with an orange or white pip, am I still able to keep the pip effect, or does that vanish with the card?
+        </question>
+      <answer>
+First, you attack with OPBL, then you flip the Battle Cards (including any Bold). If you flip a white battle icon, you flip two more Battle Cards. Then, you check if you have flipped an Action. You can play one of the actions. You will still get plus attack from the orange icons flipped on that Action.
+</answer>
+    </entry>
+    </target></faq>

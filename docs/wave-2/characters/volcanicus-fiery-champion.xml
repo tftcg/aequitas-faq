@@ -1,0 +1,103 @@
+<faq><target name="Volcanicus - Fiery Champion"><entry id="56" mode="combiner">
+      <question>What happens if the damage done by Volcanicus’s ability KO’s the defender?</question>
+      <answer>In that case, the attack ends, although any other abilities that trigger when Volcanicus attacks will happen. Volcanicus won’t do attack damage and won’t untap.</answer>
+    </entry>
+  <entry id="315-1" tags="Volcanicus - Fiery Champion,Wheeljack - Weapons Inventor">
+      <question>
+I had Electrified Spikes on Volcanicus and Wheeljack attacked. Wheeljack did enough damage to kill me but I also flipped 2 orange battle icons and Wheeljack was my opponent’s last character. Which character would be KO’d first?
+      </question>
+      <answer>
+If the damage from Electrified Spikes KO’s the attacker, no attack damage is dealt during that combat. If that attacker was your opponent’s last character, you would win the game.
+      </answer>
+    </entry>
+    <entry id="315-24" tags="Volcanicus - Fiery Champion">
+      <question>
+What occurs if I attack with Volcanicus the turn I combined while also playing Steamroll that same turn (assume I used a Brainstorm or Multi-Mission Tool on Divebomb) and flip enough Orange pips to KO the defender with Volcanicus' ability. Do I still calculate my total ATK damage to determine what (or if) Steamroll's damage would be?
+      </question>
+      <answer>
+In this case, Volcanicus has KO’d the defender before actually doing attack damage to it, so the attack will end with no attack damage dealt. Thus, Steamroll’s effect would not apply
+      </answer>
+    </entry>
+    <entry id="502-2" tags="Volcanicus - Fiery Champion,Grimlock - Powerful Commander">
+      <question>
+I wondering, given that Volcanicus is a Dinobot, is he a valid target for wave 2 Grimlock’s ability that lets you put Dinobots from outside the game into the KO area?
+      </question>
+      <answer>
+No. Volcanicus can’t exist outside of the game because he needs to be combined inside the game, so Grimlock cannot recruit him into the game.
+      </answer>
+    </entry>
+    <entry id="628-7" tags="Grimlock - Powerful Commander,Volcanicus - Fiery Champion">
+      <question> 
+Since Wave 2 Grimlock is capable of grabbing duplicate characters from outside the game, including copies of himself, what happens if I have a Grimlock in my KO area and one on the battlefield when I play the Dinobot Enigma to combine into Volcanicus? Do I get to choose which Grimlock is used in the combination, or does the game default to the one on the battlefield?
+      </question>
+      <answer>
+You can choose either one. 
+      </answer>
+    </entry>
+    <entry id="628-8" tags="Grimlock - Powerful Commander,Volcanicus - Fiery Champion,Dinobot Enigma">
+      <question>
+If I can keep the original Grimlock on the battlefield, what happens then, if I use him to collect another set of Wave 2 Dinobots and play another Enigma? Does the first Volcanicus get Bold 2? Do I assemble a second Volcanicus?
+      </question>
+      <answer>
+Yes, you can assemble multiple versions of Volcanicus. In the extraordinarily unlikely event that you are able to assemble multiple iterations of Volcanicus on the battlefield before your opponent either defeats you or flips the table over, they would each get bold 2. 
+      </answer>
+    </entry>
+    <entry id="628-9" tags="Dinobot Enigma,Volcanicus - Fiery Champion">
+      <question>
+If I have two full sets of Wave 2 Dinobots between my Battlefield and KO area and I play the Dinobot Enigma, do I get one Volcanicus or two?
+      </question>
+      <answer>
+One per enigma played. 
+      </answer>
+    </entry>
+    <entry id="628-10" tags="Volcanicus - Fiery Champion">
+      <question>
+What is the plural of "Volcanicus" anyway?
+      </question>
+      <answer>
+More than one Volcanicus is known as a Volcanicatrix. This is canon. Trust me. Don’t look it up. 
+      </answer>
+    </entry>
+    <entry id="218-8" tags="Volcanicus - Fiery Champion,Dirge - Doombringer">
+      <question>
+If my opponent has a combined Volcanicus in their K.O. Area, and I flip Dirge to Alt Mode, does Dirge get +1 or +5 attack?
+      </question>
+      <answer>
++1. Volcanicus counts as 1 character.
+      </answer>
+    </entry>
+    <entry id="308-24" tags="Volcanicus - Fiery Champion">
+      <question>
+So I’m attacking with Dinobot Snarl - Desert Warrior with 8 damage counters on him, he’s attacking Volcanicus, who has Electrified Spikes on him. Snarl flipped enough damage to KO Volcanicus, but for Volcanicus’ defense flip, he hit the two orange pips to activate Electrified Spikes. Which would do the KO damage on Snarl. So how is damage assigned? And whose damage goes first? Or is this a double KO?
+      </question>
+      <answer>
+Electrified Spikes’ ability happens before attack damage, so in this scenario, Volcanicus would save himself with Electrified Spikes and KO Dinobot Snarl - Desert Warrior. 
+Alternatively, you could try telling Volcanicus to stop hitting himself.
+    </answer>
+    </entry>
+    <entry id="308-27" tags="Volcanicus - Fiery Champion">
+      <question>
+If I have all five Wave 2 Dinobots in Bot mode in the KO Area, what happens if I play Dinobot Enigma?  Will Volcanicus essentially rise from the dead at 1 health? 
+      </question>
+      <answer>
+You can combine Volcanicus and he will remain in the KO area with full damage. In order to combine Volcanicus onto the battlefield, you must have at least one active Combiner piece Dinobot on the battlefield. 
+    </answer>
+    </entry>
+  <entry id="528-11" tags="Grimlock - Powerful Commander,Dinobot Sludge - Mighty Stomper,Volcanicus - Fiery Champion">
+      <question>
+If I start my game with Wave 1 Dinobot Sludge and Wave 2 Grimlock and Dinobot Swoop. After I was able to bring the rest of my Wave 2 Dinobots into the KO area, Grimlock is KO’d and Dinobot Sludge was the only card left on my battlefield in bot mode. On my turn, I played the Dinobot Enigma and then flipped Dinobot Sludge to take all of his damage, was this correct? Also, what if I had played a Brainstorm then an I Still Function! and then a Dinobot Enigma after which I would flip Dinobot Sludge? Is that a better scenario?
+      </question>
+      <answer>
+In your first scenario, Volcanicus appears on the battlefield with 55 damage counters on him. 
+In your second scenario, you can I Still Function! one of the five Dinobots and then use the Dinobot Engima to form Volcanicus. Volcanicus will have 54 damage counters on him (because of the 1 damage ISF! repairs). No matter what, he will be KO’d at the end of the turn, so repairing him with Dinobot Sludge probably won’t do a lot.
+      </answer>
+    </entry>
+    <entry id="228-4" tags="Combiner,Volcanicus - Fiery Champion,KO,Dreadwing - Sky Destroyer">
+      <question>
+Does the I Still Function! + Dreadwing rule apply generally to Combiners or is it specific to Dreadwing’s method of Combination? Suppose I control Dinobot Sludge - Mighty Stomper and have the five Dinobot components in my KO Area. Can I Brainstorm+ I Still Function! + Dinobot Enigma and expect to keep Volcanicus at the end of the turn?
+      </question>
+      <answer>
+The same ruling applies. If you I Still Function! One of the Dinobots and then play Dinobot Enigma, at the end of your turn, Volcanicus will be KO’d.
+      </answer>
+    </entry>
+    </target></faq>

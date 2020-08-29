@@ -1,0 +1,50 @@
+<faq><target name="Arcee - Skilled Fighter"><entry id="17" mode="alt">
+      <question>
+                What happens if some of my characters are undamaged when I flip Arcee to alt mode?
+            </question>
+      <answer>
+                There are no damage counters to remove, so nothing happens to those characters.
+            </answer>
+    </entry>
+    <entry id="18" mode="bot">
+      <question>
+        If Arcee’s attack is boosted by actions or Upgrades, does that raise her Pierce number?
+    </question>
+      <answer>
+        Yes. For example, if you play an action card that gives Arcee +2 attack until end of turn, she’ll have Pierce 3.
+    </answer>
+    </entry>
+    <entry id="19" mode="bot">
+      <question>
+        Let’s say I attack with Arcee and reveal two orange attack icons, giving her +2 attack. Does her Pierce number go up?
+    </question>
+      <answer>
+        Yes.
+    </answer>
+    </entry>
+    <entry id="20" mode="bot">
+      <question>
+        What happens if Arcee has a Piercing Blaster or another Upgrade that gives her more Pierce?
+    </question>
+      <answer>
+        In that case, Arcee will have Pierce equal to her attack plus the Pierce from the Upgrade. In that example, Arcee’s attack is 1, so she’ll have Pierce 4. However, remember that characters with Pierce 
+can’t deal more damage than their attack total, so she’ll do only 1 damage (not including other attack bonuses or orange battle icons).
+    </answer>
+    </entry>
+  <entry id="RR1-22" tags="Pierce,Arcee - Skilled Fighter">
+      <question>
+Arcee is in Bot mode. She attacks Barrage in Bot mode. Arcee flips 3 orange icons and Barrage flips 2 blue icons. Arcee's attack is 4 w/Pierce 4 (due to her ability), while Barrage has 4 defense. Does she only deal 0 damage for the entire attack or 4 only due to her Pierce 4?
+      </question>
+      <answer>
+After flipping the three orange, she has Pierce 4, meaning she would do a minimum of 4 damage.
+      </answer>
+    </entry>
+    <entry id="RR1-23" tags="Pierce,Arcee - Skilled Fighter">
+      <question>
+Arcee is in Bot mode. She attacks Barrage in Bot mode. Arcee does not flip any orange icons and Barrage flips 2 blue icons. Arcee's attack is 1 w/Pierce 1 (due to her ability), while Barrage has 4 defense. Does she only deal 0 damage for the entire attack or 1 only due to her Pierce 1? 
+      </question>
+      <answer>
+In this scenario, Arcee deals 1 damage.
+      </answer>
+    </entry>
+    </target></faq>

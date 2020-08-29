@@ -1,0 +1,25 @@
+<faq><target name="Erratic Lightning"><entry id="76">
+      <question>Can I put this on an enemy character to lower its defense?</question>
+      <answer>No. You can put Upgrades on your characters only.</answer>
+    </entry>
+    <entry id="77">
+      <question>If I play this on a character with 0 defense, and then later something gives it +1 defense, what will its total defense be?</question>
+      <answer>0. Erratic Lightning won’t drop your character’s defense below 0, but the -1 applies again once your character’s defense is raised.</answer>
+    </entry>
+  <entry id="315-12">
+      <question>
+What happens if I attack with Optimus Prime - Battlefield Legend in alt mode with Power Punch attached, and I hit a Swap Parts and move the Power Punch to a new bot. What happens to the Power Punch? Also, what about a card like Erratic Lightning? if I move it on Optimus with Swap Parts would his attack bonus stay the same?
+      </question>
+      <answer>
+Power Punch stays on the other character. Erratic Lightning gives Optimus +3 attack.
+      </answer>
+    </entry>
+    <entry id="218-24">
+      <question>
+For Erratic Lightning, does the -1 defense apply to defense flips, or only to base defense? For example, the upgraded character has 0 base defense, and flips 2 blue pips on defense. Does the upgraded character defend for 1 or 2?
+      </question>
+      <answer>
+It’s the sum of the flips, so you do all of the math first. The character in this scenario would defend for 1.
+      </answer>
+    </entry>
+    </target></faq>

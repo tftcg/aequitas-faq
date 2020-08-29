@@ -1,0 +1,67 @@
+<faq><target name="Megatron - Living Weapon"><entry id="52" mode="bot">
+      <question>
+    Does Megatron’s ability mean he can hold three Weapons?
+</question>
+      <answer>
+    Yes. He can have a Weapon in his Weapon slot as well as Weapons in his Armor and/or Utility slots.
+</answer>
+    </entry>
+    <entry id="53" mode="bot">
+      <question>
+    If I play a Weapon on Megatron, do I have to choose which slot it’s going in?
+</question>
+      <answer>
+    No. As long as Megatron can hold all the Upgrades attached to him, you don’t have to specify which
+slot anything is in. For example, if Megatron has two Weapons and a Utility, and you play an Armor onto
+him, you can choose at that time which Weapon it will replace.
+</answer>
+    </entry>
+    <entry id="54" mode="bot">
+      <question>
+    When Megatron flips to alt mode, can he keep all his Weapons?
+</question>
+      <answer>
+    Yes. The bot mode ability applies only to how the Weapons are put on Megatron.
+</answer>
+    </entry>
+  <entry id="RR1-3">
+      <question>
+What happens if I have Megatron - Living Weapon equipped with 2 weapons and an armor and I play Swap Parts?
+      </question>
+      <answer>
+In this scenario, if the other character you are choosing with Swap Parts does not have an ability or effect that allows them to hold multiple weapons, you will be able to bring the armor and a weapon of your choice to them. The remaining weapon will stay on Megatron.
+      </answer>
+    </entry>
+    <entry id="422-1">
+      <question>
+If I play Hunker Down while Megatron - Living Weapon has a weapon in his armor slot, do I have to replace the weapon with an armor from my scrap pile, or can I choose not to?
+      </question>
+      <answer>
+If you are able to, you must replace the weapon with an armor.
+      </answer>
+    </entry>
+    <entry id="3-14">
+      <question>
+Player plays Fully Loadout on Megatron - Living Weapon. Does Megatron have the ability to place three weapons in Bot Mode due to his ability?
+</question>
+      <answer>
+No. Full Loadout specifically says “A weapon, an armor, and a utility”. Megatron – Living Weapon only changes what can be put into his slots.
+</answer>
+    </entry>
+    <entry id="211-19" tags="Insecticon Skrapnel - Insecticon Leader,Metroplex - Autobot City">
+      <question>
+Can you also go into more depth about the rulings for Megatron - Living Weapon and Insecticon Skrapnel? I found it very confusing that MLW can swap a Weapon in his Armor Slot via Swap Parts and that Skrapnel treats Metroplex's 1 Damage to all Opponents as Attack Damage.
+      </question>
+      <answer>
+The Skrapnel ruling has been corrected. The 1 damage to all opponents is not attack damage. The Megatron question is a little ambiguous. If you play Swap parts on a Megatron with a weapon in his armor slot, you can move it to another character and put it into their weapon slot. If Megatron had two weapons, you would have to choose which one the other character kept. If you are swapping a weapon from the other character to Megatron in bot mode, you can put it into any of his slots. If you are swapping a weapon and armor from another character to Megatron, Living Weapon in bot-mode, the legal assignments are (Weapon in the weapon slot, armor in the armor slot; Weapon in the utility slot, armor in the armor slot; weapon in the armor slot, armor also in the armor slot, then one of them gets scrapped).
+      </answer>
+    </entry>
+  <entry id="228-12">
+      <question>
+Can Megatron - Living Weapon have 3 of the same weapon at once?
+      </question>
+      <answer>
+In bot mode, yes.
+      </answer>
+    </entry>
+    </target></faq>

@@ -1,0 +1,25 @@
+<faq><target name="Daring Escape"><entry id="50">
+      <question>Are the cards revealed when they’re put into the KO area?</question>
+      <answer>Yes. They will be face up in the KO area. Either player can look at them. (Don’t grab your opponent’s cards without permission though.)</answer>
+    </entry>
+  <entry id="51">
+      <question>If my opponent has Secret Actions in their hand, scrap pile, or even in their KO area (say because of Daring Escape), do those count?</question>
+      <answer>No. Daring Escape counts only the Secret Actions in your opponent’s played area.</answer>
+    </entry>
+  <entry id="10-21">
+      <question>
+Does an Autobot Battle Master in upgrade mode on a character still count as an Autobot on the battlefield when putting cards on your KO area for Daring Escape?
+        </question>
+      <answer>
+No. Daring Escape only counts Autobot characters.
+      </answer>
+    </entry>
+    <entry id="9-20">
+      <question>
+Does Daring Escape continually check the whole turn or does it only check when the card is played?
+        </question>
+      <answer>
+It only checks one time when the card is played, not the whole turn.
+      </answer>
+    </entry>
+    </target></faq>

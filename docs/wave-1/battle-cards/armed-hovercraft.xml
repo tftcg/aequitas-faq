@@ -1,0 +1,17 @@
+<faq><target name="Armed Hovercraft"><entry id="201-11" tags="Combiner">
+      <question>
+If the Combiner is treated like a new character upon combination, will Armed Hovercraft activate if moved from a composite part to the Combiner upon combination? 
+      </question>
+      <answer>
+No. It would stay attached, but would not activate upon combination.
+    </answer>
+    </entry>
+  <entry id="322-7" tags="Air Raid - Fearless Flyer">
+      <question>
+Does Air Raid's bot mode ability trigger if you use Armed Hovercraft to do 1 damage to an enemy team?
+      </question>
+      <answer>
+Armed Hovercraft does the damage, not the character that has it equipped.
+      </answer>
+    </entry>
+    </target></faq>

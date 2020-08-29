@@ -1,0 +1,89 @@
+<faq><target name="Major Shockwave - Applied Sciences - Scientist"><entry id="144" mode="alt">
+      <question>Can I do anything else with the top card of my deck?</question>
+      <answer>Nope. You can just a glimpse at what’s coming up. You can’t move the card anywhere unless something else tells you to.</answer>
+    </entry>
+    <entry id="145" mode="bot">
+      <question>If I play a Decepticon card or a Secret Action from the top of my deck, does that count as my action for the turn (or my upgrade for a Decepticon upgrade)?</question>
+      <answer>Yes. Major Shockwave’s ability doesn’t give you an extra action or upgrade for the turn. It just lets you pretend the top card of your deck is in your hand when playing it.</answer>
+    </entry>
+    <entry id="146" mode="bot">
+      <question>If my opponent plays a card that tells me to scrap a card from my hand, can I scrap the top card of my deck instead?</question>
+      <answer>No. Major Shockwave’s ability applies only when you’re playing the card.</answer>
+    </entry>
+    <entry id="147" mode="bot">
+      <question>Say the top card of my deck is a Decepticon upgrade. After I play it, the new top card is a Secret Action. Can I play that card too?</question>
+      <answer>Yes. You can keep playing the top card of your deck as long as it meets Major Shockwave’s conditions and you’re allowed to play the card (keeping in mind the normal one action/upgrade per turn rule).</answer>
+    </entry>
+  <entry id="7-4" tags="Major Shockwave - Applied Sciences - Scientist">
+      <question>
+How does Major Shockwave work with regard to the keyword Focus? Say for instance that Major Shockwave has Focus 1 and you look at the first card of your deck with Focus. Are you then allowed to look at the next card of your deck before deciding if you want to scrap or keep the Focused card?
+        </question>
+      <answer>
+The card you’re looking at while Focusing is still the top card of your deck. You must decide to scrap it or not. Only after deciding to scrap it are you allowed to look at the new top card of your deck.
+      </answer>
+    </entry>
+    <entry id="502-5" tags="Major Shockwave - Applied Sciences - Scientist">
+      <question>
+If I have Major Shockwave in bot mode and have a Decepticon card as my top card, can I play that on my opponents turn? Or does the wording ‘from your hand’ translate to the action or upgrade you can do for your turn only?
+      </question>
+      <answer>
+No, you cannot play it on your opponent’s turn. If you play the top card of your deck, you use your normal action or upgrade for the turn. Major Shockwave just gives you access to one more card while doing so.
+      </answer>
+    </entry>
+    <entry id="502-10" tags="Major Shockwave - Applied Sciences - Scientist">
+      <question>
+If I play Incoming Transmission while I have Major Shockwave on the field, and I draw the two cards, am I able to look at the next card in the deck BEFORE I put a card on the top of my deck, or must I complete Incoming Transmission before looking?
+      </question>
+      <answer>
+In this scenario, you may look at the next card in the deck before you put a card on the top of your deck.
+      </answer>
+    </entry>
+  <entry id="517-3" tags="Major Shockwave - Applied Sciences - Scientist">
+      <question>
+If I use Major Shockwave's bot mode skill to play a Secret Action, does that count as my action for the turn?
+      </question>
+      <answer>
+Yes, it does.
+      </answer>
+    </entry>
+    <entry id="426-3" tags="Major Shockwave - Applied Sciences - Scientist">
+      <question>
+My question is regarding the new Major Shockwave. In its ability when it states “Decepticon cards,” what does that mean exactly? I know certain cards like Decepticon Crown and Swindled have Decepticon-specific effects and have purple coloring in their titles. Are those the types of cards that could be used with new Shockwave’s ability?
+      </question>
+      <answer>
+Yes.
+      </answer>
+    </entry>
+    <entry id="607-10" tags="Major Shockwave - Applied Sciences - Scientist">
+      <question>
+Say I have Major Shockwave with 2 LV Gamma-Disruptor Launchers, and I try to play a third copy onto him. Would the two already on him both scrap, or would only one?
+      </question>
+      <answer>
+You would have to scrap only one of the two LV Gamma-Disruptos Launchers already on Major Shockwave.
+      </answer>
+    </entry>
+    <entry id="607-14" tags="Major Shockwave - Applied Sciences - Scientist">
+      <question>
+I have Major Shockwave in bot mode. The top card of my deck is the deception card, Swindled. If I play Multi-Mission gear onto a specialist, since the Swindled on top of my deck is able to be played as though it was in my hand, can I play it from the activation of Multi-Mission Gear? 
+      </question>
+      <answer>
+You may!
+      </answer>
+    </entry>
+    <entry id="2-7" tags="Major Shockwave - Applied Sciences - Scientist">
+      <question>
+Can you use Major Shockwave’s bot mode ability to plays cards from the top of your deck if you go first and it’s the first turn?
+</question>
+      <answer>
+Nope!
+</answer>
+    </entry>
+    <entry id="2-41" tags="Major Shockwave - Applied Sciences - Scientist">
+      <question>
+So Major Shockwave's ability where he can play Decepticon cards or secret actions on the top of the player's deck as though they were in the player's hand, does this mean at any time since his other ability allows the player to look at the top of their deck at any time? So during attacks or while defending, and during my opponents turn can I play these cards as long as they're on the top of my deck? Or do these actions and upgrades count as the action and upgrade for the turn? And finally, can it only be done once a turn, or any number of times if I have three or so of those cards in a row on top of my deck?
+</question>
+      <answer>
+Major Shockwave’s ability doesn’t change when you can play any card. If you play an action from the top of your deck this way, that is your one action for that turn. If another effect allows you to play additional actions, you can keep playing them from the top of your deck, if applicable.
+</answer>
+    </entry>
+    </target></faq>

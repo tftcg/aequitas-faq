@@ -1,0 +1,46 @@
+<faq><target name="Ransack - Insecticon Commando"><entry id="62" mode="alt">
+      <question>
+    What happens if I flip Ransack to alt mode and there are no damaged characters?
+</question>
+      <answer>
+    In that case, nothing happens. No damage counters are put on Ransack.
+</answer>
+    </entry>
+    <entry id="63" mode="alt">
+      <question>
+    What happens if the only damaged characters are enemies? Can I choose one of my characters and
+do nothing?
+</question>
+      <answer>
+    Yes. You choose any other character, damaged or not. Then move 2 damage counters from that
+character onto Ransack fi you can.
+</answer>
+    </entry>
+    <entry id="64" mode="bot">
+      <question>
+    How does Ransack’s ability work with Actions or Upgrades that raise his attack?
+</question>
+      <answer>
+    Ransack’s ability sets his base attack value, what you’d see printed on the card if it didn’t change.
+From there, Actions and Upgrades can raise that value. For example, if Ransack has 5 damage counters,
+his base attack would be 5. If he then got a Weapon that gave him +2 attack, his attack would be 7. This
+wouldn’t change the number of damage counters on him.
+</answer>
+    </entry>
+  <entry id="628-17" tags="Wheeljack - Weapons Inventor,Insecticon Skrapnel - Insecticon Leader,Ransack - Insecticon Commando">
+      <question> 
+My opponent has Wheeljack untapped and I have Skrapnel untapped. It's my turn and I flip Skrapnel to alt mode, then play I Still Function! to bring back Ransack in bot mode from the KO area. Then I attack with Ransack to Wheeljack, and after the flip of battle cards, Ransack is KO’d. Does Skrapnel’s ability trigger because of Ransack getting KO’d and make Wheeljack tap, letting me attack with Skrapnel?
+      </question>
+      <answer>
+You can do either, but not both. If you want to tap a character using Skrapnel’s flip trigger, you must KO Ransack before he can attack. If you want to attack with Ransack, it will be too late to flip Skrapnel to utilize his flip trigger. 
+      </answer>
+    </entry>
+    <entry id="2-25">
+      <question>
+Ransack - Insecticon Commando's alt mode flip ability says to move 2 damage counters from another character onto him. Does that include enemy characters? Assuming, of course, that I have a good reason to heal my opponent?
+</question>
+      <answer>
+Yes, you can move damage from an opponent’s character onto Ransack, should you be so bold.
+</answer>
+    </entry>
+    </target></faq>

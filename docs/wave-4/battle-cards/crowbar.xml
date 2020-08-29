@@ -1,0 +1,5 @@
+<faq><target name="Crowbar"><entry id="48">
+      <question>If Crowbar is put onto a character during a battle after it attacks, is it scrapped after the battle?</question>
+      <answer>No. The ability triggers only if the character is holding the Crowbar as it attacks. If Crowbar appears after that point (say because of Metal Detector), it can stay for at least another attack.</answer>
+    </entry>
+  </target></faq>

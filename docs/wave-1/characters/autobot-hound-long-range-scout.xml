@@ -1,0 +1,20 @@
+<faq><target name="Autobot Hound - Long-Range Scout"><entry id="23" mode="bot">
+      <question>
+    Let’s say you attack with another character and flip a white battle icon. Then, because your
+opponent’s characters are all tapped, you get to attack again. For your second attack, you attack with
+Autobot Hound and flip a white battle icon. Will his ability trigger?
+</question>
+      <answer>
+    No. The white battle icon you flipped while attacking with Autobot Hound wasn’t your first white
+battle icon that turn, so he won’t get the bonus.
+</answer>
+    </entry>
+  <entry id="315-14" tags="Thundercracker - Mach Warrior,Autobot Hound - Long-Range Scout">
+      <question>
+Had an interesting situation occur last night. Had Thundercracker on defense with 4 health remaining equipped with a Crash Landing. Autobot Hound was attacking who only had 2 health remaining. Hound had enough attack power after flipping to take out Thundercracker. Both were the last bots on each side, would Crash Landing still go off, creating a Draw?
+      </question>
+      <answer>
+Hound will KO Thundercracker and win the game before Thundercracker can Crash Land and KO Hound.
+      </answer>
+    </entry>
+    </target></faq>
