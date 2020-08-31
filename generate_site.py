@@ -72,15 +72,6 @@ def mkdirp(directory):
     if( not os.path.isdir(directory) ):
         os.makedirs(directory)
 
-# Returns gold|red|blue
-def source_image_name(source_name):
-    if("FAQ" in source_name):
-        return 'gold'
-    elif("Roundup" in source_name):
-        return 'red'
-    else:
-        return 'blue'
-
 # Returns WotC|Aequitas|Community
 def source_label(source_name):
     if("Aequitas" in source_name):
