@@ -40,13 +40,7 @@
 
         <ol class="card_faq">
 
-{% for entry in entries %}
-
-    {% if 'xref' in entry[2].attrib %}
-      {% set faq_node = f_get_xref(entry[2].attrib['xref'], faq_db) %}
-    {% else %}
-      {% set faq_node = entry %}
-    {% endif %}
+{% for faq_node in entries %}
 
     <li id="{{ faq_node[3] }}__{{ faq_node[2].attrib['id'] }}" class="faq_entry">
       {% if faq_node[2].attrib['mode'] %}
