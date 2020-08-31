@@ -9,7 +9,7 @@ I have a question about Wave 1 Shockwave's bot mode ability. If I cause my oppon
 1 damage per card scrapped.
 </answer>
     </entry>
-    <entry id="1-2">
+    <entry id="1-2" tags="Thrust - Supersonic Interceptor">
       <question>
 If Thrust has a Grenade Launcher and boosts a character that is attacking, and the opponent reveals a Bolster, to play a Scrapper Gauntlets to scrap the Grenade Launcher, does Thrust donate 7 or 3 attack to the attacking character?
 </question>
@@ -147,7 +147,7 @@ If I play Hunker Down and flip Darkmount to tank mode can I then choose to activ
 No, you must finish resolving Hunker Down before any triggered abilities from character flips are resolved.
 </answer>
     </entry>
-    <entry id="1-18" tags="Inverted!">
+    <entry id="1-18" tags="Inverted!,Alpha Trion - Cybertronian Sage">
       <question>
 How does Alpha Trion's ability interact with Inverted?
 </question>
@@ -179,7 +179,7 @@ If I use I Still Function! to bring back Skywarp - Teleporting Seeker from the K
 No. The ability only functions on the battlefield. By the time he's returned to the battlefield, you've already played I Still Function.
 </answer>
     </entry>
-    <entry id="1-22">
+    <entry id="1-22" tags="Raider Ion Storm - Infantry - Rainmaker">
       <question>
 If I were to have any Battle Master in upgrade form attached to a character ,and my opponent plays Raider Ion Storm's ability of "when this attacks return the defender's upgrade to its owner's hand," what happens to the Battle Masters? If they leave the battlefield, do they go to the KO area?
 </question>
@@ -203,7 +203,7 @@ What happens if you use a green battle icon if your opponent has Decepticon Shoc
 Green battle icons are a swap effect, not a scrap-from-your-hand effect.
 </answer>
     </entry>
-    <entry id="1-25">
+    <entry id="1-25" tags="Private Pteraxadon - Air Command - Artillery">
       <question>
 When Private Pteraxadon is in weapon mode (AKA Binary Edgewing Scythe), it says the defender's base armor value becomes zero during this battle. Does that count any armor bonuses from upgrades as well? Or does it only apply to the printed value on the bot?
 </question>
@@ -235,7 +235,7 @@ Question regarding Dismantling Claw / Reactive Armor. When character with such u
 Yes, you can!
 </answer>
     </entry>
-    <entry id="1-29" tags="Recover Cassette">
+    <entry id="1-29" tags="Recover Cassette,Blaster - Communications,Soundwave - Communications">
       <question>
 When you "put a cassette from the battlefield under it" does the mini-cassette heal to full or keep its damage/upgrades?
 </question>

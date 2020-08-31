@@ -2,5 +2,12 @@
       <question>Is the upgrade returned before my opponent flips battle cards?</question>
       <answer>Yes. Notably, if the upgrade gave your opponent’s character tough, the character won’t have tough when it’s time to flip battle cards.</answer>
     </entry>
-    <entry source="Wave 2 and 3 FAQ" id="155" xref="Rules_Roundup-2019-07-12#1-22" mode="bot" />
-  </target></faq>
+  <entry source="Rules Roundup 2019-07-12" id="1-22" tags="Raider Ion Storm - Infantry - Rainmaker">
+      <question>
+If I were to have any Battle Master in upgrade form attached to a character ,and my opponent plays Raider Ion Storm's ability of "when this attacks return the defender's upgrade to its owner's hand," what happens to the Battle Masters? If they leave the battlefield, do they go to the KO area?
+</question>
+      <answer>
+Yes. They go to the KO area.
+</answer>
+    </entry>
+    </target></faq>

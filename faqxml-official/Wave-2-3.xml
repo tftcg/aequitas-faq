@@ -231,7 +231,6 @@ more than one card on top of your deck this way, you can put them there in any o
       <question>Does it matter how many cards I discard this way?</question>
       <answer>No. There just needs to be exactly four different colors among the battle icons on those cards.</answer>
     </entry>
-    <entry id="31" xref="Rules_Roundup-2019-07-12#1-9" mode="bot"/>
   </target>
   <target name="Grimlock - Powerful Commander">
     <entry id="32" mode="bot">
@@ -328,7 +327,6 @@ more than one card on top of your deck this way, you can put them there in any o
       <question>If I attack with another character and flip a battle card with no battle icons, will Skywarp&#x2019;s ability trigger?</question>
       <answer>Yes. This could matter if Skywarp gets to attack later in the turn.</answer>
     </entry>
-    <entry id="51" xref="Rules_Roundup-2019-07-12#1-4" mode="alt"/>
   </target>
   <target name="Starscream - Decepticon King">
     <entry id="52" mode="bot">
@@ -341,7 +339,6 @@ more than one card on top of your deck this way, you can put them there in any o
       <question>Can I use Thrust&#x2019;s ability if he&#x2019;s tapped when I attack with one of my other characters?</question>
       <answer>No. You can&#x2019;t tap Thrust if he&#x2019;s already tapped.</answer>
     </entry>
-    <entry id="54" xref="Rules_Roundup-2019-07-12#1-2" mode="alt"/>
   </target>
   <target name="Torox - Fueler">
     <entry id="55" mode="alt">
@@ -500,9 +497,6 @@ more than one card on top of your deck this way, you can put them there in any o
       <question>Can I play this if I have no untapped Specialists with 5 stars or more?</question>
       <answer>No. If you can&#x2019;t follow the instructions on the left side of the arrow on an Action, you can&#x2019;t play the Action.</answer>
     </entry>
-  </target>
-  <target name="Inverted!">
-    <entry id="84" xref="Rules_Roundup-2019-07-12#1-18"/>
   </target>
   <target name="Leap of Faith">
     <entry id="85">
@@ -885,10 +879,6 @@ doesn&#x2019;t work on defense anyway.)
       <question>If the card I play with a blue battle icon also has other battle icons, do those count in the battle?</question>
       <answer>Yes. For example, if it has orange battle icons, those will add to the character&#x2019;s attack total. If it has a green battle icon, it can be swapped with a card in your hand after the battle.</answer>
     </entry>
-    <entry id="132" xref="Rules_Roundup-2019-07-12#1-18" mode="bot"/>
-  </target>
-  <target name="Blaster - Communications">
-    <entry id="133" xref="Rules_Roundup-2019-07-12#1-29" mode="bot"/>
   </target>
   <target name="Captain Elita-1 - Special Ops - Ranger">
     <entry id="134" mode="alt">
@@ -960,9 +950,6 @@ doesn&#x2019;t work on defense anyway.)
       <answer>You use it before the game begins. You&#x2019;ll put Ultra Magnus Armor onto Major Ultra Magnus, then shuffle the rest of your deck and draw 3 cards for your opening hand.</answer>
     </entry>
   </target>
-  <target name="Private Pteraxadon - Air Command - Artillery">
-    <entry id="149" xref="Rules_Roundup-2019-07-12#1-25" mode="upgrade"/>
-  </target>
   <target name="Private Red Heat - Infantry - Emergency Response">
     <entry id="150" mode="bot">
       <question>What happens if one of the characters has an upgrade of a certain type, such as a Weapon, and the other character doesn&#x2019;t have an upgrade of that type?</question>
@@ -990,7 +977,6 @@ doesn&#x2019;t work on defense anyway.)
       <question>Is the upgrade returned before my opponent flips battle cards?</question>
       <answer>Yes. Notably, if the upgrade gave your opponent&#x2019;s character tough, the character won&#x2019;t have tough when it&#x2019;s time to flip battle cards.</answer>
     </entry>
-    <entry id="155" xref="Rules_Roundup-2019-07-12#1-22" mode="bot"/>
   </target>
   <target name="Raider Road Hugger - Infantry - Tactics">
     <entry id="156" mode="bot">
@@ -1045,9 +1031,6 @@ doesn&#x2019;t work on defense anyway.)
       <question>Can I return just one Secret Action from my scrap pile?</question>
       <answer>Yes.</answer>
     </entry>
-  </target>
-  <target name="Soundwave - Communications">
-    <entry id="166" xref="Rules_Roundup-2019-07-12#1-29" mode="bot"/>
   </target>
   <target name="Specialist Ratchet - Engineering - Rescue &amp; Repair">
     <entry id="167" mode="alt">

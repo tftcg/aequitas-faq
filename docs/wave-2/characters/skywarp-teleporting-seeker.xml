@@ -6,7 +6,6 @@
       <question>If I attack with another character and flip a battle card with no battle icons, will Skywarp’s ability trigger?</question>
       <answer>Yes. This could matter if Skywarp gets to attack later in the turn.</answer>
     </entry>
-    <entry source="Wave 2 and 3 FAQ" id="51" xref="Rules_Roundup-2019-07-12#1-4" mode="alt" />
   <entry source="Rules Roundup 2019-03-15" id="315-5" tags="Skywarp - Teleporting Seeker">
       <question>
 Can someone explain Skywarp's wave 2 ability? If a card with no battle icons is flipped by Skywarp or another one of your characters, it boosts his attack and defense stats by three. If he flips into his other mode, does he retain the stats? When you state end of turn on a card, does it mean the end of the character’s attack or the end of all characters’ attacks in that round, which would result in all characters untapping and the start of the next round?
@@ -15,12 +14,20 @@ Can someone explain Skywarp's wave 2 ability? If a card with no battle icons is 
 If Skywarp gets the +3 attack and defense until the end of turn bonus and then flips to his alt mode, he’ll keep that bonus for the entire turn. Any effect that lasts “until end of turn” or “this turn” lasts the entire turn, meaning your attacks are done and your opponent’s turn is about to begin.
       </answer>
     </entry>
+    <entry source="Rules Roundup 2019-07-12" id="1-4">
+      <question>
+Does Skywarp - Teleporting Seeker's bot mode ability trigger when playing a Secret Action from hand since the pip color is hidden information from your opponent? Will his bot mode ability trigger if it is played from the top of the deck via Leap of Faith since the pip color is no longer hidden information?
+</question>
+      <answer>
+Yes, Skywarp's bot mode ability would be triggered by a Secret Action as the battle icon color is hidden. It will still trigger if Leap of Faith plays a Secret Action because at the time you play the Secret Action, the Secret Action has no battle icons (it's not very secret).
+</answer>
+    </entry>
     <entry source="Rules Roundup 2019-07-12" id="1-21">
       <question>
 If I use I Still Function! to bring back Skywarp - Teleporting Seeker from the KO area, does his ability trigger (assuming he's on his bot mode)?
 </question>
       <answer>
-No. The ability only functions on the battlefield. By the time he’s returned to the battlefield, you’ve already played I Still Function.
+No. The ability only functions on the battlefield. By the time he's returned to the battlefield, you've already played I Still Function.
 </answer>
     </entry>
     <entry source="Rules Roundup 2019-03-08" id="308-26">

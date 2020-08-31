@@ -61,7 +61,7 @@ Example, If I had a Grenade Launcher and swapped it with a Battering Ram, Captai
 You declare that Ironhide is attacking and what Ironhide is attacking. This causes his ability to trigger. If you swap weapons, you do so before Battle Cards are flipped and before damage is done. This means that the attack value of the original weapon won’t apply, but the new weapon will. However, if the original weapon also has a triggered ability that triggers when Ironhide attacks, that ability will still work, even if that weapon is swapped before you handle that ability. 
       </answer>
     </entry>
-  <entry source="Rules Roundup 2019-07-12" id="1-2">
+  <entry source="Rules Roundup 2019-07-12" id="1-2" tags="Thrust - Supersonic Interceptor">
       <question>
 If Thrust has a Grenade Launcher and boosts a character that is attacking, and the opponent reveals a Bolster, to play a Scrapper Gauntlets to scrap the Grenade Launcher, does Thrust donate 7 or 3 attack to the attacking character?
 </question>
