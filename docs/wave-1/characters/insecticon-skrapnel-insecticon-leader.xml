@@ -17,7 +17,6 @@ ability that deals 1 damage to Insecticon Skrpanel, then he can’t take more th
 the attack.
 </answer>
     </entry>
-    <entry source="Wave 1 FAQ" id="50" xref="Rules_Roundup-2019-07-12#1-14" mode="bot" />
   <entry source="Rules Roundup 2019-11-22" id="10-14" tags="Pierce,Insecticon Skrapnel - Insecticon Leader,Safeguard">
       <question>
 Is Pierce damage still considered attack damage? For example, if someone is attacking me with Pierce 4 against a character like Insecticon Skrapnel whose text is “can’t take more than 3 damage during an attack”, does that mean even though they have Pierce 4 after adding attack damage, would they only do 3, or would they do 4? 
@@ -33,6 +32,14 @@ My opponent has Wheeljack untapped and I have Skrapnel untapped. It's my turn an
       <answer>
 You can do either, but not both. If you want to tap a character using Skrapnel’s flip trigger, you must KO Ransack before he can attack. If you want to attack with Ransack, it will be too late to flip Skrapnel to utilize his flip trigger. 
       </answer>
+    </entry>
+    <entry source="Rules Roundup 2019-07-12" id="1-14" tags="Insecticon Skrapnel - Insecticon Leader">
+      <question>
+If I played Heroism on Insecticon Leader Skrapnel, would the redirected attack damage to Skrapnel still be reduced to 3?
+</question>
+      <answer>
+Yes, redirected damage from Heroism is still attack damage.
+</answer>
     </entry>
     <entry source="Rules Roundup 2019-05-17" id="517-4" tags="Omega Supreme - Autobot Defense Base,Insecticon Skrapnel - Insecticon Leader">
       <question>

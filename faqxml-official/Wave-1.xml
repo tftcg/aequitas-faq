@@ -479,7 +479,6 @@ ability that deals 1 damage to Insecticon Skrpanel, then he can&#x2019;t take mo
 the attack.
 </answer>
     </entry>
-    <entry id="50" xref="Rules_Roundup-2019-07-12#1-14" mode="bot"/>
   </target>
   <target name="Jetfire - Air Guardian">
     <entry id="51" mode="bot">
@@ -877,7 +876,6 @@ wouldn&#x2019;t change the number of cards in your hand.
     Yes. Any other card that cares about attack damage will still apply.
 </answer>
     </entry>
-    <entry id="92" xref="Rules_Roundup-2019-07-12#1-15"/>
   </target>
   <target name="Hunker Down">
     <entry id="93">
@@ -896,7 +894,6 @@ wouldn&#x2019;t change the number of cards in your hand.
     You choose which Armor goes on which Tank. The same is true if you have more Tanks than you do scrapped Armors.
 </answer>
     </entry>
-    <entry id="95" xref="Rules_Roundup-2019-07-12#1-17"/>
   </target>
   <target name="I Still Function!">
     <entry id="96">

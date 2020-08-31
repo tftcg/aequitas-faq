@@ -113,7 +113,7 @@ If I reveal my Infiltrate and negate their first Focus Fire, does it negate the 
 If you negate a Focus Fire, it also negates the ability of Focus Fire to play other instances of Focus Fire, stopping the chain.
 </answer>
     </entry>
-    <entry id="1-14">
+    <entry id="1-14" tags="Insecticon Skrapnel - Insecticon Leader">
       <question>
 If I played Heroism on Insecticon Leader Skrapnel, would the redirected attack damage to Skrapnel still be reduced to 3?
 </question>
@@ -121,7 +121,7 @@ If I played Heroism on Insecticon Leader Skrapnel, would the redirected attack d
 Yes, redirected damage from Heroism is still attack damage.
 </answer>
     </entry>
-    <entry id="1-15">
+    <entry id="1-15" tags="Secret Action">
       <!-- GENERAL (as well as Brainstorm/PTT -->
       <question>
 Secret Actions say they scrap at the end of my opponent's turn. If I Brainstorm, Secret Action, Peace Through Tyranny, how long does the Secret Action stay out? Will it stay out for my second turn, until it is my opponent's turn, and then scrap at the end of their turn? Or do Secret Actions just scrap at the end of the following turn, so it would scrap at the end of my second turn?
@@ -147,7 +147,7 @@ If I play Hunker Down and flip Darkmount to tank mode can I then choose to activ
 No, you must finish resolving Hunker Down before any triggered abilities from character flips are resolved.
 </answer>
     </entry>
-    <entry id="1-18">
+    <entry id="1-18" tags="Inverted!">
       <question>
 How does Alpha Trion&#x2019;s ability interact with Inverted?
 </question>
