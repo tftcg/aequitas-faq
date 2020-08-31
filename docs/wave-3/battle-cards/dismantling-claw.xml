@@ -1,5 +1,11 @@
-<faq><target name="Dismantling Claw"><entry source="Wave 2 and 3 FAQ" id="173" xref="Wave-2-3#177" />
-    <entry source="Wave 2 and 3 FAQ" id="174" xref="Wave-2-3#178" />
+<faq><target name="Dismantling Claw"><entry source="Wave 2 and 3 FAQ" id="177" tags="Dismantling Claw,Personal Targeting Drone">
+      <question>If any of these upgrades are scrapped because the character who had it was KO’d, does the ability trigger?</question>
+      <answer>Yes.</answer>
+    </entry>
+    <entry source="Wave 2 and 3 FAQ" id="178" tags="Dismantling Claw,Personal Targeting Drone">
+      <question>If one of these upgrades is on a character, and I play another upgrade of that type to replace it, does the ability trigger?</question>
+      <answer>Yes. Replacing an upgrade this way causes the old upgrade to be scrapped.</answer>
+    </entry>
   <entry source="Rules Roundup 2019-07-12" id="1-28">
       <question>
 Question regarding Dismantling Claw / Reactive Armor. When character with such upgrade is KO’d can I use this ability?

@@ -165,13 +165,10 @@ more than one card on top of your deck this way, you can put them there in any o
     </entry>
   </target>
   <target name="Blackwing - Aerial Attacker">
-    <entry id="17" mode="bot">
+    <entry id="17" mode="bot" tags="Dreadwind - Air Defense">
       <question>If both of these characters are in my KO area, will their abilities let me combine them into Dreadwing, Sky Destroyer?</question>
       <answer>No. Even though each one has an ability that will find the other in the KO area, the abilities work only from the battlefield.</answer>
     </entry>
-  </target>
-  <target name="Dreadwind - Air Defense">
-    <entry id="18" xref="Wave-2-3#17" mode="bot"/>
   </target>
   <target name="Blurr - Fastest Bot in the Galaxy">
     <entry id="19" mode="bot">
@@ -1086,20 +1083,12 @@ doesn&#x2019;t work on defense anyway.)
       <answer>The extra cards are simply not flipped. It doesn&#x2019;t matter whether those extra flips were because of abilities like bold, a white battle icon, or any other ability.</answer>
     </entry>
   </target>
-  <target name="Dismantling Claw">
-    <entry id="173" xref="Wave-2-3#177"/>
-    <entry id="174" xref="Wave-2-3#178"/>
-  </target>
-  <target name="Personal Targeting Drone">
-    <entry id="175" xref="Wave-2-3#177"/>
-    <entry id="176" xref="Wave-2-3#178"/>
-  </target>
   <target name="Reactive Armor">
-    <entry id="177">
+    <entry id="177" tags="Dismantling Claw,Personal Targeting Drone">
       <question>If any of these upgrades are scrapped because the character who had it was KO&#x2019;d, does the ability trigger?</question>
       <answer>Yes.</answer>
     </entry>
-    <entry id="178">
+    <entry id="178" tags="Dismantling Claw,Personal Targeting Drone">
       <question>If one of these upgrades is on a character, and I play another upgrade of that type to replace it, does the ability trigger?</question>
       <answer>Yes. Replacing an upgrade this way causes the old upgrade to be scrapped.</answer>
     </entry>
