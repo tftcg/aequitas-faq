@@ -3,7 +3,7 @@
   <target name="Placeholder">
     <entry id="1-1" tags="Decepticon Shockwave - Cybertron Commander">
       <question>
-I have a question about Wave 1 Shockwave&#x2019;s bot mode ability. If I cause my opponent to scrap several cards at once (like with Fog of War), do they take 1 damage per card they scrap of just 1 damage in total.
+I have a question about Wave 1 Shockwave's bot mode ability. If I cause my opponent to scrap several cards at once (like with Fog of War), do they take 1 damage per card they scrap of just 1 damage in total.
 </question>
       <answer>
 1 damage per card scrapped.
@@ -22,20 +22,20 @@ If Thrust has a Grenade Launcher and boosts a character that is attacking, and t
 I was playing with Bombshell - Decepticon Psy Ops with 5 health left, against Shockwave - Cybertron Commander. I scrapped 11 cards to KO him, but should his bot mode ability have triggered, killing me in the process?
 </question>
       <answer>
-Shockwave&#x2019;s ability will trigger 11 times, but if those are the last two characters on the battlefield, your opponent will lose the game because Shockwave has been KO&#x2019;d by Bombshell&#x2019;s ability, but Bombshell is not yet KO&#x2019;d by Shockwave&#x2019;s ability.
+Shockwave's ability will trigger 11 times, but if those are the last two characters on the battlefield, your opponent will lose the game because Shockwave has been KO'd by Bombshell's ability, but Bombshell is not yet KO'd by Shockwave's ability.
 </answer>
     </entry>
     <entry id="1-4">
       <question>
-Does Skywarp &#x2013; Teleporting Seeker&#x2019;s bot mode ability trigger when playing a Secret Action from hand since the pip color is hidden information from your opponent? Will his bot mode ability trigger if it is played from the top of the deck via Leap of Faith since the pip color is no longer hidden information?
+Does Skywarp - Teleporting Seeker's bot mode ability trigger when playing a Secret Action from hand since the pip color is hidden information from your opponent? Will his bot mode ability trigger if it is played from the top of the deck via Leap of Faith since the pip color is no longer hidden information?
 </question>
       <answer>
-Yes, Skywarp&#x2019;s bot mode ability would be triggered by a Secret Action as the battle icon color is hidden. It will still trigger if Leap of Faith plays a Secret Action because at the time you play the Secret Action, the Secret Action has no battle icons (it&#x2019;s not very secret).
+Yes, Skywarp's bot mode ability would be triggered by a Secret Action as the battle icon color is hidden. It will still trigger if Leap of Faith plays a Secret Action because at the time you play the Secret Action, the Secret Action has no battle icons (it's not very secret).
 </answer>
     </entry>
     <entry id="1-5">
       <question>
-Focus says &#x201C;Before flipping battle cards when battling&gt;, and Anticipation Engine says &#x201C;When the upgraded character attacks&gt;. Will Anticipation Engine trigger and resolve before Focus?
+Focus says "Before flipping battle cards when battling&gt;, and Anticipation Engine says "When the upgraded character attacks&gt;. Will Anticipation Engine trigger and resolve before Focus?
 </question>
       <answer>
 Yes.
@@ -43,15 +43,15 @@ Yes.
     </entry>
     <entry id="1-6" tags="Play">
       <question>
-Can you scrap cards from your hand? This came up from playing a lot of the Turbo format with my kids. Inevitably someone had one or two cards that you couldn&#x2019;t play with the characters. If you&#x2019;re allowed to scrap them from your hand when drawn it would still allow those cards to be useful for the pips when battling.
+Can you scrap cards from your hand? This came up from playing a lot of the Turbo format with my kids. Inevitably someone had one or two cards that you couldn't play with the characters. If you're allowed to scrap them from your hand when drawn it would still allow those cards to be useful for the pips when battling.
 </question>
       <answer>
-You cannot scrap cards from your hand for no reason or simply because you&#x2019;d like to, but there are a plethora of effects in the game (such as green battle icons) that allow you to swap cards in and out of your hand.
+You cannot scrap cards from your hand for no reason or simply because you'd like to, but there are a plethora of effects in the game (such as green battle icons) that allow you to swap cards in and out of your hand.
 </answer>
     </entry>
     <entry id="1-7">
       <question>
-With Pop a Wheelie, the 2nd attack isn&#x2019;t from the same bot that attacked the turn the card was played, correct? I would need to have another untapped motorcycle make the 2nd attack?
+With Pop a Wheelie, the 2nd attack isn't from the same bot that attacked the turn the card was played, correct? I would need to have another untapped motorcycle make the 2nd attack?
 </question>
       <answer>
 Correct. If you have another untapped motorcycle on your team, you can attack again. However, note that the first attacker does not have to be a motorcycle.
@@ -65,14 +65,14 @@ If I attack with a character that is equipped with Battering Ram and deal damage
 Your opponent can choose which mode of its other modes to flip to.
 </answer>
     </entry>
-    <entry id="1-9">
+    <entry id="1-9" tags="Grapple - Autobot Architect">
       <question>
 Grapple reads you get an attack/defence bonus for flipping battle icons of "exactly 4 different colors". What happens when you flip MORE than 4 colors during your turn, say green, orange, white, green and black? Does his ability still trigger? And does this also apply to his ability on other side of the card?
 </question>
       <answer>
-If a number of *colors* other than four colors is flipped, Grapple&#x2019;s bot mode ability will not trigger. For his alt mode ability, you can still scrap your hand, but you will only do damage if you&#x2019;ve scrapped exactly four different battle icon colors.
+If a number of *colors* other than four colors is flipped, Grapple's bot mode ability will not trigger. For his alt mode ability, you can still scrap your hand, but you will only do damage if you've scrapped exactly four different battle icon colors.
 
-Editor&#x2019;s note: It&#x2019;s important when considering Grapple&#x2019;s abilities to make a distinction between the number of battle icon *colors* and the number of battle icons. So long as the number of battle icon colors is exactly 4, the number of cards they appear on do not matter. So, in the scenario described in this question, his ability would trigger as four colors appear, even though there are multiple instances of a green battle icon.
+Editor's note: It's important when considering Grapple's abilities to make a distinction between the number of battle icon *colors* and the number of battle icons. So long as the number of battle icon colors is exactly 4, the number of cards they appear on do not matter. So, in the scenario described in this question, his ability would trigger as four colors appear, even though there are multiple instances of a green battle icon.
 </answer>
     </entry>
     <entry id="1-10" tags="Battle Master">
@@ -80,7 +80,7 @@ Editor&#x2019;s note: It&#x2019;s important when considering Grapple&#x2019;s ab
 Do you have to attach the Battle Master's Upgrade side? My Wife pulled 2 Lionizers in Turbo Sealed but pull no Orange. When I KO'd Lionizer, would she be forced to scrap EM24 IR Laser Launcher, or could she choose not to attach Lionizer?
 </question>
       <answer>
-Yes, you must attach the Battle Master&#x2019;s Upgrade side. When you attach the Battle Master, you must scrap the older upgrade; in this case, EM24 IR Laser Launcher.
+Yes, you must attach the Battle Master's Upgrade side. When you attach the Battle Master, you must scrap the older upgrade; in this case, EM24 IR Laser Launcher.
 </answer>
     </entry>
     <entry id="1-11" tags="Deck">
@@ -88,7 +88,7 @@ Yes, you must attach the Battle Master&#x2019;s Upgrade side. When you attach th
 Are the current face-down side of a character card considered Hidden Information?
 </question>
       <answer>
-No. You may see the face-down sides of your opponent&#x2019;s character cards at any time, but please ask respectfully.
+No. You may see the face-down sides of your opponent's character cards at any time, but please ask respectfully.
 </answer>
     </entry>
     <entry id="1-12" tags="Sideboarding">
@@ -96,9 +96,9 @@ No. You may see the face-down sides of your opponent&#x2019;s character cards at
 If I open a card in a Limited Format that says "grab a card from outside the game" am I allowed to dip into my personal collection for this (assuming I brought it ahead of time) or just the sideboard of my Limited Pool? If I have a lesser collection (or am just lazy), am I allowed to use cards from my Sideboard for my Outside-of-the-Game-Board? Or is this a Head Judge for an event decision?
 </question>
       <answer>
-For casual play, you are allowed to use whatever parameters your play group has decided on. For competitive play, in Limited, you are only allowed to draw &#x201C;outside the game&#x201D; cards from your Limited pool.
+For casual play, you are allowed to use whatever parameters your play group has decided on. For competitive play, in Limited, you are only allowed to draw "outside the game" cards from your Limited pool.
 
-Editor&#x2019;s Note: In our initial ruling, we misstated our answer and accidentally ruled that &#x201C;outside the game&#x201D; cards must be limited to one&#x2019;s sideboard. This is incorrect.
+Editor's Note: In our initial ruling, we misstated our answer and accidentally ruled that "outside the game" cards must be limited to one's sideboard. This is incorrect.
 
           <tftcg-note>They later changed competitive rules to require battle cards to come from the sideboard. </tftcg-note>
 </answer>
@@ -127,7 +127,7 @@ Yes, redirected damage from Heroism is still attack damage.
 Secret Actions say they scrap at the end of my opponent's turn. If I Brainstorm, Secret Action, Peace Through Tyranny, how long does the Secret Action stay out? Will it stay out for my second turn, until it is my opponent's turn, and then scrap at the end of their turn? Or do Secret Actions just scrap at the end of the following turn, so it would scrap at the end of my second turn?
 </question>
       <answer>
-It will stay out for your second turn and scrap at the end of your opponent&#x2019;s turn.
+It will stay out for your second turn and scrap at the end of your opponent's turn.
 </answer>
     </entry>
     <entry id="1-16">
@@ -135,13 +135,13 @@ It will stay out for your second turn and scrap at the end of your opponent&#x20
 If I am playing a team of Decepticon characters, can I still play Press the Advantage? None of my characters would get an attack boost, but a defending Decepticon gets -2 defense?
 </question>
       <answer>
-Yes, you may play Press the Advantage. You don&#x2019;t have an Autobot to give +2 attack to, but you can still give an enemy Decepticon -2 defense.
+Yes, you may play Press the Advantage. You don't have an Autobot to give +2 attack to, but you can still give an enemy Decepticon -2 defense.
 Note: Any Decepticons on your team will no longer be welcome at the Decepticon company barbecue after you do this.
 </answer>
     </entry>
     <entry id="1-17" tags="Darkmount - Cruel Overlord">
       <question>
-If I play Hunker Down and flip Darkmount to tank mode can I then choose to activate to Darkmount&#x2019;s ability to discard a card from my hand before equipping an armor?
+If I play Hunker Down and flip Darkmount to tank mode can I then choose to activate to Darkmount's ability to discard a card from my hand before equipping an armor?
 </question>
       <answer>
 No, you must finish resolving Hunker Down before any triggered abilities from character flips are resolved.
@@ -149,15 +149,15 @@ No, you must finish resolving Hunker Down before any triggered abilities from ch
     </entry>
     <entry id="1-18" tags="Inverted!">
       <question>
-How does Alpha Trion&#x2019;s ability interact with Inverted?
+How does Alpha Trion's ability interact with Inverted?
 </question>
       <answer>
-While equipped with inverted, an attacking Alpha Trion may play an action with an orange icon they&#x2019;ve flipped (because it counts as a blue icon). He will not be able to play any actions with blue icons you may flip, because they count as orange. &#x201C;Good job!&#x201D; &#x2013; The Design Team.
+While equipped with inverted, an attacking Alpha Trion may play an action with an orange icon they've flipped (because it counts as a blue icon). He will not be able to play any actions with blue icons you may flip, because they count as orange. "Good job!" - The Design Team.
 </answer>
     </entry>
     <entry id="1-19">
       <question>
-Ancient Wisdom states, &#x201C;You may play Unleash Potential.&#x201D; Do that mean it&#x2019;s allowing you it as a second action for that turn? If yes, can you play two Unleash Potentials? The text doesn&#x2019;t specify a quantity.
+Ancient Wisdom states, "You may play Unleash Potential." Do that mean it's allowing you it as a second action for that turn? If yes, can you play two Unleash Potentials? The text doesn't specify a quantity.
 </question>
       <answer>
 You may play one Unleash Potential.
@@ -168,7 +168,7 @@ You may play one Unleash Potential.
 Can I play Ion Blaster of Optimus Prime on General Optimus Prime? Ion Blaster says "Play on Optimus Prime only", so would the word "General" in his name disallow it?
 </question>
       <answer>
-Just because he&#x2019;s a General doesn&#x2019;t mean he&#x2019;s any less Prime! You may indeed play Ion Blaster on General Prime.
+Just because he's a General doesn't mean he's any less Prime! You may indeed play Ion Blaster on General Prime.
 </answer>
     </entry>
     <entry id="1-21">
@@ -176,12 +176,12 @@ Just because he&#x2019;s a General doesn&#x2019;t mean he&#x2019;s any less Prim
 If I use I Still Function! to bring back Skywarp - Teleporting Seeker from the KO area, does his ability trigger (assuming he's on his bot mode)?
 </question>
       <answer>
-No. The ability only functions on the battlefield. By the time he&#x2019;s returned to the battlefield, you&#x2019;ve already played I Still Function.
+No. The ability only functions on the battlefield. By the time he's returned to the battlefield, you've already played I Still Function.
 </answer>
     </entry>
     <entry id="1-22">
       <question>
-If I were to have any Battle Master in upgrade form attached to a character ,and my opponent plays Raider Ion Storm&#x2019;s ability of &#x201C;when this attacks return the defender&#x2019;s upgrade to its owner&#x2019;s hand,&#x201D; what happens to the Battle Masters? If they leave the battlefield, do they go to the KO area?
+If I were to have any Battle Master in upgrade form attached to a character ,and my opponent plays Raider Ion Storm's ability of "when this attacks return the defender's upgrade to its owner's hand," what happens to the Battle Masters? If they leave the battlefield, do they go to the KO area?
 </question>
       <answer>
 Yes. They go to the KO area.
@@ -208,7 +208,7 @@ Green battle icons are a swap effect, not a scrap-from-your-hand effect.
 When Private Pteraxadon is in weapon mode (AKA Binary Edgewing Scythe), it says the defender's base armor value becomes zero during this battle. Does that count any armor bonuses from upgrades as well? Or does it only apply to the printed value on the bot?
 </question>
       <answer>
-Private Pteraxodon&#x2019;s weapon mode ability specifies that it only applies to an opponent&#x2019;s base defense, so it would not include defense from any upgrades or flipped battle cards.
+Private Pteraxodon's weapon mode ability specifies that it only applies to an opponent's base defense, so it would not include defense from any upgrades or flipped battle cards.
 </answer>
     </entry>
     <entry id="1-26">
@@ -229,7 +229,7 @@ Yes!
     </entry>
     <entry id="1-28">
       <question>
-Question regarding Dismantling Claw / Reactive Armor. When character with such upgrade is KO&#x2019;d can I use this ability?
+Question regarding Dismantling Claw / Reactive Armor. When character with such upgrade is KO'd can I use this ability?
 </question>
       <answer>
 Yes, you can!
@@ -240,7 +240,7 @@ Yes, you can!
 When you "put a cassette from the battlefield under it" does the mini-cassette heal to full or keep its damage/upgrades?
 </question>
       <answer>
-All of the damage is removed, and the cassette is essentially healed to full. All upgrades attached to the cassette when it&#x2019;s moved under its deployer are scrapped.
+All of the damage is removed, and the cassette is essentially healed to full. All upgrades attached to the cassette when it's moved under its deployer are scrapped.
 </answer>
     </entry>
     <entry id="1-30">
@@ -256,7 +256,7 @@ Your opponent has already chosen who they are attacking, so the attack would end
 Infiltrate and Peace Through Tyranny - since the ruling was made that one can choose if a Secret Action triggers. Can I wait to see if the person playing PTT KO's one of his characters before deciding to reveal Infiltrate?
 </question>
       <answer>
-No, you cannot. KO&#x2019;ing a character is part of Peace Through Tyranny&#x2019;s effect, so it would be too late to reveal your Infiltrate.
+No, you cannot. KO'ing a character is part of Peace Through Tyranny's effect, so it would be too late to reveal your Infiltrate.
 Also, it would just be a straight up super not cool thing to do, man.
 </answer>
     </entry>
