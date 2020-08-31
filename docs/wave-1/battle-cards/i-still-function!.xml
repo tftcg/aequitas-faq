@@ -14,7 +14,6 @@
     It stays in whatever mode it was KO’d in. If you haven’t already flipped one of your characters, you can flip the returned character to its other mode.
 </answer>
     </entry>
-      <entry source="Wave 1 FAQ" id="98" xref="Rules_Roundup-2019-07-12#1-21" />
   <entry source="Rules Roundup 2019-10-25" id="8-6" tags="Torox - Fueler">
       <question>
 Say I have Torox in alt mode and my opponent plays I Still Function! Since ISF repairs 1 damage when it pulls the character from the KO area, and Torox’ alt mode skill shuts down healing, would the character being revived with ISF:
@@ -76,6 +75,14 @@ Dreadwind and Blackwing are both in the K.O. Area. If you combine them, Dreadwin
       <answer>
 Dreadwind and Blackwing cannot be combined if they are both in the K.O. Area because their abilities won’t work. If you use I Still Function! to return one of them to the Battlefield, at end of turn, two abilities happen: I Still Function K.O.’s the character and the combining ability of whichever character you brought back happens. If you combine first, then I Still Function! still applies and will K.O. a combined Dreadwing. If I Still Function! K.O.’s the character you brought back first, the combining ability won’t do anything, and you’ll have Dreadwind and Blackwing in K.O. separately. Essentially, you can have Dreadwing in K.O. or Dreadwind and Blackwing in K.O.
       </answer>
+    </entry>
+    <entry source="Rules Roundup 2019-07-12" id="1-21">
+      <question>
+If I use I Still Function! to bring back Skywarp - Teleporting Seeker from the KO area, does his ability trigger (assuming he's on his bot mode)?
+</question>
+      <answer>
+No. The ability only functions on the battlefield. By the time he’s returned to the battlefield, you’ve already played I Still Function.
+</answer>
     </entry>
     <entry source="Rules Roundup 2019-05-17" id="517-7" tags="Captain Elita-1 - Special Ops - Ranger">
       <question>
