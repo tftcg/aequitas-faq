@@ -232,9 +232,9 @@ def load_faqs_to_dict(faq_dir, faq_dict):
         faq_db[filename] = faq_node
 
 faq_db = OrderedDict()
-load_faqs_to_dict('faqxml-official', faq_db)
-load_faqs_to_dict('faqxml-roundups', faq_db)
-load_faqs_to_dict('faqxml-unofficial', faq_db)
+load_faqs_to_dict('faqxml-wotc-faqs', faq_db)
+load_faqs_to_dict('faqxml-wotc-roundups', faq_db)
+#load_faqs_to_dict('faqxml-aequitas-roundups', faq_db)
 
 # Load the previous json index for use in hyperlinking
 faq_index_filename = os.path.join(TOP_OUTPUT_DIR, "faqindex.json")
