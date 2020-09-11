@@ -1,6 +1,8 @@
 <faq><target name="Recon System"><entry source="Wave 2 and 3 FAQ" id="90">
       <question>Let’s say I flip 3 battle cards (the normal 2 + 1 for Recon System) and there’s a white battle icon there. Do I scrap one for Recon System’s effect immediately or do I flip the 2 extra cards?</question>
-      <answer>Flip the extra cards first, then choose one of the cards you flipped and scrap it.</answer>
+      <answer>Flip the extra cards first, then choose one of the cards you flipped and scrap it.
+      <tftcg-note>Note that this was overruled in <a href="#Rules_Roundup-2019-03-08__308-25">Roundup 2019-03-08</a> below. </tftcg-note>
+  </answer>
     </entry>
     <entry source="Wave 2 and 3 FAQ" id="91">
       <question>If I put Recon System on Optimus Prime, Battlefield Legend (bot mode), can I scrap an Action that I flipped and then play it?</question>
