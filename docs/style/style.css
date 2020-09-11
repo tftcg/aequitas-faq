@@ -67,7 +67,7 @@ p, ul, ol {
 }
 
 .tftcg-note:before {
-    content: "TFTCG.info: ";
+    content: "Aequitas Note: ";
 }
 
 .tftcg-note {
