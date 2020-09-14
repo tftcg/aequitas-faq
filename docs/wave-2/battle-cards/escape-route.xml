@@ -6,4 +6,15 @@ Can Escape Route be used on a triple changer in Alt 2 to flip into Alt 1 and vic
 Escape Route and Roll Out! convert characters from Bot mode to Alt mode. They cannot convert Triple Changers from one Alt mode to another Alt mode.
       </answer>
     </entry>
+    <entry source="Aequitas Rules Roundup 2020-09-14" id="15">
+          <question>
+            Does a card that refers to Bot Mode apply to a Titan Master (Head + Body mode)?
+          </question>
+          <answer>
+            No. A character in Body mode is not also in Bot mode.
+
+            This means that cards like Escape Route do not flip a Body mode character to Alt mode. For an example of a card that works with both Body mode and Bot mode characters, look at how Mission Briefing explicitly says 'in bot mode or body mode'. 
+            Note that cards like Start Your Engines and Hunker Down do not flip the characters from Body mode to Alt mode, however if the characters have Car and Tank traits respectively, they still get the secondary effects of those cards. 
+          </answer>
+      </entry>
     </target></faq>

@@ -18,4 +18,12 @@ Autobot Cosmos is in Bot mode and attacks Lord Megatron in Bot mode. During Cosm
 Cosmos would KO Lord Megatron first. Megatron’s ability will still happen afterwards if the game has not ended.
       </answer>
     </entry>
+    <entry source="Aequitas Rules Roundup 2020-09-14" id="13">
+        <question>
+          I attack my opponent's Lord Megatron in bot mode with a character, but I only have one card left in my deck.  After reshuffling, I put the damage on the attacking character, KOing it.  Do I finish flipping my battle cards for the attack?  Does my opponent flip battle cards for their defense?
+        </question>
+        <answer>
+          Yes, you do; and no, they don't.  First, while Lord Megatron's bot mode trigger can happen during attack flips, you don't actually resolve it until you have finished flipping for your attack.  So you'll flip your last card, reshuffle (triggering Megatron's ability), then complete your attack flips (including any bold or other effects).  Assuming you have no triggers yourself dependent on battle flips, Lord Megatron's trigger then resolves, dealing damage equal to his attack to your choice of one of your characters.  If this KOs the attacking character, your attack immediately ends.  The defending player won't flip cards for defense, and attack damage won't happen
+        </answer>
+      </entry>
     </target></faq>

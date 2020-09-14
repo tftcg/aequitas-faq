@@ -86,4 +86,23 @@ I have a question: I have 3 tanks in bot mode and I play Hunker Down. I flip all
 You must finish Hunker Down before using any flip abilities, which includes getting armor.
     </answer>
     </entry>
+    <entry source="Aequitas Rules Roundup 2020-09-14" id="4">
+            <question>
+                Start Your Engines says "Flip each of your characters from bot mode to Car mode". Does this mean that you can target "Car mode" with Precision Fire? Is Car a mode?
+            </question>
+            <answer>
+                No. Car is a trait and not a mode. Despite this card using 'Car mode', you should consider it as a short hand for 'a mode with the Car trait'. The same is true for Hunker Down's use of Tank mode, and Pop a Wheelie's use of Motorcycle mode.
+            </answer>
+        </entry>
+    <entry source="Aequitas Rules Roundup 2020-09-14" id="15">
+          <question>
+            Does a card that refers to Bot Mode apply to a Titan Master (Head + Body mode)?
+          </question>
+          <answer>
+            No. A character in Body mode is not also in Bot mode.
+
+            This means that cards like Escape Route do not flip a Body mode character to Alt mode. For an example of a card that works with both Body mode and Bot mode characters, look at how Mission Briefing explicitly says 'in bot mode or body mode'. 
+            Note that cards like Start Your Engines and Hunker Down do not flip the characters from Body mode to Alt mode, however if the characters have Car and Tank traits respectively, they still get the secondary effects of those cards. 
+          </answer>
+      </entry>
     </target></faq>
