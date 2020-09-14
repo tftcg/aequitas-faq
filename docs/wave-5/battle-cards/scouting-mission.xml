@@ -1,0 +1,25 @@
+<faq><target name="Scouting Mission"><entry source="Aequitas Rules Roundup 2020-09-14" id="10" tags="Scouting Mission">
+        <question>
+          If you play Scouting Mission, and your opponent reveals Reflect Damage, who draws the cards?
+        </question>
+        <answer>
+            The game cares about intent, though we acknowledge that the '-&gt;' symbol does not always have the same meaning. In this case, whichever player was targeted for the damage with Scouting Mission is the one that gets to draw the cards, regardless of whether Holomatter Projector or Reflect Damage did something with that damage.
+        </answer>
+      </entry>
+      <entry source="Aequitas Rules Roundup 2020-09-14" id="11" tags="Scouting Mission">
+        <question>
+          If you send damage at your opponent and they reveal Reflect Damage and send that to a character with a HolomatterProjector, is damage done?
+        </question>
+        <answer>
+            No. Reflect Damage is the source of the reflected damage, so Holomatter successfully blocks that reflected damaage.
+        </answer>
+      </entry>
+      <entry source="Aequitas Rules Roundup 2020-09-14" id="12" tags="Scouting Mission">
+        <question>
+          If you send Scouting Mission against your own Ulta Magnus Armor, do you draw cards.
+        </question>
+        <answer>
+          Yes.
+        </answer>
+      </entry>
+    </target></faq>

@@ -1,0 +1,9 @@
+<faq><target name="Holomatter Projector"><entry source="Aequitas Rules Roundup 2020-09-14" id="10" tags="Scouting Mission">
+        <question>
+          If you play Scouting Mission, and your opponent reveals Reflect Damage, who draws the cards?
+        </question>
+        <answer>
+            The game cares about intent, though we acknowledge that the '-&gt;' symbol does not always have the same meaning. In this case, whichever player was targeted for the damage with Scouting Mission is the one that gets to draw the cards, regardless of whether Holomatter Projector or Reflect Damage did something with that damage.
+        </answer>
+      </entry>
+      </target></faq>
