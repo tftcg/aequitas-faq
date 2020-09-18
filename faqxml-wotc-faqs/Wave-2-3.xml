@@ -1069,7 +1069,7 @@ doesn&#x2019;t work on defense anyway.)
     </entry>
   </target>
   <target name="Reactive Armor">
-    <entry id="177" tags="Dismantling Claw,Personal Targeting Drone">
+    <entry id="177" tags="Dismantling Claw,Personal Targeting Drone,KO">
       <question>If any of these upgrades are scrapped because the character who had it was KO&#x2019;d, does the ability trigger?</question>
       <answer>Yes.</answer>
     </entry>
