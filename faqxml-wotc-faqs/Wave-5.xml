@@ -285,7 +285,7 @@
         
       </entry>
   </target>
-  <target name="Tracks - Autobot Warrior">
+  <target name="Trait">
     <entry id="28" mode="alt">
             <question>
                 What is a trait?
@@ -293,14 +293,16 @@
             <answer>
                 Traits are things like Melee, Leader, or Tank. They usually appear as tabbed icons near the character's name.
           </answer>
-        
+      </entry>
+  </target>
+  <target name="Tracks - Autobot Warrior">
+    <entry id="50" mode="alt">
             <question>
                 If I pick a character that shares more than one trait with Tracks, does it get a bigger bonus?
             </question>
             <answer>
                 No. The character will get a maximum of +2 attack, even if it's a Car and a Melee character.
           </answer>
-        
       </entry>
   </target>
   <target name="Wingspan - Data Processor">
