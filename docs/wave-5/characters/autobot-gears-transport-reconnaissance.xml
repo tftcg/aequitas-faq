@@ -1,12 +1,4 @@
-<faq><target name="Sabotage"><entry source="Aequitas Rules Roundup 2020-09-14" id="2">
-            <question>
-                What does "being upgraded" mean on Gears’ stratagem Sabotage?
-            </question>
-            <answer>
-                Being upgraded covers any time an upgrade is Put on a character (including Playing, Moving, and Swapping). It does not cover when an upgrade remains on a character during combining.
-            </answer>
-        </entry>
-    <entry source="Aequitas Rules Roundup 2020-10-01" id="10" tags="Autobot Gears - Transport &amp; Reconnaissance">
+<faq><target name="Autobot Gears - Transport &amp; Reconnaissance"><entry source="Aequitas Rules Roundup 2020-10-01" id="10" tags="Autobot Gears - Transport &amp; Reconnaissance">
             <question>
                 Why is there a Decepticon symbol on Gear's stratagem?
             </question>

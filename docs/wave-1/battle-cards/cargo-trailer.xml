@@ -22,4 +22,16 @@ If I’m running Stunticons and have two Cargo Trailers on Motormaster, and one 
 Menasor can keep all three.
       </answer>
     </entry>
-    </target></faq>
+    <entry source="Aequitas Rules Roundup 2020-10-01" id="2">
+          
+          <question>
+              If a character has more than one Cargo Trailer, how much additional attack does it have?
+          </question>
+          <answer>
+              <ul><li>One cargo trailer → +1 attack</li><li>Two cargo trailers → +4 attack</li><li>Three cargo trailers → +9 attack</li></ul>
+              Each cargo trailer checks for how many cargo trailers are on the bot. So, with three cargo trailers equipped,
+              the first one checks, sees that three cargo trailers are on the bot, and adds three attack. Then the second one 
+              checks and adds an additional three attack and so on. 
+          </answer>
+      </entry>
+  </target></faq>

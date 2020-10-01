@@ -1,12 +1,4 @@
-<faq><target name="Raider Ratbat - Spy Patrol - Fuel Scout"><entry source="Rules Roundup 2019-11-08" id="9-9" tags="Revenge,Bounty,Raider Ratbat - Spy Patrol - Fuel Scout,Deadlock - Soldier Of Fortune">
-      <question>
-Revenge on Ratbat and Bounty on Deadlock both trigger upon Ratbat's KO, but which triggers first?
-        </question>
-      <answer>
-Bounty abilities and Revenge abilities will usually trigger at the same time. Bounty abilities are usually handled first because they belong to the active player.
-      </answer>
-    </entry>
-    <entry source="Aequitas Rules Roundup 2020-10-01" id="13" tags="Toolbox,Chop Shop - Sneaky Insecticon,Raider Ratbat - Spy Patrol - Fuel Scout">
+<faq><target name="Versatility"><entry source="Aequitas Rules Roundup 2020-10-01" id="13" tags="Toolbox,Chop Shop - Sneaky Insecticon,Raider Ratbat - Spy Patrol - Fuel Scout">
             <question>
                 How does Vesatility interact with Toolbox? Would it effectively double the impact of Versatility, since each battle icon colour you flip is a separate instance, or does it just add 1 to the total being repaired?
             </question>
