@@ -36,7 +36,7 @@ How do nested triggers resolve? Example: I trigger A, B, and C. B triggers D and
       <answer>
 Assuming you chose B as the first one, you can then choose A, C, D, or E.
           <tftcg-note>
-              Note that the Expanded Rules 2.0 changed this. When a nested trigger occurs, you put any untriggered triggers aside, resolve the new ones, and then go back to the triggers you put aside. So in the example above, it would be, assuming B first: B, then D/E, then A/C. 
+              Note that Wizards of the Coast changed this with the <a href="https://transformerstcg-support.wizards.com/hc/en-us/articles/360035661992-Transformers-TCG-Expanded-Rules-2-0">Expanded Rules 2.0</a>. When a nested trigger occurs, you put any untriggered triggers aside, resolve the new ones, and then go back to the triggers you put aside. So in the example above, it would be, assuming B first: B, then D/E, then A/C. 
           </tftcg-note>
       </answer>
     </entry>
