@@ -1,4 +1,12 @@
-<faq><target name="Paralyzo Box"><entry source="Aequitas Rules Roundup 2020-09-14" id="6">
+<faq><target name="Paralyzo Box"><entry source="Aequitas Rules Roundup 2020-11-11" id="2">
+            <question>
+                How does Nitro Booster work?
+            </question>
+            <answer>
+                When the upgraded character attacks, before you flip any cards and before your opponent triggers any 'when this defends' abilities, you look at the characters current attack value. If it is 3 or less, then you untap the character. Any additional attack you gain after that, be it via other 'when this attacks' options like Paralyzo Box, orange battle icons, or another effect, do not matter because they are added after the attack. Even though your character is untapped, it continues to get to do its attack.
+            </answer>
+        </entry>
+    <entry source="Aequitas Rules Roundup 2020-09-14" id="6">
             <question>
                 Can Wolfwire pick up a Paralyzo Box?
             </question>

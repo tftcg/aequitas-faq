@@ -1,0 +1,65 @@
+<?xml version="1.0"?>
+<faq name="Aequitas Rules Roundup 2020-11-11" source_url="" published_date="2020-11-11" sourced_at="2020-11-11">
+    <target name="Ominus">
+        <entry id="1">
+            <question>
+                Can Sky Shadow Sync be used in a deck that already includes Ominus, allowing you to potentially have two Ominus card's on the battlefield at the same time?
+            </question>
+            <answer>
+                No. Sky Shadow Sync says "When ... you have Ominus outside the game". If Ominus was on your starting team, then Ominus is inside the game and Sky Shadow Sync will not trigger. 
+            </answer>
+        </entry>
+    </target>
+    <target name="Nitro Booster">
+        <entry id="2">
+            <question>
+                How does Nitro Booster work?
+            </question>
+            <answer>
+                When the upgraded character attacks, before you flip any cards and before your opponent triggers any 'when this defends' abilities, you look at the characters current attack value. If it is 3 or less, then you untap the character. Any additional attack you gain after that, be it via other 'when this attacks' options like Paralyzo Box, orange battle icons, or another effect, do not matter because they are added after the attack. Even though your character is untapped, it continues to get to do its attack.
+            </answer>
+        </entry>
+    </target>
+    <target name="Autobox Jazz - Special Ops">
+        <entry id="3">
+            <question>
+                Does Jazz's ability work with Stable Cover? Stable Cover implies that the enemy still has Pierce, they just can't use it, while Jazz states "an enemy that doesn't have Pierce".
+            </question>
+            <answer>
+                As stated, the enemy still has Pierce so Jazz's alt mode ability does not trigger. 
+            </answer>
+        </entry>
+    </target>
+    <target name="Hybrid Battle Icons">
+        <entry id="4" tags="Sergeant Barricade - Infantry Enforcer">
+            <question>
+                If a character flips a hybrid battle icon during attack/defense and the character is not the relevant trait, is it considered a battle card with no battle icons?
+            </question>
+            <answer>
+                No. If, for example, Barricade flipped a Hull Down, it is considered a battle card with 1 orange battle icon for the purposes of any flip effects and not a card with no battle icons. Of course, as Barricade is not a Tank, it does not provide him with +1 to his attack. 
+            </answer>
+        </entry>
+    </target>
+    <target name="Wingspan - Data Processor">
+        <entry id="5" tags="Battle Master,Weaponizer">
+            <question>
+                I have Wingspan in Bot Mode and a Battle Master upgrade on him. The upgrade is scrapped. What happens to the Battle Master?
+            </question>
+            <answer>
+                The Battle Master upgrade is put into the KO area, then Wingspan's trigger puts it under him and counts towards his alt mode ability. When Wingspan is KO'd, the card is placed into the KO area. 
+            </answer>
+        </entry>
+    </target>
+    <target name="Tidal Wave - Dark Fleet (Transport)">
+        <entry id="6" tags="Tidal Wave - Dark Fleet (Aircraft Carrier)">
+            <question>
+                Are the characters under Tidal Wave - Dark Fleet (Transport) and Tidal Wave - Dark Fleet (Aircraft Carrier) part of your starting team?
+            </question>
+            <answer>
+                No. They are added to the field after you present your starting team.
+
+                As an example, if your team is the three pieces of Tidal Wave and you are going to place a 4-star Autobot, such as Private Top Shot, under Tidal Wave - Dark Fleet (Transport), you may still play the Villainous Spotlight stratagem because your starting team was only Decepticons.
+            </answer>
+        </entry>
+    </target>
+</faq>
