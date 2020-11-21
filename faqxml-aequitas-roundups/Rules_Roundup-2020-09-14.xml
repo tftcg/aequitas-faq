@@ -40,8 +40,8 @@
             </answer>
         </entry>
     </target>
-    <target name="Blitzwing - Relentless Foe" tags="Windsweeper - Air Defense">
-        <entry id="5">
+    <target name="Blitzwing - Relentless Foe">
+        <entry id="5" tags="Windsweeper - Air Defense">
             <question>
                 For the purposes of Windsweeper's alt-mode ability, is Blitzwing a Plane on your starting team?
             </question>

@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <faq name="Rules Roundup 2019-04-01" source_url="https://www.facebook.com/notes/transformers-trading-card-game/rules-roundup-4119/2076354045819743/" published_date="2019-04-01" sourced_at="2020-04-15">
-  <target name="Questions" tags="Combiner">
-    <entry id="401-1">
+  <target name="Questions">
+    <entry id="401-1" tags="Combiner">
       <question>
 Let's say you have a team of combiners. And your opponent’s characters are all tapped out. You have one character untapped and all of your characters are in bot mode. I know you can’t use Inferno Breath in this instance because you wouldn’t be able to attack to end the turn. However, if you play Brainstorm and then play Inferno Breath, tapping your last character and then using the Brainstorm’s second effect to play and enigma and combine, is that a legal play?
       </question>
