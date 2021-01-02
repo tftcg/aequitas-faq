@@ -17,14 +17,12 @@ If you run out of cards in a deck, do you shuffle immediately or wait until you 
 Reshuffle immediately.
       </answer>
     </entry>
-    <entry id="405-3" tags="Dreadwind - Air Defense,Dreadwing - Sky Destroyer,Blackwing Aerial Attacker,Raider Skytread - Special Ops - Soldier">
+    <entry id="405-3" tags="Dreadwind - Air Defense,Dreadwing - Sky Destroyer,Blackwing Aerial Attacker">
       <question>
 Re: Rules Roundup: 2/18 - as related to Dreadwing and 'So what happens when your opponent is tapped out and you attack with Blackwing/Dreadwind and combine at the end of your turn?' The answer to this question is as I understood it, however, what is the sequence of play in this situation?
       </question>
       <answer>
 You would attack, check if all characters are tapped. If they are tapped, untap them, then end the turn. At that point, you may Combine. 
-
-          <tftcg-note>The same is true for Raider Skytread. </tftcg-note>
       </answer>
     </entry>
     <entry id="405-4" tags="Deck">
