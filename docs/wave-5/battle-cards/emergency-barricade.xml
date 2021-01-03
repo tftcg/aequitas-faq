@@ -1,0 +1,29 @@
+<faq><target name="Emergency Barricade"><entry source="Aequitas Rules Roundup 2021-01-03" id="4">
+            <question>
+                If Cerebros attacks and, using his flip condition, fetches a Grenade Launcher from the scrap, what happens to it?
+            </question>
+            <answer>
+                The Grenade Launcher will be scrapped after battle. This is in contrast to Fusion Borer, which would stay on Cerebros after the attack. 
+
+                This is due to a change in language as the game evolved. Early on, WotC used language like "After the upgraded character attacks -&gt; Scrap this card.". Later, they adjusted to "When the upgraded character attacks/defends -&gt; Scrap this card after the battle.". This newer language ties the scrap to the more common "When battles" trigger and not to the rarely used "After battle" trigger". 
+
+                The same is true for other older cards like Evasive Maneuvers, Blast Shield, and Power Punch, vs newer cards like Emergency Barricade and Crystal of Power. 
+            </answer>
+        </entry>
+    <entry source="Aequitas Rules Roundup 2021-01-03" id="5">
+            <question>
+                How does Nautica's body mode work with Emergency Barricade and Crystal of Power?
+            </question>
+            <answer>
+                If, when defending, you upgrade Nautica with an Emergency Barricade, it will remain on her until the next time she defends. This is because the 'when defends' event has already happened before Emergency Barricade was played. If, when defending, you upgrade her with Crystal of Power, it will remain until the next time she battles. 
+            </answer>
+        </entry>
+    <entry source="Aequitas Rules Roundup 2021-01-03" id="6">
+            <question>
+                What happens when I reveal Bolster to play an Emergency Barricade or Crystal of Power?
+            </question>
+            <answer>
+                If, when defending, you reveal Bolster to upgrade a character with an Emergency Barricade, it will remain on them until the next time they defends. This is because the 'when defends' event has already happened before Emergency Barricade was played. If, instead, you had upgraded with Crystal of Power, it will remain until the next time the upgraded character battles. 
+            </answer>
+        </entry>
+    </target></faq>

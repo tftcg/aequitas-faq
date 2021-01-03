@@ -1,0 +1,9 @@
+<faq><target name="Skullsmasher - Swamp Warrior"><entry source="Aequitas Rules Roundup 2021-01-03" id="8" tags="Skullsmasher - Swamp Warrior">
+            <question>
+                Slipstream (alt mode) is attacking Skullsmasher (body mode). Does Slipstream pass a damage then take a damage, or does she take a damage and then pass a damage?
+            </question>
+            <answer>
+                Looking at the <a href="https://www.tf-rules.info/rules/Expanded_Rules-RFC-2.html#_attack">Expanded Rules</a>, an attacker taps in 1.3.1.2, whereas an attacker's "when this attacks" trigger happens at 1.3.1.5. Therefore Skullsmasher triggers first, doing a damage to Slipstream, and then Slipstream moves a damage to the defender. 
+            </answer>
+        </entry>
+    </target></faq>

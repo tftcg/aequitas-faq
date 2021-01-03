@@ -15,4 +15,12 @@
                 It must be one in your hand.
           </answer>
       </entry>
-  </target></faq>
+  <entry source="Aequitas Rules Roundup 2021-01-03" id="5">
+            <question>
+                How does Nautica's body mode work with Emergency Barricade and Crystal of Power?
+            </question>
+            <answer>
+                If, when defending, you upgrade Nautica with an Emergency Barricade, it will remain on her until the next time she defends. This is because the 'when defends' event has already happened before Emergency Barricade was played. If, when defending, you upgrade her with Crystal of Power, it will remain until the next time she battles. 
+            </answer>
+        </entry>
+    </target></faq>

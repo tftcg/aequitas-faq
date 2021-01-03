@@ -15,4 +15,42 @@
             Crystal of Power will stay on. The time when Crystal of Power checks for "When the upgraded character battles" was passed the moment Soundblaster tapped to attack. Crystal of Power will trigger the next time the character battles, either defending or attacking.
         </answer>
     </entry>
+    <entry source="Aequitas Rules Roundup 2021-01-03" id="3">
+            <question>
+                How does Crystal of Power work with Megatron, Living Weapon?
+            </question>
+            <answer>
+                Crystal of Power is both a Weapon and an Armor, and per its reminder text, fills 2 slots on your character. The actual reminder text however is confusing when it comes to Megatron. It says "This occupies 1 Weapon slot and 1 Armor slot", which when compared to Megatron's ability to "be upgraded with a Weapon in his Armor and/or Utility slots" makes it sound as though Crystal of Power is overriding Megatron's ability.
+
+                This is a good example that reminder text is not rules text. It is there to help someone inexperienced with the game rather than define how a card works. It is fine for Megatron, Living Weapon, to use his Utility slot to fulfill the Weapon condition of Crystal of Power. You couldn't however put the Crystal of Power in his one Armor slot, but if you had a Utility applied like Defensive Configuration, giving you an extra Armor slot, you could put the Crystal of Power in two Armor slots. 
+            </answer>
+        </entry>
+    <entry source="Aequitas Rules Roundup 2021-01-03" id="4">
+            <question>
+                If Cerebros attacks and, using his flip condition, fetches a Grenade Launcher from the scrap, what happens to it?
+            </question>
+            <answer>
+                The Grenade Launcher will be scrapped after battle. This is in contrast to Fusion Borer, which would stay on Cerebros after the attack. 
+
+                This is due to a change in language as the game evolved. Early on, WotC used language like "After the upgraded character attacks -&gt; Scrap this card.". Later, they adjusted to "When the upgraded character attacks/defends -&gt; Scrap this card after the battle.". This newer language ties the scrap to the more common "When battles" trigger and not to the rarely used "After battle" trigger". 
+
+                The same is true for other older cards like Evasive Maneuvers, Blast Shield, and Power Punch, vs newer cards like Emergency Barricade and Crystal of Power. 
+            </answer>
+        </entry>
+    <entry source="Aequitas Rules Roundup 2021-01-03" id="5">
+            <question>
+                How does Nautica's body mode work with Emergency Barricade and Crystal of Power?
+            </question>
+            <answer>
+                If, when defending, you upgrade Nautica with an Emergency Barricade, it will remain on her until the next time she defends. This is because the 'when defends' event has already happened before Emergency Barricade was played. If, when defending, you upgrade her with Crystal of Power, it will remain until the next time she battles. 
+            </answer>
+        </entry>
+    <entry source="Aequitas Rules Roundup 2021-01-03" id="6">
+            <question>
+                What happens when I reveal Bolster to play an Emergency Barricade or Crystal of Power?
+            </question>
+            <answer>
+                If, when defending, you reveal Bolster to upgrade a character with an Emergency Barricade, it will remain on them until the next time they defends. This is because the 'when defends' event has already happened before Emergency Barricade was played. If, instead, you had upgraded with Crystal of Power, it will remain until the next time the upgraded character battles. 
+            </answer>
+        </entry>
     </target></faq>

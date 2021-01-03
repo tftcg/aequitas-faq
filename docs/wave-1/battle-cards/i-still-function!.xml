@@ -157,6 +157,14 @@ Once a Battle Master is in the KO pile does it still count as a character while 
 No, no, not applicable, not applicable, not applicable.
 </answer>
     </entry>
+    <entry source="Aequitas Rules Roundup 2021-01-03" id="7">
+            <question>
+                Can you use I Still Function! to combine Skytread?
+            </question>
+            <answer>
+                Yes. Skytread's combine effect is a 'may', which means you can allow one of your Skytread pieces to KO and opt not to combine. On your turn, you can then bring a the Skytread piece back from the KO area using I Still Function!, and then when the returned character KO's at the end of your turn, you would be able to combine to form Raider Skytread. If all characters were tapped, they would have been untapped before the I Still Function! KO, so you would not be able to attack out with the newly combined Raider Skytread. 
+            </answer>
+        </entry>
     <entry source="Aequitas Rules Roundup 2020-10-01" id="2" tags="Head Mode &amp; Body Mode">
             <question>
                 Can you I Still Function a character with a Body mode?

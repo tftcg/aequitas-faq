@@ -6,6 +6,18 @@
             Card requirements are inclusive, not exclusive. However, in this case, Cerebros' Head is not active on the battlefield, so it doesn't contribute its faction identity or traits to the character. So, a Decepticon Head of Cerebros doesn't let you play a Scoundrel's Blaster on Fortress Maximus.
         </answer>
     </entry>
+    <entry source="Aequitas Rules Roundup 2021-01-03" id="4">
+            <question>
+                If Cerebros attacks and, using his flip condition, fetches a Grenade Launcher from the scrap, what happens to it?
+            </question>
+            <answer>
+                The Grenade Launcher will be scrapped after battle. This is in contrast to Fusion Borer, which would stay on Cerebros after the attack. 
+
+                This is due to a change in language as the game evolved. Early on, WotC used language like "After the upgraded character attacks -&gt; Scrap this card.". Later, they adjusted to "When the upgraded character attacks/defends -&gt; Scrap this card after the battle.". This newer language ties the scrap to the more common "When battles" trigger and not to the rarely used "After battle" trigger". 
+
+                The same is true for other older cards like Evasive Maneuvers, Blast Shield, and Power Punch, vs newer cards like Emergency Barricade and Crystal of Power. 
+            </answer>
+        </entry>
     <entry source="Aequitas Rules Roundup 2020-10-01" id="7">
           <question>
               Is Emissary required as the head for Cerebros - City Commander?

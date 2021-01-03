@@ -59,4 +59,12 @@ My opponent has attacked me, and I reveal the Secret Action Bolster. I use Bolst
 Your characters can never attack on your opponent’s turn, even if a card seems to say otherwise. Same rules apply even in the event of a galactic implosion and resulting gravitational chaos.
 </answer>
     </entry>
+    <entry source="Aequitas Rules Roundup 2021-01-03" id="6">
+            <question>
+                What happens when I reveal Bolster to play an Emergency Barricade or Crystal of Power?
+            </question>
+            <answer>
+                If, when defending, you reveal Bolster to upgrade a character with an Emergency Barricade, it will remain on them until the next time they defends. This is because the 'when defends' event has already happened before Emergency Barricade was played. If, instead, you had upgraded with Crystal of Power, it will remain until the next time the upgraded character battles. 
+            </answer>
+        </entry>
     </target></faq>

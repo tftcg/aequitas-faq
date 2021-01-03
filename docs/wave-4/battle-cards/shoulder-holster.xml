@@ -2,4 +2,12 @@
       <question>Say the upgraded character has 2 Weapons and Shoulder Holster is scrapped. What happens?</question>
       <answer>In most cases, this means the character won’t have enough Weapon slots to keep both Weapons. If it’s your character, you choose which one the character keeps. The other one is scrapped.</answer>
     </entry>
-  </target></faq>
+  <entry source="Aequitas Rules Roundup 2021-01-03" id="2">
+            <question>
+                A typical character has a Shoulder Holster and two Weapons. I play Dual-Wield, adding a new Weapon to the character, and then I play a Utility to replace the Shoulder Holster. What happens?
+            </question>
+            <answer>
+                Your character now has 3 Weapons but only 2 Weapon slots. You have to scrap one of the Weapons, but which Weapon you scrap is your choice. 
+            </answer>
+        </entry>
+    </target></faq>

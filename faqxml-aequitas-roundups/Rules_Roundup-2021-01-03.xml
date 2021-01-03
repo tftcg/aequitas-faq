@@ -1,0 +1,99 @@
+<?xml version="1.0"?>
+<faq name="Aequitas Rules Roundup 2021-01-03" source_url="" published_date="2021-01-03" sourced_at="2021-01-03">
+    <target name="Stratagem">
+        <entry id="1">
+            <question>
+                When do you choose to add stratagems out of your sideboard? When declaring characters or when sideboarding battlecards?
+            </question>
+            <answer>
+                Stratagems are played concurrently with the starting team for a game. This is required otherwise cards like Master Converter and Aerial Enhancements would not effect the starting team, leading Windsweeper to be sad when Blitzwing and Tracks don't count as Planes. 
+            </answer>
+        </entry>
+    </target>
+    <target name="Dual-Wield">
+        <entry id="2">
+            <question>
+                A typical character has a Shoulder Holster and two Weapons. I play Dual-Wield, adding a new Weapon to the character, and then I play a Utility to replace the Shoulder Holster. What happens?
+            </question>
+            <answer>
+                Your character now has 3 Weapons but only 2 Weapon slots. You have to scrap one of the Weapons, but which Weapon you scrap is your choice. 
+            </answer>
+        </entry>
+    </target>
+    <target name="Megatron - Living Weapon">
+        <entry id="3">
+            <question>
+                How does Crystal of Power work with Megatron, Living Weapon?
+            </question>
+            <answer>
+                Crystal of Power is both a Weapon and an Armor, and per its reminder text, fills 2 slots on your character. The actual reminder text however is confusing when it comes to Megatron. It says "This occupies 1 Weapon slot and 1 Armor slot", which when compared to Megatron's ability to "be upgraded with a Weapon in his Armor and/or Utility slots" makes it sound as though Crystal of Power is overriding Megatron's ability.
+
+                This is a good example that reminder text is not rules text. It is there to help someone inexperienced with the game rather than define how a card works. It is fine for Megatron, Living Weapon, to use his Utility slot to fulfill the Weapon condition of Crystal of Power. You couldn't however put the Crystal of Power in his one Armor slot, but if you had a Utility applied like Defensive Configuration, giving you an extra Armor slot, you could put the Crystal of Power in two Armor slots. 
+            </answer>
+        </entry>
+    </target>
+    <target name="Cerebros - City Commander">
+        <entry id="4">
+            <question>
+                If Cerebros attacks and, using his flip condition, fetches a Grenade Launcher from the scrap, what happens to it?
+            </question>
+            <answer>
+                The Grenade Launcher will be scrapped after battle. This is in contrast to Fusion Borer, which would stay on Cerebros after the attack. 
+
+                This is due to a change in language as the game evolved. Early on, WotC used language like "After the upgraded character attacks -> Scrap this card.". Later, they adjusted to "When the upgraded character attacks/defends -> Scrap this card after the battle.". This newer language ties the scrap to the more common "When battles" trigger and not to the rarely used "After battle" trigger". 
+
+                The same is true for other older cards like Evasive Maneuvers, Blast Shield, and Power Punch, vs newer cards like Emergency Barricade and Crystal of Power. 
+            </answer>
+        </entry>
+    </target>
+    <target name="Autobot Nautica - Camien Engineer">
+        <entry id="5">
+            <question>
+                How does Nautica's body mode work with Emergency Barricade and Crystal of Power?
+            </question>
+            <answer>
+                If, when defending, you upgrade Nautica with an Emergency Barricade, it will remain on her until the next time she defends. This is because the 'when defends' event has already happened before Emergency Barricade was played. If, when defending, you upgrade her with Crystal of Power, it will remain until the next time she battles. 
+            </answer>
+        </entry>
+    </target>
+    <target name="Bolster">
+        <entry id="6">
+            <question>
+                What happens when I reveal Bolster to play an Emergency Barricade or Crystal of Power?
+            </question>
+            <answer>
+                If, when defending, you reveal Bolster to upgrade a character with an Emergency Barricade, it will remain on them until the next time they defends. This is because the 'when defends' event has already happened before Emergency Barricade was played. If, instead, you had upgraded with Crystal of Power, it will remain until the next time the upgraded character battles. 
+            </answer>
+        </entry>
+    </target>
+    <target name="Raider Skytread - Special Ops - Soldier">
+        <entry id="7">
+            <question>
+                Can you use I Still Function! to combine Skytread?
+            </question>
+            <answer>
+                Yes. Skytread's combine effect is a 'may', which means you can allow one of your Skytread pieces to KO and opt not to combine. On your turn, you can then bring a the Skytread piece back from the KO area using I Still Function!, and then when the returned character KO's at the end of your turn, you would be able to combine to form Raider Skytread. If all characters were tapped, they would have been untapped before the I Still Function! KO, so you would not be able to attack out with the newly combined Raider Skytread. 
+            </answer>
+        </entry>
+    </target>
+    <target name="Slipstream - Strategic Seeker">
+        <entry id="8" tags="Skullsmasher - Swamp Warrior">
+            <question>
+                Slipstream (alt mode) is attacking Skullsmasher (body mode). Does Slipstream pass a damage then take a damage, or does she take a damage and then pass a damage?
+            </question>
+            <answer>
+                Looking at the <a href="https://www.tf-rules.info/rules/Expanded_Rules-RFC-2.html#_attack">Expanded Rules</a>, an attacker taps in 1.3.1.2, whereas an attacker's "when this attacks" trigger happens at 1.3.1.5. Therefore Skullsmasher triggers first, doing a damage to Slipstream, and then Slipstream moves a damage to the defender. 
+            </answer>
+        </entry>
+    </target>
+    <target name="Hit and Run">
+        <entry id="9" tags="Metroplex - Autobot City,Sky Shadow - Elite Warrior">
+            <question>
+                If I play Hit and Run on Metroplex to flip to alt mode, and I move the damage to KO a Sky Shadow piece, is the damage done first or does the minion deploy first?
+            </question>
+            <answer>
+                As Sky Shadow does 3 damage to an Autobot when it combines, this is a very relevant question. The answer is that you resolve the card's contents first, and then resolve any effects that triggered in reverse order. This means that you flip Metroplex to alt mode, triggering his deploy effect, then you move the damage to KO the Sky Shadow piece. This event triggers a new effect, the combining of Sky Shadow, and the Sky Shadow player chooses an Autobot to do 3 damage to. Lastly, you return to your stack of triggered effects and deploy your Metroplex minion. 
+            </answer>
+        </entry>
+    </target>
+</faq>
