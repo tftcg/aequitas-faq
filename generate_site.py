@@ -229,7 +229,7 @@ def load_faqs_to_dict(faq_dir, faq_dict):
         filename = os.path.splitext(file)[0][len(faq_dir)+1:]
         faq_tree = ET.parse(file)
         faq_node=faq_tree.getroot()
-        faq_db[filename] = faq_node
+        faq_dict[filename] = faq_node
 
 faq_db = OrderedDict()
 load_faqs_to_dict('faqxml-wotc-faqs', faq_db)
