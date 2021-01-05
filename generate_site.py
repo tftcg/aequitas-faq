@@ -81,6 +81,11 @@ def source_label(source_name):
     else:
         return 'Community'
 
+def generate_source_url(faqfile):
+    # faqxml-aequitas-roundups/Rules_Roundup-2020-09-14.xml turns to
+    # https://www.tf-rules.info/roundups/aequitas-roundups/Rules_Roundup-2020-09-14.html
+    return 'https://www.tf-rules.info/roundups/' + faqfile.replace('faqxml-', '')
+
 # Returns number of entries found for the leaf page
 def generate_leaf(tag_node, faq_db, output_dir, leaf_template, hyperlinker, parent_stack):
     filename = os.path.join(output_dir, safe_name(tag_node.attrib['name']) + ".html")
@@ -96,7 +101,8 @@ def generate_leaf(tag_node, faq_db, output_dir, leaf_template, hyperlinker, pare
     # Find FAQ entries for this leaf_name
     # Loop over every key, value in the faq_db
     for faqfile, node in faq_db.items():
-        source_url = node.attrib['source_url']
+        faqfile_name = faqfile.split('/')[1]
+        source_url = generate_source_url(faqfile)    # now ignoring node.attrib['source_url']
         if('source' in node.attrib):
             source_name = node.attrib['source']
         else:
@@ -137,7 +143,7 @@ def generate_leaf(tag_node, faq_db, output_dir, leaf_template, hyperlinker, pare
 
                     # TODO: Do [[]] tags; or just remove that feature
 
-                    found_entries.append( [source_name, source_url, entry_node, faqfile, hyperlinks] )
+                    found_entries.append( [source_name, source_url, entry_node, faqfile_name, hyperlinks] )
 
     if(len(found_entries) != 0):
         page = leaf_template.render(f_safe_name=safe_name, f_prepare_text=prepare_text, entries=found_entries, faq_name=leaf_name, f_source_label=source_label, parent_stack=parent_stack, tag_node=tag_node, filename=filename[len(TOP_OUTPUT_DIR)+1:], pretty_path=pretty_path, f_build_image_path=build_image_path, faq_db=faq_db )
@@ -226,7 +232,8 @@ def load_faqs_to_dict(faq_dir, faq_dict):
     faq_glob = os.path.join(faq_dir, '**', '*.xml')
     # Load all the FAQ XML files
     for file in glob.glob(faq_glob, recursive=True):
-        filename = os.path.splitext(file)[0][len(faq_dir)+1:]
+        # filename = os.path.splitext(file)[0][len(faq_dir)+1:]
+        filename = os.path.splitext(file)[0]
         faq_tree = ET.parse(file)
         faq_node=faq_tree.getroot()
         faq_dict[filename] = faq_node
