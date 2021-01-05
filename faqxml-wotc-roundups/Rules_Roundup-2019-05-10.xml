@@ -9,7 +9,7 @@ If I have a Micromaster in Bot mode, and I use an action that taps it, such as I
 No. Those are mutually exclusive. Tap abilities on Micro Masters are costs for triggering their abilities, so other in-game actions do not allow you to use that ability.
       </answer>
     </entry>
-    <entry id="510-1">
+    <entry id="510-2">
       <question> 
 I have a ruling question on Insecticon Skrapnel - Insecticon leader. If my opponent attaches Combat Commands onto Ironhide - Steadfast Brawler and declares an attack into Skrapnel while Skrapnel is in bot mode, and uses Combat Commands’ effect to flip Autobot Hot Rod - Impulsive fighter and deal 1 damage to Skrapnel, do I only take 2 damage from the attack since Skrapnel is defending and any damage dealt to him while defending counts towards his skill based off of the FAQ in the Transformers official app? 
       </question>
@@ -19,7 +19,7 @@ Apologies for the confusion here. We ruled this differently, but the FAQ was app
 A: No, only attack damage counts towards Skrapnel’s ability. Damage dealt by other abilities won’t count, even if it happens during an attack.”
       </answer>
     </entry>
-    <entry id="510-1">
+    <entry id="510-3">
       <question>
 If you are playing an uninjured Captain Ironhide and you want to trigger his Bot mode ability, can you swap on an Energon Axe?
       </question>
@@ -27,7 +27,7 @@ If you are playing an uninjured Captain Ironhide and you want to trigger his Bot
 No. Energon Axe can only be put on damaged characters.
       </answer>
     </entry>
-    <entry id="510-1">
+    <entry id="510-4">
       <question>
 If I have Captain Ironhide with Static Laser of Ironhide in the weapon slot and Mounted Missiles in the armor slot, and I attack with Captain Ironhide in bot mode, can I swap the Mounted Missiles with a blue pip weapon and it still be in the armor slot?
       </question>
@@ -35,7 +35,7 @@ If I have Captain Ironhide with Static Laser of Ironhide in the weapon slot and 
 No. Unless either the weapon or the character states that the weapon can be in the armor slot, it can’t. So in this scenario, you would not be able to swap one weapon for another weapon from the armor slot However, you could swap Mounted Missiles for a blue weapon and put that weapon in the weapon slot, which would scrap the Static Laser of Ironhide.
       </answer>
     </entry>
-    <entry id="510-1">
+    <entry id="510-5">
       <question>
 When a character is KO’d by an attack from a Battering Ram, does he flip first before going to the KO area or KO first before flipping?
       </question>
@@ -43,7 +43,7 @@ When a character is KO’d by an attack from a Battering Ram, does he flip first
 If a character with Battering Ram KO’s a defending character, that defending character is not flipped.
       </answer>
     </entry>
-    <entry id="510-1">
+    <entry id="510-6">
       <question>
 Are you allowed to play Collateral Damage even if you do not have a weapon on the field? Or if there are no weapons on the field for either players and you just want the discard effect?
       </question>
@@ -51,7 +51,7 @@ Are you allowed to play Collateral Damage even if you do not have a weapon on th
 You can play Collateral Damage even if there are no weapons on the field or cards in your hands to scrap. Do as much as you can.
       </answer>
     </entry>
-    <entry id="510-1">
+    <entry id="510-7">
       <question>
 Can you flip any character in the KO area and use its ability if it reads when you flip to this mode? Or is it only for characters that specifically say “When you flip in the KO area”?
       </question>
@@ -59,7 +59,7 @@ Can you flip any character in the KO area and use its ability if it reads when y
 Although you can flip any character in the KO area, their abilities only work if specifically stated on their card.
       </answer>
     </entry>
-    <entry id="510-1">
+    <entry id="510-8">
       <question>
 Does Device Virus scrap an upgrade from your hand or one that's attached to one of your characters?
       </question>
@@ -67,7 +67,7 @@ Does Device Virus scrap an upgrade from your hand or one that's attached to one 
 You must scrap an upgrade attached to one of your characters.
       </answer>
     </entry>
-    <entry id="510-1" tags="Focus">
+    <entry id="510-9" tags="Focus">
       <question>
 Theoretically speaking, say I have a character with Focus 6, but only 3 cards are left in my deck. What would happen after I pick up those 3 cards to look at? Would I set aside those 3, reshuffle my discard pile to become my deck, and then look at the top 3 of the new deck in addition to the 3 set aside, or would Focus 6 be reduced to Focus 3?
       </question>
@@ -75,7 +75,7 @@ Theoretically speaking, say I have a character with Focus 6, but only 3 cards ar
 The first one.
       </answer>
     </entry>
-    <entry id="510-1">
+    <entry id="510-10">
       <question>
 If I attack with either Optimus Prime - Battlefield Legend or Alpha Trion and flip an EMP Wave for Attack flips and choose to play it, after it taps all characters in play does the attack still take place?
       </question>
@@ -83,7 +83,7 @@ If I attack with either Optimus Prime - Battlefield Legend or Alpha Trion and fl
 “Yes. That’s a really good idea.” - Ken Nagle, Transformers TCG Design Lead.
       </answer>
     </entry>
-    <entry id="510-1">
+    <entry id="510-11">
       <question>
 Can you use I Still Function to replay a Battle Master?
       </question>
@@ -91,7 +91,7 @@ Can you use I Still Function to replay a Battle Master?
 Hard no.
       </answer>
     </entry>
-    <entry id="510-1">
+    <entry id="510-12">
       <question>
 How do Spare Parts and Salvage for Parts interact with each other, Salvage being played by my opponent, and Spare being on my own character?
       </question>
@@ -99,7 +99,7 @@ How do Spare Parts and Salvage for Parts interact with each other, Salvage being
 If the character with Spare Parts has a weapon and/or an armor, Spare Parts will save one of them. Spare Parts won’t count when determining how much damage to repair.
       </answer>
     </entry>
-    <entry id="510-1">
+    <entry id="510-13">
       <question>
 When attacking with Optimus Prime - Battlefield Legend we know you can't play Supercharge from your attack flip, but what if you play Leap of Faith and scrap Supercharge?
       </question>
@@ -108,7 +108,7 @@ You CAN play Supercharge off of OPBL (or via Leap of Faith), but it probably won
 However, if the character you give Bold 3 to gets to attack later in the same turn, that Bold 3 will be in effect.
       </answer>
     </entry>
-    <entry id="510-1">
+    <entry id="510-14">
       <question>
 If Optimus Prime - Battlefield Legend checks a secret action on attack can he set it?
       </question>

@@ -9,7 +9,7 @@ The new Major Shockwave card raises the question: what officially qualifies as a
 Yes. The faction symbols as well as the different frame/treatment at the top and above the Battle Card text for each faction.
       </answer>
     </entry>
-    <entry id="422-1">
+    <entry id="422-2">
       <question>
 If Mounted Missiles in the armor slot can you scrap it with a bashing shield?
       </question>
@@ -17,7 +17,7 @@ If Mounted Missiles in the armor slot can you scrap it with a bashing shield?
 No, it is still a weapon even though you’ve put it in the armor slot.
       </answer>
     </entry>
-    <entry id="422-1">
+    <entry id="422-3">
       <question>
 I have Optimus Prime - Battlefield Legend and an untapped partner bot on my side. I attack with Optimus in bot mode. One of his flips is Swap Missions. If I elect to play Swap Missions, Optimus untaps and my 2nd bot taps. What happens next? I argued Optimus was still the attacker even though he is untapped, so combat with him should proceed. My opponent argued the other bot was now the attacker since only a tapped bot can attack (since the two "swapped" missions), then utilizes the earlier flip's battle icons.
       </question>
@@ -25,7 +25,7 @@ I have Optimus Prime - Battlefield Legend and an untapped partner bot on my side
 The first suggestion is correct in this scenario.
       </answer>
     </entry>
-    <entry id="422-1">
+    <entry id="422-4">
       <question>
 I found a How-to-Play guide that states "After a round is over, the player who tapped all of their characters first becomes the first player for the next round. You untap all characters and the next round starts with the first player. This continues until one player wins by being the only player with characters on the board." 
 If this is in fact how the turns work, if I tap Metroplex for an attack and get his ability off, Metroplex will be tapped first, then all my opponent’s bots will tap letting Metroplex go first next round. Or is it still turn-based as Metroplex taps all opponent’s bots? Metroplex's players turn ends and then everyone untaps and it is now the opposing players turn?
@@ -34,7 +34,7 @@ If this is in fact how the turns work, if I tap Metroplex for an attack and get 
 This is not technically how the rules work. There are no “rounds” in the Transformers TCG. When your turn is over, it is then your opponent’s turn. Please see the official rules here for further details.
       </answer>
     </entry>
-    <entry id="422-1">
+    <entry id="422-5">
       <question>
 I play Peace Through Tyranny and then attack, me and my opponents now have no untapped characters. Do we untap everyone, my turn ends and then I get the next turn?
       </question>
@@ -42,7 +42,7 @@ I play Peace Through Tyranny and then attack, me and my opponents now have no un
 Yes.
       </answer>
     </entry>
-    <entry id="422-1">
+    <entry id="422-6">
       <question>
 If I have Static Laser of Ironhide equipped to Ironhide when I combine the Sentinels into Optimus Maximus, and keep it, does he take the damage penalty, or does he count as Ironhide since Ironhide is part of him?
       </question>
@@ -50,7 +50,7 @@ If I have Static Laser of Ironhide equipped to Ironhide when I combine the Senti
 Optimus Maximus is not Ironhide, so he would take the damage.
       </answer>
     </entry>
-    <entry id="422-1">
+    <entry id="422-7">
       <question>
 Do blue or orange battle icons stick around for additional attacks with or on the same character in the same turn?
       </question>
@@ -58,7 +58,7 @@ Do blue or orange battle icons stick around for additional attacks with or on th
 No. They are only used during the battle in which they were flipped.
       </answer>
     </entry>
-    <entry id="422-1">
+    <entry id="422-8">
       <question>
 During the draft process, a draft member drafts character cards that add up to 25 stars. Then during the process for the battle cards, the same member acquires four battle cards that are 1-Star value. What is the procedure for this? Does the player take damage equal to the stars over 25? Does the player play a deck that is 24 cards?
       </question>
@@ -66,7 +66,7 @@ During the draft process, a draft member drafts character cards that add up to 2
 In this scenario, you would have to play one fewer character to compensate. We would recommend avoiding this if at all possible.
       </answer>
     </entry>
-    <entry id="422-1">
+    <entry id="422-9">
       <question>
 Combiners retain until-end of-turn-effects even after they combine, but what happens with effects that impact more than one character? For example, if I have 3 Sentinels in play and I flip Ironhide - Steadfast Brawler in the KO area to give them all Pierce 2 and then combine, does Optimus Maximus have Pierce 2 or Pierce 6?
       </question>
@@ -74,7 +74,7 @@ Combiners retain until-end of-turn-effects even after they combine, but what hap
 In this scenario, Optimus Maximus would be granted Pierce 6.
       </answer>
     </entry>
-    <entry id="422-1">
+    <entry id="422-10">
       <question>
 I was looking for clarity on when triggers occur during the window when attackers and defenders are declared. Can Debilitating Crystal bounce Security Console before it gets to trigger?
       </question>
@@ -82,7 +82,7 @@ I was looking for clarity on when triggers occur during the window when attacker
 Choosing the attacker and which character it’s attacking is a single step. After that, any abilities that trigger when a character attacks (but don’t refer to what’s flipped) happen, followed by any abilities of the defender. In your scenario, Debilitating Crystal would not bounce Security Console before it triggers.
       </answer>
     </entry>
-    <entry id="422-1">
+    <entry id="422-11">
       <question>
 If I play Hunker Down while Megatron - Living Weapon has a weapon in his armor slot, do I have to replace the weapon with an armor from my scrap pile, or can I choose not to?
       </question>
@@ -90,7 +90,7 @@ If I play Hunker Down while Megatron - Living Weapon has a weapon in his armor s
 If you are able to, you must replace the weapon with an armor.
       </answer>
     </entry>
-    <entry id="422-1">
+    <entry id="422-12">
       <question>
 If Optimus Prime - Battlefield Legend attacks with Power Punch. And flips over Swap Parts you move all upgrades to another character does Power Punch/Grenade Launcher destroy itself?
       </question>
