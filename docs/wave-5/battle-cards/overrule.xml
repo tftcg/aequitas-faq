@@ -1,13 +1,4 @@
-<faq><target name="Speed Trap"><entry source="Wave 5 FAQ" id="46">
-            <question>
-                Do Secret Actions count?
-            </question>
-            <answer>
-                Yes. The game will see a Secret Action played face down as an Action.
-          </answer>
-        
-      </entry>
-  <entry source="Rules Roundup 2019-07-29" id="2-12" tags="Thundercracker - Mach Warrior">
+<faq><target name="Overrule"><entry source="Rules Roundup 2019-07-29" id="2-12" tags="Thundercracker - Mach Warrior">
       <question>
 Do character abilities still trigger if the requirements are met through cards played but negated by the opponent or otherwise?
 For example, Wave 1 Thundercracker’s bot mode ability --&gt; Player 1 uses Supercharge, but player 2 reveals Infiltrate and negates Supercharge. Does Thundercracker's ability still trigger because an action was played? Meaning he would indeed get +1?

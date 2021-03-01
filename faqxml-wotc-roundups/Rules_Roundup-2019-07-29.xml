@@ -101,6 +101,8 @@ For example, Wave 1 Thundercracker&#x2019;s bot mode ability --&gt; Player 1 use
 </question>
       <answer>
 The Infiltrate will scrap the action you played and negate its effect, but Thundercracker&#x2019;s ability still triggers because you played an action.
+
+          <tftcg-note>This is also true for other cards that cancel an Action, such as Jam Signals, Overrule, and Speed Trap, and for any other effects (like Thundercracker) related to playing a card. </tftcg-note>
 </answer>
     </entry>
     <entry id="2-13" tags="Blaster - Communications,Soundwave - Communications">
