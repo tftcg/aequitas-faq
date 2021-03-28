@@ -314,7 +314,7 @@ After a Battle Master or Weaponizer Upgrade would leave the battlefield, it&#x20
   <target name="Decipher">
     <entry id="51">
       <question>If my opponent has Secret Actions in their hand, scrap pile, or even in their KO area (say because of Daring Escape), do those count?</question>
-      <answer>No. Daring Escape counts only the Secret Actions in your opponent&#x2019;s played area.</answer>
+      <answer>No. Decipher counts only the Secret Actions in your opponent&#x2019;s played area.</answer>
     </entry>
   </target>
   <target name="Defensive Configuration">
