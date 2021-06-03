@@ -22,4 +22,12 @@ Does Daring Escape continually check the whole turn or does it only check when t
 It only checks one time when the card is played, not the whole turn.
       </answer>
     </entry>
+    <entry source="Aequitas Rules Roundup 2021-06-03" id="3">
+            <question>
+                If I have Secret Actions in my hand, scrap pile, under a character, or even in my KO area (say because of Daring Escape), do those count?
+            </question>
+            <answer>
+                 No. Pounce counts only the Secret Actions in your played area.
+            </answer>
+        </entry>
     </target></faq>

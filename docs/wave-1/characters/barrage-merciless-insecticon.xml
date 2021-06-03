@@ -1,0 +1,9 @@
+<faq><target name="Barrage - Merciless Insecticon"><entry source="Aequitas Rules Roundup 2021-06-03" id="8">
+            <question>
+                If Hold the Line heals a character to 0 damage while Barrage is attacking, does Barrage still get Bold 2?
+            </question>
+            <answer>
+                No. The Hold the Line is revealed and repairs when the defending character 'defends' (1.3.1.5 of the Expanded Rules), whereas the Bold value isn't locked in until later when the Bold and Tough are calculated (1.3.2.2 of the Expanded Rules). 
+            </answer>
+        </entry>
+    </target></faq>

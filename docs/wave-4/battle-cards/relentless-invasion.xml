@@ -42,4 +42,12 @@ Relentless Invasion returns Wipeout to the battlefield, I flip him to Bot mode, 
 Alt mode.
       </answer>
     </entry>
+    <entry source="Aequitas Rules Roundup 2021-06-03" id="6">
+            <question>
+                Which mode do Trypticon and Metroplex minions start in?
+            </question>
+            <answer>
+                By default all characters start in the mode showing their star cost. So the minions, while not visible under Trypticon and Metroplex are in alt mode. Note that while Relentless Invasion card does provide a way for a Trypticon minion to be under Trypticon in bot mode, it will be deployed in Alt mode (per WotC FAQ).
+            </answer>
+        </entry>
     </target></faq>

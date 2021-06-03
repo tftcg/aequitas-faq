@@ -73,4 +73,12 @@ Your character sideboard is allowed 1 character with 19 stars or fewer. Tryptico
                 As Sky Shadow does 3 damage to an Autobot when it combines, this is a very relevant question. The answer is that you resolve the card's contents first, and then resolve any effects that triggered in reverse order. This means that you flip Metroplex to alt mode, triggering his deploy effect, then you move the damage to KO the Sky Shadow piece. This event triggers a new effect, the combining of Sky Shadow, and the Sky Shadow player chooses an Autobot to do 3 damage to. Lastly, you return to your stack of triggered effects and deploy your Metroplex minion. 
             </answer>
         </entry>
+    <entry source="Aequitas Rules Roundup 2021-06-03" id="6">
+            <question>
+                Which mode do Trypticon and Metroplex minions start in?
+            </question>
+            <answer>
+                By default all characters start in the mode showing their star cost. So the minions, while not visible under Trypticon and Metroplex are in alt mode. Note that while Relentless Invasion card does provide a way for a Trypticon minion to be under Trypticon in bot mode, it will be deployed in Alt mode (per WotC FAQ).
+            </answer>
+        </entry>
     </target></faq>

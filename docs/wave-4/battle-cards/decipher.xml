@@ -2,4 +2,12 @@
       <question>If my opponent has Secret Actions in their hand, scrap pile, or even in their KO area (say because of Daring Escape), do those count?</question>
       <answer>No. Decipher counts only the Secret Actions in your opponent’s played area.</answer>
     </entry>
-  </target></faq>
+  <entry source="Aequitas Rules Roundup 2021-06-03" id="1">
+            <question>
+                If my opponent has one face up Secret Action and two face down Secret Actions, do I do 1 damage to each enemy, or 3?
+            </question>
+            <answer>
+                You would do 1 damage to each enemy, then 1 damage again, and then finally 1 damage again. The 'or' in "face up or face down" should be read as 'and/or', and the damage is one at a time rather than all at once.
+            </answer>
+        </entry>
+    </target></faq>

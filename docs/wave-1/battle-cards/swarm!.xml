@@ -22,4 +22,12 @@ Are cards flipped during battle the only ones that don't hit the Scrap Pile unti
 Actions that are played (including Secret Actions), cards you flipped during battle, and other cards you flip due to cards like Swarm!, for example, are all scrapped at the end of turn.
       </answer>
     </entry>
+    <entry source="Aequitas Rules Roundup 2021-06-03" id="4" tags="Swarm!">
+            <question>
+                If I play Swarm! and flip a card with no battle icon, will Skywarp get +3/+3 in bot mode?
+            </question>
+            <answer>
+                Yes.
+            </answer>
+        </entry>
     </target></faq>
