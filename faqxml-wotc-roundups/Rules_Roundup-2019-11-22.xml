@@ -132,7 +132,7 @@ Or can you only trigger Contract Contingency once because you are not getting 4 
 The second Contract Contingency won&#x2019;t trigger because it will be played after the attack damage has been done.
       </answer>
     </entry>
-    <entry id="10-17" tags="Decepticon Shockwave - Cybertron Commander">
+    <entry id="10-17" tags="Decepticon Shockwave - Cybertron Commander,Nightbird - Enigmatic Agent">
       <question>
 I have 4 cards in my hand and my opponent has Decepticon Shockwave in Bot mode. If they play Brainstorm &gt; System Reboot &gt; System Reboot, do I take 4 damage after each System Reboot or 8 damage after Brainstorm is resolved?
         </question>
@@ -142,7 +142,7 @@ Shockwave&#x2019;s ability will trigger a total of 8 times. Each of those abilit
     </entry>
     <entry id="10-18" tags="Decepticon Shockwave - Cybertron Commander,Nightbird - Enigmatic Agent">
       <question>
-Using the previous scenario, my character is Nightbird in alt mode. What is the timing there? Does the Shockwave player take 1 damage each time an action hits the play area or after the Brainstorm resolves?
+Using the previous scenario, my character is Nightbird in alt mode. What is the timing there? Does the Decepticon Shockwave player take 1 damage each time an action hits the play area or after the Brainstorm resolves?
 I.E. My Nightbird is at full HP (11) and his Shockwave is at 3.  Who wins?
         </question>
       <answer>
