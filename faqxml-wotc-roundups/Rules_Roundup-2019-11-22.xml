@@ -19,7 +19,7 @@ Yes, you can first flip Grimlock to alt mode, causing the ability on that mode t
           <tftcg-note>While the alt mode ability triggers when Grimlock is flipped to alt-mode, note that the trigger does not resolve until after Showing Off has completed and Grimlock is back in bot-mode. </tftcg-note>
       </answer>
     </entry>
-    <entry id="10-3">
+    <entry id="10-3" tags="KO">
       <question>
 When a character is KO'd as part of resolving a card effect, like Peace Through Tyranny, is the character put into the KO area fully damaged, or only with the amount of damage it had when it was KO'd?
         </question>
@@ -27,7 +27,7 @@ When a character is KO'd as part of resolving a card effect, like Peace Through 
 Characters in KO are always fully damaged.
       </answer>
     </entry>
-    <entry id="10-4">
+    <entry id="10-4" tags="Dual Wield">
       <question>
 At the end of the turn, does a weapon equipped from the scrap pile that is in the &#x201C;extra&#x201D; weapon slot get scrapped or do you choose?
         </question>
@@ -67,7 +67,7 @@ What happens when I play Acute Reflexes on Specialist Flamewar (Bot Mode)?
 If a character has two instances of Focus 1, they happen sequentially. If you leave the top card of your deck on top of your deck for the first instance of Focus, that will be the card you will get the second time you Focus.
       </answer>
     </entry>
-    <entry id="10-9">
+    <entry id="10-9" tags="Private Smokescreen - Special Ops - Soldier,Safeguard">
       <question>
 What happens when I play Medic's Protective Field on Private Smokescreen (Alt Mode)?
         </question>
@@ -75,7 +75,7 @@ What happens when I play Medic's Protective Field on Private Smokescreen (Alt Mo
 Because the Safeguard value is the same, having two instances of it has no additional effect. Smokescreen can&#x2019;t take more than 3 damage if undamaged. However, if a character has two instances of Safeguard with different values, the lowest value wins. For example, if a character has Safeguard 1 and Safeguard 3, that character can&#x2019;t take more than 1 damage if undamaged.
       </answer>
     </entry>
-    <entry id="10-10">
+    <entry id="10-10" tags="Captain Omega Supreme - Transport - City Defender">
       <question>
 How many cards do I flip if my opponent shuffles their deck while attacking Omega Supreme (Spaceship)&#x2013;triggering Combination&#x2013;and I have Evasive Maneuvers on Omega Supreme (Spaceship) and Urban Camo on Omega Supreme (Base)?
         </question>
@@ -83,7 +83,7 @@ How many cards do I flip if my opponent shuffles their deck while attacking Omeg
 When you combine into Captain Omega Supreme, you get to keep 1 upgrade in each slot, so you can keep both Evasive Maneuvers and Urban Camo. You&#x2019;ll flip a total of 6 Battle Cards. After the battle, you&#x2019;ll scrap Evasive Maneuvers.
       </answer>
     </entry>
-    <entry id="10-11">
+    <entry id="10-11" tags="Raider Skytread - Special Ops - Soldier">
       <question>
 If my opponent KO&#x2019;s Skytread (whichever), what happens to his Upgrades? Are they Scrapped? Are they eligible to be transferred to Raider Skytread? Can I choose to Scrap a Reactive Armor even if the other piece doesn't have an Armor?
         </question>
@@ -91,7 +91,7 @@ If my opponent KO&#x2019;s Skytread (whichever), what happens to his Upgrades? A
 If Skytread (whichever) has any upgrades prior to combining, those upgrades are scrapped. Raider Skytread can keep the upgrades from the Skytread (whichever) that was on the battlefield and not KO&#x2019;d.
       </answer>
     </entry>
-    <entry id="10-12">
+    <entry id="10-12" tags="Nightbird - Enigmatic Agent">
       <question>
 My opponent has Nightbird in Alt mode with 9 damage counters on her. If I play Plasma Burst to deal the remaining two damage to finish her off, will I still have to deal 1 damage to one of my characters?
         </question>
@@ -99,7 +99,7 @@ My opponent has Nightbird in Alt mode with 9 damage counters on her. If I play P
 Yes. Unless the game ends when Nightbird is KO&#x2019;d.
       </answer>
     </entry>
-    <entry id="10-13">
+    <entry id="10-13" tags="Raider Skytread - Special Ops - Soldier,Captain Omega Supreme - Transport - City Defender">
       <question>
 Do Omega Supreme and Skytread&#x2019;s separate uncombined character cards count as separate characters for the purposes of "Choose one of your characters" cards?  Most notable example is if I play Two-Pronged Attack on "Skytread (Plane)", do I also get the tank trigger, or do I only get the Plane trigger?
         </question>
@@ -115,7 +115,7 @@ Is Pierce damage still considered attack damage? For example, if someone is atta
 Pierce is an ability that applies to attack damage. But, effects like Insecticon Skrapnel&#x2019;s or the Safeguard ability will still apply. In your example, Skrapnel would take only 3 damage.
       </answer>
     </entry>
-    <entry id="10-15">
+    <entry id="10-15" tags="Trypticon - Assault Base">
       <question>
 If you have Trypticon untapped initially, and your opponents&#x2019; characters are also all untapped, and I play Relentless Invasion to bring back Wipe Out, Full Tilt and Brunt, since the effect of Invasion allows you to attack with them all, can Trypticon attack as well?
         </question>
@@ -123,7 +123,7 @@ If you have Trypticon untapped initially, and your opponents&#x2019; characters 
 Yes. The attack granted to his three minions is in addition to your normal attack that turn.
       </answer>
     </entry>
-    <entry id="10-16">
+    <entry id="10-16" tags="Nightbird - Enigmatic Agent">
       <question>
 If Nightbird attacks with a Contract Contingency and it triggers Nightbird&#x2019;s bounty, can I take another Contract Contingency from my opponent&#x2019;s scrap pile, play this, then trigger Nightbird&#x2019;s bounty again?
 Or can you only trigger Contract Contingency once because you are not getting 4 or more attack damage through after applying the plus 2 to the already finished attack?
@@ -132,7 +132,7 @@ Or can you only trigger Contract Contingency once because you are not getting 4 
 The second Contract Contingency won&#x2019;t trigger because it will be played after the attack damage has been done.
       </answer>
     </entry>
-    <entry id="10-17">
+    <entry id="10-17" tags="Decepticon Shockwave - Cybertron Commander">
       <question>
 I have 4 cards in my hand and my opponent has Decepticon Shockwave in Bot mode. If they play Brainstorm &gt; System Reboot &gt; System Reboot, do I take 4 damage after each System Reboot or 8 damage after Brainstorm is resolved?
         </question>
@@ -140,9 +140,9 @@ I have 4 cards in my hand and my opponent has Decepticon Shockwave in Bot mode. 
 Shockwave&#x2019;s ability will trigger a total of 8 times. Each of those abilities resolves separately, so essentially you have 8 damage counters to spread around as you wish.
       </answer>
     </entry>
-    <entry id="10-18">
+    <entry id="10-18" tags="Decepticon Shockwave - Cybertron Commander,Nightbird - Enigmatic Agent">
       <question>
-Using the above scenario, my character is Nightbird in alt mode. What is the timing there? Does the Shockwave player take 1 damage each time an action hits the play area or after the Brainstorm resolves?
+Using the previous scenario, my character is Nightbird in alt mode. What is the timing there? Does the Shockwave player take 1 damage each time an action hits the play area or after the Brainstorm resolves?
 I.E. My Nightbird is at full HP (11) and his Shockwave is at 3.  Who wins?
         </question>
       <answer>
@@ -157,7 +157,7 @@ The answer from the last rules roundup states that the new combiners (Omega Supr
 Upgrades attached to the Skytread half that gets KO&#x2019;d are scrapped at the same time. Those upgrades can&#x2019;t be put on Raider Skytread.
       </answer>
     </entry>
-    <entry id="10-20">
+    <entry id="10-20" tags="Lockdown - Bounty Hunter">
       <question>
 Let's say, in theory, Lockdown has a 4 cards in hand, along with a Weapon, Armor, Utility, and one card underneath him.  Lockdown flips to his alt mode, allowing him to draw 4 discard 4, but I reveal Hijack.  Would I get to draw 4 while Lockdown's player has to pay the discard part of the effect or since he drew 0 cards he discards 0 cards?
         </question>
@@ -173,7 +173,7 @@ Does an Autobot Battle Master in upgrade mode on a character still count as an A
 No. Daring Escape only counts Autobot characters.
       </answer>
     </entry>
-    <entry id="10-22">
+    <entry id="10-22" tags="Trypticon - Assault Base">
       <question>
 I have Trypticon and Full-Tilt on the battlefield untapped, with Wipeout and Brunt in the KO area.  I play Relentless Invasion, returning the two KOed bots to the battlefield and attack with them.  Am I then required to attack with Trypticon or Full-Tilt?
         </question>
@@ -181,7 +181,7 @@ I have Trypticon and Full-Tilt on the battlefield untapped, with Wipeout and Bru
 If your opponent is entirely tapped out, you must attack with both characters. If not, you can attack with one or the other (not both), but you don&#x2019;t have to.
       </answer>
     </entry>
-    <entry id="10-23">
+    <entry id="10-23" tags="Trypticon - Assault Base">
       <question>
 Relentless Invasion returns Wipeout to the battlefield, I flip him to Bot mode, and attack with him.  After he gets pulled back under Trypticon, I use Battlefield Incursion the next turn to replay him.  Does Wipeout enter the battlefield in Bot mode or Alt mode?
         </question>
@@ -229,7 +229,7 @@ Question regarding interaction between Backup Bag and weapons which can be scrap
 No. It scraps as a result of a triggered ability, which does not trigger again. You would have to somehow attack a second time.
       </answer>
     </entry>
-    <entry id="10-29">
+    <entry id="10-29" tags="Autobot Jazz - Special Ops">
       <question>
 If I reveal Stable Cover while Jazz is defending in Alt mode, does this protect his ability from being shut down even if the attacker has Pierce?
         </question>
@@ -253,7 +253,7 @@ Involuntary Promotion: if I play it and chose a tapped character, does the reviv
 Untapped.
       </answer>
     </entry>
-    <entry id="10-32">
+    <entry id="10-32" tags="Predaking - Ferocious Hunter">
       <question>
 If my Predaking attacks with 5 weapons and a Spare Parts, and my opponent reveals a Sabotage Armaments Secret Action, what happens? Does the Sabotage Armaments scrap Spare Parts only or does it scrap only 4 of the Weapons and Spare Parts?
         </question>

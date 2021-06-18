@@ -30,6 +30,14 @@
              Yes. Safeguard works as long as the character is currently undamaged, even if it was previously damaged in the game. If you repair that damage, Safeguard can cushion another blow.
         </answer>
         </entry>
+    <entry source="Rules Roundup 2019-11-22" id="10-9" tags="Private Smokescreen - Special Ops - Soldier,Safeguard">
+      <question>
+What happens when I play Medic's Protective Field on Private Smokescreen (Alt Mode)?
+        </question>
+      <answer>
+Because the Safeguard value is the same, having two instances of it has no additional effect. Smokescreen can’t take more than 3 damage if undamaged. However, if a character has two instances of Safeguard with different values, the lowest value wins. For example, if a character has Safeguard 1 and Safeguard 3, that character can’t take more than 1 damage if undamaged.
+      </answer>
+    </entry>
     <entry source="Rules Roundup 2019-11-22" id="10-14" tags="Pierce,Insecticon Skrapnel - Insecticon Leader,Safeguard">
       <question>
 Is Pierce damage still considered attack damage? For example, if someone is attacking me with Pierce 4 against a character like Insecticon Skrapnel whose text is “can’t take more than 3 damage during an attack”, does that mean even though they have Pierce 4 after adding attack damage, would they only do 3, or would they do 4? 

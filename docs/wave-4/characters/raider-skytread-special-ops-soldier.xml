@@ -6,7 +6,23 @@
       <question>Both Revenge abilities put cards from my hand under Raider Skytread. What does this mean?</question>
       <answer>The cards under Raider Skytread are basically out of play for a while. They’re not considered on the battlefield, even if that’s where they are physically, so none of their abilities apply. If one of those cards is an Upgrade, that Upgrade isn’t on Raider Skytread, and so on. They’re also not in your scrap pile, so they won’t be shuffled into your deck when it’s empty. They can return to your hand using Raider Skytread’s last ability.</answer>
     </entry>
-  <entry source="Rules Roundup 2019-11-22" id="10-19" tags="Raider Skytread - Special Ops - Soldier">
+  <entry source="Rules Roundup 2019-11-22" id="10-11" tags="Raider Skytread - Special Ops - Soldier">
+      <question>
+If my opponent KO’s Skytread (whichever), what happens to his Upgrades? Are they Scrapped? Are they eligible to be transferred to Raider Skytread? Can I choose to Scrap a Reactive Armor even if the other piece doesn't have an Armor?
+        </question>
+      <answer>
+If Skytread (whichever) has any upgrades prior to combining, those upgrades are scrapped. Raider Skytread can keep the upgrades from the Skytread (whichever) that was on the battlefield and not KO’d.
+      </answer>
+    </entry>
+    <entry source="Rules Roundup 2019-11-22" id="10-13" tags="Raider Skytread - Special Ops - Soldier,Captain Omega Supreme - Transport - City Defender">
+      <question>
+Do Omega Supreme and Skytread’s separate uncombined character cards count as separate characters for the purposes of "Choose one of your characters" cards?  Most notable example is if I play Two-Pronged Attack on "Skytread (Plane)", do I also get the tank trigger, or do I only get the Plane trigger?
+        </question>
+      <answer>
+While uncombined, each character is separate. If you play Two-Pronged Attack on Skytread (Plane), you’ll only get the damage effect.
+      </answer>
+    </entry>
+    <entry source="Rules Roundup 2019-11-22" id="10-19" tags="Raider Skytread - Special Ops - Soldier">
       <question>
 The answer from the last rules roundup states that the new combiners (Omega Supreme and Skytread) keep all upgrades and damage when they combine. Even with that explanation, rule enforcers where I play tell me that it doesn't apply to the KO'd Skytread's upgrades and that those upgrades are scrapped during the KO process before Revenge combining takes place and do not transfer to the combined Skytread. Can I please get a specific ruling on this?
         </question>

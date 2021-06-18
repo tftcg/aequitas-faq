@@ -2,7 +2,15 @@
       <question>At the end of the turn the character will lose the extra Weapon slot. Which Weapon does the character keep?</question>
       <answer>If it’s your character, you choose which one the character keeps. The other one is scrapped.</answer>
     </entry>
-  <entry source="Rules Roundup 2019-11-22" id="10-25">
+  <entry source="Rules Roundup 2019-11-22" id="10-4" tags="Dual Wield">
+      <question>
+At the end of the turn, does a weapon equipped from the scrap pile that is in the “extra” weapon slot get scrapped or do you choose?
+        </question>
+      <answer>
+You choose.
+      </answer>
+    </entry>
+    <entry source="Rules Roundup 2019-11-22" id="10-25">
       <question>
 If I have a LV Gamma Disruptor Launcher on Shockwave and play a Dual Wield for my turn, giving Shockwave another Weapon slot, and I play another LV Gamma as my upgrade for the turn, then attack. Since 2 LV gammas are allowed in one weapon slot, I presume the one attached by Dual Wield will stay on as well?
         </question>
