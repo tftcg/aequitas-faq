@@ -1,0 +1,9 @@
+<faq><target name="Howling Howitzer"><entry source="Alpha Trion Protocols:Wave 3 FAQ" id="60">
+        <question>
+          What happens if I flip this for battle with a non-Ranged character?
+        </question>
+        <answer>
+          The hybrid pip would still count its color as an orange, but lacking the symbol trait in that pip will mean it has no battle effect for the battling character.
+        </answer>
+      </entry>
+    </target></faq>

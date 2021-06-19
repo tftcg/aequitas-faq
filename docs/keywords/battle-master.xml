@@ -241,4 +241,32 @@ Yes. If you have no characters in KO or the characters in your KO area have too 
                 The Battle Master upgrade is put into the KO area, then Wingspan's trigger puts it under him and counts towards his alt mode ability. When Wingspan is KO'd, the card is placed into the KO area. 
             </answer>
         </entry>
+    <entry source="ARK:Wave 1 FAQ" id="41">
+          <answer>
+            If you use Arm the Lonely’s second effect to put a Battle Master onto Spinister, the +3 health it gives him will no longer apply.  This can cause Spinister to be KO’d if he has enough damage on him.
+          </answer>
+        </entry>
+    <entry source="ARK:Wave 1 FAQ" id="43">
+          <answer>
+            If you use Brothers In Armor’s second effect to put a Battle Master onto Crosshairs, the +3 health it gives him will no longer apply.  This can cause Crosshairs to be KO’d if he has enough damage on him.
+          </answer>
+        </entry>
+    <entry source="ARK:Wave 1 FAQ" id="46">
+          <answer>
+            If you have a Battle Master or Weaponizer in Upgrade mode in the KO area, this card’s effect allows you to play it.
+          </answer>
+        </entry>
+    <entry source="Alpha Trion Protocols:Wave 3 FAQ" id="28">
+        <question>
+          If my Snapdragon KOs and enemy Battle Master, does his Bounty ability work so that I can choose to return that Battle Master to its owner’s hand/KO it from zone-changing?
+        </question>
+        <answer>
+          No, the game operates in all situations as attacking/active player’s abilities all happen, then defending/inactive player’s abilities all happen. Your Bounty trigger will resolve before your opponent’s Battle Master trigger will make them play it.
+        </answer>
+      </entry>
+    <entry source="BFA World|Strike:Wave 1 FAQ" id="6">
+        <answer>
+          Similar to Battle Master, Tentacle is a new Upgrade Trait introduced in Wave BFA World|Strike.
+        </answer>
+      </entry>
     </target></faq>

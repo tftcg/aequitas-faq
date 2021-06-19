@@ -1,0 +1,369 @@
+<?xml version="1.0"?>
+<faq name="ARK:Wave 1 FAQ" source_url="https://wrecknrule.com/2020/11/01/ark-wave-1-release-faq/" published_date="2020-11-20" sourced_at="2021-06-17">
+    <target name="Horde">
+      <entry id="1">
+        <answer>
+            Horde is a static ability that appears on some character cards, followed by a number.  It means “You may have up to X characters with this name on your starting team.”  If a character card has Horde 3, for example, you can play up to one, two, or three copies of that character card on your starting team.
+          </answer>
+        </entry>
+    </target>
+    <target name="Beastbox - Savage Interrogator">
+        <entry id="2">
+          <answer>
+            The attack bonus in bot mode lasts until end of turn.  If Beastbox attacks an Autobot multiple times in a turn, he gets the bonus for each attack.
+          </answer>
+        </entry>
+        <entry id="3">
+          <answer>
+            If you play a card from the opponent’s deck with Beastbox’s alt mode ability, you are considered the owner of its effects if any other cards or abilities trigger off of it.  That card then goes to the opponent’s scrap pile when it would normally be scrapped (usually the end of turn).  
+          </answer>
+        </entry>
+    </target>
+    <target name="Cyclonus - Loyal Enforcer">
+        <entry id="4">
+          <answer>
+            If Cyclonus only has 1 damage counter on him and you use his alt mode ability, move that damage counter to the enemy.
+          </answer>
+        </entry>
+    </target>
+    <target name="Ghost of Starscream - Annoying Apparition">
+        <entry id="5">
+          <answer>
+            If you have a Ghost of Starscream in alt mode in your KO area and your last character is another Starscream, Ghost of Starscream will return to the battlefield and prevent you from losing the game when that Starscream is KO’d.
+          </answer>
+        </entry>
+    </target>
+    <target name="Megatron - Autobot Bane">
+        <entry id="6">
+          <answer>
+            The ability of the P38 Fusion Blaster to redeploy Megatron to the battlefield is a replacement effect that prevents him from going to the KO area if he was upgrading a Decepticon Leader that has 10 stars or more. This includes a card scrapping him, such as an opposing Ramming Speed, or if the game itself tries to scrap him due to the character he is upgrading was KO’d.
+          </answer>
+        </entry>
+        <entry id="7">
+          <answer>
+            If the character Megatron is upgrading is your last character, and is KO’d, you will lose the game before Megatron redeploys, as his ability does not prevent the game from seeing you with no valid characters, unlike Ghost of Starscream or Titan Masters.
+          </answer>
+        </entry>
+    </target>
+    <target name="Ratbat - Calculating Scout">
+        <entry id="8">
+          <answer>
+            Ratbat’s bot mode ability “steals” the first card draw your opponents get each turn, except for the normal one they get at the start of the turn.  You may only ever draw one card per turn per opponent this way.
+          </answer>
+        </entry>
+        <entry id="9">
+          <answer>
+            The number of cards in each player’s hand is determined as the alt mode tap ability resolves.  Any player who has 3 or more cards in hand scraps cards until they have 2 left.  Any player who has 0 or 1 cards in hand draws until they have 2.  Any player with 2 cards in hand does nothing. If multiple players are scrapping cards from their hand due to this effect, the active player chooses the cards in their hand to scrap first, then the nonactive player(s) in turn order. The chosen cards are then scrapped simultaneously.
+          </answer>
+        </entry>
+    </target>
+    <target name="Rodimus Prime - Worthy Leader">
+        <entry id="10">
+          <answer>
+            While in bot mode, Rodimus only gets the bonus once, regardless of how many copies of Matrix of Leadership he is upgraded with.
+          </answer>
+        </entry>
+    </target>
+    <target name="Rumble - Demolition Expert">
+        <entry id="11">
+          <answer>
+            You may only scrap one card to Rumble when he attacks, but the attack bonus lasts until the end of turn.  If Rumble attacks more than once, you can scrap another card to give Rumble an additional bonus.
+          </answer>
+        </entry>
+    </target>
+    <target name="Scorponok - Brutal Warlord">
+        <entry id="12">
+          <answer>
+            The Electro Stinger of Scorponok is taken from your deck before you draw your opening hand. Make sure you shuffle your deck afterwards!
+          </answer>
+        </entry>
+    </target>
+    <target name="Sharkticon - Feeding Frenzy">
+        <entry id="13">
+          <answer>
+            If a Sharkticon is KO’d while in alt mode and you have another tapped Sharkticon on the battlefield, you must untap it.  If you can’t untap a Sharkticon (either because you have no tapped Sharkticons or no Sharkticons at all), then you draw a card instead.
+          </answer>
+        </entry>
+    </target>
+    <target name="Sky-Byte - Harbinger of Doom">
+        <entry id="14">
+          <answer>
+            If you play a card with Sky-Byte’s bot mode trigger, that card is scrapped at end of turn, even if it normally wouldn’t be, such as a Secret Action or Upgrade.
+          </answer>
+        </entry>
+    </target>
+    <target name="Specialist Countdown - Transport &amp; Space Explorer">
+        <entry id="15">
+          <answer>
+            You only get the starting star limit bonus once, regardless of how many characters named “Omega Supreme” are on your team.
+          </answer>
+        </entry>
+    </target>
+    <target name="Sunstreaker - Arrogant Daredevil">
+        <entry id="16">
+          <answer>
+            If you scrap a Weapon to his bot mode ability, you can return that same Weapon to hand.
+          </answer>
+        </entry>
+    </target>
+    <target name="Wheelie - Rhyming Racer">
+        <entry id="17">
+          <answer>
+            If you scrap a card with one or zero battle icons, your opponent chooses which of their characters takes 1 damage.  If you scrap a card with two or more battle icons, you choose which enemy to do 2 damage to.
+          </answer>
+        </entry>
+    </target>
+    <target name="Wreck-Gar - Junkion Leader">
+        <entry id="18">
+          <answer>
+            You cannot scrap multiple upgrades with Wreck-Gar’s alt mode ability to use it multiple times.  However, if Wreck-Gar battles multiple times in a single turn, you may scrap an upgrade during each of those battles to use the ability, and may choose the same effect or different effects each time.
+          </answer>
+        </entry>
+    </target>
+    <target name="Bruticus - Unstoppable Giant">
+        <entry id="19">
+          <answer>
+            Bruticus’s attack trigger counts the number of cards with a {B} battle icon, not the total number of {B} icons he flipped. Hybrid icons still count as an icon of the appropriate color, even if the flipping character doesn’t have a matching Trait, so if Bruticus were to flip a Headbutt (a card with two Hybrid {B}/Titan Master battle icons), it would still count towards the trigger, even though Bruticus does not have the Titan Master trait.
+            You do not have to choose the defender, or even the same enemy, for each damage done by Bruticus’s attack trigger. If Bruticus flips three cards with a {B} battle icon each, you may do all three damage to a single enemy, split the damage between two enemies 2-1, or do 1 damage to each of three enemies.
+            Battle Cards
+          </answer>
+        </entry>
+    </target>
+    <target name="300-TT Crusher Craw">
+        <entry id="20">
+          <answer>
+            The upgraded character still gets the Pierce 2 bonus, regardless of how many stars it has.
+          </answer>
+        </entry>
+    </target>
+    <target name="Aerial Superority ">
+        <entry id="21">
+          <answer>
+            You can choose any of your characters when you play this card, even if they don’t have the appropriate trait.  However, the attack and pierce bonus does not apply to that character unless they have the Plane, Helicopter, and/or Spaceship traits and the enemy they attack has the Car, Truck, and/or Tank traits.
+          </answer>
+        </entry>
+    </target>
+    <target name="Alliance">
+        <entry id="22">
+          <answer>
+            While the card changes each of your characters’ base attack to 6, the end of turn trigger only does damage to your characters that attack that turn.
+          </answer>
+        </entry>
+    </target>
+    <target name="Apex Armor">
+        <entry id="23">
+          <answer>
+            If your character defends and flips at least {O}{B}{U}, both abilities will trigger and you may resolve them in either order.  If you choose to resolve the {O}{U} ability first, and this removes the last damage counter from the character, then the {B} ability will not be able to move a damage from the upgraded character and do nothing.
+          </answer>
+        </entry>
+    </target>
+    <target name="Assault Formation">
+        <entry id="24">
+          <answer>
+            The card is resolved from top to bottom.  First, one of your Melee characters gains Bold 2 for the turn.  Next, you move 1 damage counter from one of your Ranged characters to an enemy.  Finally, you flip one of your Specialists to another mode.
+          </answer>
+        </entry>
+    </target>
+    <target name="Beast Mode">
+        <entry id="25">
+          <answer>
+            The chosen character must have the Beast and/or Predacon traits when you resolve this card, but can change to a different mode that does not have the required trait afterwards and still receive the bonus.
+          </answer>
+        </entry>
+    </target>
+    <target name="Combaticon Enigma">
+        <entry id="26">
+          <answer>
+            The five Combaticons are Onslaught, Combaticon Leader; Blast Off, Space Warrior; Brawl, Ground Assault; Swindle, Arms Dealer; and Vortex, Interrogator.  All five of them must be on the battlefield and/or in the KO area in bot mode in order to combine into Bruticus.
+          </answer>
+        </entry>
+    </target>
+    <target name="Death to the Weak">
+        <entry id="27">
+          <answer>
+            You may play this card even if you don’t have a character that has 5 or fewer stars on the battlefield.  If you do, or if you choose to not KO one of your characters, the card will do nothing.
+          </answer>
+        </entry>
+    </target>
+    <target name="Electro Stinger of Scorponok">
+        <entry id="28">
+          <answer>
+            While your opponent’s cards can’t cause Electro Stinger of Scorponok to be scrapped, it can still be replaced if you put another Utility into this slot. Also, effects like Disarm or Gears can return it to your hand without scrapping it.
+            Pierce numbers are additive.  If your Scorponok has all three upgrades, he has Pierce 7.
+          </answer>
+        </entry>
+    </target>
+    <target name="Energon Sword">
+        <entry id="29">
+          <answer>
+            Only the defending character’s printed base defense is reduced to 0.  Bonuses from battle flips, Upgrades, or other effects will not be changed.
+          </answer>
+        </entry>
+    </target>
+    <target name="Feral Tenacity">
+        <entry id="30">
+          <answer>
+            One rage counter is put on this upgrade each time the character is damaged, regardless of how much damage is dealt.
+          </answer>
+        </entry>
+    </target>
+    <target name="Racing Stripes">
+        <entry id="31">
+          <answer>
+            If you flip one or two different colors of battle icons when defending, the upgraded character gets +1 defense and Racing Stripes does 1 damage to the attacker.  If you flip three or four different colors, the upgraded character gets +2 defense and Racing Stripes does 2 damage to the attacker.  If you flip five different colors, the upgraded character gets +3 defense and Racing Stripes does 3 damage to the attacker. While it does not specifically state on the card (at the time of this FAQ), it is intended to only count colors of battle icons. Hybrid icons, such as on Spymaster’s Ruse or Concealing Contrails, will not allow the trigger to go above five.
+          </answer>
+        </entry>
+    </target>
+    <target name="Scan the Vaults">
+        <entry id="32">
+          <answer>
+            The number of copies of Scan the Vaults in your scrap pile is determined after you draw your first card.  If you draw the last card of your deck and reshuffle your scrap pile, then you will not draw any additional cards.
+          </answer>
+        </entry>
+    </target>
+    <target name="Sharkticon Mace">
+        <entry id="33">
+          <answer>
+            If the upgraded character is a Sharkticon and you have no other Sharkticons on the battlefield, this weapon scraps itself after the upgraded character attacks.
+          </answer>
+        </entry>
+    </target>
+    <target name="Spoils of War">
+        <entry id="34">
+          <answer>
+            The chosen characters are repaired only if they all share the same trait.  If you choose only one character, that character shares a trait with itself so it will be repaired for 1.
+          </answer>
+        </entry>
+    </target>
+    <target name="Starscream’s Cape">
+        <entry id="35">
+          <answer>
+            Only numbers that appear in the upgraded character’s printed text box are increased.  If the upgraded character is granted an ability from another effect, such as another action or upgrade, those additional abilities are not affected by the cape.
+          </answer>
+        </entry>
+    </target>
+    <target name="This Is Bad Comedy">
+        <entry id="36">
+          <answer>
+            The damage is done to the chosen character even if it doesn’t have a Utility or a Utility isn’t scrapped from it.
+          </answer>
+        </entry>
+    </target>
+    <target name="Trythilium Plating">
+        <entry id="37">
+          <answer>
+            When you play this from hand, if you play a second Plating, it does not have to be put on the same character.
+          </answer>
+        </entry>
+        <entry id="38">
+          <answer>
+            If an attacking character’s Pierce total falls to 0 or less, that character still has the Pierce ability, it just does nothing to the attack damage.
+          </answer>
+        </entry>
+    </target>
+    <target name="Tsunami Blaster">
+        <entry id="39">
+          <answer>
+            The bonus is constantly checked.  If a character increases or decreases the number of cards under them before flipping battle cards, the amount of Bold this card grants will change appropriately.
+          </answer>
+        </entry>
+    </target>
+    <target name="Arise, Rodimus Prime">
+        <entry id="40">
+          <answer>
+            The Matrix of Leadership is taken from your deck before you draw your opening hand.  Be sure to shuffle afterwards!
+          </answer>
+        </entry>
+    </target>
+    <target name="Arm The Lonely">
+        <entry id="41">
+          <answer>
+            If you use Arm the Lonely’s second effect to put a Battle Master onto Spinister, the +3 health it gives him will no longer apply.  This can cause Spinister to be KO’d if he has enough damage on him.
+          </answer>
+        </entry>
+    </target>
+    <target name="Barbaric Rage">
+        <entry id="42">
+          <answer>
+            You choose which of your characters Galvatron does damage to when he attacks in bot mode.  If Galvatron is your only remaining character, then he must hit himself.
+          </answer>
+        </entry>
+    </target>
+    <target name="Brothers In Armor">
+        <entry id="43">
+          <answer>
+            If you use Brothers In Armor’s second effect to put a Battle Master onto Crosshairs, the +3 health it gives him will no longer apply.  This can cause Crosshairs to be KO’d if he has enough damage on him.
+          </answer>
+        </entry>
+    </target>
+    <target name="Do it with Style!">
+        <entry id="44">
+          <answer>
+            If the attacking character has Pierce and you flip {W}{W} while defending with Jazz, Jazz will only take 2 damage from the attack.
+          </answer>
+        </entry>
+    </target>
+    <target name="Drop Your Weapons!">
+        <entry id="45">
+          <answer>
+            This ability only affects the printed Attack number on the attacking character.  Bonuses from battle flips, Upgrades, or other effects will not be changed.
+          </answer>
+        </entry>
+    </target>
+    <target name="I Don’t Break The Rules, I Just Bend Them – A Lot">
+        <entry id="46">
+          <answer>
+            If you have a Battle Master or Weaponizer in Upgrade mode in the KO area, this card’s effect allows you to play it.
+          </answer>
+        </entry>
+    </target>
+    <target name="Mayhem">
+        <entry id="47">
+          <answer>
+            The ability only applies to your characters that have the Car trait on the battlefield at the time it resolves.  If Ruckus flips to bot mode, he will not be a car, and therefore will not repair damage from himself, nor can he give himself bold.
+          </answer>
+        </entry>
+    </target>
+    <target name="Paranoia">
+        <entry id="48">
+          <answer>
+            Treat Red Alert as though he has the ability “When you flip to this mode -> You may scrap a card from your hand. If you do, repair 1 damage from each of your characters.” printed in his text box at all times.  Yes, this means the ability will trigger every time he changes modes.
+          </answer>
+        </entry>
+    </target>
+    <target name="Predacon Fortitude">
+        <entry id="49">
+          <answer>
+            If Sky-Byte has three or fewer cards underneath him and removes one of them (such as from using his bot mode triggered ability), he will immediately lose the bonus health and defense.  This can cause him to be KO’d if he has enough damage on him.
+          </answer>
+        </entry>
+    </target>
+    <target name="Quest for Fire">
+        <entry id="50">
+          <answer>
+            The Firecon Flame is taken from your deck before you draw your opening hand.  Be sure to shuffle afterwards!
+          </answer>
+        </entry>
+    </target>
+    <target name="Starscream’s Brigade">
+        <entry id="51">
+          <answer>
+            Starscream has the tap ability while in either mode.  This ability cannot be used to bring duplicate copies of Combaticons that are already on the battlefield or in the KO area. However, if you were to combine your Combaticons into Bruticus via the Enigma, the individual Combaticons no longer exist in the game, meaning Starscream is free to start recruiting them again. And no, despite Starscream’s constant begging and pleading otherwise, you cannot use the ability to deploy a pre-combined Bruticus.
+          </answer>
+        </entry>
+    </target>
+    <target name="Such Heroic Nonsense">
+        <entry id="52">
+          <answer>
+            This does not actually grant a {G} battle icon to Hunker Down, but it allows you to swap a card from your hand as though it did.
+          </answer>
+        </entry>
+    </target>
+    <target name="Unstoppable">
+        <entry id="53">
+          <answer>
+            As the trigger resolves, you can put zero, one, two, three, or four upgrades from your scrap pile into the KO area.  If you put one or more upgrades into the KO area this way, Wreck-Gar returns to the battlefield and repairs 2 damage for each of them.  If you manage to put another upgrade into the KO area during your start of turn, before resolving this ability, you can increase the amount of damage repaired from Wreck-Gar this way.  Currently, however, there is no way to do this.
+          </answer>
+        </entry>
+  </target>
+</faq>

@@ -14,4 +14,12 @@ I have a ruling question about Optimus Prime - Battlefield Legend. If I my attac
 First, you attack with OPBL, then you flip the Battle Cards (including any Bold). If you flip a white battle icon, you flip two more Battle Cards. Then, you check if you have flipped an Action. You can play one of the actions. You will still get plus attack from the orange icons flipped on that Action.
 </answer>
     </entry>
-    </target></faq>
+    <entry source="Alpha Trion Protocols:Wave 3 FAQ" id="27">
+        <question>
+          What happens if my Snapdragon is in Bot mode my Opponent plays a Pep Talk to draw 2 after they draw their first card of the turn, do they scrap 2 cards or 1?
+        </question>
+        <answer>
+          If your opponent has already drawn for turn, whether they draw 1 card with a card like Wedge Formation or 2 cards with a card like Pep Talk, they will only scrap 1 card from hand because of the “1 or more cards” clause.
+        </answer>
+      </entry>
+      </target></faq>

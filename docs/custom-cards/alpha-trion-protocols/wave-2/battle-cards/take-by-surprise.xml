@@ -1,0 +1,9 @@
+<faq><target name="Take By Surprise"><entry source="Alpha Trion Protocols:Wave 2 FAQ" id="50">
+        <question>
+            Does this “scrap” the Upgrade that moves to the top of the deck?
+        </question>
+        <answer>
+            No, this is a new way of interacting with Upgrades. Similar to returning an upgrade to a player’s hand, instead it is placed on the top of their battle deck. Abilities that prevent the Scrapping of an upgrade will not work on Take by Surprise (similar to Disarm).
+        </answer>
+      </entry>
+    </target></faq>

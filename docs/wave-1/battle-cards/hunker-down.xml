@@ -105,4 +105,33 @@ You must finish Hunker Down before using any flip abilities, which includes gett
             Note that cards like Start Your Engines and Hunker Down do not flip the characters from Body mode to Alt mode, however if the characters have Car and Tank traits respectively, they still get the secondary effects of those cards. 
           </answer>
       </entry>
-    </target></faq>
+    <entry source="ARK:Wave 1 FAQ" id="52">
+          <answer>
+            This does not actually grant a {G} battle icon to Hunker Down, but it allows you to swap a card from your hand as though it did.
+          </answer>
+        </entry>
+    <entry source="Alpha Trion Protocols:Wave 3 FAQ" id="3">
+        <question>
+          Does Banzaitron’s flip-to-Alt ability work with Hunker Down?
+        </question>
+        <answer>
+          If you put an Armor on him with Hunker Down, and it doesn’t scrap before you have resolved his flip-to-Alt ability, you will get to do the effect because the “if Armor” clause isn’t until after the arrow.
+        </answer>
+      </entry>
+    <entry source="Alpha Trion Protocols:Wave 3 FAQ" id="8">
+        <question>
+          If I use Hunker Down, do I get to use his Alt mode ability?
+        </question>
+        <answer>
+          No. You have to be in his Alt mode at the start of your turn to have the option to use this ability.
+        </answer>
+      </entry>
+      <entry source="Alpha Trion Protocols:Wave 3 FAQ" id="13">
+        <question>
+          How does Hunker Down work with Overlord?  
+        </question>
+        <answer>
+          If he is in Bot mode, you will flip him to Alt mode then complete the card
+        </answer>
+      </entry>
+      </target></faq>

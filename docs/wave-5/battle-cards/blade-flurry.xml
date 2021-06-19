@@ -7,4 +7,12 @@
           </answer>
         
       </entry>
-  </target></faq>
+  <entry source="Alpha Trion Protocols:Wave 3 FAQ" id="42">
+        <question>
+          What happens if I play an Armor after I play Armored Assault?   
+        </question>
+        <answer>
+          Similar to Blade Flurry, it will not gain the Bold 1.  The bonus is determined when you play Armored Assault and won't change even if the character gains or loses an Armor later in the turn.
+        </answer>
+      </entry>
+      </target></faq>

@@ -1,0 +1,25 @@
+<faq><target name="Sturdy"><entry source="Alpha Trion Protocols:Wave 2 FAQ" id="1">
+        <question>
+            Does Sturdy work for attack damage or non-attack damage or both?
+        </question>
+        <answer>
+            Sturdy works for both attack damage AND non-attack damage. So whenever a Sturdy character of yours would take damage from an opponent’s character or battle card, regardless of when or how, that would be reduced by 1.
+        </answer>
+      </entry>
+      <entry source="Alpha Trion Protocols:Wave 2 FAQ" id="2">
+        <question>
+            If I have a Sturdy character and I use Survive on them, do they take 2 less damage?
+        </question>
+        <answer>
+            No, a character that is Sturdy, cannot become or gain Sturdy again. The ability is binary; you either are Sturdy or are not, so a character can’t even have multiple instances of the ability.
+        </answer>
+      </entry>
+      <entry source="Alpha Trion Protocols:Wave 2 FAQ" id="3">
+        <question>
+            When does Sturdy work? Can I use Survive on my own turn?
+        </question>
+        <answer>
+            Sturdy is applied anytime you would take damage in the game. Yes, you can reveal Survive on your turn if your character would take damage from an opponent’s character or battle card during your turn for any reason (for example: Rumble’s Revenge effect)
+        </answer>
+      </entry>
+    </target></faq>

@@ -1,0 +1,25 @@
+<faq><target name="Armored Assault"><entry source="Alpha Trion Protocols:Wave 3 FAQ" id="42">
+        <question>
+          What happens if I play an Armor after I play Armored Assault?   
+        </question>
+        <answer>
+          Similar to Blade Flurry, it will not gain the Bold 1.  The bonus is determined when you play Armored Assault and won't change even if the character gains or loses an Armor later in the turn.
+        </answer>
+      </entry>
+      <entry source="Alpha Trion Protocols:Wave 3 FAQ" id="43">
+        <question>
+          What if my Armor is scrapped before attacking or before flipping cards? 
+        </question>
+        <answer>
+ You will keep the Bold 1 if somehow your armor is scrapped after you play Armored Assault.
+        </answer>
+      </entry>
+      <entry source="Alpha Trion Protocols:Wave 3 FAQ" id="44">
+        <question>
+          Do the +2 and the Bold 1 have to go to the same character?
+        </question>
+        <answer>
+          Yes. The ‘it’ in the second line is applying to the character you chose for the first part of the ability.
+        </answer>
+      </entry>
+    </target></faq>

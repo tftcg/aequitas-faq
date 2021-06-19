@@ -1,0 +1,11 @@
+<faq><target name="Turnabout Snare"><entry source="BFA World|Strike:Wave 1 FAQ" id="26">
+        <answer>
+          This card has errata in 1.1.
+        </answer>
+      </entry>
+      <entry source="BFA World|Strike:Wave 1 FAQ" id="27">
+        <answer>
+          At reveal, Turnabout Snare effectively swaps the attacker’s Attack and Defense values. Events that modify those values after reveal (like flips) work as normal.
+        </answer>
+      </entry>
+    </target></faq>

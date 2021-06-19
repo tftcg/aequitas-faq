@@ -1,0 +1,25 @@
+<faq><target name="Despite Any Difficulty"><entry source="Alpha Trion Protocols:Wave 3 FAQ" id="48">
+        <question>
+          What happens if my opponent plays a Belligerence, I reveal DaD, and I flip a Matrix of Leadership and Master of Metallikato on defense?
+        </question>
+        <answer>
+          Belligerence would turn this flip of normally [OU, (OUB)] to [OO, (OOB)], meaning that you only flipped 2 colors on defense--Orange and Black, regardless of your character’s tratis--and would thus get +2 DEF for that battle.
+        </answer>
+      </entry>
+      <entry source="Alpha Trion Protocols:Wave 3 FAQ" id="49">
+        <question>
+          What happens if I flip 5 colors of pip during my defense flips?
+        </question>
+        <answer>
+          Your character can only get up to +4 DEF, so it would receive that maximum: +4. Don’t forget that your Blue pips still apply to your defense total, though.
+        </answer>
+      </entry>
+      <entry source="Alpha Trion Protocols:Wave 3 FAQ" id="50">
+        <question>
+          How long does this bonus last? Do I keep the +1-4 DEF all turn?
+        </question>
+        <answer>
+          The bonus DEF only lasts during the battle in which you flipped those cards, and only for the first battle that character has after flipping DaD. If the character is attacked twice in one turn, but you revealed DaD on the first defense, you would only count cards flipped during that defense for the bonus, and that bonus fades before the second defense.
+        </answer>
+      </entry>
+    </target></faq>

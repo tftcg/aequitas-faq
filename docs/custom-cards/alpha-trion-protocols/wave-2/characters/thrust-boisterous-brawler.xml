@@ -1,0 +1,25 @@
+<faq><target name="Thrust - Boisterous Brawler"><entry source="Alpha Trion Protocols:Wave 2 FAQ" id="19">
+        <question>
+            What happens if I have both Thrust and Dirge in their Brave modes?
+        </question>
+        <answer>
+            The attacker chooses which character with Brave they would like to attack.
+        </answer>
+      </entry>
+      <entry source="Alpha Trion Protocols:Wave 2 FAQ" id="20">
+        <question>
+            For Thrust’s Revenge ability, can I play the Upgrade on a character like Dreadwing or Raider Tailwind?
+        </question>
+        <answer>
+            Yes, you may play an upgrade on a Plane or Seeker provided the character being upgraded meets the requirement of the upgrade.
+        </answer>
+      </entry>
+      <entry source="Alpha Trion Protocols:Wave 2 FAQ" id="21">
+        <question>
+            If Thrust is KO’ed on my opponent’s turn, can I still play the Upgrade from his Revenge ability?
+        </question>
+        <answer>
+            Yes.
+        </answer>
+      </entry>
+    </target></faq>

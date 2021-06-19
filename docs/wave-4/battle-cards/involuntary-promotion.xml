@@ -51,4 +51,20 @@ No. The character appears on the Battlefield fully repaired. It’s not repaired
                 You can't bring back a Body mode character from KO because it won't have a head. Effects like I Still Function! and Involuntary Promotion will not work at all to bring back a Body. You can, however, bring back a Head from KO because it will be in Bot mode (and only in Bot mode). 
             </answer>
         </entry>
-    </target></faq>
+    <entry source="Alpha Trion Protocols:Wave 2 FAQ" id="5">
+        <question>
+            Why can’t I bring Dirge back from my KO area?
+        </question>
+        <answer>
+            Dirge has the ability to bring back a Blank card when KO’d, we did not want to create any “infinite loop” type scenario with the character due to cards like I Still Function and Involuntary Promotion.
+        </answer>
+      </entry>
+      <entry source="Alpha Trion Protocols:Wave 3 FAQ" id="25">
+        <question>
+          What happens if my Snapdragon is in Alt mode and my opponent plays Involuntary Promotion?
+        </question>
+        <answer>
+          The character brought back from their KO will stay fully repaired because no damage can be moved to it, but the Upgrades from the original character will move as normal.
+        </answer>
+      </entry>
+      </target></faq>

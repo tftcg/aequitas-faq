@@ -6,4 +6,12 @@
                 No. Sky Shadow Sync says "When ... you have Ominus outside the game". If Ominus was on your starting team, then Ominus is inside the game and Sky Shadow Sync will not trigger. 
             </answer>
         </entry>
-    </target></faq>
+    <entry source="Alpha Trion Protocols:Wave 2 FAQ" id="47">
+        <question>
+            Does this get the trigger against Sky Shadow’s combined form?
+        </question>
+        <answer>
+            Yes, Skyshadow is 17 Stars (14 for the body, 3 for Ominus) and this would trigger against him. Head mode stars are added to alt/body mode stars for ‘multi-component’ characters like Titan Masters per the WotC ruling.
+        </answer>
+      </entry>
+      </target></faq>

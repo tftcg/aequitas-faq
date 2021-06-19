@@ -2,4 +2,12 @@
       <question>Can this ability trigger more than once in the same turn?</question>
       <answer>Yes. If you’re showing off and have some way to flip the upgraded character multiple times in the same turn, the ability will add Bold 2 each time.</answer>
     </entry>
-  </target></faq>
+  <entry source="Alpha Trion Protocols:Wave 2 FAQ" id="48">
+        <question>
+            What happens if I get the trigger, but my opponent reveals a Sabotaged Armaments?
+        </question>
+        <answer>
+            The Trigger grants the ability to the Character; therefore you would keep +2 Attack and Pierce 2 for that Battle, similar to cards like Kinetic Intensifier Whip.
+        </answer>
+      </entry>
+    </target></faq>

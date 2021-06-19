@@ -1,0 +1,455 @@
+<?xml version="1.0"?>
+<faq name="Alpha Trion Protocols:Wave 2 FAQ" source_url="https://vectorsigma.info/alpha-trion-protocols" published_date="2020-11-25" sourced_at="2021-06-17">
+
+    <target name="Sturdy">
+      <entry id="1">
+        <question>
+            Does Sturdy work for attack damage or non-attack damage or both?
+        </question>
+        <answer>
+            Sturdy works for both attack damage AND non-attack damage. So whenever a Sturdy character of yours would take damage from an opponent’s character or battle card, regardless of when or how, that would be reduced by 1.
+        </answer>
+      </entry>
+      <entry id="2">
+        <question>
+            If I have a Sturdy character and I use Survive on them, do they take 2 less damage?
+        </question>
+        <answer>
+            No, a character that is Sturdy, cannot become or gain Sturdy again. The ability is binary; you either are Sturdy or are not, so a character can’t even have multiple instances of the ability.
+        </answer>
+      </entry>
+      <entry id="3">
+        <question>
+            When does Sturdy work? Can I use Survive on my own turn?
+        </question>
+        <answer>
+            Sturdy is applied anytime you would take damage in the game. Yes, you can reveal Survive on your turn if your character would take damage from an opponent’s character or battle card during your turn for any reason (for example: Rumble’s Revenge effect)
+        </answer>
+      </entry>
+    </target>
+    <target name="Seeker">
+      <entry id="4">
+        <question>
+            What does the Seeker tag mean? Why is it on them? Is it referenced anywhere outside these characters in the set?
+        </question>
+        <answer>
+            Seeker is a new Trait created for ATP-2, as well as potential future design space to create additional Seeker characters or abilities/cards that key off of the trait.  There are only three characters in the set with the Trait, and zero battle cards that reference the new Trait (currently).  Note: Any older characters that are traditionally considered “Seekers” in Lore are NOT Seekers for this Trait’s purposes..for now..
+        </answer>
+      </entry>
+    </target>
+    <target name="Dirge - Feared Fighter">
+      <entry id="5">
+        <question>
+            Why can’t I bring Dirge back from my KO area?
+        </question>
+        <answer>
+            Dirge has the ability to bring back a Blank card when KO’d, we did not want to create any “infinite loop” type scenario with the character due to cards like I Still Function and Involuntary Promotion.
+        </answer>
+      </entry>
+      <entry id="6">
+        <question>
+            Dirge has the ability to bring back a Blank pip card, does that mean Action or Upgrade?
+        </question>
+        <answer>
+            Yes, any battle card that is Blank is a card you may bring back from the scrap pile.
+        </answer>
+      </entry>
+    </target>
+    <target name="Drift - Noble Warrior">
+      <entry id="7">
+        <question>
+            Why does he deal himself a damage at the start of the game instead of starting with 1 less HP?
+        </question>
+        <answer>
+            We elected to give him the ability to do damage to himself for 2 core reasons. The first being a nod to the “lore” aspect of the character. The second being the potential of expanded future design space. Characters starting with damage on them open up many Battle card interactions.
+        </answer>
+      </entry>
+      <entry id="8">
+        <question>
+            My opponent has a Fangry with Parsec; does Drift have Stealth from him in alt mode?
+        </question>
+        <answer>
+            Yes, Fangry may have the Autobot Tag, but is still a Decepticon and Drift’s Ability will grant him Stealth against him. This is in line with the WotC ruling of inclusivity of Faction;having “Stealth against Decepticons” might as well read “Stealth against Decepticons+”.  If there were ever a situation in the future where a dual-faction Decepticon-Mercenary was available to your opponent, Drift would have Stealth from that character, as well.
+        </answer>
+      </entry>
+      <entry id="9">
+        <question>
+            My opponent has a Perceptor with Grax; does Drift have Stealth from him in alt mode?
+        </question>
+        <answer>
+            Perceptor may have the Autobot Tag but is still a Decepticon because of the Grax head.  Thus, Drift’s Ability will grant him Stealth in this scenario.
+        </answer>
+      </entry>
+      <entry id="10">
+        <question>
+            Can I flip Drift to alt mode and not do him 2 damage?
+        </question>
+        <answer>
+            Yes, you only need to do the damage if you choose to use the ability.
+        </answer>
+      </entry>
+      <entry id="11">
+        <question>
+            My opponent has a tapped character and an untapped Fangry with Parsec; if I flip Drift to bot mode and deal him 2, can I attack the Fangry/Parsec?
+        </question>
+        <answer>
+            Yes.
+        </answer>
+      </entry>
+      <entry id="12">
+        <question>
+            My opponent has a tapped character and an untapped Perceptor with Grax; if I flip Drift to bot mode and deal him 2, can I attack the Perceptor /Grax?
+        </question>
+        <answer>
+            Yes.
+        </answer>
+      </entry>
+      <entry id="13">
+        <question>
+            If my opponent has a tapped character with Brave and I flip Drift to bot mode and do 2 to him, can I attack one of my opponent’s untapped characters and ignore the Brave guy?
+        </question>
+        <answer>
+            No, since the target with Brave is still a legal target for Drift to attack, even after the ability (you are not forced to attack an untapped character after all), the Brave forces you to attack that character as long as it is among the possible characters available to select in combat.  Since Drift’s bot mode ability essentially adds your opponent’s untapped Decepticons to the normal list of characters available for him to attack, the Brave would still apply.
+        </answer>
+      </entry>
+    </target>
+    <target name="Raider Overkill - Spy Patrol Havoc Wreaker">
+      <entry id="14">
+        <question>
+            If I start with Overkill on my team, can I put an Overkill from outside the game into my KO area?
+        </question>
+        <answer>
+            No, this will be more covered in a Tournament Rules Doc. You may only ever have one of each named character on your battlefield or in the KO area. This concept is further emphasized by the word “different” among the many abilities in this same vein.
+        </answer>
+      </entry>
+    </target>
+    <target name="Ramjet - Hellish Hooligan">
+      <entry id="15">
+        <question>
+            How does Ramjet’s can’t flip ability work? Can I flip him for my turn? Can I flip him with Rapid Conversion or Showing Off?
+        </question>
+        <answer>
+    No, he can not be flipped as part of your ‘designated phases’ per turn NOR battle cards. The only way he can flip at any time is his own start of turn ability.
+        </answer>
+      </entry>
+      <entry id="16">
+        <question>
+            For Ramjet’s bot mode defends ability, is that each battle? Does the damage get dealt before combat flips?
+        </question>
+        <answer>
+            Yes, the ability triggers each time Ramjet defends in a turn. However, the damage is only dealt after the attack finishes and attack damage is calculated. If there are multiple attackers, he will deal 1 damage to each at the end of each individual battle.
+        </answer>
+      </entry>
+    </target>
+    <target name="Soundwave - Intelligence Coordinator">
+      <entry id="17">
+        <question>
+            Can I put two of the same character into my KO area with Soundwave (i.e. Frenzy)?
+        </question>
+        <answer>
+            No, will be Covered in a Future Tournament Doc. The word “different” essentially means “a character that satisfies the requirements who is not already on your battlefield or in your KO area.” This is in reference to the character’s full name as well.
+        </answer>
+      </entry>
+      <entry id="18">
+        <question>
+            Soundwave only gets up to 3 ATK and 3 DEF; can I put a 4th bot into the KO with his bot mode attack trigger?
+        </question>
+        <answer>
+            Yes, for each time he attacks, you draw a card and then may add another Spy Patrol or Cassette to your KO, as long as it satisfies the “different” definition in the question above.
+        </answer>
+      </entry>
+    </target>
+    <target name="Thrust - Boisterous Brawler">
+      <entry id="19">
+        <question>
+            What happens if I have both Thrust and Dirge in their Brave modes?
+        </question>
+        <answer>
+            The attacker chooses which character with Brave they would like to attack.
+        </answer>
+      </entry>
+      <entry id="20">
+        <question>
+            For Thrust’s Revenge ability, can I play the Upgrade on a character like Dreadwing or Raider Tailwind?
+        </question>
+        <answer>
+            Yes, you may play an upgrade on a Plane or Seeker provided the character being upgraded meets the requirement of the upgrade.
+        </answer>
+      </entry>
+      <entry id="21">
+        <question>
+            If Thrust is KO’ed on my opponent’s turn, can I still play the Upgrade from his Revenge ability?
+        </question>
+        <answer>
+            Yes.
+        </answer>
+      </entry>
+    </target>
+    <target name="Motormaster - Stunticon Don">
+      <entry id="22">
+        <question>
+            Can I play this Motormaster with the old Motormaster on my starting team? His start of the game ability says I can’t put the original Motormaster into my KO, but it doesn’t say anything about his teammates.
+        </question>
+        <answer>
+            Yes, you can, but you will not be able to combine if you have both because they represent the same piece for the Combiner. For example, you could have a 12/8/5 team consisting of both.
+        </answer>
+      </entry>
+      <entry id="23">
+        <question>
+            Does the bot mode ability on Motormaster still trigger when my opponent reveals an End Hostilities?
+        </question>
+        <answer>
+            No, it would be unable to trigger cause your oranges would be blues so your attack will not meet the flipped icons requirement. Note: Your own Belligerence would also cause the ability to fail.
+        </answer>
+      </entry>
+      <entry id="24">
+        <question>
+            So this Motormaster has the damage prevention ability on both sides?
+        </question>
+        <answer>
+            Yes.
+        </answer>
+      </entry>
+    </target>
+    <target name="Silverbolt - Aerialbot Commander">
+      <entry id="25">
+        <question>
+            Can I play this Silverbolt with the old Silverbolt on my starting team? His start of the game ability says I can’t put the original Silverbolt into my KO, but it doesn’t say anything about his teammates.
+        </question>
+        <answer>
+            Yes, you can, but you will not be able to combine if you have both because they represent the same piece for the Combiner. For example, you could have a 12/8/5 team consisting of both.
+        </answer>
+      </entry>
+      <entry id="26">
+        <question>
+            Does the bot mode ability on Silverbolt still trigger while my opponent has an Autobot Jazz and Here’s the Thing in play?
+        </question>
+        <answer>
+            No, all Black pips would be considered as White and the Silverbolt, Air Commander ability would not be able to trigger due to lacking the minimum flipped icons requirement.
+        </answer>
+      </entry>
+    </target>
+    <target name="Bow Before Me">
+      <entry id="27">
+        <question>
+            Does the flip to bot mode trigger count Lord Megatron himself?
+        </question>
+        <answer>
+            Yes.
+        </answer>
+      </entry>
+      <entry id="28">
+        <question>
+            If I have a Scoundrel’s Blaster AND a Terrifying Resilience (more than one Decepticon Upgrade) on my Megatron, does he get +2 ATK and DEF?
+        </question>
+        <answer>
+            No, it only counts the first Decepticon upgrade for the ability.
+        </answer>
+      </entry>
+      <entry id="29">
+        <question>
+            When players scrap cards from the top of their deck for this ability, can they swap for Green pip cards?
+        </question>
+        <answer>
+            No. You may only swap for a Green icon card after battle flips resolve. Flipping and scrapping are different actions in-game.
+        </answer>
+      </entry>
+    </target>
+    <target name="Coordinated Aerial Tactics">
+      <entry id="30">
+        <question>
+            If I have 30 damage on my Superion AND a Pocket Processor, will I draw two additional cards to start each of my turns on top of my normal draw?
+        </question>
+        <answer>
+            Yes.
+        </answer>
+      </entry>
+      <entry id="31">
+        <question>
+            If I have Superion plus the back-Stratagem and my opponent has Defensive Driving, what happens?
+        </question>
+        <answer>
+            The abilities would cancel each other out, and just do the printed damage from the effect of the character or battlecard.
+        </answer>
+      </entry>
+    </target>
+    <target name="Drop’ Em">
+      <entry id="32">
+        <question>
+            What does it mean that “my deck can have up to 1 extra STAR of cards?” Does that mean characters or battle cards?
+        </question>
+        <answer>
+            Your Battle deck may include 1 Star card and still be considered a Legal Deck. Examples include Mounted Missiles, Energized Field, Leap of Faith, etc.
+        </answer>
+      </entry>
+      <entry id="33">
+        <question>
+            Do these abilities apply to both modes for Arcee?
+        </question>
+        <answer>
+            Yes, Alt and Bot Mode will gain the benefit.
+        </answer>
+      </entry>
+      <entry id="34">
+        <question>
+            This is legal to play in Junkion, but what common star cards even are there to play?
+        </question>
+        <answer>
+            There are now 3 Star cards at the Common rarity for Junkion with the addition of ATP-2: Hands-Free Artillery, Bullseye Aegis, and Spotlights.
+    High-Speed Chase
+    1. I repair 1 from Menasor on my 2nd action for turn. What about my 3rd? Or 4th?
+            No, you only heal from the 2 nd action played.
+        </answer>
+      </entry>
+      <entry id="35">
+        <question>
+            What happens if I reveal the new ATP-2 Secret Action “Survive” while my Menasor has 30+ damage? Do I take 2 less?
+        </question>
+        <answer>
+            No, Sturdy, does not stack with itself; you can’t have multiple instances of Sturdy on a character or battle card. (See KEYWORD Section on Sturdy)
+        </answer>
+      </entry>
+      <entry id="36">
+        <question>
+            If I repair damage to go below 30, do I lose the Sturdy ability?
+        </question>
+        <answer>
+            Yes. The damage threshold trigger on Menasor uses the trigger word “while” which is constantly checking to see whether its criterion is met. Anything after the arrow would be turned off as soon as the criterion before the arrow is no longer met.
+        </answer>
+      </entry>
+    </target>
+    <target name="Master Builder">
+      <entry id="37">
+        <question>
+            If I flip more than four colors of Battle Icons while in combat, do I still get the Grapple ability?
+        </question>
+        <answer>
+            No, you must flip EXACTLY four colors of Battle Icons, no more, no less.
+        </answer>
+      </entry>
+    </target>
+    <target name="Whatever it Takes">
+      <entry id="38">
+        <question>
+            What does it mean that “my deck can have up to 1 extra STAR of cards?” Does that mean characters or battle cards?
+        </question>
+        <answer>
+            Your Battle deck may include 1 Star card and still be considered a Legal Deck. Examples include Mounted Missiles, Energized Field, Leap of Faith, etc.
+        </answer>
+      </entry>
+      <entry id="39">
+        <question>
+            Do these abilities apply to both modes for Barricade?
+        </question>
+        <answer>
+            Yes, Alt and Bot Mode will gain the benefit of Tough 1.
+        </answer>
+      </entry>
+      <entry id="40">
+        <question>
+            This is legal to play in Junkion, but what common star cards even are there to play?
+        </question>
+        <answer>
+            There are now 3 Star cards at the Common rarity for Junkion with the addition of ATP-2: Hands-Free Artillery, Bullseye Aegis, and Spotlights.  Aerial Defense Armaments
+    1. Does Aerial Defense Armaments still get its trigger if I don’t have Superion in play?
+    The move 1 damage will trigger for placing it on an Aerialbot, you will not repair 1 damage, though.
+        </answer>
+      </entry>
+      <entry id="41">
+        <question>
+            What types of battle Icons are those?
+        </question>
+        <answer>
+            They are faction stamped icons for Aerialbots, therefore only when an Aerialbot is battling can you gain benefit from the Blue or White icon(s). It will still count as both colors for abilities that check if you flip a certain type or number of colors.
+        </answer>
+      </entry>
+    </target>
+    <target name="Bullseye Aegis">
+      <entry id="42">
+        <question>
+            What happens if I put Bullseye Aegis on a character with Stealth?
+        </question>
+        <answer>
+            Your character would then have Brave and Stealth and they would cancel each other out.
+        </answer>
+      </entry>
+    </target>
+    <target name="Catch Off Guard">
+      <entry id="43">
+        <question>
+            Does this “scrap” the Upgrade that is moved to the bottom of the deck?
+        </question>
+        <answer>
+            No, this is a new way of interacting with Upgrades. Similar to returning an upgrade to a player’s hand, instead it is placed on the bottom of their battle deck. Abilities that prevent the Scrapping of an upgrade will not work to prevent Catch Off-Guard (similar to Disarm).
+        </answer>
+      </entry>
+    </target>
+    <target name="Interrogation">
+      <entry id="44">
+        <question>
+            Can this take an Improvised Shield from my opponent’s hand?
+        </question>
+        <answer>
+            No, even though it is only Orange Pips, it's still more than one of them. The pure number of icons is the condition, not the number of colors.
+        </answer>
+      </entry>
+      <entry id="45">
+        <question>
+            Can this take blank pip cards from my opponent’s hand?
+        </question>
+        <answer>
+            Yes, because blank, or zero icons, is less than one.
+        </answer>
+      </entry>
+    </target>
+    <target name="Ionizer Sword">
+      <entry id="46">
+        <question>
+            Can I put an Ionizer Sword on one of my Stunticons before I combine?
+        </question>
+        <answer>
+    Yes, but you will only gain the +3 attack. Only Menasor is granted the draw on attack flip ability.
+    2. What types of battle Icons are those?
+            They are faction stamped icons for Stunticons. Therefore only when a Stunticon is battling can you gain benefit from the Orange or Blue icon (s). It will still count as both colors for abilities that check if you flip a certain type or number of colors.
+        </answer>
+      </entry>
+    </target>
+    <target name="Lock On Lasers">
+      <entry id="47">
+        <question>
+            Does this get the trigger against Sky Shadow’s combined form?
+        </question>
+        <answer>
+            Yes, Skyshadow is 17 Stars (14 for the body, 3 for Ominus) and this would trigger against him. Head mode stars are added to alt/body mode stars for ‘multi-component’ characters like Titan Masters per the WotC ruling.
+        </answer>
+      </entry>
+      <entry id="48">
+        <question>
+            What happens if I get the trigger, but my opponent reveals a Sabotaged Armaments?
+        </question>
+        <answer>
+            The Trigger grants the ability to the Character; therefore you would keep +2 Attack and Pierce 2 for that Battle, similar to cards like Kinetic Intensifier Whip.
+        </answer>
+      </entry>
+    </target>
+    <target name="Spotlights">
+      <entry id="49">
+        <question>
+            Does Spotlights work for my whole team? Or for my opponent’s whole team?
+        </question>
+        <answer>
+            While Spotlights is attached to a character on your team, it removes all Stealth from all enemies, which grants each of your characters the ability to attack whomever they wish (aside from Brave, which is unaffected by this card). You cannot “regain Stealth,” if you had more than one instance of it either, it is a binary ability.
+        </answer>
+      </entry>
+    </target>
+    <target name="Take By Surprise">
+      <entry id="50">
+        <question>
+            Does this “scrap” the Upgrade that moves to the top of the deck?
+        </question>
+        <answer>
+            No, this is a new way of interacting with Upgrades. Similar to returning an upgrade to a player’s hand, instead it is placed on the top of their battle deck. Abilities that prevent the Scrapping of an upgrade will not work on Take by Surprise (similar to Disarm).
+        </answer>
+      </entry>
+    </target>
+</faq>

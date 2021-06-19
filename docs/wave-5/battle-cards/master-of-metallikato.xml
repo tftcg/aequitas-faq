@@ -6,4 +6,12 @@
                 Yes. For example, Mindwipe - Hypnotist (body mode) is a melee character that has an ability that triggers "when this attacks and flip at least one black battle icon." If Mindwipe attacks and you flip Master of Metallikato (a battle card with a black ranged battle icon), Mindwipe's ability will trigger, even though the black battle icon will have no effect.
             </answer>
         </entry>
-    </target></faq>
+    <entry source="Alpha Trion Protocols:Wave 3 FAQ" id="48">
+        <question>
+          What happens if my opponent plays a Belligerence, I reveal DaD, and I flip a Matrix of Leadership and Master of Metallikato on defense?
+        </question>
+        <answer>
+          Belligerence would turn this flip of normally [OU, (OUB)] to [OO, (OOB)], meaning that you only flipped 2 colors on defense--Orange and Black, regardless of your character’s tratis--and would thus get +2 DEF for that battle.
+        </answer>
+      </entry>
+      </target></faq>

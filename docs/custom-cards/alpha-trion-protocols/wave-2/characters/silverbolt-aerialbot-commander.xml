@@ -1,0 +1,17 @@
+<faq><target name="Silverbolt - Aerialbot Commander"><entry source="Alpha Trion Protocols:Wave 2 FAQ" id="25">
+        <question>
+            Can I play this Silverbolt with the old Silverbolt on my starting team? His start of the game ability says I can’t put the original Silverbolt into my KO, but it doesn’t say anything about his teammates.
+        </question>
+        <answer>
+            Yes, you can, but you will not be able to combine if you have both because they represent the same piece for the Combiner. For example, you could have a 12/8/5 team consisting of both.
+        </answer>
+      </entry>
+      <entry source="Alpha Trion Protocols:Wave 2 FAQ" id="26">
+        <question>
+            Does the bot mode ability on Silverbolt still trigger while my opponent has an Autobot Jazz and Here’s the Thing in play?
+        </question>
+        <answer>
+            No, all Black pips would be considered as White and the Silverbolt, Air Commander ability would not be able to trigger due to lacking the minimum flipped icons requirement.
+        </answer>
+      </entry>
+    </target></faq>

@@ -1,0 +1,25 @@
+<faq><target name="Motormaster - Stunticon Don"><entry source="Alpha Trion Protocols:Wave 2 FAQ" id="22">
+        <question>
+            Can I play this Motormaster with the old Motormaster on my starting team? His start of the game ability says I can’t put the original Motormaster into my KO, but it doesn’t say anything about his teammates.
+        </question>
+        <answer>
+            Yes, you can, but you will not be able to combine if you have both because they represent the same piece for the Combiner. For example, you could have a 12/8/5 team consisting of both.
+        </answer>
+      </entry>
+      <entry source="Alpha Trion Protocols:Wave 2 FAQ" id="23">
+        <question>
+            Does the bot mode ability on Motormaster still trigger when my opponent reveals an End Hostilities?
+        </question>
+        <answer>
+            No, it would be unable to trigger cause your oranges would be blues so your attack will not meet the flipped icons requirement. Note: Your own Belligerence would also cause the ability to fail.
+        </answer>
+      </entry>
+      <entry source="Alpha Trion Protocols:Wave 2 FAQ" id="24">
+        <question>
+            So this Motormaster has the damage prevention ability on both sides?
+        </question>
+        <answer>
+            Yes.
+        </answer>
+      </entry>
+    </target></faq>

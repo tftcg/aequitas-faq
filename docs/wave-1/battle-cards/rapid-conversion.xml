@@ -62,4 +62,12 @@ When I attack with Cosmos in bot mode and then Anticipation Engine activates and
 If during Cosmos’ attack, Anticipation Engine reveals Rapid Conversion as the last card in your deck, and you play it, you will immediately shuffle your deck, triggering Cosmos’ ability, then flip Cosmos to Alt Mode.
 </answer>
     </entry>
-    </target></faq>
+    <entry source="Alpha Trion Protocols:Wave 2 FAQ" id="15">
+        <question>
+            How does Ramjet’s can’t flip ability work? Can I flip him for my turn? Can I flip him with Rapid Conversion or Showing Off?
+        </question>
+        <answer>
+    No, he can not be flipped as part of your ‘designated phases’ per turn NOR battle cards. The only way he can flip at any time is his own start of turn ability.
+        </answer>
+      </entry>
+      </target></faq>

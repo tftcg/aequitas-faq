@@ -1,0 +1,41 @@
+<faq><target name="Snapdragon, Ruthless Combatant"><entry source="Alpha Trion Protocols:Wave 3 FAQ" id="24">
+        <question>
+          If my Snapdragon is in Alt mode, can I repair damage from Snapdragon?
+        </question>
+        <answer>
+          Yes, he only stops repair on other characters.
+        </answer>
+      </entry>
+      <entry source="Alpha Trion Protocols:Wave 3 FAQ" id="25">
+        <question>
+          What happens if my Snapdragon is in Alt mode and my opponent plays Involuntary Promotion?
+        </question>
+        <answer>
+          The character brought back from their KO will stay fully repaired because no damage can be moved to it, but the Upgrades from the original character will move as normal.
+        </answer>
+      </entry>
+      <entry source="Alpha Trion Protocols:Wave 3 FAQ" id="26">
+        <question>
+          What happens if my Snapdragon is in Bot mode and I play System Reboot?
+        </question>
+        <answer>
+          Both players scrap their whole hand. You draw 4 and scrap none; your opponent draws 4 and scraps 1 card because Snapdragon sees the act of drawing cards as one instance, regardless of number drawn.
+        </answer>
+      </entry>
+      <entry source="Alpha Trion Protocols:Wave 3 FAQ" id="27">
+        <question>
+          What happens if my Snapdragon is in Bot mode my Opponent plays a Pep Talk to draw 2 after they draw their first card of the turn, do they scrap 2 cards or 1?
+        </question>
+        <answer>
+          If your opponent has already drawn for turn, whether they draw 1 card with a card like Wedge Formation or 2 cards with a card like Pep Talk, they will only scrap 1 card from hand because of the “1 or more cards” clause.
+        </answer>
+      </entry>
+      <entry source="Alpha Trion Protocols:Wave 3 FAQ" id="28">
+        <question>
+          If my Snapdragon KOs and enemy Battle Master, does his Bounty ability work so that I can choose to return that Battle Master to its owner’s hand/KO it from zone-changing?
+        </question>
+        <answer>
+          No, the game operates in all situations as attacking/active player’s abilities all happen, then defending/inactive player’s abilities all happen. Your Bounty trigger will resolve before your opponent’s Battle Master trigger will make them play it.
+        </answer>
+      </entry>
+    </target></faq>

@@ -1,0 +1,11 @@
+<faq><target name="Shield Crash"><entry source="BFA World|Strike:Wave 1 FAQ" id="21">
+        <answer>
+          This card has errata in 1.1.
+        </answer>
+      </entry>
+      <entry source="BFA World|Strike:Wave 1 FAQ" id="22">
+        <answer>
+          Shield Crash effectively swaps your chosen character’s Attack and Defense values at the moment of play. Events that modify those values after the moment of play (like flips) work as normal.
+        </answer>
+      </entry>
+    </target></faq>

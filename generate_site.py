@@ -72,19 +72,27 @@ def mkdirp(directory):
     if( not os.path.isdir(directory) ):
         os.makedirs(directory)
 
-# Returns WotC|Aequitas|Community
+# Returns Aequitas|[Custom]:|WotC|Community
 def source_label(source_name):
     if("Aequitas" in source_name):
         return 'Aequitas'
+    elif(is_custom_source(source_name)):
+        return source_name.split(':')[0]
     elif("FAQ" in source_name or "Roundup" in source_name):
         return 'WotC'
     else:
         return 'Community'
 
-def generate_source_url(faqfile):
-    # faqxml-aequitas-roundups/Rules_Roundup-2020-09-14.xml turns to
-    # https://www.tf-rules.info/roundups/aequitas-roundups/Rules_Roundup-2020-09-14.html
-    return 'https://www.tf-rules.info/roundups/' + faqfile.replace('faqxml-', '')
+def is_custom_source(source_name):
+    return ":" in source_name
+
+def generate_source_url(faqfile, source_url):
+    if(source_url == "" or 'wizards.com' in source_url or 'facebook.com/notes/transformers-trading-card-game' in source_url):
+        # faqxml-aequitas-roundups/Rules_Roundup-2020-09-14.xml turns to
+        # https://www.tf-rules.info/roundups/aequitas-roundups/Rules_Roundup-2020-09-14.html
+        return 'https://www.tf-rules.info/roundups/' + faqfile.replace('faqxml-', '')
+    else:
+        return source_url
 
 # Returns number of entries found for the leaf page
 def generate_leaf(tag_node, faq_db, output_dir, leaf_template, hyperlinker, parent_stack):
@@ -102,7 +110,7 @@ def generate_leaf(tag_node, faq_db, output_dir, leaf_template, hyperlinker, pare
     # Loop over every key, value in the faq_db
     for faqfile, node in faq_db.items():
         faqfile_name = faqfile.split('/')[1]
-        source_url = generate_source_url(faqfile)    # now ignoring node.attrib['source_url']
+        source_url = generate_source_url(faqfile, node.attrib['source_url'])
         if('source' in node.attrib):
             source_name = node.attrib['source']
         else:
@@ -146,7 +154,7 @@ def generate_leaf(tag_node, faq_db, output_dir, leaf_template, hyperlinker, pare
                     found_entries.append( [source_name, source_url, entry_node, faqfile_name, hyperlinks] )
 
     if(len(found_entries) != 0):
-        page = leaf_template.render(f_safe_name=safe_name, f_prepare_text=prepare_text, entries=found_entries, faq_name=leaf_name, f_source_label=source_label, parent_stack=parent_stack, tag_node=tag_node, filename=filename[len(TOP_OUTPUT_DIR)+1:], pretty_path=pretty_path, f_build_image_path=build_image_path, faq_db=faq_db )
+        page = leaf_template.render(f_safe_name=safe_name, f_prepare_text=prepare_text, entries=found_entries, faq_name=leaf_name, f_source_label=source_label, f_is_custom_source=is_custom_source, parent_stack=parent_stack, tag_node=tag_node, filename=filename[len(TOP_OUTPUT_DIR)+1:], pretty_path=pretty_path, f_build_image_path=build_image_path, faq_db=faq_db )
 
         f = open(filename, "w")
         f.write(page)
@@ -242,6 +250,7 @@ faq_db = OrderedDict()
 load_faqs_to_dict('faqxml-wotc-faqs', faq_db)
 load_faqs_to_dict('faqxml-wotc-roundups', faq_db)
 load_faqs_to_dict('faqxml-aequitas-roundups', faq_db)
+load_faqs_to_dict('faqxml-custom-faqs', faq_db)
 
 # Load the previous json index for use in hyperlinking
 faq_index_filename = os.path.join(TOP_OUTPUT_DIR, "faqindex.json")

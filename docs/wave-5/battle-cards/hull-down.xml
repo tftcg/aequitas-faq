@@ -6,4 +6,12 @@
                 No. If, for example, Barricade flipped a Hull Down, it is considered a battle card with 1 orange battle icon for the purposes of any flip effects and not a card with no battle icons. Of course, as Barricade is not a Tank, it does not provide him with +1 to his attack. 
             </answer>
         </entry>
-    </target></faq>
+    <entry source="Alpha Trion Protocols:Wave 3 FAQ" id="12">
+        <question>
+          What does it mean to be a Tank and Plane in Bot mode?   
+        </question>
+        <answer>
+          It means that any cards that reference being in Plane or Tank mode are active in both of Overlord’s modes.  This means cards like Composite Armor can be put on him in either mode.  When you flip a Hull Down in either mode it is active, etc.
+        </answer>
+      </entry>
+      </target></faq>

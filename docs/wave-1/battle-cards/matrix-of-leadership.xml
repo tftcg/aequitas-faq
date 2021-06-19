@@ -7,4 +7,22 @@
 
         </answer>
     </entry>
-    </target></faq>
+    <entry source="ARK:Wave 1 FAQ" id="10">
+          <answer>
+            While in bot mode, Rodimus only gets the bonus once, regardless of how many copies of Matrix of Leadership he is upgraded with.
+          </answer>
+        </entry>
+    <entry source="ARK:Wave 1 FAQ" id="40">
+          <answer>
+            The Matrix of Leadership is taken from your deck before you draw your opening hand.  Be sure to shuffle afterwards!
+          </answer>
+        </entry>
+    <entry source="Alpha Trion Protocols:Wave 3 FAQ" id="48">
+        <question>
+          What happens if my opponent plays a Belligerence, I reveal DaD, and I flip a Matrix of Leadership and Master of Metallikato on defense?
+        </question>
+        <answer>
+          Belligerence would turn this flip of normally [OU, (OUB)] to [OO, (OOB)], meaning that you only flipped 2 colors on defense--Orange and Black, regardless of your character’s tratis--and would thus get +2 DEF for that battle.
+        </answer>
+      </entry>
+      </target></faq>

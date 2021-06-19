@@ -1,0 +1,25 @@
+<faq><target name="Banzaitron, Devious Orchestrator"><entry source="Alpha Trion Protocols:Wave 3 FAQ" id="1">
+        <question>
+          Is Banzaitron a Leader if I have an Autobot head on a Decepticon body?
+        </question>
+        <answer>
+          No.
+        </answer>
+      </entry>
+      <entry source="Alpha Trion Protocols:Wave 3 FAQ" id="2">
+        <question>
+          Is Banzaitron a Leader if I have him, a Decepticon, and a Mercenary on my starting team?
+        </question>
+        <answer>
+          Yes.
+        </answer>
+      </entry>
+      <entry source="Alpha Trion Protocols:Wave 3 FAQ" id="3">
+        <question>
+          Does Banzaitron’s flip-to-Alt ability work with Hunker Down?
+        </question>
+        <answer>
+          If you put an Armor on him with Hunker Down, and it doesn’t scrap before you have resolved his flip-to-Alt ability, you will get to do the effect because the “if Armor” clause isn’t until after the arrow.
+        </answer>
+      </entry>
+    </target></faq>

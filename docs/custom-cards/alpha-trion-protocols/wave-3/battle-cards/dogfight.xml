@@ -1,0 +1,25 @@
+<faq><target name="Dogfight"><entry source="Alpha Trion Protocols:Wave 3 FAQ" id="51">
+        <question>
+          What happens if I play this with a Melee character on my team, but no Seekers?
+        </question>
+        <answer>
+          You scrap an enemy Weapon, but move no damage.
+        </answer>
+      </entry>
+      <entry source="Alpha Trion Protocols:Wave 3 FAQ" id="52">
+        <question>
+          What happens if I play this with a Seeker character on my team, but no Melee characters?
+        </question>
+        <answer>
+          You move 1 damage from each of your Seekers to an enemy (scales for each character), but you would not scrap an enemy Weapon.
+        </answer>
+      </entry>
+      <entry source="Alpha Trion Protocols:Wave 3 FAQ" id="53">
+        <question>
+          Do I get both effects if I have characters with both traits on my team?
+        </question>
+        <answer>
+          Yes; this card doesn’t ask you to choose.
+        </answer>
+      </entry>
+    </target></faq>

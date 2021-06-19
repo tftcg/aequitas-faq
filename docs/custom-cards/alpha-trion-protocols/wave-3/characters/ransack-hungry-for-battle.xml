@@ -1,0 +1,25 @@
+<faq><target name="Ransack, Hungry for Battle"><entry source="Alpha Trion Protocols:Wave 3 FAQ" id="15">
+        <question>
+          Does Ransack’s first Alt ability count himself?
+        </question>
+        <answer>
+          No, he says *other* Insecticon on your starting team. If your team was 4 Insecticons, including him, your deck could have up to 3 extra stars in it.
+        </answer>
+      </entry>
+      <entry source="Alpha Trion Protocols:Wave 3 FAQ" id="16">
+        <question>
+          Is Ransack’s flip-to-Alt ability optional; do I have to do it if I have an Upgrade I could scrap?
+        </question>
+        <answer>
+          The ability is mandatory, if you have an Upgrade--so be careful about flipping this guy!
+        </answer>
+      </entry>
+      <entry source="Alpha Trion Protocols:Wave 3 FAQ" id="17">
+        <question>
+          Does Raider Brunt or Acid Storm stop Ransack’s Bot mode flipping of extra cards in battle?
+        </question>
+        <answer>
+          No, those characters care about Bold; this mechanic is similar to Bold, but is not the named mechanic unless keyworded as such.
+        </answer>
+      </entry>
+    </target></faq>

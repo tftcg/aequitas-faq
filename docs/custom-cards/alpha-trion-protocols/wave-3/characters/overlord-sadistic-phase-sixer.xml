@@ -1,0 +1,33 @@
+<faq><target name="Overlord, Sadistic Phase Sixer"><entry source="Alpha Trion Protocols:Wave 3 FAQ" id="11">
+        <question>
+          Which KO area do you check for the Bot Mode ability?   
+        </question>
+        <answer>
+          Both, a player’s references both players KO area
+        </answer>
+      </entry>
+      <entry source="Alpha Trion Protocols:Wave 3 FAQ" id="12">
+        <question>
+          What does it mean to be a Tank and Plane in Bot mode?   
+        </question>
+        <answer>
+          It means that any cards that reference being in Plane or Tank mode are active in both of Overlord’s modes.  This means cards like Composite Armor can be put on him in either mode.  When you flip a Hull Down in either mode it is active, etc.
+        </answer>
+      </entry>
+      <entry source="Alpha Trion Protocols:Wave 3 FAQ" id="13">
+        <question>
+          How does Hunker Down work with Overlord?  
+        </question>
+        <answer>
+          If he is in Bot mode, you will flip him to Alt mode then complete the card
+        </answer>
+      </entry>
+      <entry source="Alpha Trion Protocols:Wave 3 FAQ" id="14">
+        <question>
+          Can I play upgrades or actions with Overlord’s attack ability?  
+        </question>
+        <answer>
+          Yes, any card with exactly one star on it can be played, actions or upgrades.
+        </answer>
+      </entry>
+    </target></faq>

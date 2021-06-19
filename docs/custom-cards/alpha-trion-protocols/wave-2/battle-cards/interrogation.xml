@@ -1,0 +1,17 @@
+<faq><target name="Interrogation"><entry source="Alpha Trion Protocols:Wave 2 FAQ" id="44">
+        <question>
+            Can this take an Improvised Shield from my opponent’s hand?
+        </question>
+        <answer>
+            No, even though it is only Orange Pips, it's still more than one of them. The pure number of icons is the condition, not the number of colors.
+        </answer>
+      </entry>
+      <entry source="Alpha Trion Protocols:Wave 2 FAQ" id="45">
+        <question>
+            Can this take blank pip cards from my opponent’s hand?
+        </question>
+        <answer>
+            Yes, because blank, or zero icons, is less than one.
+        </answer>
+      </entry>
+    </target></faq>

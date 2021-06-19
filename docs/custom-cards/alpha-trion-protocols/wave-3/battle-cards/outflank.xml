@@ -1,0 +1,33 @@
+<faq><target name="Outflank"><entry source="Alpha Trion Protocols:Wave 3 FAQ" id="67">
+        <question>
+          Can I do damage to my opponent’s characters or only my own?
+        </question>
+        <answer>
+          Much like Scouting Mission, you can choose any player’s character for this card.
+        </answer>
+      </entry>
+      <entry source="Alpha Trion Protocols:Wave 3 FAQ" id="68">
+        <question>
+          What happens if I damage a non-Specialist character?
+        </question>
+        <answer>
+          That character gets +2 ATK until end of turn and no cards are drawn.
+        </answer>
+      </entry>
+      <entry source="Alpha Trion Protocols:Wave 3 FAQ" id="69">
+        <question>
+          What happens if I damage my opponent’s character and it is a Specialist?
+        </question>
+        <answer>
+          That character will get +2 ATK until end of turn and your opponent will draw a card.
+        </answer>
+      </entry>
+      <entry source="Alpha Trion Protocols:Wave 3 FAQ" id="70">
+        <question>
+          What happens if I choose an enemy Specialist that is wearing Holomatter Projector or Defense Driving or has Sturdy?
+        </question>
+        <answer>
+          The ability on the card will only cause someone to draw if a Specialist is damaged this way. Cards or abilities preventing or reducing damage to 0 will not result in the character’s owner drawing a card.
+        </answer>
+      </entry>
+    </target></faq>

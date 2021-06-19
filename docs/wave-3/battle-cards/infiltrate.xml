@@ -80,4 +80,9 @@ The Infiltrate will scrap the action you played and negate its effect, but Thund
           <tftcg-note>This is also true for other cards that cancel an Action, such as Jam Signals, Overrule, and Speed Trap, and for any other effects (like Thundercracker) related to playing a card. </tftcg-note>
 </answer>
     </entry>
+    <entry source="BFA World|Strike:Wave 1 FAQ" id="24">
+        <answer>
+          This is revealed whenever the opponent plays an Action that would reveal or trigger any Secret Action in play. For example, if you have a face-down Infiltrate and a face-down The Dweller Awakens and the opponent plays a Peace Through Tyranny, you would flip both since the Peace Through Tyranny triggers Infiltrate.
+        </answer>
+      </entry>
     </target></faq>

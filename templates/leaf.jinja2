@@ -25,7 +25,11 @@
         <div>
           {% set updir_array=parent_stack|length * ['../',] %}
           {% set ignore = updir_array.pop() %}
+          {% set ns = namespace(custom_cards = false) %}
           {% for parent_node in parent_stack %}
+              {% if parent_node.attrib['name'] == "Custom Cards" %}
+                {% set ns.custom_cards = true %}
+              {% endif %}
               <a href="{{ ''.join(updir_array) }}index.html">{{ parent_node.attrib['name'] }}</a> /
               {% if updir_array|length %}
                   {% set ignore = updir_array.pop() %}
@@ -36,6 +40,11 @@
         {% if tag_node.attrib['wave_code'] %}
           <a id="fort-max-link" href="https://fortressmaximus.io/card/{{ f_safe_name(tag_node.attrib['name']) }}-{{ tag_node.attrib['wave_code']}}"><img src="/images/FortMax-Logo.png"><span class="fortmaxtext"> View On FortressMaximus.io</span></a></a>
         {% endif %}
+
+        {% if ns.custom_cards %}
+          <div class="custom-card-warning">WARNING: This card is a part of a custom card set; it is not an official Wizards of the Coast TF:TCG card.</div>
+        {% endif %}
+
         <h3 class="card_title">{{ faq_name }}</h3>
 
         <ol class="card_faq">
@@ -46,14 +55,27 @@
       {% if faq_node[2].attrib['mode'] %}
           <!-- mode = {{ faq_node[2].attrib['mode'] }} -->
       {% endif %}
-      <div class="question">
-        <a name="{{ faq_node[3] }}__{{ faq_node[2].attrib['id'] }}"/>
-        {{ f_prepare_text(faq_node[2].find('question'), faq_node[4]) }}
-        <span><a class="source_link" href="{{ faq_node[1] }}#{{ faq_node[3] }}__{{ faq_node[2].attrib['id'] }}" title="{{ faq_node[0] }}">[Source: {{ f_source_label(faq_node[0]) }}]</a> <a href="#{{ faq_node[3] }}__{{ faq_node[2].attrib['id'] }}"><img src="/images/permalink.svg"/></a></span>
-      </div>
-      <div class="answer">
-        {{ f_prepare_text(faq_node[2].find('answer'), faq_node[4]) }}
-      </div>
+      {% if faq_node[2].find('question') is none %}
+        <div class="answer">
+          {{ f_prepare_text(faq_node[2].find('answer'), faq_node[4]) }}
+          <span><a class="source_link" href="{{ faq_node[1] }}#{{ faq_node[3] }}__{{ faq_node[2].attrib['id'] }}" title="{{ faq_node[0] }}">[Source: {{ f_source_label(faq_node[0]) }}]</a> <a href="#{{ faq_node[3] }}__{{ faq_node[2].attrib['id'] }}"><img src="/images/permalink.svg"/></a></span>
+        </div>
+      {% else %}
+        <div class="question">
+          <a name="{{ faq_node[3] }}__{{ faq_node[2].attrib['id'] }}"/>
+          {% if not ns.custom_cards %}
+            {% if f_is_custom_source(faq_node[0]) %}
+              <span class="custom-card-warning-entry">CUSTOM CARD WARNING</span><br/>
+            {% endif %}
+          {% endif %}
+
+          {{ f_prepare_text(faq_node[2].find('question'), faq_node[4]) }}
+          <span><a class="source_link" href="{{ faq_node[1] }}#{{ faq_node[3] }}__{{ faq_node[2].attrib['id'] }}" title="{{ faq_node[0] }}">[Source: {{ f_source_label(faq_node[0]) }}]</a> <a href="#{{ faq_node[3] }}__{{ faq_node[2].attrib['id'] }}"><img src="/images/permalink.svg"/></a></span>
+        </div>
+        <div class="answer">
+          {{ f_prepare_text(faq_node[2].find('answer'), faq_node[4]) }}
+        </div>
+      {% endif %}
     </li>
 {% endfor %}
 

@@ -7,4 +7,26 @@ Same scenario, but my weapon is a Battle Master/Weaponizer.
 In both scenarios, Spare Parts does not protect your weapon. A Battle Master or Weaponizer in weapon mode would go to KO rather than to your hand.
         </answer>
     </entry>
-  </target></faq>
+  <entry source="ARK:Wave 1 FAQ" id="28">
+          <answer>
+            While your opponent’s cards can’t cause Electro Stinger of Scorponok to be scrapped, it can still be replaced if you put another Utility into this slot. Also, effects like Disarm or Gears can return it to your hand without scrapping it.
+            Pierce numbers are additive.  If your Scorponok has all three upgrades, he has Pierce 7.
+          </answer>
+        </entry>
+    <entry source="Alpha Trion Protocols:Wave 2 FAQ" id="43">
+        <question>
+            Does this “scrap” the Upgrade that is moved to the bottom of the deck?
+        </question>
+        <answer>
+            No, this is a new way of interacting with Upgrades. Similar to returning an upgrade to a player’s hand, instead it is placed on the bottom of their battle deck. Abilities that prevent the Scrapping of an upgrade will not work to prevent Catch Off-Guard (similar to Disarm).
+        </answer>
+      </entry>
+    <entry source="Alpha Trion Protocols:Wave 2 FAQ" id="50">
+        <question>
+            Does this “scrap” the Upgrade that moves to the top of the deck?
+        </question>
+        <answer>
+            No, this is a new way of interacting with Upgrades. Similar to returning an upgrade to a player’s hand, instead it is placed on the top of their battle deck. Abilities that prevent the Scrapping of an upgrade will not work on Take by Surprise (similar to Disarm).
+        </answer>
+      </entry>
+    </target></faq>

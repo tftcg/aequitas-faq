@@ -132,4 +132,9 @@ If you find a way to play Peace Through Tyranny on your opponent’s turn, you w
               It scraps at the end of your current turn and is not present for your second turn. 
           </answer>
       </entry>
-  </target></faq>
+  <entry source="BFA World|Strike:Wave 1 FAQ" id="24">
+        <answer>
+          This is revealed whenever the opponent plays an Action that would reveal or trigger any Secret Action in play. For example, if you have a face-down Infiltrate and a face-down The Dweller Awakens and the opponent plays a Peace Through Tyranny, you would flip both since the Peace Through Tyranny triggers Infiltrate.
+        </answer>
+      </entry>
+    </target></faq>
