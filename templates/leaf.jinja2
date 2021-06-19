@@ -55,27 +55,24 @@
       {% if faq_node[2].attrib['mode'] %}
           <!-- mode = {{ faq_node[2].attrib['mode'] }} -->
       {% endif %}
-      {% if faq_node[2].find('question') is none %}
-        <div class="answer">
-          {{ f_prepare_text(faq_node[2].find('answer'), faq_node[4]) }}
-          <span><a class="source_link" href="{{ faq_node[1] }}#{{ faq_node[3] }}__{{ faq_node[2].attrib['id'] }}" title="{{ faq_node[0] }}">[Source: {{ f_source_label(faq_node[0]) }}]</a> <a href="#{{ faq_node[3] }}__{{ faq_node[2].attrib['id'] }}"><img src="/images/permalink.svg"/></a></span>
-        </div>
-      {% else %}
-        <div class="question">
-          <a name="{{ faq_node[3] }}__{{ faq_node[2].attrib['id'] }}"/>
-          {% if not ns.custom_cards %}
-            {% if f_is_custom_source(faq_node[0]) %}
-              <span class="custom-card-warning-entry">CUSTOM CARD WARNING</span><br/>
-            {% endif %}
+      <div class="question">
+        <a name="{{ faq_node[3] }}__{{ faq_node[2].attrib['id'] }}"/>
+        {% if not ns.custom_cards %}
+          {% if f_is_custom_source(faq_node[0]) %}
+            <span class="custom-card-warning-entry">CUSTOM CARD WARNING</span><br/>
           {% endif %}
+        {% endif %}
 
+      {% if faq_node[2].find('question') is none %}
+          <u>{{ faq_node[5] }}</u>
+      {% else %}
           {{ f_prepare_text(faq_node[2].find('question'), faq_node[4]) }}
+      {% endif %}
           <span><a class="source_link" href="{{ faq_node[1] }}#{{ faq_node[3] }}__{{ faq_node[2].attrib['id'] }}" title="{{ faq_node[0] }}">[Source: {{ f_source_label(faq_node[0]) }}]</a> <a href="#{{ faq_node[3] }}__{{ faq_node[2].attrib['id'] }}"><img src="/images/permalink.svg"/></a></span>
         </div>
         <div class="answer">
           {{ f_prepare_text(faq_node[2].find('answer'), faq_node[4]) }}
         </div>
-      {% endif %}
     </li>
 {% endfor %}
 

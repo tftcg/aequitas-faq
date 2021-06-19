@@ -151,7 +151,7 @@ def generate_leaf(tag_node, faq_db, output_dir, leaf_template, hyperlinker, pare
 
                     # TODO: Do [[]] tags; or just remove that feature
 
-                    found_entries.append( [source_name, source_url, entry_node, faqfile_name, hyperlinks] )
+                    found_entries.append( [source_name, source_url, entry_node, faqfile_name, hyperlinks, target_name] )
 
     if(len(found_entries) != 0):
         page = leaf_template.render(f_safe_name=safe_name, f_prepare_text=prepare_text, entries=found_entries, faq_name=leaf_name, f_source_label=source_label, f_is_custom_source=is_custom_source, parent_stack=parent_stack, tag_node=tag_node, filename=filename[len(TOP_OUTPUT_DIR)+1:], pretty_path=pretty_path, f_build_image_path=build_image_path, faq_db=faq_db )
