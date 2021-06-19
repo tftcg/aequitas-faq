@@ -4,6 +4,8 @@ What happens when I play Acute Reflexes on Specialist Flamewar (Bot Mode)?
         </question>
       <answer>
 If a character has two instances of Focus 1, they happen sequentially. If you leave the top card of your deck on top of your deck for the first instance of Focus, that will be the card you will get the second time you Focus.
+
+          <tftcg-note>When WotC published the Expanded Rules, they changed this ruling. Focus stacks, i.e. Focus 1 + Focus 1 = Focus 2, and the player would look at the top two cards of their deck with Acute Reflexes on Specialist Flamewar in bot mode.</tftcg-note>
       </answer>
     </entry>
     </target></faq>
