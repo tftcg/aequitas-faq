@@ -42,7 +42,7 @@
         {% endif %}
 
         {% if ns.custom_cards %}
-          <div class="custom-card-warning">WARNING: This card is a part of a custom card set; it is not an official Wizards of the Coast TF:TCG card.</div>
+          <div class="custom-card-warning">NOTE: This card is a part of a custom card set; it is not an official Wizards of the Coast TF:TCG card.</div>
         {% endif %}
 
         <h3 class="card_title">{{ faq_name }}</h3>
@@ -59,7 +59,7 @@
         <a name="{{ faq_node[3] }}__{{ faq_node[2].attrib['id'] }}"/>
         {% if not ns.custom_cards %}
           {% if f_is_custom_source(faq_node[0]) %}
-            <span class="custom-card-warning-entry">CUSTOM CARD WARNING</span><br/>
+            <span class="custom-card-warning-entry">CUSTOM CARD NOTE</span><br/>
           {% endif %}
         {% endif %}
 
