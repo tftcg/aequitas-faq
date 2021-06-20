@@ -194,12 +194,12 @@ a.external {
     padding: 1em;
     margin-top: 2em;
     border-radius: 6px;
-    background-color: #f63333;
+    background-color: #f67c33;
     display: inline-block;
 }
 .custom-card-warning-entry {
     padding: 1px 5px;
     border-radius: 6px;
-    background-color: #f63333;
+    background-color: #f67c33;
     display: inline-block;
 }
