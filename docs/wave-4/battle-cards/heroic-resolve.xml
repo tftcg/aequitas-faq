@@ -9,4 +9,12 @@
       <question>How does Heroic Resolve with other effects that try to modify how much attack damage is done to a character?</question>
       <answer>If there are multiple abilities trying to modify how much attack damage the upgraded character would take, the controller of that character decides what order to apply them in. See the entry for Blast Suit for an example.</answer>
     </entry>
-  </target></faq>
+  <entry source="Aequitas Rules Roundup 2022-08-23" id="5" tags="Grimlock - Dinobot Leader">
+            <question>
+                If I Steamroll into an Autobot and KO them, but my opponent reveals a Heroic Resolve; do I do any additional damage?
+            </question>
+            <answer>
+                No - the Autobot was not in fact KO'd.
+            </answer>
+        </entry>
+    </target></faq>

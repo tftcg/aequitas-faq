@@ -54,4 +54,12 @@ Beginning player here, not sure where else to go for clarification in general. M
 Kickback’s ability does 1 Damage before Attack damage is applied, thus disabling Safeguard. Congratulations on your crushing theoretical victory!
 </answer>
     </entry>
+    <entry source="Aequitas Rules Roundup 2022-08-23" id="3">
+            <question>
+                How does Steamroll and Grimlock, Dinobot Leader's bot mode ability work when KO'ing an undamaged character with Safeguard?
+            </question>
+            <answer>
+                Attempting to Steamroll into an undamaged character with three health, such as Slammer, Combat Drone, and Safeguard 3 (for example Medic's Protective Field) will first see the damage reduced to 3 damage, and then KO the defender. No additional attack damage would be available to be steamrolled into another enemy.
+            </answer>
+        </entry>
     </target></faq>

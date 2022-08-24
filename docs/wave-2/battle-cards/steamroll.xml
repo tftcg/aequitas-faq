@@ -70,6 +70,22 @@ What happens when you put the Steamroll action on Grimlock - Dinobot Leader and 
 Only one effect will work. There’s no extra damage after the first effect applies.
       </answer>
     </entry>
+    <entry source="Aequitas Rules Roundup 2022-08-23" id="3">
+            <question>
+                How does Steamroll and Grimlock, Dinobot Leader's bot mode ability work when KO'ing an undamaged character with Safeguard?
+            </question>
+            <answer>
+                Attempting to Steamroll into an undamaged character with three health, such as Slammer, Combat Drone, and Safeguard 3 (for example Medic's Protective Field) will first see the damage reduced to 3 damage, and then KO the defender. No additional attack damage would be available to be steamrolled into another enemy.
+            </answer>
+        </entry>
+    <entry source="Aequitas Rules Roundup 2022-08-23" id="5" tags="Grimlock - Dinobot Leader">
+            <question>
+                If I Steamroll into an Autobot and KO them, but my opponent reveals a Heroic Resolve; do I do any additional damage?
+            </question>
+            <answer>
+                No - the Autobot was not in fact KO'd.
+            </answer>
+        </entry>
     <entry source="Aequitas Rules Roundup 2021-06-03" id="7">
             <question>
                 If you attack with Nightbird and use her bounty ability, can you use steamroll from the opponent's scrap pile?

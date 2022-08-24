@@ -6,4 +6,12 @@ What happens when I play Medic's Protective Field on Private Smokescreen (Alt Mo
 Because the Safeguard value is the same, having two instances of it has no additional effect. Smokescreen can’t take more than 3 damage if undamaged. However, if a character has two instances of Safeguard with different values, the lowest value wins. For example, if a character has Safeguard 1 and Safeguard 3, that character can’t take more than 1 damage if undamaged.
       </answer>
     </entry>
+    <entry source="Aequitas Rules Roundup 2022-08-23" id="3">
+            <question>
+                How does Steamroll and Grimlock, Dinobot Leader's bot mode ability work when KO'ing an undamaged character with Safeguard?
+            </question>
+            <answer>
+                Attempting to Steamroll into an undamaged character with three health, such as Slammer, Combat Drone, and Safeguard 3 (for example Medic's Protective Field) will first see the damage reduced to 3 damage, and then KO the defender. No additional attack damage would be available to be steamrolled into another enemy.
+            </answer>
+        </entry>
     </target></faq>
