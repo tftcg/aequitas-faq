@@ -45,7 +45,7 @@
     <target name="All-Out Attack">
       <entry id="7">
         <answer>
-          This card has errata in 1.1. This errata was issued by the Aequitas rulings committee.
+          This errata was issued by the Aequitas rulings committee.
         </answer>
       </entry>
     </target>
@@ -73,13 +73,6 @@
       <entry id="10">
         <answer>
           This card will also allow you to play in multiples Weapons that can fit into a single Weapons slot, including Tentacle Upgrades and Multi-Missile Pod.
-        </answer>
-      </entry>
-    </target>
-    <target name="Aspect of Laughter">
-      <entry id="11">
-        <answer>
-          This card has errata in 1.1.
         </answer>
       </entry>
     </target>
@@ -111,11 +104,6 @@
       </entry>
     </target>
     <target name="Discordant Cacophony">
-      <entry id="14">
-        <answer>
-          This card will have errata in 1.2.
-        </answer>
-      </entry>
       <entry id="15">
         <answer>
           As of this (FAQ's) writing, the only characters in the abilities box that exist either in cards in the official game or cards created by Team Bayformers are the following:
@@ -127,13 +115,6 @@
           <li>Soundblaster (Wave 4)</li>
           <li>Soundwave (Wave 3 and Blaster vs. Soundwave)</li>
          </ul>
-        </answer>
-      </entry>
-    </target>
-    <target name="“Dutch”">
-      <entry id="16">
-        <answer>
-          This card has errata in 1.1.
         </answer>
       </entry>
     </target>
@@ -158,19 +139,7 @@
         </answer>
       </entry>
     </target>
-    <target name="Secret Missive">
-      <entry id="20">
-        <answer>
-          This card has errata in 1.1.
-        </answer>
-      </entry>
-    </target>
     <target name="Shield Crash">
-      <entry id="21">
-        <answer>
-          This card has errata in 1.1.
-        </answer>
-      </entry>
       <entry id="22">
         <answer>
           Shield Crash effectively swaps your chosen character’s Attack and Defense values at the moment of play. Events that modify those values after the moment of play (like flips) work as normal.
@@ -199,11 +168,6 @@
       </entry>
     </target>
     <target name="Turnabout Snare">
-      <entry id="26">
-        <answer>
-          This card has errata in 1.1.
-        </answer>
-      </entry>
       <entry id="27">
         <answer>
           At reveal, Turnabout Snare effectively swaps the attacker’s Attack and Defense values. Events that modify those values after reveal (like flips) work as normal.
@@ -308,31 +272,10 @@
         </answer>
       </entry>
     </target>
-    <target name="Sharkticon Biter - Brazen Berserker">
-      <entry id="35">
-        <answer>
-          This card has errata in 1.1.
-        </answer>
-      </entry>
-    </target>
     <target name="Tow-Line - Signals Engineer">
       <entry id="36">
         <answer>
           Tow-Line’s bot mode ability, when it qualifies on the battle flip, can return a face-up Secret Action or an Action you played during the turn in your hand after the battle.
-        </answer>
-      </entry>
-    </target>
-    <target name="Brutal Conditioning">
-      <entry id="37">
-        <answer>
-          This card has errata in 1.1.
-        </answer>
-      </entry>
-    </target>
-    <target name="Colossal Cannons">
-      <entry id="38">
-        <answer>
-          This card has errata in 1.1.
         </answer>
       </entry>
     </target>
@@ -343,24 +286,10 @@
         </answer>
       </entry>
     </target>
-    <target name="In the Name of Slingshot">
-      <entry id="40">
-        <answer>
-          This card has errata in 1.1.
-        </answer>
-      </entry>
-    </target>
     <target name="I’ve Got Your Back">
       <entry id="41">
         <answer>
           This pre-release Stratagem is not valid for play in current release versions. Future waves may reintroduce this card.
-        </answer>
-      </entry>
-    </target>
-    <target name="Off-Road Cycle">
-      <entry id="42">
-        <answer>
-          This card is the errata’d version of Vehicle: Off-Road Cycle starting in 1.2. See also the stratagem entry for Vehicle: Off-Road Cycle.
         </answer>
       </entry>
     </target>
@@ -378,27 +307,6 @@
         </answer>
       </entry>
     </target>
-    <target name="Sound the Alarm">
-      <entry id="45">
-        <answer>
-          This card has errata in 1.1.
-        </answer>
-      </entry>
-    </target>
-    <target name="Stuck on You">
-      <entry id="46">
-        <answer>
-          This card has errata in 1.1.
-        </answer>
-      </entry>
-    </target>
-    <target name="The Last Line of Defense">
-      <entry id="47">
-        <answer>
-          This card has errata in 1.1.
-        </answer>
-      </entry>
-    </target>
     <target name="The Solo Job">
       <entry id="48">
         <answer>
@@ -407,11 +315,6 @@
       </entry>
     </target>
     <target name="Thermal Reciprocation">
-      <entry id="49">
-        <answer>
-          This card has errata in 1.1.
-        </answer>
-      </entry>
       <entry id="50">
         <answer>
           The stat bonuses on Thermal Reciprocation affect all stat boxes in each mode of Autobot Powerglide, Haughty Show-Off. Therefore, with this Stratagem in play, Powerglide in alt mode has 3 Attack and 10 Health, Powerglide in bot mode has 4 Attack and 10 Health, and the S2 Thermal Reciprocator grants +3 Attack to an upgraded character.
@@ -419,11 +322,6 @@
       </entry>
     </target>
     <target name="Third Party Brigade">
-      <entry id="51">
-        <answer>
-          This card has errata in 1.1.
-        </answer>
-      </entry>
       <entry id="52">
         <answer>
           Unlike when playing Recon System, when playing this Stratagem and attacking with your Combaticons, you do not flip an additional card after scrapping the first black pip card you flip. This is a designed drawback of playing this Stratagem.
@@ -431,11 +329,6 @@
       </entry>
     </target>
     <target name="This Gun for Hire">
-      <entry id="53">
-        <answer>
-          This card has errata in 1.1.
-        </answer>
-      </entry>
       <entry id="54">
         <answer>
           The stat bonuses on This Gun for Hire affect all stat boxes in each mode of Shockblast, Galactic Man. Therefore, with this Stratagem in play, Shockblast in alt mode has 4 Attack and 9 Health, Shockblast in bot mode has 3 Attack and 9 Health, and the Astro Magnum grants +3 Attack to an upgraded character.
@@ -450,11 +343,6 @@
       </entry>
     </target>
     <target name="Vehicle: Off-Road Cycle">
-      <entry id="56">
-        <answer>
-          This card will have errata in 1.2. See also the stratagem entry for Off-Road Cycle.
-        </answer>
-      </entry>
       <entry id="57">
         <answer>
           This Stratagem primarily exists as a teaser for future new mechanics. The Vehicle descriptor does not currently grant any additional abilities beyond what is stated in the reminder text. When this is flipped, return a Sidecar Artillery from your scrap pile to your hand. This can only happen once per game.
