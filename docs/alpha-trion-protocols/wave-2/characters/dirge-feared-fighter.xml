@@ -1,4 +1,4 @@
-<faq><target name="Dirge - Feared Fighter"><entry source="Alpha Trion Protocols:Wave 2 FAQ" id="5">
+<faq><target name="Dirge - Feared Fighter"><entry source="ATP:Alpha Trion Protocols Wave 2 FAQ" id="5">
         <question>
             Why can’t I bring Dirge back from my KO area?
         </question>
@@ -6,7 +6,7 @@
             Dirge has the ability to bring back a Blank card when KO’d, we did not want to create any “infinite loop” type scenario with the character due to cards like I Still Function and Involuntary Promotion.
         </answer>
       </entry>
-      <entry source="Alpha Trion Protocols:Wave 2 FAQ" id="6">
+      <entry source="ATP:Alpha Trion Protocols Wave 2 FAQ" id="6">
         <question>
             Dirge has the ability to bring back a Blank pip card, does that mean Action or Upgrade?
         </question>

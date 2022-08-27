@@ -76,15 +76,20 @@ def mkdirp(directory):
 def source_label(source_name):
     if("Aequitas" in source_name):
         return 'Aequitas'
-    elif(is_custom_source(source_name)):
-        return source_name.split(':')[0]
+    elif(get_custom_source(source_name)):
+        return source_name.split(':')[1]
     elif("FAQ" in source_name or "Roundup" in source_name):
         return 'WotC'
     else:
         return 'Community'
 
-def is_custom_source(source_name):
-    return ":" in source_name
+def get_custom_source(source_name):
+    if("ATP" in source_name):
+        return 'Alpha Trion Protocols'
+    elif(source_name.startswith('AP ')):
+        return 'Allied Crossplay'
+    else:
+        return None
 
 def generate_source_url(faqfile, source_url):
     if(source_url == "" or 'wizards.com' in source_url or 'facebook.com/notes/transformers-trading-card-game' in source_url):
@@ -154,7 +159,7 @@ def generate_leaf(tag_node, faq_db, output_dir, leaf_template, hyperlinker, pare
                     found_entries.append( [source_name, source_url, entry_node, faqfile_name, hyperlinks, target_name] )
 
     if(len(found_entries) != 0):
-        page = leaf_template.render(f_safe_name=safe_name, f_prepare_text=prepare_text, entries=found_entries, faq_name=leaf_name, f_source_label=source_label, f_is_custom_source=is_custom_source, parent_stack=parent_stack, tag_node=tag_node, filename=filename[len(TOP_OUTPUT_DIR)+1:], pretty_path=pretty_path, f_build_image_path=build_image_path, faq_db=faq_db )
+        page = leaf_template.render(f_safe_name=safe_name, f_prepare_text=prepare_text, entries=found_entries, faq_name=leaf_name, f_source_label=source_label, f_get_custom_source=get_custom_source, parent_stack=parent_stack, tag_node=tag_node, filename=filename[len(TOP_OUTPUT_DIR)+1:], pretty_path=pretty_path, f_build_image_path=build_image_path, faq_db=faq_db )
 
         f = open(filename, "w")
         f.write(page)

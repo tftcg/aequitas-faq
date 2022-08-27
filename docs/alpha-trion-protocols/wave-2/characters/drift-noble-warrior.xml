@@ -1,4 +1,4 @@
-<faq><target name="Drift - Noble Warrior"><entry source="Alpha Trion Protocols:Wave 2 FAQ" id="7">
+<faq><target name="Drift - Noble Warrior"><entry source="ATP:Alpha Trion Protocols Wave 2 FAQ" id="7">
         <question>
             Why does he deal himself a damage at the start of the game instead of starting with 1 less HP?
         </question>
@@ -6,7 +6,7 @@
             We elected to give him the ability to do damage to himself for 2 core reasons. The first being a nod to the “lore” aspect of the character. The second being the potential of expanded future design space. Characters starting with damage on them open up many Battle card interactions.
         </answer>
       </entry>
-      <entry source="Alpha Trion Protocols:Wave 2 FAQ" id="8">
+      <entry source="ATP:Alpha Trion Protocols Wave 2 FAQ" id="8">
         <question>
             My opponent has a Fangry with Parsec; does Drift have Stealth from him in alt mode?
         </question>
@@ -14,7 +14,7 @@
             Yes, Fangry may have the Autobot Tag, but is still a Decepticon and Drift’s Ability will grant him Stealth against him. This is in line with the WotC ruling of inclusivity of Faction;having “Stealth against Decepticons” might as well read “Stealth against Decepticons+”.  If there were ever a situation in the future where a dual-faction Decepticon-Mercenary was available to your opponent, Drift would have Stealth from that character, as well.
         </answer>
       </entry>
-      <entry source="Alpha Trion Protocols:Wave 2 FAQ" id="9">
+      <entry source="ATP:Alpha Trion Protocols Wave 2 FAQ" id="9">
         <question>
             My opponent has a Perceptor with Grax; does Drift have Stealth from him in alt mode?
         </question>
@@ -22,7 +22,7 @@
             Perceptor may have the Autobot Tag but is still a Decepticon because of the Grax head.  Thus, Drift’s Ability will grant him Stealth in this scenario.
         </answer>
       </entry>
-      <entry source="Alpha Trion Protocols:Wave 2 FAQ" id="10">
+      <entry source="ATP:Alpha Trion Protocols Wave 2 FAQ" id="10">
         <question>
             Can I flip Drift to alt mode and not do him 2 damage?
         </question>
@@ -30,7 +30,7 @@
             Yes, you only need to do the damage if you choose to use the ability.
         </answer>
       </entry>
-      <entry source="Alpha Trion Protocols:Wave 2 FAQ" id="11">
+      <entry source="ATP:Alpha Trion Protocols Wave 2 FAQ" id="11">
         <question>
             My opponent has a tapped character and an untapped Fangry with Parsec; if I flip Drift to bot mode and deal him 2, can I attack the Fangry/Parsec?
         </question>
@@ -38,7 +38,7 @@
             Yes.
         </answer>
       </entry>
-      <entry source="Alpha Trion Protocols:Wave 2 FAQ" id="12">
+      <entry source="ATP:Alpha Trion Protocols Wave 2 FAQ" id="12">
         <question>
             My opponent has a tapped character and an untapped Perceptor with Grax; if I flip Drift to bot mode and deal him 2, can I attack the Perceptor /Grax?
         </question>
@@ -46,7 +46,7 @@
             Yes.
         </answer>
       </entry>
-      <entry source="Alpha Trion Protocols:Wave 2 FAQ" id="13">
+      <entry source="ATP:Alpha Trion Protocols Wave 2 FAQ" id="13">
         <question>
             If my opponent has a tapped character with Brave and I flip Drift to bot mode and do 2 to him, can I attack one of my opponent’s untapped characters and ignore the Brave guy?
         </question>

@@ -1,4 +1,4 @@
-<faq><target name="Valiant Effort"><entry source="Alpha Trion Protocols:Wave 3 FAQ" id="71">
+<faq><target name="Valiant Effort"><entry source="ATP:Alpha Trion Protocols Wave 3 FAQ" id="71">
         <question>
           If I have a Leader on my team, who can I give the +3 ATK to?
         </question>
@@ -6,7 +6,7 @@
           You can only give one of your Leader characters the +3 ATK. If you have multiple Leaders, you can choose between them to receive this bonus.
         </answer>
       </entry>
-      <entry source="Alpha Trion Protocols:Wave 3 FAQ" id="72">
+      <entry source="ATP:Alpha Trion Protocols Wave 3 FAQ" id="72">
         <question>
           Can I play this card if I have no Leaders on my team?
         </question>
@@ -14,7 +14,7 @@
           Yes. You would only get the second ability then, as long as you have a Ranged character.
         </answer>
       </entry>
-      <entry source="Alpha Trion Protocols:Wave 3 FAQ" id="73">
+      <entry source="ATP:Alpha Trion Protocols Wave 3 FAQ" id="73">
         <question>
           Can I play this card if I have no Ranged characters on my team?
         </question>
@@ -22,7 +22,7 @@
           Yes. You would only get the first ability then, as long as you have a Leader character.
         </answer>
       </entry>
-      <entry source="Alpha Trion Protocols:Wave 3 FAQ" id="74">
+      <entry source="ATP:Alpha Trion Protocols Wave 3 FAQ" id="74">
         <question>
           If I have both a Leader and a Ranged character on my team, do I get both effects?
         </question>
@@ -30,7 +30,7 @@
           Yes. The card does not ask you to choose.
         </answer>
       </entry>
-      <entry source="Alpha Trion Protocols:Wave 3 FAQ" id="75">
+      <entry source="ATP:Alpha Trion Protocols Wave 3 FAQ" id="75">
         <question>
           Can I play this card if I have neither a Leader, nor a Ranged character on my team?
         </question>

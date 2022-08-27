@@ -1,4 +1,4 @@
-<faq><target name="Wheeljack, Outsider"><entry source="Alpha Trion Protocols:Wave 3 FAQ" id="33">
+<faq><target name="Wheeljack, Outsider"><entry source="ATP:Alpha Trion Protocols Wave 3 FAQ" id="33">
         <question>
           If I started with him and 1 other Car on my team, but I flip the other Car to a mode where it doesn’t have that trait anymore, does he have Bold 2 now?
         </question>
@@ -6,7 +6,7 @@
           Yes. Characters only have the traits of their active (read: face-up) side, and Wheeljack’s first Alt mode ability uses “while”, which means it is constantly checking to see your other characters’ traits.
         </answer>
       </entry>
-      <entry source="Alpha Trion Protocols:Wave 3 FAQ" id="34">
+      <entry source="ATP:Alpha Trion Protocols Wave 3 FAQ" id="34">
         <question>
           When I use his flip-to-Alt ability, do I have to do one damage to one of my Wreckers?
         </question>
@@ -14,7 +14,7 @@
           No, you do not. The “may” makes this an optional ability.
         </answer>
       </entry>
-      <entry source="Alpha Trion Protocols:Wave 3 FAQ" id="35">
+      <entry source="ATP:Alpha Trion Protocols Wave 3 FAQ" id="35">
         <question>
           When I use his flip-to-Alt ability, can I do 1 damage to one of my Wreckers and NOT play the card?
         </question>

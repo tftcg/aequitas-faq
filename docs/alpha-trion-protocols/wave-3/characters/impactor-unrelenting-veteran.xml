@@ -1,4 +1,4 @@
-<faq><target name="Impactor, Unrelenting Veteran"><entry source="Alpha Trion Protocols:Wave 3 FAQ" id="8">
+<faq><target name="Impactor, Unrelenting Veteran"><entry source="ATP:Alpha Trion Protocols Wave 3 FAQ" id="8">
         <question>
           If I use Hunker Down, do I get to use his Alt mode ability?
         </question>
@@ -6,7 +6,7 @@
           No. You have to be in his Alt mode at the start of your turn to have the option to use this ability.
         </answer>
       </entry>
-      <entry source="Alpha Trion Protocols:Wave 3 FAQ" id="9">
+      <entry source="ATP:Alpha Trion Protocols Wave 3 FAQ" id="9">
         <question>
           Does his Bot mode ability apply to himself?
         </question>
@@ -14,7 +14,7 @@
           Yes, as long as he is damaged.
         </answer>
       </entry>
-      <entry source="Alpha Trion Protocols:Wave 3 FAQ" id="10">
+      <entry source="ATP:Alpha Trion Protocols Wave 3 FAQ" id="10">
         <question>
           Can I use the Alt mode ability even if no enemy characters have at least 10 damage on them?
         </question>
