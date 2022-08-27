@@ -1,0 +1,31 @@
+<?xml version="1.0"?>
+<faq name="AP Wave 8:Waste|Lands FAQ" source_url="https://www.bayformers.net/faq/" published_date="2020-12-31" sourced_at="2021-06-19">
+    <target name="Custom Junkion Saddle">
+      <entry id="1">
+        <answer>
+            Just like characters with stations already on them, a character cannot take the Junkion Saddle station on another character that has been upgraded with Custom Junkion Saddle unless the upgraded character is tapped. You can tap the Custom Junkion Saddle when the character upgraded with it is tapped to help you remember.
+        </answer>
+      </entry>
+    </target>
+    <target name="Combat Deck">
+      <entry id="2">
+        <answer>
+            Combat Deck enters play “tapped” in landscape orientation. This means its stations are immediately available for play.
+        </answer>
+      </entry>
+    </target>
+    <target name="The City's Finest Views">
+      <entry id="3">
+        <answer>
+            Just like characters with stations already on them, a character cannot take the Observation Deck station on a Titan with that station unless the Titan is tapped. You can tap The City’s Finest Views when the Titan is tapped to help you remember.
+        </answer>
+      </entry>
+    </target>
+    <target name="This Shall Be Your Ship">
+      <entry id="4">
+        <answer>
+            This Shall Be Your Ship enters play untapped. When the conditions of its “quest” are fulfilled and it flips to its other side, it becomes “tapped” in landscape orientation. Once flipped, its stations are immediately available for play.
+        </answer>
+      </entry>
+    </target>
+</faq>

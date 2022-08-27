@@ -838,6 +838,16 @@
           <tag name="Tow-Line - Signals Engineer"/>
         </category>
     </category>
+    <category name="Wave 8">
+        <category name="Battle Cards">
+          <tag name="Custom Junkion Saddle" markup_required="true"/>
+        </category>
+        <category name="Stratagems">
+          <tag name="Combat Deck" markup_required="true"/>
+          <tag name="The City's Finest Views" markup_required="true"/>
+          <tag name="This Shall Be Your Ship" markup_required="true"/>
+        </category>
+    </category>
     <category name="Wave 9">
         <category name="Keywords">
           <tag name="Horde" markup_required="true"/>
