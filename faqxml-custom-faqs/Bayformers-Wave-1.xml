@@ -286,13 +286,6 @@
         </answer>
       </entry>
     </target>
-    <target name="I’ve Got Your Back">
-      <entry id="41">
-        <answer>
-          This pre-release Stratagem is not valid for play in current release versions. Future waves may reintroduce this card.
-        </answer>
-      </entry>
-    </target>
     <target name="Orbital Command">
       <entry id="43">
         <answer>
