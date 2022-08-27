@@ -778,6 +778,125 @@
             <tag name="Tidal Wave - Dark Fleet" wave_code="PRO"/>
         </category>
     </category>
+    <category name="Wave 6">
+        <category name="Keywords">
+          <tag name="Action Masters"/>
+          <tag name="Allicons"/>
+          <tag name="Characters in multiple factions"/>
+          <tag name="Judges"/>
+          <tag name="Sharkticons"/>
+          <tag name="Tentacle Upgrades"/>
+        </category>
+        <category name="Battle Cards">
+          <tag name="All-Out Attack"/>
+          <tag name="Angolmois Surge"/>
+          <tag name="Are These Wires Important?"/>
+          <tag name="Armed to the Teeth"/>
+          <tag name="Aspect of Laughter"/>
+          <tag name="Assuming Control"/>
+          <tag name="CNA-Encoded Armory"/>
+          <tag name="Discordant Cacophony"/>
+          <tag name="“Dutch”"/>
+          <tag name="Forked Tentacle"/>
+          <tag name="Loading the Cannon"/>
+          <tag name="Premature Firing"/>
+          <tag name="Secret Missive"/>
+          <tag name="Shield Crash"/>
+          <tag name="Squid Pro Quo"/>
+          <tag name="The Dweller Awakens"/>
+          <tag name="The Power to Bite"/>
+          <tag name="Turnabout Snare"/>
+          <tag name="United Against Tyranny"/>
+        </category>
+        <category name="Stratagems">
+          <tag name="Brutal Conditioning"/>
+          <tag name="Colossal Cannons"/>
+          <tag name="Hit Me With That Beat"/>
+          <tag name="In the Name of Slingshot"/>
+          <tag name="I’ve Got Your Back"/>
+          <tag name="Off-Road Cycle"/>
+          <tag name="Orbital Command"/>
+          <tag name="Pit of Judgement"/>
+          <tag name="Sound the Alarm"/>
+          <tag name="Stuck on You"/>
+          <tag name="The Last Line of Defense"/>
+          <tag name="The Solo Job"/>
+          <tag name="Thermal Reciprocation"/>
+          <tag name="Third Party Brigade"/>
+          <tag name="This Gun for Hire"/>
+          <tag name="V2 Sonicsurge Drone Armor"/>
+          <tag name="Vehicle: Off-Road Cycle"/>
+        </category>
+        <category name="Characters">
+          <tag name="Axor - Opportunistic Fencer"/>
+          <tag name="Gilthor - Chained Amalgamation"/>
+          <tag name="Mind Control Collar"/>
+          <tag name="Mind Control Helmet"/>
+          <tag name="Nacelle - Eager Aerospace Engineer"/>
+          <tag name="Optimus Prime - Dark Awakening"/>
+          <tag name="Sharkticon Biter - Brazen Berserker"/>
+          <tag name="Tow-Line - Signals Engineer"/>
+        </category>
+    </category>
+    <category name="Wave 9">
+        <category name="Keywords">
+          <tag name="Horde" markup_required="true"/>
+        </category>
+        <category name="Battle Cards">
+          <tag name="300-TT Crusher Craw" markup_required="true"/>
+          <tag name="Aerial Superority " markup_required="true"/>
+          <tag name="Alliance" markup_required="true"/>
+          <tag name="Apex Armor" markup_required="true"/>
+          <tag name="Assault Formation" markup_required="true"/>
+          <tag name="Beast Mode" markup_required="true"/>
+          <tag name="Combaticon Enigma" markup_required="true"/>
+          <tag name="Death to the Weak" markup_required="true"/>
+          <tag name="Electro Stinger of Scorponok" markup_required="true"/>
+          <tag name="Energon Sword" markup_required="true"/>
+          <tag name="Feral Tenacity" markup_required="true"/>
+          <tag name="Racing Stripes" markup_required="true"/>
+          <tag name="Scan the Vaults" markup_required="true"/>
+          <tag name="Sharkticon Mace" markup_required="true"/>
+          <tag name="Spoils of War" markup_required="true"/>
+          <tag name="Starscream’s Cape" markup_required="true"/>
+          <tag name="This Is Bad Comedy" markup_required="true"/>
+          <tag name="Trythilium Plating" markup_required="true"/>
+          <tag name="Tsunami Blaster" markup_required="true"/>
+        </category>
+        <category name="Stratagems">
+          <tag name="Arise, Rodimus Prime" markup_required="true"/>
+          <tag name="Arm The Lonely" markup_required="true"/>
+          <tag name="Barbaric Rage" markup_required="true"/>
+          <tag name="Brothers In Armor" markup_required="true"/>
+          <tag name="Do it with Style!" markup_required="true"/>
+          <tag name="Drop Your Weapons!" markup_required="true"/>
+          <tag name="I Don’t Break The Rules, I Just Bend Them – A Lot" markup_required="true"/>
+          <tag name="Mayhem" markup_required="true"/>
+          <tag name="Paranoia" markup_required="true"/>
+          <tag name="Predacon Fortitude" markup_required="true"/>
+          <tag name="Quest for Fire" markup_required="true"/>
+          <tag name="Starscream’s Brigade" markup_required="true"/>
+          <tag name="Such Heroic Nonsense" markup_required="true"/>
+          <tag name="Unstoppable" markup_required="true"/>
+        </category>
+        <category name="Characters">
+          <tag name="Beastbox - Savage Interrogator" markup_required="true"/>
+          <tag name="Cyclonus - Loyal Enforcer" markup_required="true"/>
+          <tag name="Ghost of Starscream - Annoying Apparition" markup_required="true"/>
+          <tag name="Megatron - Autobot Bane" markup_required="true"/>
+          <tag name="Ratbat - Calculating Scout" markup_required="true"/>
+          <tag name="Rodimus Prime - Worthy Leader" markup_required="true"/>
+          <tag name="Rumble - Demolition Expert" markup_required="true"/>
+          <tag name="Scorponok - Brutal Warlord" markup_required="true"/>
+          <tag name="Sharkticon - Feeding Frenzy" markup_required="true"/>
+          <tag name="Sky-Byte - Harbinger of Doom" markup_required="true"/>
+          <tag name="Specialist Countdown - Transport &amp; Space Explorer" markup_required="true"/>
+          <tag name="Sunstreaker - Arrogant Daredevil" markup_required="true"/>
+          <tag name="Wheelie - Rhyming Racer" markup_required="true"/>
+          <tag name="Wreck-Gar - Junkion Leader" markup_required="true"/>
+          <tag name="Bruticus - Unstoppable Giant" markup_required="true"/>
+        </category>
+    </category>
     <category name="Tournaments">
         <category name="Constructed">
             <tag name="Contructed Deck Construction"/>
@@ -795,198 +914,73 @@
         <tag name="Tie-Break"/>
         <tag name="Tournament Rules"/>
     </category>
-    <category name="Custom Cards">
-        <category name="Alpha Trion Protocols">
-            <category name="Wave 2">
-              <category name="Keywords">
-                <tag name="Sturdy" markup_required="true"/>
-                <tag name="Seeker" markup_required="true"/>
-              </category>
-              <category name="Battle Cards">
-                <tag name="Aerial Defense Armaments" markup_required="true"/>
-                <tag name="Bullseye Aegis" markup_required="true"/>
-                <tag name="Catch Off Guard" markup_required="true"/>
-                <tag name="Hands-Free Artillery" markup_required="true"/>
-                <tag name="Interrogation" markup_required="true"/>
-                <tag name="Ionizer Sword" markup_required="true"/>
-                <tag name="Lock On Lasers" markup_required="true"/>
-                <tag name="Spotlights" markup_required="true"/>
-                <tag name="Survive" markup_required="true"/>
-                <tag name="Take By Surprise" markup_required="true"/>
-              </category>
-              <category name="Stratagems">
-                <tag name="Bow Before Me" markup_required="true"/>
-                <tag name="Coordinated Aerial Tactics" markup_required="true"/>
-                <tag name="Drop’ Em" markup_required="true"/>
-                <tag name="High-Speed Chase" markup_required="true"/>
-                <tag name="Master Builder" markup_required="true"/>
-                <tag name="Whatever it Takes" markup_required="true"/>
-              </category>
-              <category name="Characters">
-                <tag name="Dirge - Feared Fighter" markup_required="true"/>
-                <tag name="Drift - Noble Warrior" markup_required="true"/>
-                <tag name="Huffer - Construction Engineer." markup_required="true"/>
-                <tag name="Motormaster - Stunticon Don" markup_required="true"/>
-                <tag name="Raider Overkill - Spy Patrol Havoc Wreaker" markup_required="true"/>
-                <tag name="Ramjet - Hellish Hooligan" markup_required="true"/>
-                <tag name="Silverbolt - Aerialbot Commander" markup_required="true"/>
-                <tag name="Soundwave - Intelligence Coordinator" markup_required="true"/>
-                <tag name="Thrust - Boisterous Brawler" markup_required="true"/>
-              </category>
-            </category>
-            <category name="Wave 3">
-              <category name="Battle Cards">
-                <tag name="Armored Assault" markup_required="true"/>
-                <tag name="Aura Of Dominance" markup_required="true"/>
-                <tag name="Despite Any Difficulty" markup_required="true"/>
-                <tag name="Dogfight" markup_required="true"/>
-                <tag name="Harpoon Gun" markup_required="true"/>
-                <tag name="Howling Howitzer" markup_required="true"/>
-                <tag name="Never A Dull Moment" markup_required="true"/>
-                <tag name="Outflank" markup_required="true"/>
-                <tag name="Valiant Effort" markup_required="true"/>
-              </category>
-              <category name="Stratagems">
-                <tag name="Fire And Fury" markup_required="true"/>
-                <tag name="Unbreachable" markup_required="true"/>
-              </category>
-              <category name="Characters">
-                <tag name="Banzaitron, Devious Orchestrator" markup_required="true"/>
-                <tag name="Highbrow, Malware Brigadier" markup_required="true"/>
-                <tag name="Impactor, Unrelenting Veteran" markup_required="true"/>
-                <tag name="Overlord, Sadistic Phase Sixer" markup_required="true"/>
-                <tag name="Ransack, Hungry for Battle" markup_required="true"/>
-                <tag name="Seaspray, Consummate Sailor" markup_required="true"/>
-                <tag name="Slipstream, Spy-for-Hire" markup_required="true"/>
-                <tag name="Snapdragon, Ruthless Combatant" markup_required="true"/>
-                <tag name="Starscream, Covetous Crony" markup_required="true"/>
-                <tag name="Wheeljack, Outsider" markup_required="true"/>
-                <tag name="Whirl, Lunatic Aerialist" markup_required="true"/>
-              </category>
-            </category>
+    <category name="Alpha Trion Protocols">
+        <category name="Wave 2">
+          <category name="Keywords">
+            <tag name="Sturdy" markup_required="true"/>
+            <tag name="Seeker" markup_required="true"/>
+          </category>
+          <category name="Battle Cards">
+            <tag name="Aerial Defense Armaments" markup_required="true"/>
+            <tag name="Bullseye Aegis" markup_required="true"/>
+            <tag name="Catch Off Guard" markup_required="true"/>
+            <tag name="Hands-Free Artillery" markup_required="true"/>
+            <tag name="Interrogation" markup_required="true"/>
+            <tag name="Ionizer Sword" markup_required="true"/>
+            <tag name="Lock On Lasers" markup_required="true"/>
+            <tag name="Spotlights" markup_required="true"/>
+            <tag name="Survive" markup_required="true"/>
+            <tag name="Take By Surprise" markup_required="true"/>
+          </category>
+          <category name="Stratagems">
+            <tag name="Bow Before Me" markup_required="true"/>
+            <tag name="Coordinated Aerial Tactics" markup_required="true"/>
+            <tag name="Drop’ Em" markup_required="true"/>
+            <tag name="High-Speed Chase" markup_required="true"/>
+            <tag name="Master Builder" markup_required="true"/>
+            <tag name="Whatever it Takes" markup_required="true"/>
+          </category>
+          <category name="Characters">
+            <tag name="Dirge - Feared Fighter" markup_required="true"/>
+            <tag name="Drift - Noble Warrior" markup_required="true"/>
+            <tag name="Huffer - Construction Engineer." markup_required="true"/>
+            <tag name="Motormaster - Stunticon Don" markup_required="true"/>
+            <tag name="Raider Overkill - Spy Patrol Havoc Wreaker" markup_required="true"/>
+            <tag name="Ramjet - Hellish Hooligan" markup_required="true"/>
+            <tag name="Silverbolt - Aerialbot Commander" markup_required="true"/>
+            <tag name="Soundwave - Intelligence Coordinator" markup_required="true"/>
+            <tag name="Thrust - Boisterous Brawler" markup_required="true"/>
+          </category>
         </category>
-        <category name="Ark">
-            <category name="Wave 1">
-              <category name="Keywords">
-                <tag name="Horde" markup_required="true"/>
-              </category>
-              <category name="Battle Cards">
-                <tag name="300-TT Crusher Craw" markup_required="true"/>
-                <tag name="Aerial Superority " markup_required="true"/>
-                <tag name="Alliance" markup_required="true"/>
-                <tag name="Apex Armor" markup_required="true"/>
-                <tag name="Assault Formation" markup_required="true"/>
-                <tag name="Beast Mode" markup_required="true"/>
-                <tag name="Combaticon Enigma" markup_required="true"/>
-                <tag name="Death to the Weak" markup_required="true"/>
-                <tag name="Electro Stinger of Scorponok" markup_required="true"/>
-                <tag name="Energon Sword" markup_required="true"/>
-                <tag name="Feral Tenacity" markup_required="true"/>
-                <tag name="Racing Stripes" markup_required="true"/>
-                <tag name="Scan the Vaults" markup_required="true"/>
-                <tag name="Sharkticon Mace" markup_required="true"/>
-                <tag name="Spoils of War" markup_required="true"/>
-                <tag name="Starscream’s Cape" markup_required="true"/>
-                <tag name="This Is Bad Comedy" markup_required="true"/>
-                <tag name="Trythilium Plating" markup_required="true"/>
-                <tag name="Tsunami Blaster" markup_required="true"/>
-              </category>
-              <category name="Stratagems">
-                <tag name="Arise, Rodimus Prime" markup_required="true"/>
-                <tag name="Arm The Lonely" markup_required="true"/>
-                <tag name="Barbaric Rage" markup_required="true"/>
-                <tag name="Brothers In Armor" markup_required="true"/>
-                <tag name="Do it with Style!" markup_required="true"/>
-                <tag name="Drop Your Weapons!" markup_required="true"/>
-                <tag name="I Don’t Break The Rules, I Just Bend Them – A Lot" markup_required="true"/>
-                <tag name="Mayhem" markup_required="true"/>
-                <tag name="Paranoia" markup_required="true"/>
-                <tag name="Predacon Fortitude" markup_required="true"/>
-                <tag name="Quest for Fire" markup_required="true"/>
-                <tag name="Starscream’s Brigade" markup_required="true"/>
-                <tag name="Such Heroic Nonsense" markup_required="true"/>
-                <tag name="Unstoppable" markup_required="true"/>
-              </category>
-              <category name="Characters">
-                <tag name="Beastbox - Savage Interrogator" markup_required="true"/>
-                <tag name="Cyclonus - Loyal Enforcer" markup_required="true"/>
-                <tag name="Ghost of Starscream - Annoying Apparition" markup_required="true"/>
-                <tag name="Megatron - Autobot Bane" markup_required="true"/>
-                <tag name="Ratbat - Calculating Scout" markup_required="true"/>
-                <tag name="Rodimus Prime - Worthy Leader" markup_required="true"/>
-                <tag name="Rumble - Demolition Expert" markup_required="true"/>
-                <tag name="Scorponok - Brutal Warlord" markup_required="true"/>
-                <tag name="Sharkticon - Feeding Frenzy" markup_required="true"/>
-                <tag name="Sky-Byte - Harbinger of Doom" markup_required="true"/>
-                <tag name="Specialist Countdown - Transport &amp; Space Explorer" markup_required="true"/>
-                <tag name="Sunstreaker - Arrogant Daredevil" markup_required="true"/>
-                <tag name="Wheelie - Rhyming Racer" markup_required="true"/>
-                <tag name="Wreck-Gar - Junkion Leader" markup_required="true"/>
-                <tag name="Bruticus - Unstoppable Giant" markup_required="true"/>
-              </category>
-            </category>
-        </category>
-        <category name="Team Bayformers">
-            <category name="Wave BFA World|Strike">
-              <category name="Keywords">
-                <tag name="Action Masters"/>
-                <tag name="Allicons"/>
-                <tag name="Characters in multiple factions"/>
-                <tag name="Judges"/>
-                <tag name="Sharkticons"/>
-                <tag name="Tentacle Upgrades"/>
-              </category>
-              <category name="Battle Cards">
-                <tag name="All-Out Attack"/>
-                <tag name="Angolmois Surge"/>
-                <tag name="Are These Wires Important?"/>
-                <tag name="Armed to the Teeth"/>
-                <tag name="Aspect of Laughter"/>
-                <tag name="Assuming Control"/>
-                <tag name="CNA-Encoded Armory"/>
-                <tag name="Discordant Cacophony"/>
-                <tag name="“Dutch”"/>
-                <tag name="Forked Tentacle"/>
-                <tag name="Loading the Cannon"/>
-                <tag name="Premature Firing"/>
-                <tag name="Secret Missive"/>
-                <tag name="Shield Crash"/>
-                <tag name="Squid Pro Quo"/>
-                <tag name="The Dweller Awakens"/>
-                <tag name="The Power to Bite"/>
-                <tag name="Turnabout Snare"/>
-                <tag name="United Against Tyranny"/>
-              </category>
-              <category name="Stratagems">
-                <tag name="Brutal Conditioning"/>
-                <tag name="Colossal Cannons"/>
-                <tag name="Hit Me With That Beat"/>
-                <tag name="In the Name of Slingshot"/>
-                <tag name="I’ve Got Your Back"/>
-                <tag name="Off-Road Cycle"/>
-                <tag name="Orbital Command"/>
-                <tag name="Pit of Judgement"/>
-                <tag name="Sound the Alarm"/>
-                <tag name="Stuck on You"/>
-                <tag name="The Last Line of Defense"/>
-                <tag name="The Solo Job"/>
-                <tag name="Thermal Reciprocation"/>
-                <tag name="Third Party Brigade"/>
-                <tag name="This Gun for Hire"/>
-                <tag name="V2 Sonicsurge Drone Armor"/>
-                <tag name="Vehicle: Off-Road Cycle"/>
-              </category>
-              <category name="Characters">
-                <tag name="Axor - Opportunistic Fencer"/>
-                <tag name="Gilthor - Chained Amalgamation"/>
-                <tag name="Mind Control Collar"/>
-                <tag name="Mind Control Helmet"/>
-                <tag name="Nacelle - Eager Aerospace Engineer"/>
-                <tag name="Optimus Prime - Dark Awakening"/>
-                <tag name="Sharkticon Biter - Brazen Berserker"/>
-                <tag name="Tow-Line - Signals Engineer"/>
-              </category>
-            </category>
+        <category name="Wave 3">
+          <category name="Battle Cards">
+            <tag name="Armored Assault" markup_required="true"/>
+            <tag name="Aura Of Dominance" markup_required="true"/>
+            <tag name="Despite Any Difficulty" markup_required="true"/>
+            <tag name="Dogfight" markup_required="true"/>
+            <tag name="Harpoon Gun" markup_required="true"/>
+            <tag name="Howling Howitzer" markup_required="true"/>
+            <tag name="Never A Dull Moment" markup_required="true"/>
+            <tag name="Outflank" markup_required="true"/>
+            <tag name="Valiant Effort" markup_required="true"/>
+          </category>
+          <category name="Stratagems">
+            <tag name="Fire And Fury" markup_required="true"/>
+            <tag name="Unbreachable" markup_required="true"/>
+          </category>
+          <category name="Characters">
+            <tag name="Banzaitron, Devious Orchestrator" markup_required="true"/>
+            <tag name="Highbrow, Malware Brigadier" markup_required="true"/>
+            <tag name="Impactor, Unrelenting Veteran" markup_required="true"/>
+            <tag name="Overlord, Sadistic Phase Sixer" markup_required="true"/>
+            <tag name="Ransack, Hungry for Battle" markup_required="true"/>
+            <tag name="Seaspray, Consummate Sailor" markup_required="true"/>
+            <tag name="Slipstream, Spy-for-Hire" markup_required="true"/>
+            <tag name="Snapdragon, Ruthless Combatant" markup_required="true"/>
+            <tag name="Starscream, Covetous Crony" markup_required="true"/>
+            <tag name="Wheeljack, Outsider" markup_required="true"/>
+            <tag name="Whirl, Lunatic Aerialist" markup_required="true"/>
+          </category>
         </category>
     </category>
 </tags>
