@@ -16,9 +16,9 @@ TOP_OUTPUT_DIR ='docs'
 def safe_name(name):
     return name.lower().replace(' ', '-').replace('---', '-').replace("'", '').replace('?', '').replace('(','').replace(')', '').replace('&-', '').replace(',', '').replace('/-', '')
 
-# {wave_code.lower}{type}/{name}-{wave_code}-{alt if character}
+# {teletraan_id.lower}{type}/{name}-{teletraan_id}-{alt if character}
 def build_image_path(pretty_path, tag_node):
-    path=tag_node.attrib['wave_code'].lower() + '/'
+    path=tag_node.attrib['teletraan_id'].lower() + '/'
 
     if 'Character' in pretty_path:
         path += 'character'
@@ -29,7 +29,7 @@ def build_image_path(pretty_path, tag_node):
     else:
         print('Error: Unusual card found with wave code')
 
-    path += '/' + safe_name(tag_node.attrib['name']) + '-' + tag_node.attrib['wave_code']
+    path += '/' + safe_name(tag_node.attrib['name']) + '-' + tag_node.attrib['teletraan_id']
 
     if 'Character' in pretty_path:
         path += '-alt'

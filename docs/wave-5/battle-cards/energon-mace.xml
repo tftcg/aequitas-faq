@@ -16,15 +16,7 @@
           </answer>
         
       </entry>
-  <entry source="ATP:Alpha Trion Protocols Wave 3 FAQ" id="54">
-        <question>
-          Can I put this on Decepticons?
-        </question>
-        <answer>
-          Yes, just because it is an Autobot card doesn’t mean that restricts who you can play it on. Take Energon Mace as an inverse example.
-        </answer>
-      </entry>
-      <entry source="AP Wave 6:World|Strike FAQ" id="34">
+  <entry source="AP Wave 6:World|Strike FAQ" id="34">
         <answer>
           In bot mode, Optimus Prime, Dark Awakening gains the benefits of his faction Upgrade ability as long as the faction Upgrades on him aren’t Autobot or Quintesson.
           As of this (FAQ's) writing, these are all the faction Upgrades that Optimus Prime, Dark Awakening can utilize to buff your team.
@@ -53,4 +45,12 @@
          </ul>
         </answer>
       </entry>
-    </target></faq>
+    <entry source="ATP:Alpha Trion Protocols Wave 3 FAQ" id="54">
+        <question>
+          Can I put this on Decepticons?
+        </question>
+        <answer>
+          Yes, just because it is an Autobot card doesn’t mean that restricts who you can play it on. Take Energon Mace as an inverse example.
+        </answer>
+      </entry>
+      </target></faq>

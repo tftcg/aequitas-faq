@@ -14,14 +14,6 @@ Razorclaw’s robot mode ability says that when he flips to that mode he can att
 The character will still have Stealth. Razorclaw’s ability changes the way that Razorclaw can attack but doesn’t actually change the Tapped/Untapped state of other cards.
       </answer>
     </entry>
-    <entry source="Rules Roundup 2019-03-08" id="308-17" tags="Razorclaw - Predacon Leader">
-      <question>
-Based off the I Still Function! Ruling, would I be able to transform Razorclaw to bot mode, then combine into Predaking but retain his flip ability to attack untapped characters since he's part of the Combiner?
-      </question>
-      <answer>
-Yes.
-    </answer>
-    </entry>
     <entry source="Rules Roundup 2019-11-08" id="9-4" tags="Pincer Movement,Razorclaw - Predacon Leader,Brave">
       <question>
 Regarding Pincer, will it allow the follow-up attack to bypass normal rule processes? For example, I attack with Razorclaw in Bot Mode against an untapped unit. Can my other Decepticon attack this untapped unit? What about bypassing Brave?
@@ -29,5 +21,13 @@ Regarding Pincer, will it allow the follow-up attack to bypass normal rule proce
       <answer>
 If you can’t legally choose another Decepticon as the attacker, and the same character as the defender, you don’t get the extra attack. In other words, you can’t just ignore Brave or other rules.
       </answer>
+    </entry>
+    <entry source="Rules Roundup 2019-03-08" id="308-17" tags="Razorclaw - Predacon Leader">
+      <question>
+Based off the I Still Function! Ruling, would I be able to transform Razorclaw to bot mode, then combine into Predaking but retain his flip ability to attack untapped characters since he's part of the Combiner?
+      </question>
+      <answer>
+Yes.
+    </answer>
     </entry>
     </target></faq>

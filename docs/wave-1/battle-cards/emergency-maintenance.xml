@@ -1,17 +1,17 @@
-<faq><target name="Emergency Maintenance"><entry source="Rules Roundup 2019-04-12" id="412-14" tags="Battle Master,KO">
-      <question>
-Regarding when Battle Masters go to the KO area when they're removed from the battlefield in upgrade mode: Do they switch to bot mode when they go there or do they stay in upgrade mode? And if they do stay in upgrade mode, how does this interact with Emergency Maintenance?
-      </question>
-      <answer>
-They stay on their Upgrade side and it does not interact with Emergency Maintenance because upgrades are not counted as characters.
-      </answer>
-    </entry>
-    <entry source="Rules Roundup 2019-07-29" id="2-17" tags="Battle Master">
+<faq><target name="Emergency Maintenance"><entry source="Rules Roundup 2019-07-29" id="2-17" tags="Battle Master">
       <question>
 Do Battle Masters in Upgrade mode count towards Stars in the KO area for Emergency Maintenance?
 </question>
       <answer>
 No. When in Upgrade mode, Battle Masters do not count as characters, so they would not be counted by Emergency Maintenance on the battlefield or in the KO area.
 </answer>
+    </entry>
+    <entry source="Rules Roundup 2019-04-12" id="412-14" tags="Battle Master,KO">
+      <question>
+Regarding when Battle Masters go to the KO area when they're removed from the battlefield in upgrade mode: Do they switch to bot mode when they go there or do they stay in upgrade mode? And if they do stay in upgrade mode, how does this interact with Emergency Maintenance?
+      </question>
+      <answer>
+They stay on their Upgrade side and it does not interact with Emergency Maintenance because upgrades are not counted as characters.
+      </answer>
     </entry>
     </target></faq>

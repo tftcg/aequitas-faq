@@ -14,14 +14,6 @@ Let's say I have Bombshell - Decepticon Psy Ops equipped with a Data Pad. When h
 You may choose the order because they are both attack triggers on your cards.
       </answer>
     </entry>
-    <entry source="Rules Roundup 2019-02-01" id="201-5" tags="Chop Shop - Sneaky Insecticon">
-      <question>
-At what point does the upgrade I chose to move to Chop Shop take effect? During the attack so I gain the possible effect for my current attack, or does the cards effect (additional attack, additional bold, etc.) not happen until the next time I attack with Chop Shop?
-      </question>
-      <answer>
-You would get the benefits of the upgrade immediately, with the exception of abilities that trigger from Chop Shop attacking, because that event would have already passed (i.e. Data Pad).
-    </answer>
-    </entry>
     <entry source="Rules Roundup 2019-04-12" id="412-8" tags="Dreadwing - Sky Destroyer">
       <question>
 If Dreadwing has two Force Fields equipped, wouldn't they both be scrapped at the same time? If a character would take 5 or more attack damage, both Force Fields would be triggered. Then you resolve them one at a time, in the order of your choice. The first one would scrap and reduce damage taken to 4. The second would scrap but the damage was already reduced to 4. This follows the Dinobot Sludge + Data Pad ruling where both effects are triggered at attack, and even if Data Pad puts your hand equal to your opponent, you still resolve Sludge's ability to draw 2 cards. Correct?
@@ -29,6 +21,14 @@ If Dreadwing has two Force Fields equipped, wouldn't they both be scrapped at th
       <answer>
 No. Force Field is not a triggered ability. See explanation regarding replacement effects above.
       </answer>
+    </entry>
+    <entry source="Rules Roundup 2019-02-01" id="201-5" tags="Chop Shop - Sneaky Insecticon">
+      <question>
+At what point does the upgrade I chose to move to Chop Shop take effect? During the attack so I gain the possible effect for my current attack, or does the cards effect (additional attack, additional bold, etc.) not happen until the next time I attack with Chop Shop?
+      </question>
+      <answer>
+You would get the benefits of the upgrade immediately, with the exception of abilities that trigger from Chop Shop attacking, because that event would have already passed (i.e. Data Pad).
+    </answer>
     </entry>
     <entry source="Rules Roundup 2019-02-28" id="228-2" tags="Dinobot Sludge - Dino Demolitions">
       <question>

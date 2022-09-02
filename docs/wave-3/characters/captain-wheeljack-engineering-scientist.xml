@@ -6,20 +6,20 @@
       <question>Can this ability trigger more than once in a the same turn?</question>
       <answer>No. You play your third action in a turn only once.</answer>
     </entry>
-  <entry source="Rules Roundup 2019-04-26" id="426-13" tags="Captain Wheeljack - Engineering - Scientist">
-      <question>
-Does Captain Wheeljack's bot mode skill trigger if you play Special Ops Mission and then play 2 secret actions?
-      </question>
-      <answer>
-Sure does.
-      </answer>
-    </entry>
-    <entry source="Rules Roundup 2019-07-29" id="2-49" tags="Captain Wheeljack - Engineering - Scientist">
+  <entry source="Rules Roundup 2019-07-29" id="2-49" tags="Captain Wheeljack - Engineering - Scientist">
       <question>
 I have a team of all Autobots, including Captain Wheeljack in bot mode. I play Brainstorm, and as the first action, play Confidence. Do I play my second action for Brainstorm now, or do I resolve Confidence first and play an action via Confidence? Either way, this will trigger Captain Wheeljack’s "When you play your third action" ability. Do I draw the card for that immediately, or do I wait until all the actions played via Confidence and Brainstorm have resolved?
 </question>
       <answer>
 Finish Confidence first (including possibly playing another action), then play your second action for Brainstorm. After that’s done, all abilities that triggered while Brainstorm was resolving happen in an order of your choosing.
 </answer>
+    </entry>
+    <entry source="Rules Roundup 2019-04-26" id="426-13" tags="Captain Wheeljack - Engineering - Scientist">
+      <question>
+Does Captain Wheeljack's bot mode skill trigger if you play Special Ops Mission and then play 2 secret actions?
+      </question>
+      <answer>
+Sure does.
+      </answer>
     </entry>
     </target></faq>

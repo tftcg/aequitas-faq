@@ -18,32 +18,6 @@ Finally, how does Dreadwing - Sky Destroyer’s combine ability work with this s
 Characters untap before the end of turn step, so you both players would untap all of their characters, then you could combine Dreadwing, then your opponent could start their turn.
       </answer>
     </entry>
-    <entry source="Rules Roundup 2019-09-20" id="6-9">
-      <question>
-If Dreadwing - Sky Destroyer has 2 Spinner Rims attached and flips a white trigger on attacking, does he flip 1 extra battle card for each Spinner Rims attached, or just 1 extra?
-        </question>
-      <answer>
-Both copies of Spinner Rims will trigger and allow you to flip an extra Battle Card, for a total of two, in this scenario.
-      </answer>
-    </entry>
-    <entry source="Rules Roundup 2019-03-15" id="315-10" tags="Dreadwing - Sky Destroyer">
-      <question>
-Since Dreadwing has two upgrades slots, if I have Bravery equipped, can I choose to play another utility to get it off it, or does it get equipped?
-      </question>
-      <answer>
-If a character has an open upgrade slot, new upgrades won’t cause you to scrap any existing upgrades.
-      </answer>
-    </entry>
-    <entry source="Rules Roundup 2019-06-28" id="628-24" tags="Dreadwing - Sky Destroyer,Predaking - Ferocious Hunter">
-      <question> 
-What exactly happens when I attack using...
-    1. Dreadwing with 2 Anticipation Engines and 2 Metal Detectors?
-    2. Predaking with 3 Anticipation Engines?
-      </question>
-      <answer>
-With multiple Anticipation Engines and/or Metal Detectors, you handle the abilities one at a time. If you have an Anticipation Engine and a Metal Detector, you must specify which one you are using before revealing the card. If the card you reveal doesn’t match the type of card you’re looking for, it just stays on top of your deck. The next ability will reveal the same card, so choose wisely. 
-      </answer>
-    </entry>
     <entry source="Rules Roundup 2019-02-18" id="218-20" tags="Dreadwing - Sky Destroyer">
       <question>
 What happens if you have 2 Aerial Recons on Dreadwing? Do you scrap the top card or not?
@@ -76,6 +50,14 @@ If Dreadwing is equipped with Combat Training and 2 weapons and/or armors, does 
 No. A single Combat Training gives Bold/Tough 1 at most.
       </answer>
     </entry>
+    <entry source="Rules Roundup 2019-03-15" id="315-10" tags="Dreadwing - Sky Destroyer">
+      <question>
+Since Dreadwing has two upgrades slots, if I have Bravery equipped, can I choose to play another utility to get it off it, or does it get equipped?
+      </question>
+      <answer>
+If a character has an open upgrade slot, new upgrades won’t cause you to scrap any existing upgrades.
+      </answer>
+    </entry>
     <entry source="Rules Roundup 2019-04-05" id="405-1" tags="Dreadwing - Sky Destroyer">
       <question>
 How do double Forcefields work on Dreadwing? Will both be scrapped in a single attack thus making 1 pointless? Or will 1 trigger and resolve then the 2nd is left on?
@@ -90,6 +72,24 @@ Re: Rules Roundup: 2/18 - as related to Dreadwing and 'So what happens when your
       </question>
       <answer>
 You would attack, check if all characters are tapped. If they are tapped, untap them, then end the turn. At that point, you may Combine. 
+      </answer>
+    </entry>
+    <entry source="Rules Roundup 2019-06-28" id="628-24" tags="Dreadwing - Sky Destroyer,Predaking - Ferocious Hunter">
+      <question> 
+What exactly happens when I attack using...
+    1. Dreadwing with 2 Anticipation Engines and 2 Metal Detectors?
+    2. Predaking with 3 Anticipation Engines?
+      </question>
+      <answer>
+With multiple Anticipation Engines and/or Metal Detectors, you handle the abilities one at a time. If you have an Anticipation Engine and a Metal Detector, you must specify which one you are using before revealing the card. If the card you reveal doesn’t match the type of card you’re looking for, it just stays on top of your deck. The next ability will reveal the same card, so choose wisely. 
+      </answer>
+    </entry>
+    <entry source="Rules Roundup 2019-04-12" id="412-8" tags="Dreadwing - Sky Destroyer">
+      <question>
+If Dreadwing has two Force Fields equipped, wouldn't they both be scrapped at the same time? If a character would take 5 or more attack damage, both Force Fields would be triggered. Then you resolve them one at a time, in the order of your choice. The first one would scrap and reduce damage taken to 4. The second would scrap but the damage was already reduced to 4. This follows the Dinobot Sludge + Data Pad ruling where both effects are triggered at attack, and even if Data Pad puts your hand equal to your opponent, you still resolve Sludge's ability to draw 2 cards. Correct?
+      </question>
+      <answer>
+No. Force Field is not a triggered ability. See explanation regarding replacement effects above.
       </answer>
     </entry>
     <entry source="Rules Roundup 2019-03-22" id="322-10" tags="Dreadwing - Sky Destroyer">
@@ -109,14 +109,6 @@ Quick answer: Yes, and yes.
 Not so quick answer: Each Crash Landing is triggered separately.
       </answer>
     </entry>
-    <entry source="Rules Roundup 2019-04-12" id="412-8" tags="Dreadwing - Sky Destroyer">
-      <question>
-If Dreadwing has two Force Fields equipped, wouldn't they both be scrapped at the same time? If a character would take 5 or more attack damage, both Force Fields would be triggered. Then you resolve them one at a time, in the order of your choice. The first one would scrap and reduce damage taken to 4. The second would scrap but the damage was already reduced to 4. This follows the Dinobot Sludge + Data Pad ruling where both effects are triggered at attack, and even if Data Pad puts your hand equal to your opponent, you still resolve Sludge's ability to draw 2 cards. Correct?
-      </question>
-      <answer>
-No. Force Field is not a triggered ability. See explanation regarding replacement effects above.
-      </answer>
-    </entry>
     <entry source="Rules Roundup 2019-03-08" id="308-15" tags="Dreadwing - Sky Destroyer,Blackwing Aerial Attacker">
       <question>
 You target Blackwing, bring him back and combine. Now, Blackwing is technically gone right? As Dreadwing is its own bot. But you said I Still Function! KO’s Dreadwing. 
@@ -124,6 +116,14 @@ You target Blackwing, bring him back and combine. Now, Blackwing is technically 
       <answer>
 As a Combiner, Dreadwing is a mode of Blackwing. Dreadwing is also a mode of Dreadwind.
     </answer>
+    </entry>
+    <entry source="Rules Roundup 2019-09-20" id="6-9">
+      <question>
+If Dreadwing - Sky Destroyer has 2 Spinner Rims attached and flips a white trigger on attacking, does he flip 1 extra battle card for each Spinner Rims attached, or just 1 extra?
+        </question>
+      <answer>
+Both copies of Spinner Rims will trigger and allow you to flip an extra Battle Card, for a total of two, in this scenario.
+      </answer>
     </entry>
     <entry source="Rules Roundup 2019-02-28" id="228-4" tags="Combiner,Volcanicus - Fiery Champion,KO,Dreadwing - Sky Destroyer">
       <question>

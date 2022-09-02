@@ -24,20 +24,20 @@ Speaking of which, what happens when a character upgraded with Anticipation Engi
 Anticipation Engine and Sabotaged Armaments will both trigger at the same time. The attacker will resolve Anticipation Engine first, then the defender will resolve Sabotaged Armaments.
       </answer>
     </entry>
-    <entry source="ATP:Alpha Trion Protocols Wave 2 FAQ" id="48">
-        <question>
-            What happens if I get the trigger, but my opponent reveals a Sabotaged Armaments?
-        </question>
-        <answer>
-            The Trigger grants the ability to the Character; therefore you would keep +2 Attack and Pierce 2 for that Battle, similar to cards like Kinetic Intensifier Whip.
-        </answer>
-      </entry>
     <entry source="ATP:Alpha Trion Protocols Wave 3 FAQ" id="59">
         <question>
           Does my character keep the bonuses from the “attacks” triggers if my opponent reveals a Sabotaged Armaments?
         </question>
         <answer>
           You would keep the bonus ATK from the second and third abilities, if applicable. However, you would lose the Weapon’s static +1 ATK, Bold 1, and Pierce 1 that it normally gives.
+        </answer>
+      </entry>
+    <entry source="ATP:Alpha Trion Protocols Wave 2 FAQ" id="48">
+        <question>
+            What happens if I get the trigger, but my opponent reveals a Sabotaged Armaments?
+        </question>
+        <answer>
+            The Trigger grants the ability to the Character; therefore you would keep +2 Attack and Pierce 2 for that Battle, similar to cards like Kinetic Intensifier Whip.
         </answer>
       </entry>
     </target></faq>

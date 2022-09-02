@@ -15,15 +15,7 @@
               P12: Tandem Targeting System (Energon Edition Foil Variant)
           </answer>
       </entry>
-      <entry source="Rules Roundup 2019-09-20" id="6-10" tags="Omega Supreme - Autobot Defense Base">
-      <question>
-So Ultra Magnus Armor on Omega Supreme: does the armor reduce the damage that Omega takes from his soak 2 ability in bot mode?
-        </question>
-      <answer>
-Ultra Magnus Armor would not reduce the damage Omega Supreme would take because the damage is still Attack damage.
-</answer>
-    </entry>
-  <entry source="Rules Roundup 2019-05-17" id="517-4" tags="Omega Supreme - Autobot Defense Base,Insecticon Skrapnel - Insecticon Leader">
+      <entry source="Rules Roundup 2019-05-17" id="517-4" tags="Omega Supreme - Autobot Defense Base,Insecticon Skrapnel - Insecticon Leader">
       <question>
 If I had a team with Omega Supreme and Decepticon Skrapnel and someone attacked my Skrapnel for 15 damage but because of his ability (can only take 3 damage) Does two of those 3 damage go over to Omega Supreme? Therefore Skrapnel will only take 1 damage?
       </question>
@@ -31,7 +23,15 @@ If I had a team with Omega Supreme and Decepticon Skrapnel and someone attacked 
 Yes, you can choose to allocate the attack damage that way in this scenario.
       </answer>
     </entry>
-    <entry source="Rules Roundup 2019-02-28" id="228-1" tags="Omega Supreme - Autobot Defense Base">
+    <entry source="Rules Roundup 2019-09-20" id="6-10" tags="Omega Supreme - Autobot Defense Base">
+      <question>
+So Ultra Magnus Armor on Omega Supreme: does the armor reduce the damage that Omega takes from his soak 2 ability in bot mode?
+        </question>
+      <answer>
+Ultra Magnus Armor would not reduce the damage Omega Supreme would take because the damage is still Attack damage.
+</answer>
+    </entry>
+  <entry source="Rules Roundup 2019-02-28" id="228-1" tags="Omega Supreme - Autobot Defense Base">
       <question>
 On the topic of being able to choose the order of effects, how would/could Omega Supreme's bot mode ability work with another character having a Force Field?
       </question>

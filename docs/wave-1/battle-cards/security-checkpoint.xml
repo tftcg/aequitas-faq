@@ -1,4 +1,12 @@
-<faq><target name="Security Checkpoint"><entry source="Rules Roundup 2019-09-20" id="6-1">
+<faq><target name="Security Checkpoint"><entry source="Rules Roundup 2019-05-28" id="528-3">
+      <question>
+If Optimus Prime - Battlefield Legend has Inverted on him, and during the attack flips Security Checkpoint and chooses to play it, does the Security Checkpoint count as Orange due to Inverted, which triggers the Secret Action Infiltrate?
+      </question>
+      <answer>
+Yes. While OPBL is battling, the blue icons on Security Checkpoint become orange. When you play Security Checkpoint, your opponent’s Infiltrate sees you playing an orange action and triggers.
+      </answer>
+    </entry>
+    <entry source="Rules Roundup 2019-09-20" id="6-1">
       <question>
 The opponent had an Optimus Prime - Battlefield Legend with an Anticipation Engine and attacked my Ramhorn. I had a Force Field in hand and was ready to play my white armor, when he flipped a Security Checkpoint with Anticipation Engine. Do I still get to play the Force Field in this situation or does the Checkpoint get rid of the Force Field before I play it?
         </question>
@@ -13,13 +21,5 @@ I have Decepticon Shockwave in bot mode (untapped), and start by playing Brainst
       <answer>
 The opponent would take 3 damage total.
     </answer>
-    </entry>
-    <entry source="Rules Roundup 2019-05-28" id="528-3">
-      <question>
-If Optimus Prime - Battlefield Legend has Inverted on him, and during the attack flips Security Checkpoint and chooses to play it, does the Security Checkpoint count as Orange due to Inverted, which triggers the Secret Action Infiltrate?
-      </question>
-      <answer>
-Yes. While OPBL is battling, the blue icons on Security Checkpoint become orange. When you play Security Checkpoint, your opponent’s Infiltrate sees you playing an orange action and triggers.
-      </answer>
     </entry>
     </target></faq>

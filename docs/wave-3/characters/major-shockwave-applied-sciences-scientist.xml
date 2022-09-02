@@ -14,13 +14,21 @@
       <question>Say the top card of my deck is a Decepticon upgrade. After I play it, the new top card is a Secret Action. Can I play that card too?</question>
       <answer>Yes. You can keep playing the top card of your deck as long as it meets Major Shockwave’s conditions and you’re allowed to play the card (keeping in mind the normal one action/upgrade per turn rule).</answer>
     </entry>
-  <entry source="Rules Roundup 2019-10-11" id="7-4" tags="Major Shockwave - Applied Sciences - Scientist">
+  <entry source="Rules Roundup 2019-07-29" id="2-7" tags="Major Shockwave - Applied Sciences - Scientist">
       <question>
-How does Major Shockwave work with regard to the keyword Focus? Say for instance that Major Shockwave has Focus 1 and you look at the first card of your deck with Focus. Are you then allowed to look at the next card of your deck before deciding if you want to scrap or keep the Focused card?
-        </question>
+Can you use Major Shockwave’s bot mode ability to plays cards from the top of your deck if you go first and it’s the first turn?
+</question>
       <answer>
-The card you’re looking at while Focusing is still the top card of your deck. You must decide to scrap it or not. Only after deciding to scrap it are you allowed to look at the new top card of your deck.
-      </answer>
+Nope!
+</answer>
+    </entry>
+    <entry source="Rules Roundup 2019-07-29" id="2-41" tags="Major Shockwave - Applied Sciences - Scientist">
+      <question>
+So Major Shockwave's ability where he can play Decepticon cards or secret actions on the top of the player's deck as though they were in the player's hand, does this mean at any time since his other ability allows the player to look at the top of their deck at any time? So during attacks or while defending, and during my opponents turn can I play these cards as long as they're on the top of my deck? Or do these actions and upgrades count as the action and upgrade for the turn? And finally, can it only be done once a turn, or any number of times if I have three or so of those cards in a row on top of my deck?
+</question>
+      <answer>
+Major Shockwave’s ability doesn’t change when you can play any card. If you play an action from the top of your deck this way, that is your one action for that turn. If another effect allows you to play additional actions, you can keep playing them from the top of your deck, if applicable.
+</answer>
     </entry>
     <entry source="Rules Roundup 2019-05-02" id="502-5" tags="Major Shockwave - Applied Sciences - Scientist">
       <question>
@@ -70,20 +78,12 @@ I have Major Shockwave in bot mode. The top card of my deck is the deception car
 You may!
       </answer>
     </entry>
-    <entry source="Rules Roundup 2019-07-29" id="2-7" tags="Major Shockwave - Applied Sciences - Scientist">
+    <entry source="Rules Roundup 2019-10-11" id="7-4" tags="Major Shockwave - Applied Sciences - Scientist">
       <question>
-Can you use Major Shockwave’s bot mode ability to plays cards from the top of your deck if you go first and it’s the first turn?
-</question>
+How does Major Shockwave work with regard to the keyword Focus? Say for instance that Major Shockwave has Focus 1 and you look at the first card of your deck with Focus. Are you then allowed to look at the next card of your deck before deciding if you want to scrap or keep the Focused card?
+        </question>
       <answer>
-Nope!
-</answer>
-    </entry>
-    <entry source="Rules Roundup 2019-07-29" id="2-41" tags="Major Shockwave - Applied Sciences - Scientist">
-      <question>
-So Major Shockwave's ability where he can play Decepticon cards or secret actions on the top of the player's deck as though they were in the player's hand, does this mean at any time since his other ability allows the player to look at the top of their deck at any time? So during attacks or while defending, and during my opponents turn can I play these cards as long as they're on the top of my deck? Or do these actions and upgrades count as the action and upgrade for the turn? And finally, can it only be done once a turn, or any number of times if I have three or so of those cards in a row on top of my deck?
-</question>
-      <answer>
-Major Shockwave’s ability doesn’t change when you can play any card. If you play an action from the top of your deck this way, that is your one action for that turn. If another effect allows you to play additional actions, you can keep playing them from the top of your deck, if applicable.
-</answer>
+The card you’re looking at while Focusing is still the top card of your deck. You must decide to scrap it or not. Only after deciding to scrap it are you allowed to look at the new top card of your deck.
+      </answer>
     </entry>
     </target></faq>

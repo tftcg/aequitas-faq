@@ -1,4 +1,13 @@
-<faq><target name="Dinobot Enigma"><entry source="Rules Roundup 2019-06-28" id="628-7" tags="Grimlock - Powerful Commander,Volcanicus - Fiery Champion">
+<faq><target name="Dinobot Enigma"><entry source="Rules Roundup 2019-05-28" id="528-11" tags="Grimlock - Powerful Commander,Dinobot Sludge - Mighty Stomper,Volcanicus - Fiery Champion">
+      <question>
+If I start my game with Wave 1 Dinobot Sludge and Wave 2 Grimlock and Dinobot Swoop. After I was able to bring the rest of my Wave 2 Dinobots into the KO area, Grimlock is KO’d and Dinobot Sludge was the only card left on my battlefield in bot mode. On my turn, I played the Dinobot Enigma and then flipped Dinobot Sludge to take all of his damage, was this correct? Also, what if I had played a Brainstorm then an I Still Function! and then a Dinobot Enigma after which I would flip Dinobot Sludge? Is that a better scenario?
+      </question>
+      <answer>
+In your first scenario, Volcanicus appears on the battlefield with 55 damage counters on him. 
+In your second scenario, you can I Still Function! one of the five Dinobots and then use the Dinobot Engima to form Volcanicus. Volcanicus will have 54 damage counters on him (because of the 1 damage ISF! repairs). No matter what, he will be KO’d at the end of the turn, so repairing him with Dinobot Sludge probably won’t do a lot.
+      </answer>
+    </entry>
+    <entry source="Rules Roundup 2019-06-28" id="628-7" tags="Grimlock - Powerful Commander,Volcanicus - Fiery Champion">
       <question> 
 Since Wave 2 Grimlock is capable of grabbing duplicate characters from outside the game, including copies of himself, what happens if I have a Grimlock in my KO area and one on the battlefield when I play the Dinobot Enigma to combine into Volcanicus? Do I get to choose which Grimlock is used in the combination, or does the game default to the one on the battlefield?
       </question>
@@ -30,16 +39,7 @@ If I have all five Wave 2 Dinobots in Bot mode in the KO Area, what happens if I
 You can combine Volcanicus and he will remain in the KO area with full damage. In order to combine Volcanicus onto the battlefield, you must have at least one active Combiner piece Dinobot on the battlefield. 
     </answer>
     </entry>
-  <entry source="Rules Roundup 2019-05-28" id="528-11" tags="Grimlock - Powerful Commander,Dinobot Sludge - Mighty Stomper,Volcanicus - Fiery Champion">
-      <question>
-If I start my game with Wave 1 Dinobot Sludge and Wave 2 Grimlock and Dinobot Swoop. After I was able to bring the rest of my Wave 2 Dinobots into the KO area, Grimlock is KO’d and Dinobot Sludge was the only card left on my battlefield in bot mode. On my turn, I played the Dinobot Enigma and then flipped Dinobot Sludge to take all of his damage, was this correct? Also, what if I had played a Brainstorm then an I Still Function! and then a Dinobot Enigma after which I would flip Dinobot Sludge? Is that a better scenario?
-      </question>
-      <answer>
-In your first scenario, Volcanicus appears on the battlefield with 55 damage counters on him. 
-In your second scenario, you can I Still Function! one of the five Dinobots and then use the Dinobot Engima to form Volcanicus. Volcanicus will have 54 damage counters on him (because of the 1 damage ISF! repairs). No matter what, he will be KO’d at the end of the turn, so repairing him with Dinobot Sludge probably won’t do a lot.
-      </answer>
-    </entry>
-    <entry source="Rules Roundup 2019-02-28" id="228-4" tags="Combiner,Volcanicus - Fiery Champion,KO,Dreadwing - Sky Destroyer">
+  <entry source="Rules Roundup 2019-02-28" id="228-4" tags="Combiner,Volcanicus - Fiery Champion,KO,Dreadwing - Sky Destroyer">
       <question>
 Does the I Still Function! + Dreadwing rule apply generally to Combiners or is it specific to Dreadwing’s method of Combination? Suppose I control Dinobot Sludge - Mighty Stomper and have the five Dinobot components in my KO Area. Can I Brainstorm+ I Still Function! + Dinobot Enigma and expect to keep Volcanicus at the end of the turn?
       </question>

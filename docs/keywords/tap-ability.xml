@@ -72,20 +72,20 @@ a tap ability if I can’t pay that cost.
 battle icon, and you don’t have one, you can’t use that tap ability.
       </answer>
     </entry>
-  <entry source="Rules Roundup 2019-05-02" id="502-9" tags="Raider Visper - Infantry - Patrol Leader,Tap Ability">
-      <question>
-If I’m defending with Raider Visper, who is untapped, and my opponent plays EMP Wave, do I get the option of discarding 3 green pips to force them to discard 3 cards? If they’re matching, do I get to draw three? Also, EMP Wave would always make it the turn of the person who didn’t play it, correct? Or if I’m attacking and play EMP Wave do I get to swing with a character that I just tapped?
-      </question>
-      <answer>
-No, a Tap ability is something you use on your turn, not whenever the character becomes tapped. If you play EMP Wave on your turn, all characters will be tapped. Your turn continues, and you can play an upgrade, flip a character, etc. At the end of your turn, all characters will untap, and your opponent’s turn will begin.
-      </answer>
-    </entry>
-    <entry source="Rules Roundup 2019-07-29" id="2-22" tags="Tap Ability">
+  <entry source="Rules Roundup 2019-07-29" id="2-22" tags="Tap Ability">
       <question>
 How do I use a Micromaster’s tap ability? Let's say Raider Detour. I tap Raider Detour, then scrap a card with a blue battle icon, and draw my 2 cards. Does that mean I have used Raider Detour and now I attack with one of my other characters?
 </question>
       <answer>
 You can still play an Action or Upgrade if you haven’t and would like to, but then you can move on. Each turn, you can use one tap ability. Raider Detour will not be able to attack because he is tapped. However if he were untapped somehow, he would still be able to attack.
 </answer>
+    </entry>
+    <entry source="Rules Roundup 2019-05-02" id="502-9" tags="Raider Visper - Infantry - Patrol Leader,Tap Ability">
+      <question>
+If I’m defending with Raider Visper, who is untapped, and my opponent plays EMP Wave, do I get the option of discarding 3 green pips to force them to discard 3 cards? If they’re matching, do I get to draw three? Also, EMP Wave would always make it the turn of the person who didn’t play it, correct? Or if I’m attacking and play EMP Wave do I get to swing with a character that I just tapped?
+      </question>
+      <answer>
+No, a Tap ability is something you use on your turn, not whenever the character becomes tapped. If you play EMP Wave on your turn, all characters will be tapped. Your turn continues, and you can play an upgrade, flip a character, etc. At the end of your turn, all characters will untap, and your opponent’s turn will begin.
+      </answer>
     </entry>
     </target></faq>

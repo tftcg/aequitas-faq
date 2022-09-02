@@ -1,4 +1,12 @@
-<faq><target name="Multi-Tool"><entry source="Rules Roundup 2019-03-22" id="322-8" tags="Wheeljack - Weapons Inventor">
+<faq><target name="Multi-Tool"><entry source="Rules Roundup 2019-07-29" id="2-46" tags="Wheeljack - Weapons Inventor">
+      <question>
+I play Full Loadout on Wave 1 Wheeljack in Alt Mode. I play Multi-Tool, Multi-Mission Gear, and Field Communicator onto him. How are the triggers handled? Do I resolve each Upgrade and Wheeljack trigger mid-Loadout, or do I wait until I play all three upgrades then resolve the six triggers?
+</question>
+      <answer>
+Full Loadout will put all three upgrades onto Wheeljack. You then handle all of the triggers in an order of your choosing.
+</answer>
+    </entry>
+    <entry source="Rules Roundup 2019-03-22" id="322-8" tags="Wheeljack - Weapons Inventor">
       <question>
 Wheeljack is in car mode is equipped with the following: 
 Multi-Tool, Turbo Boosters, and Scrapper Gauntlets.
@@ -9,13 +17,5 @@ For my action, I play Swap Parts between Wheeljack and Bumblebee. There are a LO
       <answer>
 These would all trigger at the same, so you would choose the order they happen in.
       </answer>
-    </entry>
-    <entry source="Rules Roundup 2019-07-29" id="2-46" tags="Wheeljack - Weapons Inventor">
-      <question>
-I play Full Loadout on Wave 1 Wheeljack in Alt Mode. I play Multi-Tool, Multi-Mission Gear, and Field Communicator onto him. How are the triggers handled? Do I resolve each Upgrade and Wheeljack trigger mid-Loadout, or do I wait until I play all three upgrades then resolve the six triggers?
-</question>
-      <answer>
-Full Loadout will put all three upgrades onto Wheeljack. You then handle all of the triggers in an order of your choosing.
-</answer>
     </entry>
     </target></faq>

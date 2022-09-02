@@ -54,15 +54,18 @@ p, ul, ol {
     padding: 10px;
 }
 
-#fort-max-link {
+#teletraan-bot-image {
+    display: none;
+}
+#teletraan-link {
     float: right;
 }
-#fort-max-link img {
+#teletraan-link img {
     background-color: #343a40;
     width: 27px;
     height: 24.5px;
 }
-.fortmaxtext {
+.teletraantext {
     display: none;
 }
 
@@ -103,33 +106,33 @@ a.external {
 
 
 @media (min-width: 500px) {
-  #fort-max-link {
+  #teletraan-link {
     background-color: #343a40;
   }
-  .fortmaxtext {
+  .teletraantext {
     padding-right: 5px;
     display: inline;
     font-size: 12px;
     letter-spacing: -1px;
   }
-  #fort-max-link img {
+  #teletraan-link img {
     vertical-align: middle;
     width: 18px;
     height: 16.3px;
   }
-  #fort-max-link:link {
+  #teletraan-link:link {
     color: white;
     text-decoration: none;
   }
-  #fort-max-link:visited {
+  #teletraan-link:visited {
     color: white;
     text-decoration: none;
   }
-  #fort-max-link:hover {
+  #teletraan-link:hover {
     color: white;
     text-decoration: none;
   }
-  #fort-max-link:active {
+  #teletraan-link:active {
     color: white;
     text-decoration: none;
   }
@@ -151,15 +154,22 @@ a.external {
   #title_widget {
     font-size: 1.5em;
   }
-  .fortmaxtext {
+  .teletraantext {
     font-size: 15px;
   }
-  #fort-max-link {
-    padding-top: 2px;
+  #teletraan-link {
+    martin-top: 12em;
+    padding-top: 4px;
+    padding-bottom: 4px;
+    float: initial;
   }
-  #fort-max-link img {
+  #teletraan-link img {
     width: 27px;
     height: 24.5px;
+  }
+  #teletraan-bot-image {
+    float: right;
+    display: initial;
   }
 
 }

@@ -6,7 +6,15 @@
     Yes.
 </answer>
     </entry>
-  <entry source="Rules Roundup 2019-05-10" id="510-12">
+  <entry source="Rules Roundup 2019-07-29" id="2-18">
+      <question>
+Say I have a weapon on a character and Backup Bag as well. For my turn I placed a different or same weapon on the same character. But because I already have a weapon taken up does the original weapon get scrapped or can I keep both weapons and scrap Backup Bag instead?
+</question>
+      <answer>
+Playing the new weapon causes the old weapon to be scrapped, but it’s the rules of the game that are doing this, not an effect of the new weapon. Backup Bag affects only cards such as Salvage for Parts or Grenade Launcher.
+</answer>
+    </entry>
+    <entry source="Rules Roundup 2019-05-10" id="510-12">
       <question>
 How do Spare Parts and Salvage for Parts interact with each other, Salvage being played by my opponent, and Spare being on my own character?
       </question>
@@ -21,13 +29,5 @@ If you play Salvage for Parts while Specialist Ratchet is in bot mode, and you s
       <answer>
 For Salvage for Parts, you’re doing all of the repairing, so Ratchet’s ability will trigger that many times. In this scenario, that would give Ratchet +4 Attack.
       </answer>
-    </entry>
-    <entry source="Rules Roundup 2019-07-29" id="2-18">
-      <question>
-Say I have a weapon on a character and Backup Bag as well. For my turn I placed a different or same weapon on the same character. But because I already have a weapon taken up does the original weapon get scrapped or can I keep both weapons and scrap Backup Bag instead?
-</question>
-      <answer>
-Playing the new weapon causes the old weapon to be scrapped, but it’s the rules of the game that are doing this, not an effect of the new weapon. Backup Bag affects only cards such as Salvage for Parts or Grenade Launcher.
-</answer>
     </entry>
     </target></faq>

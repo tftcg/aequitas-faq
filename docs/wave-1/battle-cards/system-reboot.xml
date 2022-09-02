@@ -17,12 +17,12 @@ Would this rule also apply to Tech Research? You must play a Superior upgrade af
 Superior upgrades only check to see if you have played Tech Research at some point previously in your turn. Therefore, there is no issue with playing other cards between Tech Research and a Superior upgrade.
       </answer>
     </entry>
-    <entry source="Rules Roundup 2019-10-11" id="7-1">
+    <entry source="Rules Roundup 2019-06-28" id="628-13" tags="Decepticon Shockwave - Cybertron Commander">
       <question>
-I play Brainstorm. Using my 2 actions, I play Ancient Wisdom first, then System Reboot. I draw Unleash Potential off of System Reboot, do I get to play it for free now?
-        </question>
+When my opponent plays Decepticon Shockwave and plays System Reboots to make me discard, say, 10 cards, if I have a Defensive Driving card attached to one of my characters, can I choose all 10 damage to be dealt to that character and make it all to zero since Shockwave ability reads as deal 1 damage to it?
+      </question>
       <answer>
-Both Brainstorm and Ancient Wisdom resolve “top to bottom”. When you play Brainstorm, then you play Ancient Wisdom, you must play Unleash Potential at that moment. In your case, you’ve moved past Ancient Wisdom and are continuing with Brainstorm, playing System Reboot. It’s now too late to play Unleash Potential with your previous Ancient Wisdom.
+Yes, Shockwave’s ability triggers individually per card discarded, so each instance of 1 damage would be reduced to 0 because of Defensive Driving. 
       </answer>
     </entry>
     <entry source="Rules Roundup 2019-11-22" id="10-17" tags="Decepticon Shockwave - Cybertron Commander,Nightbird - Enigmatic Agent">
@@ -42,22 +42,6 @@ I.E. My Nightbird is at full HP (11) and his Shockwave is at 3.  Who wins?
 Here's what happens. Your opponent starts to play Brainstorm, this causes Nightbird’s ability to trigger, but that effect doesn’t resolve immediately. Continuing to resolve Brainstorm, your opponent then plays System Reboot. Another Nightbird trigger happens, which, again, doesn’t resolve immediately. The System Reboot resolves, causing Shockwave to trigger four times. Continuing to resolve Brain Storm, your opponent then plays the second System Reboot. This causes another Nightbird trigger. The second System Reboot causes another four Shockwave triggers. Now that Brainstorm has resolved, we start resolving triggers, beginning with the ones that triggered most recently and working backwards. The four Shockwave triggers caused by the second System Reboot happen one at a time. Next, the Nightbird trigger caused by the second System Reboot happens. Next, the Shockwave triggers caused by the first System Reboot happens. Next, the Nightbird trigger caused by the first System Reboot happens. And finally, the Nightbird trigger caused by the Brain Storm happens. At any point, if resolving one of these triggers causes a player to KO their last character, that player loses the game. If Shockwave was at 3 and Nightbird was at 8 at the beginning of this sequence, Nightbird is going to lose.
       </answer>
     </entry>
-    <entry source="Rules Roundup 2019-06-28" id="628-13" tags="Decepticon Shockwave - Cybertron Commander">
-      <question>
-When my opponent plays Decepticon Shockwave and plays System Reboots to make me discard, say, 10 cards, if I have a Defensive Driving card attached to one of my characters, can I choose all 10 damage to be dealt to that character and make it all to zero since Shockwave ability reads as deal 1 damage to it?
-      </question>
-      <answer>
-Yes, Shockwave’s ability triggers individually per card discarded, so each instance of 1 damage would be reduced to 0 because of Defensive Driving. 
-      </answer>
-    </entry>
-    <entry source="Rules Roundup 2019-02-11" id="211-18" tags="Decepticon Shockwave - Cybertron Commander,Nemesis Prime - Dark Clone">
-      <question>
-If I have Shockwave in play and my opponent has 2 characters with 1 damage left each (say Optimus Prime - Battlefield Legend with 13 damage and Nemesis Prime with 15 damage) and I play System Reboot forcing them to discard 2 cards, can they choose to put both damage on Nemesis Prime or must they put 1 damage on each?
-      </question>
-      <answer>
-Each card discarded creates a new instance of 1 damage, so they will be forced to put one damage on each.
-      </answer>
-    </entry>
     <entry source="Rules Roundup 2019-11-08" id="9-24">
       <question>
 I play Brainstorm, then Ancient Wisdom and System Reboot. My new hand is Multi-Mission Gear, Brainstorm, and 2 Unleashed Potential. Can I play Mutli-Mission Gear, then Brainstorm, and then both Unleashed Potentials?
@@ -69,7 +53,23 @@ But instead, let’s say you don’t play Unleash Potential. That brings you to 
 In either case, your new hand is Multi-Mission Gear, Brainstorm, and 2 Unleash Potentials. You’ve already played an Action this turn, so we’re guessing you’ll now play Multi-Mission Gear. This allows you to play an Action such as Brainstorm. Brainstorm will allow you to play 2 Unleash Potentials. You played Ancient Wisdom earlier in your turn, so you can get two 1-star cards from outside the game.
 </answer>
     </entry>
-  <entry source="ATP:Alpha Trion Protocols Wave 3 FAQ" id="26">
+  <entry source="Rules Roundup 2019-02-11" id="211-18" tags="Decepticon Shockwave - Cybertron Commander,Nemesis Prime - Dark Clone">
+      <question>
+If I have Shockwave in play and my opponent has 2 characters with 1 damage left each (say Optimus Prime - Battlefield Legend with 13 damage and Nemesis Prime with 15 damage) and I play System Reboot forcing them to discard 2 cards, can they choose to put both damage on Nemesis Prime or must they put 1 damage on each?
+      </question>
+      <answer>
+Each card discarded creates a new instance of 1 damage, so they will be forced to put one damage on each.
+      </answer>
+    </entry>
+    <entry source="Rules Roundup 2019-10-11" id="7-1">
+      <question>
+I play Brainstorm. Using my 2 actions, I play Ancient Wisdom first, then System Reboot. I draw Unleash Potential off of System Reboot, do I get to play it for free now?
+        </question>
+      <answer>
+Both Brainstorm and Ancient Wisdom resolve “top to bottom”. When you play Brainstorm, then you play Ancient Wisdom, you must play Unleash Potential at that moment. In your case, you’ve moved past Ancient Wisdom and are continuing with Brainstorm, playing System Reboot. It’s now too late to play Unleash Potential with your previous Ancient Wisdom.
+      </answer>
+    </entry>
+    <entry source="ATP:Alpha Trion Protocols Wave 3 FAQ" id="26">
         <question>
           What happens if my Snapdragon is in Bot mode and I play System Reboot?
         </question>

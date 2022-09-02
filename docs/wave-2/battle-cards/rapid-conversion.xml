@@ -1,26 +1,10 @@
-<faq><target name="Rapid Conversion"><entry source="Rules Roundup 2019-RR-1" id="RR1-8">
+<faq><target name="Rapid Conversion"><entry source="Rules Roundup 2019-07-29" id="2-14" tags="Autobot Cosmos - Recon &amp; Communication">
       <question>
-Can a character in the KO area be flipped, when you choose a character to flip for the turn and/or through action cards like Rapid Conversion?
-      </question>
+When I attack with Cosmos in bot mode and then Anticipation Engine activates and I flip Rapid Conversion and flip him to alt mode. Would his KO effect take place since he’s no longer in bot mode? And I no longer have cards in my deck?
+</question>
       <answer>
-You can flip for the turn, but no cards in the game can effect characters in the K.O. Area unless specifically stated.
-      </answer>
-    </entry>
-    <entry source="Rules Roundup 2019-RR-1" id="RR1-19">
-      <question>
-Can Rapid Conversion be used to flip a character in the KO area? We know now that we can use our flip for the turn to do this, can cards like Rapid Conversion be used?
-      </question>
-      <answer>
-No, cards cannot effect cards in the K.O. Area unless specifically stated.
-      </answer>
-    </entry>
-    <entry source="Rules Roundup 2019-RR-1" id="RR1-20" tags="Thrust - Supersonic Interceptor">
-      <question>
-Would Thrust grant +5 to Optimus Prime - Battlefield Legend if Rapid Conversion was played when using Prime’s bot mode ability.
-      </question>
-      <answer>
-No. The amount of bonus granted by Thrust is granted at the time his ability is triggered and not modified afterwards.
-      </answer>
+If during Cosmos’ attack, Anticipation Engine reveals Rapid Conversion as the last card in your deck, and you play it, you will immediately shuffle your deck, triggering Cosmos’ ability, then flip Cosmos to Alt Mode.
+</answer>
     </entry>
     <entry source="Rules Roundup 2019-02-18" id="218-18">
       <question>
@@ -54,13 +38,29 @@ Say Silverbolt attacks and his alt-mode ability triggers, allowing him to flip t
 Thrust’s ability only triggers at the time of attack and does not check again. Silverbolt is not adding his attack, he is using his attack to determine the damage at the last point after he’s flipped and just before damage is dealt.
     </answer>
     </entry>
-    <entry source="Rules Roundup 2019-07-29" id="2-14" tags="Autobot Cosmos - Recon &amp; Communication">
+    <entry source="Rules Roundup 2019-RR-1" id="RR1-8">
       <question>
-When I attack with Cosmos in bot mode and then Anticipation Engine activates and I flip Rapid Conversion and flip him to alt mode. Would his KO effect take place since he’s no longer in bot mode? And I no longer have cards in my deck?
-</question>
+Can a character in the KO area be flipped, when you choose a character to flip for the turn and/or through action cards like Rapid Conversion?
+      </question>
       <answer>
-If during Cosmos’ attack, Anticipation Engine reveals Rapid Conversion as the last card in your deck, and you play it, you will immediately shuffle your deck, triggering Cosmos’ ability, then flip Cosmos to Alt Mode.
-</answer>
+You can flip for the turn, but no cards in the game can effect characters in the K.O. Area unless specifically stated.
+      </answer>
+    </entry>
+    <entry source="Rules Roundup 2019-RR-1" id="RR1-19">
+      <question>
+Can Rapid Conversion be used to flip a character in the KO area? We know now that we can use our flip for the turn to do this, can cards like Rapid Conversion be used?
+      </question>
+      <answer>
+No, cards cannot effect cards in the K.O. Area unless specifically stated.
+      </answer>
+    </entry>
+    <entry source="Rules Roundup 2019-RR-1" id="RR1-20" tags="Thrust - Supersonic Interceptor">
+      <question>
+Would Thrust grant +5 to Optimus Prime - Battlefield Legend if Rapid Conversion was played when using Prime’s bot mode ability.
+      </question>
+      <answer>
+No. The amount of bonus granted by Thrust is granted at the time his ability is triggered and not modified afterwards.
+      </answer>
     </entry>
     <entry source="ATP:Alpha Trion Protocols Wave 2 FAQ" id="15">
         <question>

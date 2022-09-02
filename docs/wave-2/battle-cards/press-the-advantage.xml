@@ -1,11 +1,4 @@
-<faq><target name="Press the Advantage"><entry source="Tournament FAQ" id="3">
-          <question>What Cards are banned in Constructed Tournaments?</question>
-          <answer>
-              The Battle Cards Swap Parts and Press the Advantage are banned from use in Constructed play. 
-              The Battle Card Multi-Mission Gear has also been announced as banned.
-          </answer>
-      </entry>
-  <entry source="Wave 2 and 3 FAQ" id="88">
+<faq><target name="Press the Advantage"><entry source="Wave 2 and 3 FAQ" id="88">
       <question>Can I play this if I don’t have any Autobots or my opponent doesn’t have any Decepticons just to get one of the effects?</question>
       <answer>Yes.</answer>
     </entry>
@@ -13,6 +6,13 @@
       <question>Let’s say I play this and choose my opponent’s Decepticon with 1 defense. Later in the turn, it gets +2 defense. What will its total defense be?</question>
       <answer>1. Press the Advantage won’t drop the Decepticon’s defense below 0, but the -2 applies again once the Decepticon’s defense is raised.</answer>
     </entry>
+  <entry source="Tournament FAQ" id="3">
+          <question>What Cards are banned in Constructed Tournaments?</question>
+          <answer>
+              The Battle Cards Swap Parts and Press the Advantage are banned from use in Constructed play. 
+              The Battle Card Multi-Mission Gear has also been announced as banned.
+          </answer>
+      </entry>
   <entry source="Rules Roundup 2019-07-12" id="1-16">
       <question>
 If I am playing a team of Decepticon characters, can I still play Press the Advantage? None of my characters would get an attack boost, but a defending Decepticon gets -2 defense?

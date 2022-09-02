@@ -14,23 +14,7 @@
     No. You can flip any of your Cars, even one that was already in alt mode and didn’t flip.
 </answer>
     </entry>
-  <entry source="Rules Roundup 2019-09-20" id="6-2">
-      <question>
-I have 2 untapped cars and a Wave 2 Bumblebee tapped in bot mode. I play Ready for Action untapping him. I then flip him, triggering his mode ability and I play All-Out Attack allowing all my character to attack this turn as they are now all untapped prior me playing All-Out Attack (AOA). I put Anticipation Engine on one of my characters. I then attack with Bee first (tapping him), my 2nd character (tapping him), and finally the last character with Anticipation Engine (AE) which then taps him. AE triggers and I get Start Your Engines (SYE). I untap that last character with AE. Seeing how AOA was played during a time where all my characters were untapped, does that last character get to attack again since it was untapped with SYE post AOA being played?
-        </question>
-      <answer>
-If the opponent has no untapped characters, you will attack again with the last character. If the opponent has at least one untapped character, you cannot attack again with the last character. All Out Attack allows one attack with each of your untapped characters at the time you play it.
-      </answer>
-    </entry>
-    <entry source="Rules Roundup 2019-08-23" id="4-12">
-      <question>
-Does Start Your Engines affect cars in the KO area?
-        </question>
-      <answer>
-No, it does not. Cards only affect cards in the KO Area if it is specifically stated in the card text.
-</answer>
-    </entry>
-    <entry source="Rules Roundup 2019-09-06" id="5-2">
+  <entry source="Rules Roundup 2019-09-06" id="5-2">
       <question>
 If I attack with a character that is upgraded with an anticipation engine and the first card flipped is an action that untaps my attacking character, such as Start Your Engines in a cars deck, does my character still count as attacking? Does it still flip battlecards for attack? Does my opponent need to wait for me to attack with the same, or another, character?
 
@@ -57,7 +41,23 @@ Am I free to end my attacks when I choose because of AoA?
 All-Out Attack says “Each of your untapped Transformers (Editor’s Note: Characters) can attack this turn.” At the time you play All-Out Attack, check which of your characters are untapped. Those characters are allowed to attack this turn, in sequence. They are not, however, required to attack. They can’t attack a second time unless your opponent is tapped out. As usual, you still must attack with at least one character during your turn if you are able.
 </answer>
     </entry>
-  <entry source="Aequitas Rules Roundup 2020-09-14" id="4">
+  <entry source="Rules Roundup 2019-08-23" id="4-12">
+      <question>
+Does Start Your Engines affect cars in the KO area?
+        </question>
+      <answer>
+No, it does not. Cards only affect cards in the KO Area if it is specifically stated in the card text.
+</answer>
+    </entry>
+    <entry source="Rules Roundup 2019-09-20" id="6-2">
+      <question>
+I have 2 untapped cars and a Wave 2 Bumblebee tapped in bot mode. I play Ready for Action untapping him. I then flip him, triggering his mode ability and I play All-Out Attack allowing all my character to attack this turn as they are now all untapped prior me playing All-Out Attack (AOA). I put Anticipation Engine on one of my characters. I then attack with Bee first (tapping him), my 2nd character (tapping him), and finally the last character with Anticipation Engine (AE) which then taps him. AE triggers and I get Start Your Engines (SYE). I untap that last character with AE. Seeing how AOA was played during a time where all my characters were untapped, does that last character get to attack again since it was untapped with SYE post AOA being played?
+        </question>
+      <answer>
+If the opponent has no untapped characters, you will attack again with the last character. If the opponent has at least one untapped character, you cannot attack again with the last character. All Out Attack allows one attack with each of your untapped characters at the time you play it.
+      </answer>
+    </entry>
+    <entry source="Aequitas Rules Roundup 2020-09-14" id="4">
             <question>
                 Start Your Engines says "Flip each of your characters from bot mode to Car mode". Does this mean that you can target "Car mode" with Precision Fire? Is Car a mode?
             </question>

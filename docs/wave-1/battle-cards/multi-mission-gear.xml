@@ -5,77 +5,7 @@
               The Battle Card Multi-Mission Gear has also been announced as banned.
           </answer>
       </entry>
-  <entry source="Rules Roundup 2019-10-11" id="7-11">
-      <question>
-If I then swap all of those upgrades with Red Heat, I can then choose the order again. From this I play a Multi-Mission Gear and play a Brainstorm, do I need to finish prior triggers before Brainstorm, or can I still choose the order?
-        </question>
-      <answer>
-If you swap upgrades with Red Heat, you can have a lot of triggers, including another Cog trigger. You choose to resolve each of these triggers one at a time. If you choose Multi-Mission Gear’s trigger to play Brainstorm, you now must finish Brainstorm’s effect before continuing with your remaining triggers caused by Red Heat’s swap.
-      </answer>
-    </entry>
-    <entry source="Rules Roundup 2019-08-23" id="4-11">
-      <question>
-My questions are:
-1. If all my opponent’s characters have already been tapped, can I still attack with the newly formed Combiner?
-If all of your opponent’s characters have already been tapped and you finish an attack with your untapped Combiner, you will then attack a second time with the Combiner.
-
-    When Bolster activates during my opponent’s turn, and Multi-Mission Gear is played with a Combiner Enigma, where does the attack land? As the defending character is no longer there, does it hit the Combiner?
-        </question>
-      <answer>
-    The character they were attacking is part of your newly formed Combiner, so they are now attacking your Combiner.
-</answer>
-    </entry>
-    <entry source="Rules Roundup 2019-07-12" id="1-30">
-      <question>
-I have a tapped Flamewar - Veteran Decepticon with 3 life remaining with 2 other untapped characters and a facedown Bolster. My opponent has 3 untapped characters and taps their attacker, declaring Flamewar as my defender. Because the conditions are met, I reveal Bolster and play Multi-Mission Gear onto my Flamewar. That triggers Multi-Mission Gear and allows me to play an action, which I choose to play One Shall Stand, One Shall Fall targeting my Flamewar and one of my opponent's characters. This kills my Flamewar but the attacker still lives. What happens in this scenario? Does my opponent lose their attack because the defender was killed prior to battle cards being flipped? Or does my opponent get to choose another attack target?
-</question>
-      <answer>
-Your opponent has already chosen who they are attacking, so the attack would end because there is no longer a defender.
-</answer>
-    </entry>
-    <entry source="Rules Roundup 2019-08-09" id="3-6">
-      <question>
-I play a Bolster, and attack with my specialist. Turn ends. Opponent attacks my defender who is a specialist. I play bolster then I play Multi-Mission Gear, then for the action you play Peace Through Tyranny, KO’ing the specialist defender, effectively ending the attack with no flips.
-Do you get an extra turn, then a normal turn?
-</question>
-      <answer>
-You take your extra turn, then your normal turn. You can’t take any additional turns.
-</answer>
-    </entry>
-    <entry source="Rules Roundup 2019-08-09" id="3-8">
-      <question>
-When defending I reveal the secret action Bolster. I then proceed to play Multi-Mission Gear to play Brainstorm, in turn playing Battlefield Report and Defensive Formation. As these 2 have the same trigger condition as Bolster, am I able to reveal them now that Bolster has finished resolving?
-</question>
-      <answer>
-In this scenario, it is too late to reveal them.
-</answer>
-    </entry>
-    <entry source="Rules Roundup 2019-04-26" id="426-12" tags="Secret Action">
-      <question>
-Based on the fact that Special Ops Mission exists in conjunction with Brainstorm, does that mean you cannot play a Secret Action using a battle card effect (like those on Multi-Mission Gear or Brainstorm) unless it specifically says so?
-      </question>
-      <answer>
-Things that effect actions also effect secret actions, which are a subset of actions.
-      </answer>
-    </entry>
-    <entry source="Rules Roundup 2019-06-07" id="607-5" tags="Sergeant Cog - Artillery - Mechanic">
-      <question>
-For your consideration, Cog. During your opponent's turn, they swing at and KO him. He attaches to one of your characters, leaving you with two. You draw your cards and find that you can attach a Multi-Mission Gear on a Specialist character, which of course you do thanks to his effect. With that Multi-Mission Gear, you decide to be rather aggressive and play a Peace Through Tyranny, KO’ing one of your characters to, and I quote, "take an extra turn after this one". 
-Now, in the context that it's currently your opponent's turn, and that you're taking an extra turn after "this one", would that mean that your "extra turn" would actually just be your next regular turn since the "next turn" is just your regular turn or am I mistaken? 
-      </question>
-      <answer>
-If you find a way to play Peace Through Tyranny on your opponent’s turn, you will take the next turn (the “extra turn”), then you’ll take your normal turn, then your opponent will take their turn, and so on.
-      </answer>
-    </entry>
-    <entry source="Rules Roundup 2019-06-07" id="607-14" tags="Major Shockwave - Applied Sciences - Scientist">
-      <question>
-I have Major Shockwave in bot mode. The top card of my deck is the deception card, Swindled. If I play Multi-Mission gear onto a specialist, since the Swindled on top of my deck is able to be played as though it was in my hand, can I play it from the activation of Multi-Mission Gear? 
-      </question>
-      <answer>
-You may!
-      </answer>
-    </entry>
-    <entry source="Rules Roundup 2019-07-29" id="2-20">
+  <entry source="Rules Roundup 2019-07-29" id="2-20">
       <question>
 My opponent has attacked me, and I reveal the Secret Action Bolster. I use Bolster to attach a Multi-Mission Gear to a Specialist. I then use the Action granted by Multi-Mission Gear to play All-Out Attack. World implodes, right?
 </question>
@@ -99,6 +29,68 @@ I play Full Loadout on Wave 1 Wheeljack in Alt Mode. I play Multi-Tool, Multi-Mi
 Full Loadout will put all three upgrades onto Wheeljack. You then handle all of the triggers in an order of your choosing.
 </answer>
     </entry>
+    <entry source="Rules Roundup 2019-07-12" id="1-30">
+      <question>
+I have a tapped Flamewar - Veteran Decepticon with 3 life remaining with 2 other untapped characters and a facedown Bolster. My opponent has 3 untapped characters and taps their attacker, declaring Flamewar as my defender. Because the conditions are met, I reveal Bolster and play Multi-Mission Gear onto my Flamewar. That triggers Multi-Mission Gear and allows me to play an action, which I choose to play One Shall Stand, One Shall Fall targeting my Flamewar and one of my opponent's characters. This kills my Flamewar but the attacker still lives. What happens in this scenario? Does my opponent lose their attack because the defender was killed prior to battle cards being flipped? Or does my opponent get to choose another attack target?
+</question>
+      <answer>
+Your opponent has already chosen who they are attacking, so the attack would end because there is no longer a defender.
+</answer>
+    </entry>
+    <entry source="Rules Roundup 2019-04-26" id="426-12" tags="Secret Action">
+      <question>
+Based on the fact that Special Ops Mission exists in conjunction with Brainstorm, does that mean you cannot play a Secret Action using a battle card effect (like those on Multi-Mission Gear or Brainstorm) unless it specifically says so?
+      </question>
+      <answer>
+Things that effect actions also effect secret actions, which are a subset of actions.
+      </answer>
+    </entry>
+    <entry source="Rules Roundup 2019-08-23" id="4-11">
+      <question>
+My questions are:
+1. If all my opponent’s characters have already been tapped, can I still attack with the newly formed Combiner?
+If all of your opponent’s characters have already been tapped and you finish an attack with your untapped Combiner, you will then attack a second time with the Combiner.
+
+    When Bolster activates during my opponent’s turn, and Multi-Mission Gear is played with a Combiner Enigma, where does the attack land? As the defending character is no longer there, does it hit the Combiner?
+        </question>
+      <answer>
+    The character they were attacking is part of your newly formed Combiner, so they are now attacking your Combiner.
+</answer>
+    </entry>
+    <entry source="Rules Roundup 2019-08-09" id="3-6">
+      <question>
+I play a Bolster, and attack with my specialist. Turn ends. Opponent attacks my defender who is a specialist. I play bolster then I play Multi-Mission Gear, then for the action you play Peace Through Tyranny, KO’ing the specialist defender, effectively ending the attack with no flips.
+Do you get an extra turn, then a normal turn?
+</question>
+      <answer>
+You take your extra turn, then your normal turn. You can’t take any additional turns.
+</answer>
+    </entry>
+    <entry source="Rules Roundup 2019-08-09" id="3-8">
+      <question>
+When defending I reveal the secret action Bolster. I then proceed to play Multi-Mission Gear to play Brainstorm, in turn playing Battlefield Report and Defensive Formation. As these 2 have the same trigger condition as Bolster, am I able to reveal them now that Bolster has finished resolving?
+</question>
+      <answer>
+In this scenario, it is too late to reveal them.
+</answer>
+    </entry>
+    <entry source="Rules Roundup 2019-06-07" id="607-5" tags="Sergeant Cog - Artillery - Mechanic">
+      <question>
+For your consideration, Cog. During your opponent's turn, they swing at and KO him. He attaches to one of your characters, leaving you with two. You draw your cards and find that you can attach a Multi-Mission Gear on a Specialist character, which of course you do thanks to his effect. With that Multi-Mission Gear, you decide to be rather aggressive and play a Peace Through Tyranny, KO’ing one of your characters to, and I quote, "take an extra turn after this one". 
+Now, in the context that it's currently your opponent's turn, and that you're taking an extra turn after "this one", would that mean that your "extra turn" would actually just be your next regular turn since the "next turn" is just your regular turn or am I mistaken? 
+      </question>
+      <answer>
+If you find a way to play Peace Through Tyranny on your opponent’s turn, you will take the next turn (the “extra turn”), then you’ll take your normal turn, then your opponent will take their turn, and so on.
+      </answer>
+    </entry>
+    <entry source="Rules Roundup 2019-06-07" id="607-14" tags="Major Shockwave - Applied Sciences - Scientist">
+      <question>
+I have Major Shockwave in bot mode. The top card of my deck is the deception card, Swindled. If I play Multi-Mission gear onto a specialist, since the Swindled on top of my deck is able to be played as though it was in my hand, can I play it from the activation of Multi-Mission Gear? 
+      </question>
+      <answer>
+You may!
+      </answer>
+    </entry>
     <entry source="Rules Roundup 2019-11-08" id="9-24">
       <question>
 I play Brainstorm, then Ancient Wisdom and System Reboot. My new hand is Multi-Mission Gear, Brainstorm, and 2 Unleashed Potential. Can I play Mutli-Mission Gear, then Brainstorm, and then both Unleashed Potentials?
@@ -110,4 +102,12 @@ But instead, let’s say you don’t play Unleash Potential. That brings you to 
 In either case, your new hand is Multi-Mission Gear, Brainstorm, and 2 Unleash Potentials. You’ve already played an Action this turn, so we’re guessing you’ll now play Multi-Mission Gear. This allows you to play an Action such as Brainstorm. Brainstorm will allow you to play 2 Unleash Potentials. You played Ancient Wisdom earlier in your turn, so you can get two 1-star cards from outside the game.
 </answer>
     </entry>
-  </target></faq>
+  <entry source="Rules Roundup 2019-10-11" id="7-11">
+      <question>
+If I then swap all of those upgrades with Red Heat, I can then choose the order again. From this I play a Multi-Mission Gear and play a Brainstorm, do I need to finish prior triggers before Brainstorm, or can I still choose the order?
+        </question>
+      <answer>
+If you swap upgrades with Red Heat, you can have a lot of triggers, including another Cog trigger. You choose to resolve each of these triggers one at a time. If you choose Multi-Mission Gear’s trigger to play Brainstorm, you now must finish Brainstorm’s effect before continuing with your remaining triggers caused by Red Heat’s swap.
+      </answer>
+    </entry>
+    </target></faq>

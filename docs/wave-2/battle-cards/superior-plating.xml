@@ -1,4 +1,44 @@
-<faq><target name="Superior Plating"><entry source="Rules Roundup 2019-03-15" id="315-2" tags="Superior Jetpack,Superior Plating,Superior Cannon">
+<faq><target name="Superior Plating"><entry source="Rules Roundup 2019-09-06" id="5-1">
+      <question>
+Can Quartermaster be used to move a Superior Cannon, Superior Jetpack, or Superior Plating from one character to another or do you still have to play a Tech Research first?
+        </question>
+      <answer>
+Yes, it can.
+</answer>
+    </entry>
+    <entry source="Rules Roundup 2019-07-29" id="2-19" tags="Superior Plating,Superior Jetpack,Superior Cannon">
+      <question>
+If I play a card that allows me to play an upgrade, can I play a Superior Plating/Jetpack/Cannon without needing to play Tech Research?
+</question>
+      <answer>
+No.
+</answer>
+    </entry>
+    <entry source="Rules Roundup 2019-02-22" id="222-1">
+      <question>
+Does Jetfire’s ability bypass Tech Research and allow me to attach cards like Superior Jetpack and Superior Plating?
+      </question>
+      <answer>
+Jetfire’s wording of “put” is different than “play”, which does circumvent the restrictions on cards like Superior Jetpack and Superior Plating.
+      </answer>
+    </entry>
+    <entry source="Rules Roundup 2019-04-26" id="426-4" tags="Jetfire - Air Guardian">
+      <question>
+Given Hunker Down, which says "Flip each of your characters from bot mode to tank mode. Then for each of your tanks that isn't upgraded with an Armor, put an Armor on it from your scrap pile", bypasses the requirement to play Tech Research for Superior Plating, does the same apply to Jetfire, whose wording is "When you flip to this mode - Put an Armor or Utility from your scrap pile onto this character"?
+      </question>
+      <answer>
+Yes.
+      </answer>
+    </entry>
+    <entry source="Rules Roundup 2019-08-23" id="4-3">
+      <question>
+I was wondering about Sergeant Chromia from Wave 3 and how the Alt mode flip ability works. Does the flip ability work in saying that you can play any blue armor upgrade, like possibly Superior Plating as an example, along with your original upgrade and action, or is it saying that the player is able to play an additional blue armor upgrade from hand along with their own upgrade and action on that turn?
+        </question>
+      <answer>
+Sergeant Chromia’s flip ability asks you to play a blue armor right then. If you don’t, you’ve forfeited the opportunity to do so. Your normal upgrade play and action play aren’t affected by this. The flip ability does not allow playing Superior Plating without previously having played Tech Research.
+</answer>
+    </entry>
+    <entry source="Rules Roundup 2019-03-15" id="315-2" tags="Superior Jetpack,Superior Plating,Superior Cannon">
       <question>
 Megatron - Arrogant Ruler’s ability says "If you flip to this mode you may play an upgrade”, Does this include all Superior Upgrades? (Jetpack, Plating, Cannon, etc.)
       </question>
@@ -14,30 +54,6 @@ Can I use Hunker Down to retrieve a Superior Plating from my scrap pile and play
 Yes. Hunker Down doesn’t ask you to play the card, so the requirement from Tech Research does not apply.
       </answer>
     </entry>
-    <entry source="Rules Roundup 2019-08-23" id="4-3">
-      <question>
-I was wondering about Sergeant Chromia from Wave 3 and how the Alt mode flip ability works. Does the flip ability work in saying that you can play any blue armor upgrade, like possibly Superior Plating as an example, along with your original upgrade and action, or is it saying that the player is able to play an additional blue armor upgrade from hand along with their own upgrade and action on that turn?
-        </question>
-      <answer>
-Sergeant Chromia’s flip ability asks you to play a blue armor right then. If you don’t, you’ve forfeited the opportunity to do so. Your normal upgrade play and action play aren’t affected by this. The flip ability does not allow playing Superior Plating without previously having played Tech Research.
-</answer>
-    </entry>
-    <entry source="Rules Roundup 2019-02-22" id="222-1">
-      <question>
-Does Jetfire’s ability bypass Tech Research and allow me to attach cards like Superior Jetpack and Superior Plating?
-      </question>
-      <answer>
-Jetfire’s wording of “put” is different than “play”, which does circumvent the restrictions on cards like Superior Jetpack and Superior Plating.
-      </answer>
-    </entry>
-    <entry source="Rules Roundup 2019-09-06" id="5-1">
-      <question>
-Can Quartermaster be used to move a Superior Cannon, Superior Jetpack, or Superior Plating from one character to another or do you still have to play a Tech Research first?
-        </question>
-      <answer>
-Yes, it can.
-</answer>
-    </entry>
     <entry source="Rules Roundup 2019-04-01" id="401-8" tags="Superior Cannon,Superior Jetpack,Superior Plating">
       <question>
 Can Leap of Faith bypass the condition on all the Superior cards (Cannon, Jet pack, Plating) and allow you to attach them to a bot?
@@ -45,21 +61,5 @@ Can Leap of Faith bypass the condition on all the Superior cards (Cannon, Jet pa
       <answer>
 No.
       </answer>
-    </entry>
-    <entry source="Rules Roundup 2019-04-26" id="426-4" tags="Jetfire - Air Guardian">
-      <question>
-Given Hunker Down, which says "Flip each of your characters from bot mode to tank mode. Then for each of your tanks that isn't upgraded with an Armor, put an Armor on it from your scrap pile", bypasses the requirement to play Tech Research for Superior Plating, does the same apply to Jetfire, whose wording is "When you flip to this mode - Put an Armor or Utility from your scrap pile onto this character"?
-      </question>
-      <answer>
-Yes.
-      </answer>
-    </entry>
-    <entry source="Rules Roundup 2019-07-29" id="2-19" tags="Superior Plating,Superior Jetpack,Superior Cannon">
-      <question>
-If I play a card that allows me to play an upgrade, can I play a Superior Plating/Jetpack/Cannon without needing to play Tech Research?
-</question>
-      <answer>
-No.
-</answer>
     </entry>
     </target></faq>

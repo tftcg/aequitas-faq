@@ -1,12 +1,4 @@
-<faq><target name="Special Ops Mission"><entry source="Rules Roundup 2019-06-28" id="628-4">
-      <question>
-What happens when you Special Ops Mission two Infiltrates and your opponent plays an orange Action? 
-      </question>
-      <answer>
-You can choose to reveal one Infiltrate and leave the other one facedown to reveal later. You are allowed to reveal both, but the first Infiltrate would make the second one ineffective. 
-      </answer>
-    </entry>
-    <entry source="Rules Roundup 2019-04-26" id="426-12" tags="Secret Action">
+<faq><target name="Special Ops Mission"><entry source="Rules Roundup 2019-04-26" id="426-12" tags="Secret Action">
       <question>
 Based on the fact that Special Ops Mission exists in conjunction with Brainstorm, does that mean you cannot play a Secret Action using a battle card effect (like those on Multi-Mission Gear or Brainstorm) unless it specifically says so?
       </question>
@@ -20,6 +12,14 @@ Does Captain Wheeljack's bot mode skill trigger if you play Special Ops Mission 
       </question>
       <answer>
 Sure does.
+      </answer>
+    </entry>
+    <entry source="Rules Roundup 2019-06-28" id="628-4">
+      <question>
+What happens when you Special Ops Mission two Infiltrates and your opponent plays an orange Action? 
+      </question>
+      <answer>
+You can choose to reveal one Infiltrate and leave the other one facedown to reveal later. You are allowed to reveal both, but the first Infiltrate would make the second one ineffective. 
       </answer>
     </entry>
     </target></faq>

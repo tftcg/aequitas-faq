@@ -1,12 +1,4 @@
-<faq><target name="Prowl - Strategic Mastermind"><entry source="Rules Roundup 2019-02-01" id="201-8" tags="Combiner,Optimus Maximus - Ultimate Defender,Prowl - Strategic Mastermind">
-      <question>
-The enigma cards mention a Combiner keeps an upgrade in each slot, but here's a weird scenario involving that: Say Prowl, Strategic Mastermind is upgraded with a Power Sword. Since he's a melee character, he can obviously take this upgrade. But could you keep that Power Sword on Optimus Maximus when he combines, even though he's a ranged character?
-      </question>
-      <answer>
-Yes.
-    </answer>
-    </entry>
-    <entry source="Rules Roundup 2019-06-07" id="607-18" tags="Prowl - Strategic Mastermind,Autobot Mirage - Counterintelligence">
+<faq><target name="Prowl - Strategic Mastermind"><entry source="Rules Roundup 2019-06-07" id="607-18" tags="Prowl - Strategic Mastermind,Autobot Mirage - Counterintelligence">
       <question>
 What happens when the Sentinel Prowl attacks with Combat Commands and I want to use it on Mirage, into a character equipped to with Security Console? Does turn player flip flop Mirage first to look for an action to scrap before they draw?
       </question>
@@ -22,4 +14,12 @@ Let's say I'm playing Sentinels and I have Ironhide - Steadfast Brawler in my KO
 Each character’s ability is separate and stacks, so in this scenario you would end up with Pierce 4.
       </answer>
     </entry>
-  </target></faq>
+  <entry source="Rules Roundup 2019-02-01" id="201-8" tags="Combiner,Optimus Maximus - Ultimate Defender,Prowl - Strategic Mastermind">
+      <question>
+The enigma cards mention a Combiner keeps an upgrade in each slot, but here's a weird scenario involving that: Say Prowl, Strategic Mastermind is upgraded with a Power Sword. Since he's a melee character, he can obviously take this upgrade. But could you keep that Power Sword on Optimus Maximus when he combines, even though he's a ranged character?
+      </question>
+      <answer>
+Yes.
+    </answer>
+    </entry>
+    </target></faq>

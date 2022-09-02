@@ -1,18 +1,18 @@
-<faq><target name="Recover Cassette"><entry source="Rules Roundup 2019-09-20" id="6-5">
+<faq><target name="Recover Cassette"><entry source="Rules Roundup 2019-07-29" id="2-4">
       <question>
-If a Mini-Cassette attacks with an Anticipation Engine attached, reveals Recover Cassette, and Recover Cassette is played to put that Mini-Cassette under Soundwave or Blaster, does the attack end and no cards are flipped for attacking and defending?
-        </question>
+If I use Recover Cassette to put a Mini-Cassette under Major Soundwave, what happens to the Mini-Cassette when Major Soundwave is KO’d?
+</question>
       <answer>
-The attack ends and no Battle Cards are flipped.
-      </answer>
+It stays under Major Soundwave.
+</answer>
     </entry>
-    <entry source="Rules Roundup 2019-10-11" id="7-3">
+    <entry source="Rules Roundup 2019-07-29" id="2-29" tags="Blaster - Communications,Soundwave - Communications,I Still Function!">
       <question>
-In a turn where I play Brainstorm, allowing for 2 more actions. I play I Still Function!, bringing Buzzsaw (Spy) from the KO Area, then I play Recover Cassette, putting Buzzsaw underneath Soundwave. Will that cancel out I Still Function!?
-        </question>
+Blaster vs. Soundwave. Ravage is in the KO area. Step #1, I play brainstorm. Step #2, I play I Still Function, which brings him back with 1 health. Step #3, I play Recover Cassette, which puts him under Soundwave to heal 2 damage. Now for the question: does I Still Function resolve and Ravage goes back into the KO area? Or does Ravage bypass that effect, thus he is not KO’d?
+</question>
       <answer>
-Yes, it will. Once Buzzsaw goes underneath Soundwave, all existing and/or pending game effects stop applying to him.
-      </answer>
+Ravage is not KO’d. I Still Function does not find him on the battlefield.
+</answer>
     </entry>
     <entry source="Rules Roundup 2019-07-12" id="1-29" tags="Recover Cassette,Blaster - Communications,Soundwave - Communications">
       <question>
@@ -30,20 +30,20 @@ How do Soundwave and Blaster decide who gets to start with the Mini-Cassette und
 You choose where the Mini-Cassette goes.
 </answer>
     </entry>
-    <entry source="Rules Roundup 2019-07-29" id="2-4">
+    <entry source="Rules Roundup 2019-10-11" id="7-3">
       <question>
-If I use Recover Cassette to put a Mini-Cassette under Major Soundwave, what happens to the Mini-Cassette when Major Soundwave is KO’d?
-</question>
+In a turn where I play Brainstorm, allowing for 2 more actions. I play I Still Function!, bringing Buzzsaw (Spy) from the KO Area, then I play Recover Cassette, putting Buzzsaw underneath Soundwave. Will that cancel out I Still Function!?
+        </question>
       <answer>
-It stays under Major Soundwave.
-</answer>
+Yes, it will. Once Buzzsaw goes underneath Soundwave, all existing and/or pending game effects stop applying to him.
+      </answer>
     </entry>
-    <entry source="Rules Roundup 2019-07-29" id="2-29" tags="Blaster - Communications,Soundwave - Communications,I Still Function!">
+    <entry source="Rules Roundup 2019-09-20" id="6-5">
       <question>
-Blaster vs. Soundwave. Ravage is in the KO area. Step #1, I play brainstorm. Step #2, I play I Still Function, which brings him back with 1 health. Step #3, I play Recover Cassette, which puts him under Soundwave to heal 2 damage. Now for the question: does I Still Function resolve and Ravage goes back into the KO area? Or does Ravage bypass that effect, thus he is not KO’d?
-</question>
+If a Mini-Cassette attacks with an Anticipation Engine attached, reveals Recover Cassette, and Recover Cassette is played to put that Mini-Cassette under Soundwave or Blaster, does the attack end and no cards are flipped for attacking and defending?
+        </question>
       <answer>
-Ravage is not KO’d. I Still Function does not find him on the battlefield.
-</answer>
+The attack ends and no Battle Cards are flipped.
+      </answer>
     </entry>
     </target></faq>

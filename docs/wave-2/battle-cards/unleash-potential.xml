@@ -31,23 +31,17 @@ Along those lines, am I limited to playing 1 Unleashed Potential per Ancient Wis
 Your Ancient Wisdom allows you to play a single Unleash Potential. After you’ve played Tech Research, the number of Superior upgrades you can play is only limited by the number of upgrades you can play.
       </answer>
     </entry>
-    <entry source="Rules Roundup 2019-10-11" id="7-1">
+    <entry source="Rules Roundup 2019-05-17" id="517-11">
       <question>
-I play Brainstorm. Using my 2 actions, I play Ancient Wisdom first, then System Reboot. I draw Unleash Potential off of System Reboot, do I get to play it for free now?
-        </question>
+If I play Ancient Wisdom and follow it with Unleash Potential 4 times in one game, am I allowed to add 4 copies of the same card; i.e. Mounted Missiles, to my hand, even though under normal deck constraints a playset is 3?
+      </question>
       <answer>
-Both Brainstorm and Ancient Wisdom resolve “top to bottom”. When you play Brainstorm, then you play Ancient Wisdom, you must play Unleash Potential at that moment. In your case, you’ve moved past Ancient Wisdom and are continuing with Brainstorm, playing System Reboot. It’s now too late to play Unleash Potential with your previous Ancient Wisdom.
+Yes, you can. Deck constraints only apply to your starting deck.
+
+          <tftcg-note>This changed in later competitive rules to state they could only pull from the sideboard, and that the only three copies applies to deck and sideboard. </tftcg-note>
       </answer>
     </entry>
-    <entry source="Rules Roundup 2019-07-12" id="1-19">
-      <question>
-Ancient Wisdom states, "You may play Unleash Potential." Do that mean it's allowing you it as a second action for that turn? If yes, can you play two Unleash Potentials? The text doesn't specify a quantity.
-</question>
-      <answer>
-You may play one Unleash Potential.
-</answer>
-    </entry>
-    <entry source="Rules Roundup 2019-02-22" id="222-3">
+  <entry source="Rules Roundup 2019-02-22" id="222-3">
       <question>
 For Unleash Potential, can you add any card from outside the game even if you would exceed 25 stars? Or would you still need to be under the limit?
       </question>
@@ -63,15 +57,24 @@ Say I have 2 copies of Universal Network Access (Or any star card) in my deck, a
 The rule only applies when building your deck. In this scenario you could bring in another copy.
       </answer>
     </entry>
-    <entry source="Rules Roundup 2019-05-17" id="517-11">
+    <entry source="Rules Roundup 2019-07-12" id="1-19">
       <question>
-If I play Ancient Wisdom and follow it with Unleash Potential 4 times in one game, am I allowed to add 4 copies of the same card; i.e. Mounted Missiles, to my hand, even though under normal deck constraints a playset is 3?
-      </question>
+Ancient Wisdom states, "You may play Unleash Potential." Do that mean it's allowing you it as a second action for that turn? If yes, can you play two Unleash Potentials? The text doesn't specify a quantity.
+</question>
       <answer>
-Yes, you can. Deck constraints only apply to your starting deck.
-
-          <tftcg-note>This changed in later competitive rules to state they could only pull from the sideboard, and that the only three copies applies to deck and sideboard. </tftcg-note>
-      </answer>
+You may play one Unleash Potential.
+</answer>
+    </entry>
+    <entry source="Rules Roundup 2019-11-08" id="9-24">
+      <question>
+I play Brainstorm, then Ancient Wisdom and System Reboot. My new hand is Multi-Mission Gear, Brainstorm, and 2 Unleashed Potential. Can I play Mutli-Mission Gear, then Brainstorm, and then both Unleashed Potentials?
+        </question>
+      <answer>
+Let’s walk through this whole play. You play Brainstorm and your first action is Ancient Wisdom. Ancient Wisdom has you scrap the top two cards of your deck and put an Action and/or Upgrade from among the scrapped cards into your hand. At this point, you can play Unleash Potential, if it’s in your hand.
+Let’s say you do. You get a card with 1 star from outside the game and put it into your hand. This may not be a great idea, because you then play the second action from Brainstorm, which is System Reboot. You scrap your hand (including that fancy star card you just snagged) and draw 4 cards.
+But instead, let’s say you don’t play Unleash Potential. That brings you to the end of Ancient Wisdom and now you System Reboot just as above.
+In either case, your new hand is Multi-Mission Gear, Brainstorm, and 2 Unleash Potentials. You’ve already played an Action this turn, so we’re guessing you’ll now play Multi-Mission Gear. This allows you to play an Action such as Brainstorm. Brainstorm will allow you to play 2 Unleash Potentials. You played Ancient Wisdom earlier in your turn, so you can get two 1-star cards from outside the game.
+</answer>
     </entry>
   <entry source="Rules Roundup 2019-03-08" id="308-13">
       <question>
@@ -89,6 +92,14 @@ Next, is there a sequencing issue with the synergy of Ancient Wisdom and Unleash
 No, that would not do anything.
     </answer>
     </entry>
+    <entry source="Rules Roundup 2019-10-11" id="7-1">
+      <question>
+I play Brainstorm. Using my 2 actions, I play Ancient Wisdom first, then System Reboot. I draw Unleash Potential off of System Reboot, do I get to play it for free now?
+        </question>
+      <answer>
+Both Brainstorm and Ancient Wisdom resolve “top to bottom”. When you play Brainstorm, then you play Ancient Wisdom, you must play Unleash Potential at that moment. In your case, you’ve moved past Ancient Wisdom and are continuing with Brainstorm, playing System Reboot. It’s now too late to play Unleash Potential with your previous Ancient Wisdom.
+      </answer>
+    </entry>
     <entry source="Rules Roundup 2019-02-28" id="228-7">
       <question> 
 So, Unleash Potential, says 1-star but it’s unclear. So, if there were a theoretical 2-star card, would it be a legal choice?
@@ -97,15 +108,4 @@ So, Unleash Potential, says 1-star but it’s unclear. So, if there were a theor
 No. 1-star is 1-star, no matter your theories!
       </answer>
     </entry>
-    <entry source="Rules Roundup 2019-11-08" id="9-24">
-      <question>
-I play Brainstorm, then Ancient Wisdom and System Reboot. My new hand is Multi-Mission Gear, Brainstorm, and 2 Unleashed Potential. Can I play Mutli-Mission Gear, then Brainstorm, and then both Unleashed Potentials?
-        </question>
-      <answer>
-Let’s walk through this whole play. You play Brainstorm and your first action is Ancient Wisdom. Ancient Wisdom has you scrap the top two cards of your deck and put an Action and/or Upgrade from among the scrapped cards into your hand. At this point, you can play Unleash Potential, if it’s in your hand.
-Let’s say you do. You get a card with 1 star from outside the game and put it into your hand. This may not be a great idea, because you then play the second action from Brainstorm, which is System Reboot. You scrap your hand (including that fancy star card you just snagged) and draw 4 cards.
-But instead, let’s say you don’t play Unleash Potential. That brings you to the end of Ancient Wisdom and now you System Reboot just as above.
-In either case, your new hand is Multi-Mission Gear, Brainstorm, and 2 Unleash Potentials. You’ve already played an Action this turn, so we’re guessing you’ll now play Multi-Mission Gear. This allows you to play an Action such as Brainstorm. Brainstorm will allow you to play 2 Unleash Potentials. You played Ancient Wisdom earlier in your turn, so you can get two 1-star cards from outside the game.
-</answer>
-    </entry>
-  </target></faq>
+    </target></faq>

@@ -27,17 +27,7 @@ choose a character with 12 health and 11 damage counters and do 2 more damage to
 would be KO’d.
 </answer>
     </entry>
-  <entry source="Rules Roundup 2019-11-22" id="10-2">
-      <question>
-With Showing Off, would a Bot receive any and all "when you flip to" triggers during the process or does it only count the final mode it's flipped to? For example, if Grimlock - Dinobot Leader is in bot mode and plays Showing Off, could he end in Bot mode with the Bold 3 from his Alt mode?
-        </question>
-      <answer>
-Yes, you can first flip Grimlock to alt mode, causing the ability on that mode to trigger, and then flip back to bot mode.
-
-          <tftcg-note>While the alt mode ability triggers when Grimlock is flipped to alt-mode, note that the trigger does not resolve until after Showing Off has completed and Grimlock is back in bot-mode. </tftcg-note>
-      </answer>
-    </entry>
-    <entry source="Rules Roundup 2019-06-28" id="628-14" tags="Grimlock - Dinobot Leader">
+  <entry source="Rules Roundup 2019-06-28" id="628-14" tags="Grimlock - Dinobot Leader">
       <question>
 When I play Steamroll on Grimlock, does the "spillover" damage occur twice?
       </question>
@@ -51,6 +41,16 @@ A situation came up today after Grimlock in bot mode (Wave 1) attacked Motor Mas
       </question>
       <answer>
 In this scenario, Motormaster would be KO’d and his ability would not apply. Grimlock’s ability will trigger after Motormaster is KO’d.
+      </answer>
+    </entry>
+    <entry source="Rules Roundup 2019-11-22" id="10-2">
+      <question>
+With Showing Off, would a Bot receive any and all "when you flip to" triggers during the process or does it only count the final mode it's flipped to? For example, if Grimlock - Dinobot Leader is in bot mode and plays Showing Off, could he end in Bot mode with the Bold 3 from his Alt mode?
+        </question>
+      <answer>
+Yes, you can first flip Grimlock to alt mode, causing the ability on that mode to trigger, and then flip back to bot mode.
+
+          <tftcg-note>While the alt mode ability triggers when Grimlock is flipped to alt-mode, note that the trigger does not resolve until after Showing Off has completed and Grimlock is back in bot-mode. </tftcg-note>
       </answer>
     </entry>
     <entry source="Rules Roundup 2019-02-11" id="211-1" tags="Grimlock - Dinobot Leader,Motormaster - Stunticon Leader,Insecticon Skrapnel - Insecticon Leader">

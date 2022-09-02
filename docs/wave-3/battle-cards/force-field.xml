@@ -18,36 +18,20 @@
     The damage that would be done to the defender is instead done to the character with Heroism and Force Field. That damage is still attack damage, so 4 damage is done to the Upgraded character instead.
 </answer>
     </entry>
-  <entry source="Rules Roundup 2019-09-20" id="6-1">
-      <question>
-The opponent had an Optimus Prime - Battlefield Legend with an Anticipation Engine and attacked my Ramhorn. I had a Force Field in hand and was ready to play my white armor, when he flipped a Security Checkpoint with Anticipation Engine. Do I still get to play the Force Field in this situation or does the Checkpoint get rid of the Force Field before I play it?
-        </question>
-      <answer>
-Because attack triggers will resolve before defense triggers, in this scenario Security Checkpoint will get rid of your Force Field before you can play it.
-      </answer>
-    </entry>
-    <entry source="Rules Roundup 2019-03-15" id="315-13">
-      <question>
-Megatron - Decepticon Leader in bot mode has a total of Pierce 6 due to his ability and the upgrade equipped (Crushing Threads) and attacks with a total of 5 regular attack damage. Prowl has (Force Field) equipped and defends for a total of 2 because no blue pips were revealed. Force Field does not trigger because the attack damage did not exceed the 5 and higher damage limit. Is this right? Does he take 3 regular damage or 6 pierce damage?
-      </question>
-      <answer>
-Because Megatron has Pierce 6, he would do 5 attack damage (remember that attack damage can’t be higher than the character’s attack, even with pierce). This causes the Force Field to trigger, so instead, he’ll do 4 damage and the Force Field will be scrapped.
-      </answer>
-    </entry>
-    <entry source="Rules Roundup 2019-RR-1" id="RR1-2">
-      <question>
-Force Field states "if the upgraded character would take 5 or more attack damage - instead scrap this card and the upgraded character takes 4 attack damage." What happens when the target received 4 or fewer attack damage? Do they take that damage and keep Force Field equipped until 5 attack damage is received or does it still get scrapped even if you have only taken 3 attack damage?
-      </question>
-      <answer>
-Force Field will not be scrapped if you take 4 or fewer attack damage on one attack, and it does not remember previous attacks, even in the same turn.
-      </answer>
-    </entry>
-    <entry source="Rules Roundup 2019-02-18" id="218-32" tags="Autobot Jazz - Special Ops">
+  <entry source="Rules Roundup 2019-02-18" id="218-32" tags="Autobot Jazz - Special Ops">
       <question>
 What checks first when you have a Force Field on Jazz in Alt Mode? Would Jazz's ability reduce his damage to 2, or would Force Field reduce to it 4 and then Jazz's ability would reduce to 2 if he flips white pips?
       </question>
       <answer>
 Jazz’s ability would keep him from ever taking more than 2 damage, so Force Field would not trigger.
+      </answer>
+    </entry>
+    <entry source="Rules Roundup 2019-05-28" id="528-7">
+      <question>
+If your character takes 10 damage while it has a Force Field and a Backup Bag, will the Backup Bag save the Force Field from being scrapped while also reducing the damage down to 4?
+      </question>
+      <answer>
+It is Force Field’s own ability that is causing it to be scrapped, so Backup Back will apply. The character will take 4 attack damage and lose the Backup Bag.
       </answer>
     </entry>
     <entry source="Rules Roundup 2019-02-22" id="222-15">
@@ -56,6 +40,14 @@ Okay, so you've stated in the past that your opponent's characters count as "car
       </question>
       <answer>
 You would scrap Force Field because its ability is what causes it to be scrapped, not your opponent’s attack.
+      </answer>
+    </entry>
+    <entry source="Rules Roundup 2019-03-15" id="315-13">
+      <question>
+Megatron - Decepticon Leader in bot mode has a total of Pierce 6 due to his ability and the upgrade equipped (Crushing Threads) and attacks with a total of 5 regular attack damage. Prowl has (Force Field) equipped and defends for a total of 2 because no blue pips were revealed. Force Field does not trigger because the attack damage did not exceed the 5 and higher damage limit. Is this right? Does he take 3 regular damage or 6 pierce damage?
+      </question>
+      <answer>
+Because Megatron has Pierce 6, he would do 5 attack damage (remember that attack damage can’t be higher than the character’s attack, even with pierce). This causes the Force Field to trigger, so instead, he’ll do 4 damage and the Force Field will be scrapped.
       </answer>
     </entry>
     <entry source="Rules Roundup 2019-04-12" id="412-6">
@@ -72,6 +64,14 @@ If Dreadwing has two Force Fields equipped, wouldn't they both be scrapped at th
       </question>
       <answer>
 No. Force Field is not a triggered ability. See explanation regarding replacement effects above.
+      </answer>
+    </entry>
+    <entry source="Rules Roundup 2019-RR-1" id="RR1-2">
+      <question>
+Force Field states "if the upgraded character would take 5 or more attack damage - instead scrap this card and the upgraded character takes 4 attack damage." What happens when the target received 4 or fewer attack damage? Do they take that damage and keep Force Field equipped until 5 attack damage is received or does it still get scrapped even if you have only taken 3 attack damage?
+      </question>
+      <answer>
+Force Field will not be scrapped if you take 4 or fewer attack damage on one attack, and it does not remember previous attacks, even in the same turn.
       </answer>
     </entry>
     <entry source="Rules Roundup 2019-02-11" id="211-1" tags="Grimlock - Dinobot Leader,Motormaster - Stunticon Leader,Insecticon Skrapnel - Insecticon Leader">
@@ -93,12 +93,12 @@ Skywarp in bot mode defends and I flip a white card and choose to redirect the d
 Still attack damage, the Force Field will apply.
       </answer>
     </entry>
-    <entry source="Rules Roundup 2019-05-28" id="528-7">
+    <entry source="Rules Roundup 2019-09-20" id="6-1">
       <question>
-If your character takes 10 damage while it has a Force Field and a Backup Bag, will the Backup Bag save the Force Field from being scrapped while also reducing the damage down to 4?
-      </question>
+The opponent had an Optimus Prime - Battlefield Legend with an Anticipation Engine and attacked my Ramhorn. I had a Force Field in hand and was ready to play my white armor, when he flipped a Security Checkpoint with Anticipation Engine. Do I still get to play the Force Field in this situation or does the Checkpoint get rid of the Force Field before I play it?
+        </question>
       <answer>
-It is Force Field’s own ability that is causing it to be scrapped, so Backup Back will apply. The character will take 4 attack damage and lose the Backup Bag.
+Because attack triggers will resolve before defense triggers, in this scenario Security Checkpoint will get rid of your Force Field before you can play it.
       </answer>
     </entry>
     <entry source="Rules Roundup 2019-02-28" id="228-1" tags="Omega Supreme - Autobot Defense Base">

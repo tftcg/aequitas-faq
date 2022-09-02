@@ -50,20 +50,20 @@
             Treat it like a regular star card.
         </answer>
     </entry>
-    <entry source="Aequitas Rules Roundup 2022-08-23" id="1">
-            <question>
-                Does a stratagem changing the attack/defence of a character change the base values for the character?
-            </question>
-            <answer>
-                No. For example, if Private Pteraxadon’s Binary Edgewing Scythe upgrade mode removes the base defense from a defending Windblade, Combiner Hunter, it would not remove the +1 from the Camien Toughness stratagem.
-            </answer>
-        </entry>
     <entry source="Aequitas Rules Roundup 2021-01-03" id="1">
             <question>
                 When do you choose to add stratagems out of your sideboard? When declaring characters or when sideboarding battlecards?
             </question>
             <answer>
                 Stratagems are played concurrently with the starting team for a game. This is required otherwise cards like Master Converter and Aerial Enhancements would not effect the starting team, leading Windsweeper to be sad when Blitzwing and Tracks don't count as Planes. 
+            </answer>
+        </entry>
+    <entry source="Aequitas Rules Roundup 2022-08-23" id="1" tags="Private Pteraxadon - Air Command - Artillery">
+            <question>
+                Does a stratagem changing the attack/defence of a character change the base values for the character?
+            </question>
+            <answer>
+                No. For example, if Private Pteraxadon’s Binary Edgewing Scythe upgrade mode removes the base defense from a defending Windblade, Combiner Hunter, it would not remove the +1 from the Camien Toughness stratagem.
             </answer>
         </entry>
     </target></faq>

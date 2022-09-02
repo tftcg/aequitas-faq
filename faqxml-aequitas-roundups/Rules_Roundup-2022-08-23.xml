@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <faq name="Aequitas Rules Roundup 2022-08-23" source_url="" published_date="2022-08-23" sourced_at="2022-08-23">
     <target name="Stratagem">
-        <entry id="1">
+        <entry id="1" tags="Private Pteraxadon - Air Command - Artillery">
             <question>
                 Does a stratagem changing the attack/defence of a character change the base values for the character?
             </question>

@@ -1,4 +1,20 @@
-<faq><target name="Metroplex - Autobot City"><entry source="Rules Roundup 2019-05-02" id="502-8" tags="Metroplex - Autobot City,Slammer - Combat Drone">
+<faq><target name="Metroplex - Autobot City"><entry source="Rules Roundup 2019-07-29" id="2-23" tags="Metroplex - Autobot City,Six-Gun - Heavy Weapon Expert">
+      <question>
+My friends and I played a game where Metroplex had Six-Gun deployed in alt mode. The defending player had a tapped character with 1 health left and an untapped, undamaged character. Metroplex converted into bot mode and attacked the character, and Six-Gun's ability KO’d the defending character. Does Metroplex still flip battle cards to see if it can use the bot mode ability or does the death of the tapped character mean the attack stops?
+</question>
+      <answer>
+No, Metroplex does not flip battle cards in this scenario.
+</answer>
+    </entry>
+    <entry source="Rules Roundup 2019-07-29" id="2-30" tags="Metroplex - Autobot City">
+      <question>
+Can a 13-star character be put in the sideboard for a Metroplex deck and still fight with Metro's friends, swapping Metroplex out?
+</question>
+      <answer>
+You can have a 13-star character in your sideboard. However, Metroplex’s 3 component bots enter the game only if Metroplex is your starting character. This means you could play the next game with only the 13-star character as your team, but this sounds unwise.
+</answer>
+    </entry>
+    <entry source="Rules Roundup 2019-05-02" id="502-8" tags="Metroplex - Autobot City,Slammer - Combat Drone">
       <question>
 I'm playing a game of Stunticons vs. Metroplex.
 Turn 1, Metroplex Flips and Attacks.
@@ -15,6 +31,14 @@ I am playing with Metroplex, and I have Backup Beam and Debilitating Crystal att
       </question>
       <answer>
 Yes. Both bold effects would apply in this scenario. Stunticon Swagger does not stop a character from getting bold prior to the attack.
+      </answer>
+    </entry>
+    <entry source="Rules Roundup 2019-11-08" id="9-16" tags="Metroplex - Autobot City,Trypticon - Assault Base">
+      <question>
+If I’m playing Metroplex and I get KO’d in round one, can I sideboard in Trypticon?
+        </question>
+      <answer>
+Your character sideboard is allowed 1 character with 19 stars or fewer. Trypticon is too big for this and is wondering why you’re not just running him on your team to begin with.
       </answer>
     </entry>
     <entry source="Rules Roundup 2019-02-11" id="211-11" tags="Grimlock - Dinobot Leader,Metroplex - Autobot City,Scamper - City Patrol">
@@ -39,30 +63,6 @@ How does Protected by Metroplex function in situations where damage is being dea
       </question>
       <answer>
 All damage done by Strafing Run will be done simultaneously, no matter where that damage ends up. Metroplex would end up taking 2 damage and then be KO’d in this scenario. Slammer would live on, driven by vengeance.
-      </answer>
-    </entry>
-    <entry source="Rules Roundup 2019-07-29" id="2-23" tags="Metroplex - Autobot City,Six-Gun - Heavy Weapon Expert">
-      <question>
-My friends and I played a game where Metroplex had Six-Gun deployed in alt mode. The defending player had a tapped character with 1 health left and an untapped, undamaged character. Metroplex converted into bot mode and attacked the character, and Six-Gun's ability KO’d the defending character. Does Metroplex still flip battle cards to see if it can use the bot mode ability or does the death of the tapped character mean the attack stops?
-</question>
-      <answer>
-No, Metroplex does not flip battle cards in this scenario.
-</answer>
-    </entry>
-    <entry source="Rules Roundup 2019-07-29" id="2-30" tags="Metroplex - Autobot City">
-      <question>
-Can a 13-star character be put in the sideboard for a Metroplex deck and still fight with Metro's friends, swapping Metroplex out?
-</question>
-      <answer>
-You can have a 13-star character in your sideboard. However, Metroplex’s 3 component bots enter the game only if Metroplex is your starting character. This means you could play the next game with only the 13-star character as your team, but this sounds unwise.
-</answer>
-    </entry>
-    <entry source="Rules Roundup 2019-11-08" id="9-16" tags="Metroplex - Autobot City,Trypticon - Assault Base">
-      <question>
-If I’m playing Metroplex and I get KO’d in round one, can I sideboard in Trypticon?
-        </question>
-      <answer>
-Your character sideboard is allowed 1 character with 19 stars or fewer. Trypticon is too big for this and is wondering why you’re not just running him on your team to begin with.
       </answer>
     </entry>
     <entry source="Aequitas Rules Roundup 2021-01-03" id="9" tags="Metroplex - Autobot City,Sky Shadow - Elite Warrior">

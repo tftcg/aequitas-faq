@@ -6,20 +6,20 @@
       <question>If I have a Weapon in the upgraded character’s Armor slot and Tooth and Claw is removed from the character, what happens to the Weapon?</question>
       <answer>It stays where it is. Once an Upgrade is legally put into a slot, removing what made it legal to put it there doesn’t matter.</answer>
     </entry>
-  <entry source="Rules Roundup 2019-10-11" id="7-6">
-      <question>
-I have a Torox with Tooth and Claw and Mining Pick in his Armor Slot, as well as Divebomb with a Field Communicator. If I combine them into Predaking via the Predacon Enigma, am I required to keep Tooth and Claw in order to carry the Mining Pick to Predaking's armor slot, or can I bring the Field Communicator instead?
-        </question>
-      <answer>
-Once an Upgrade is legally put into a slot, it stays there, even if the ability that allowed it to be upgraded in the first place no longer applies. In your example, you could keep Mining Pick in Predaking’s Armor slot. Upgrades that are on characters that combine into Combiners are considered to stay in their slots, even though those slots now belong to the Combiner.
-      </answer>
-    </entry>
-    <entry source="Rules Roundup 2019-02-22" id="222-7">
+  <entry source="Rules Roundup 2019-02-22" id="222-7">
       <question>
 Say I have Razorclaw equipped with Tooth and Claw, and because of that effect Razorclaw has a Grenade Launcher in its armor slot. If I combine into Predaking, can I transfer the Grenade Launcher from Razorclaw's armor slot to Predaking's armor slot?
       </question>
       <answer>
 You would have to keep Tooth and Claw to keep the Grenade Launcher for Predaking’s armor slot.
+      </answer>
+    </entry>
+    <entry source="Rules Roundup 2019-10-11" id="7-6">
+      <question>
+I have a Torox with Tooth and Claw and Mining Pick in his Armor Slot, as well as Divebomb with a Field Communicator. If I combine them into Predaking via the Predacon Enigma, am I required to keep Tooth and Claw in order to carry the Mining Pick to Predaking's armor slot, or can I bring the Field Communicator instead?
+        </question>
+      <answer>
+Once an Upgrade is legally put into a slot, it stays there, even if the ability that allowed it to be upgraded in the first place no longer applies. In your example, you could keep Mining Pick in Predaking’s Armor slot. Upgrades that are on characters that combine into Combiners are considered to stay in their slots, even though those slots now belong to the Combiner.
       </answer>
     </entry>
     </target></faq>

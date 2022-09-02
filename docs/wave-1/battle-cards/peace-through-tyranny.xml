@@ -1,12 +1,4 @@
-<faq><target name="Peace Through Tyranny"><entry source="Tournament FAQ" id="13" tags="Peace Through Tyranny">
-          <question>
-             What is the Extra Turn Rule?
-          </question>
-          <answer> 
-              Players can’t take more than two turns in a row under any circumstances. Any additional turns beyond two consecutive turns are skipped and not deferred or saved for the future. 
-          </answer>
-      </entry>
-      <entry source="Wave 1 FAQ" id="102">
+<faq><target name="Peace Through Tyranny"><entry source="Wave 1 FAQ" id="102">
       <question>
     Let’s say I play Peace Through Tyranny and end my turn with no untapped characters, while at least one of my opponent’s characters is untapped. What happens during my extra turn? Can I attack?
 </question>
@@ -24,31 +16,15 @@
           <tftcg-note>This was later amended with the Extra Turn Rule, defined in this <a href="https://www.facebook.com/notes/transformers-trading-card-game/nagles-notes-once-more-with-feeling/2236280666493746/">article</a> and the Tournament FAQ, that states you can't play more than two turns in a rule under any circumstances. </tftcg-note>
 </answer>
     </entry>
-  <entry source="Rules Roundup 2019-09-20" id="6-4">
-      <question>
-I go first and during my first turn I manage to play Peace Through Tyranny (PTT. {I'm sparing the details on how this can be pulled off, but I can go into details if you need me to}), killing off one of my character to grant me an extra turn. Normally on turn 1, that player cannot play a card from their hand and on turn two, the other player gets to play either an Action or an Upgrade. But since I get an extra turn and I am not the other player, on the PTT granted turn (technically the game's and my 2nd turn), do I get to play an Action and Upgrade seeing I'm no longer on my 'first' turn?
-        </question>
-      <answer>
-During turn 1, that player can’t play any cards. During turn 2, the player can play 1 card. From turn 3 onwards, each player can play up to one Action and up to one Upgrade.
-      </answer>
-    </entry>
-    <entry source="Rules Roundup 2019-11-22" id="10-1">
-      <question>
-My opponent just went and used “Peace Through Tyranny” and KO’d his Lionizer...putting it on Spinister. Pteraxadon was already tapped. He then attacked with Spinister and KO’d my Scamper. My Metroplex is still untapped. My opponent has another turn from the PTT. How does that work seeing he’s all tapped out, but I still have a character that’s untapped?
-        </question>
-      <answer>
-Your opponent still takes their extra turn, even if they won’t be able to attack during that turn. They’ll still draw a card and can play cards, etc.
-      </answer>
-    </entry>
-    <entry source="Rules Roundup 2019-11-22" id="10-3" tags="KO">
-      <question>
-When a character is KO'd as part of resolving a card effect, like Peace Through Tyranny, is the character put into the KO area fully damaged, or only with the amount of damage it had when it was KO'd?
-        </question>
-      <answer>
-Characters in KO are always fully damaged.
-      </answer>
-    </entry>
-    <entry source="Rules Roundup 2019-02-18" id="218-33">
+  <entry source="Tournament FAQ" id="13" tags="Peace Through Tyranny">
+          <question>
+             What is the Extra Turn Rule?
+          </question>
+          <answer> 
+              Players can’t take more than two turns in a row under any circumstances. Any additional turns beyond two consecutive turns are skipped and not deferred or saved for the future. 
+          </answer>
+      </entry>
+      <entry source="Rules Roundup 2019-02-18" id="218-33">
       <question>
 Does Peace Through Tyranny do damage to a character when it is K.O.'d or does it just move to the K.O. Area without doing damage? 
       </question>
@@ -74,7 +50,15 @@ No, you cannot. KO'ing a character is part of Peace Through Tyranny's effect, so
 Also, it would just be a straight up super not cool thing to do, man.
 </answer>
     </entry>
-  <entry source="Rules Roundup 2019-04-22" id="422-5">
+  <entry source="Rules Roundup 2019-04-26" id="426-1">
+      <question>
+Does Peace Through Tyranny let you go first after everybody untaps? Or does it let you take a second turn right after your current attack skipping the opponents turn?
+      </question>
+      <answer>
+Peace Through Tyranny allows you to have an extra turn after the turn in which you play it. After that turn, it’s your opponent’s turn.
+      </answer>
+    </entry>
+    <entry source="Rules Roundup 2019-04-22" id="422-5">
       <question>
 I play Peace Through Tyranny and then attack, me and my opponents now have no untapped characters. Do we untap everyone, my turn ends and then I get the next turn?
       </question>
@@ -99,12 +83,29 @@ When a player uses Peace Through Tyranny to take an extra turn and on their extr
 Yes, they can still do all of their normal turn actions.
       </answer>
     </entry>
-  <entry source="Rules Roundup 2019-04-26" id="426-1">
+  <entry source="Rules Roundup 2019-11-22" id="10-1">
       <question>
-Does Peace Through Tyranny let you go first after everybody untaps? Or does it let you take a second turn right after your current attack skipping the opponents turn?
+My opponent just went and used “Peace Through Tyranny” and KO’d his Lionizer...putting it on Spinister. Pteraxadon was already tapped. He then attacked with Spinister and KO’d my Scamper. My Metroplex is still untapped. My opponent has another turn from the PTT. How does that work seeing he’s all tapped out, but I still have a character that’s untapped?
+        </question>
+      <answer>
+Your opponent still takes their extra turn, even if they won’t be able to attack during that turn. They’ll still draw a card and can play cards, etc.
+      </answer>
+    </entry>
+    <entry source="Rules Roundup 2019-11-22" id="10-3" tags="KO">
+      <question>
+When a character is KO'd as part of resolving a card effect, like Peace Through Tyranny, is the character put into the KO area fully damaged, or only with the amount of damage it had when it was KO'd?
+        </question>
+      <answer>
+Characters in KO are always fully damaged.
+      </answer>
+    </entry>
+    <entry source="Rules Roundup 2019-06-07" id="607-5" tags="Sergeant Cog - Artillery - Mechanic">
+      <question>
+For your consideration, Cog. During your opponent's turn, they swing at and KO him. He attaches to one of your characters, leaving you with two. You draw your cards and find that you can attach a Multi-Mission Gear on a Specialist character, which of course you do thanks to his effect. With that Multi-Mission Gear, you decide to be rather aggressive and play a Peace Through Tyranny, KO’ing one of your characters to, and I quote, "take an extra turn after this one". 
+Now, in the context that it's currently your opponent's turn, and that you're taking an extra turn after "this one", would that mean that your "extra turn" would actually just be your next regular turn since the "next turn" is just your regular turn or am I mistaken? 
       </question>
       <answer>
-Peace Through Tyranny allows you to have an extra turn after the turn in which you play it. After that turn, it’s your opponent’s turn.
+If you find a way to play Peace Through Tyranny on your opponent’s turn, you will take the next turn (the “extra turn”), then you’ll take your normal turn, then your opponent will take their turn, and so on.
       </answer>
     </entry>
     <entry source="Rules Roundup 2019-03-08" id="308-20">
@@ -115,13 +116,12 @@ My opponent and I both have one tapped bot and one untapped bot in play. It's my
 You can play your upgrades and flip a character, but you would not be able to attack. Same thing applies to the extra turn.
     </answer>
     </entry>
-    <entry source="Rules Roundup 2019-06-07" id="607-5" tags="Sergeant Cog - Artillery - Mechanic">
+    <entry source="Rules Roundup 2019-09-20" id="6-4">
       <question>
-For your consideration, Cog. During your opponent's turn, they swing at and KO him. He attaches to one of your characters, leaving you with two. You draw your cards and find that you can attach a Multi-Mission Gear on a Specialist character, which of course you do thanks to his effect. With that Multi-Mission Gear, you decide to be rather aggressive and play a Peace Through Tyranny, KO’ing one of your characters to, and I quote, "take an extra turn after this one". 
-Now, in the context that it's currently your opponent's turn, and that you're taking an extra turn after "this one", would that mean that your "extra turn" would actually just be your next regular turn since the "next turn" is just your regular turn or am I mistaken? 
-      </question>
+I go first and during my first turn I manage to play Peace Through Tyranny (PTT. {I'm sparing the details on how this can be pulled off, but I can go into details if you need me to}), killing off one of my character to grant me an extra turn. Normally on turn 1, that player cannot play a card from their hand and on turn two, the other player gets to play either an Action or an Upgrade. But since I get an extra turn and I am not the other player, on the PTT granted turn (technically the game's and my 2nd turn), do I get to play an Action and Upgrade seeing I'm no longer on my 'first' turn?
+        </question>
       <answer>
-If you find a way to play Peace Through Tyranny on your opponent’s turn, you will take the next turn (the “extra turn”), then you’ll take your normal turn, then your opponent will take their turn, and so on.
+During turn 1, that player can’t play any cards. During turn 2, the player can play 1 card. From turn 3 onwards, each player can play up to one Action and up to one Upgrade.
       </answer>
     </entry>
     <entry source="Aequitas Rules Roundup 2020-10-01" id="6">

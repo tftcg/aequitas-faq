@@ -2,23 +2,7 @@
       <question>What happens if I flip more than one Decepticon Crown in the same battle?</question>
       <answer>Starscream—sorry—King Starscream—’s ability will trigger once for each Decepticon Crown you flip. Hit 2 of them and get +6 to your attack and defense for the turn.</answer>
     </entry>
-  <entry source="Rules Roundup 2019-03-15" id="315-18">
-      <question>
-If I attack with Starscream - Decepticon King in bot mode and flip multiple Decepticon Crowns, does his effect trigger multiple times on the same attack?
-      </question>
-      <answer>
-Yes. Starscream gets his bonus for each crown flipped. It is the most Starscream of all Starscream moves.
-      </answer>
-    </entry>
-    <entry source="Rules Roundup 2019-02-18" id="218-9">
-      <question>
-I attack with Starscream - Decepticon King in Bot mode, who is equipped with Recon System. I flip battle cards and flip a Decepticon Crown. If I use Recon System to scrap Decepticon Crown, does Starscream still get its effect since Decepticon Crown was flipped, despite it being scrapped later?
-      </question>
-      <answer>
-Yes.
-      </answer>
-    </entry>
-    <entry source="Rules Roundup 2019-09-06" id="5-5" tags="Specialist Flamewar - Special Ops - Hunter">
+  <entry source="Rules Roundup 2019-09-06" id="5-5" tags="Specialist Flamewar - Special Ops - Hunter">
       <question>
 Since it sounds like (understandably) that a comprehensive rules document might take a while, perhaps you could answer a more specific timing question then.
 
@@ -38,12 +22,28 @@ What would be the proper sequence of triggers when Specialist Flamewar initiates
 When Specialist Flamewar attacks, the abilities of Anticipation Engine, Metal Detector, and Decepticon Crown will all trigger. As the attacking player, you will resolve all of those abilities in the order of your choosing, one at a time. Then you will use your Focus ability. Then, you will flip battle cards, including an extra from General Optimus’ Bold 1.
 </answer>
     </entry>
+    <entry source="Rules Roundup 2019-02-18" id="218-9">
+      <question>
+I attack with Starscream - Decepticon King in Bot mode, who is equipped with Recon System. I flip battle cards and flip a Decepticon Crown. If I use Recon System to scrap Decepticon Crown, does Starscream still get its effect since Decepticon Crown was flipped, despite it being scrapped later?
+      </question>
+      <answer>
+Yes.
+      </answer>
+    </entry>
     <entry source="Rules Roundup 2019-04-26" id="426-3" tags="Major Shockwave - Applied Sciences - Scientist">
       <question>
 My question is regarding the new Major Shockwave. In its ability when it states “Decepticon cards,” what does that mean exactly? I know certain cards like Decepticon Crown and Swindled have Decepticon-specific effects and have purple coloring in their titles. Are those the types of cards that could be used with new Shockwave’s ability?
       </question>
       <answer>
 Yes.
+      </answer>
+    </entry>
+    <entry source="Rules Roundup 2019-03-15" id="315-18">
+      <question>
+If I attack with Starscream - Decepticon King in bot mode and flip multiple Decepticon Crowns, does his effect trigger multiple times on the same attack?
+      </question>
+      <answer>
+Yes. Starscream gets his bonus for each crown flipped. It is the most Starscream of all Starscream moves.
       </answer>
     </entry>
     </target></faq>

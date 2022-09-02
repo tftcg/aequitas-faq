@@ -27,20 +27,20 @@ his base attack would be 5. If he then got a Weapon that gave him +2 attack, his
 wouldn’t change the number of damage counters on him.
 </answer>
     </entry>
-  <entry source="Rules Roundup 2019-06-28" id="628-17" tags="Wheeljack - Weapons Inventor,Insecticon Skrapnel - Insecticon Leader,Ransack - Insecticon Commando">
-      <question> 
-My opponent has Wheeljack untapped and I have Skrapnel untapped. It's my turn and I flip Skrapnel to alt mode, then play I Still Function! to bring back Ransack in bot mode from the KO area. Then I attack with Ransack to Wheeljack, and after the flip of battle cards, Ransack is KO’d. Does Skrapnel’s ability trigger because of Ransack getting KO’d and make Wheeljack tap, letting me attack with Skrapnel?
-      </question>
-      <answer>
-You can do either, but not both. If you want to tap a character using Skrapnel’s flip trigger, you must KO Ransack before he can attack. If you want to attack with Ransack, it will be too late to flip Skrapnel to utilize his flip trigger. 
-      </answer>
-    </entry>
-    <entry source="Rules Roundup 2019-07-29" id="2-25">
+  <entry source="Rules Roundup 2019-07-29" id="2-25">
       <question>
 Ransack - Insecticon Commando's alt mode flip ability says to move 2 damage counters from another character onto him. Does that include enemy characters? Assuming, of course, that I have a good reason to heal my opponent?
 </question>
       <answer>
 Yes, you can move damage from an opponent’s character onto Ransack, should you be so bold.
 </answer>
+    </entry>
+    <entry source="Rules Roundup 2019-06-28" id="628-17" tags="Wheeljack - Weapons Inventor,Insecticon Skrapnel - Insecticon Leader,Ransack - Insecticon Commando">
+      <question> 
+My opponent has Wheeljack untapped and I have Skrapnel untapped. It's my turn and I flip Skrapnel to alt mode, then play I Still Function! to bring back Ransack in bot mode from the KO area. Then I attack with Ransack to Wheeljack, and after the flip of battle cards, Ransack is KO’d. Does Skrapnel’s ability trigger because of Ransack getting KO’d and make Wheeljack tap, letting me attack with Skrapnel?
+      </question>
+      <answer>
+You can do either, but not both. If you want to tap a character using Skrapnel’s flip trigger, you must KO Ransack before he can attack. If you want to attack with Ransack, it will be too late to flip Skrapnel to utilize his flip trigger. 
+      </answer>
     </entry>
     </target></faq>

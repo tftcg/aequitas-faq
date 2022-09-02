@@ -6,17 +6,17 @@
             The game cares about intent, though we acknowledge that the '-&gt;' symbol does not always have the same meaning. In this case, whichever player was targeted for the damage with Scouting Mission is the one that gets to draw the cards, regardless of whether Holomatter Projector or Reflect Damage did something with that damage.
         </answer>
       </entry>
-      <entry source="ATP:Alpha Trion Protocols Wave 3 FAQ" id="70">
+      <entry source="AP Wave 6:World|Strike FAQ" id="30">
+        <answer>
+          For his alt mode ability, the enemy is not required to take the damage in order to be flipped. For example, where the opponent’s Flamewar is Upgraded with a Holomatter Projector, it can still be flipped by your Gilthor, Chained Amalgamation when Gilthor is flipped to alt mode.
+        </answer>
+      </entry>
+    <entry source="ATP:Alpha Trion Protocols Wave 3 FAQ" id="70">
         <question>
           What happens if I choose an enemy Specialist that is wearing Holomatter Projector or Defense Driving or has Sturdy?
         </question>
         <answer>
           The ability on the card will only cause someone to draw if a Specialist is damaged this way. Cards or abilities preventing or reducing damage to 0 will not result in the character’s owner drawing a card.
-        </answer>
-      </entry>
-    <entry source="AP Wave 6:World|Strike FAQ" id="30">
-        <answer>
-          For his alt mode ability, the enemy is not required to take the damage in order to be flipped. For example, where the opponent’s Flamewar is Upgraded with a Holomatter Projector, it can still be flipped by your Gilthor, Chained Amalgamation when Gilthor is flipped to alt mode.
         </answer>
       </entry>
     </target></faq>

@@ -2,20 +2,20 @@
       <question>When determining if the character has 7 stars or fewer, does it matter which mode it’s in?</question>
       <answer>No. A character always has the number of stars printed on it, no matter which mode it’s in.</answer>
     </entry>
-  <entry source="Rules Roundup 2019-08-23" id="4-6">
-      <question>
-If I have a Laser Cutlass and a Crushing Treads on say, Slammer, and I attack an opponent, does Slammer get the pierce 3 from the Laser Cutlass plus the pierce 3 from the Crushing Treads since pierce adds together and both pierce abilities are triggered differently? So, attacking for 4 with Pierce 6.
-        </question>
-      <answer>
-That’s correct. In this scenario you would be attacking for 4 with Pierce 6. Pierce stacks on Pierce, but not on regular attack damage.
-</answer>
-    </entry>
-    <entry source="Rules Roundup 2019-09-06" id="5-9" tags="Optimus Maximus - Ultimate Defender,Optimus Prime - Gleaming Commander">
+  <entry source="Rules Roundup 2019-09-06" id="5-9" tags="Optimus Maximus - Ultimate Defender,Optimus Prime - Gleaming Commander">
       <question>
 In a previous round up you mentioned that if Ion Blaster of Optimus Prime was played on Optimus, then he was combined into Optimus Maximus, the Combiner could keep that weapon, however not if he was already formed. I’m assuming that also works with Laser Cutlass? Play onto an Aerialbot for example. Once combined, does it carry over?
         </question>
       <answer>
 Yes.
+</answer>
+    </entry>
+    <entry source="Rules Roundup 2019-08-23" id="4-6">
+      <question>
+If I have a Laser Cutlass and a Crushing Treads on say, Slammer, and I attack an opponent, does Slammer get the pierce 3 from the Laser Cutlass plus the pierce 3 from the Crushing Treads since pierce adds together and both pierce abilities are triggered differently? So, attacking for 4 with Pierce 6.
+        </question>
+      <answer>
+That’s correct. In this scenario you would be attacking for 4 with Pierce 6. Pierce stacks on Pierce, but not on regular attack damage.
 </answer>
     </entry>
     <entry source="Rules Roundup 2019-06-07" id="607-7" tags="Combiner,Superion - Sky Protector">

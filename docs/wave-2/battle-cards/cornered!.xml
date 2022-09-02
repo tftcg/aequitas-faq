@@ -2,21 +2,13 @@
       <question>When I play Cornered! and force my opponent to flip one of their character's do they get to use a "when you flip to this mode” Ability on my turn?</question>
       <answer>Yes. If you play Cornered! on an opponent’s character, they get to use a flip ability on that turn.</answer>
     </entry>
-  <entry source="Rules Roundup 2019-02-01" id="201-3" tags="Autobot Mirage - Lone Wolf">
+  <entry source="Rules Roundup 2019-07-29" id="2-32">
       <question>
-If Cornered! were played on an Autobot Mirage, allowing a player to play an action during their opponent's turn, and they played an All-Out Attack; could they attack with all of their characters during their opponent's turn?
-      </question>
+Does Battering Ram function like Cornered! when attacking, so that your opponent gets the ability of the mode flipped to? For example, General Optimus Prime has Battering Ram and hits my Nemesis, flipping him to alt mode. So now my opponent should assign 2 damage to a character of his choice, correct?
+</question>
       <answer>
-No. A player cannot attack during an opponent’s turn.
-    </answer>
-    </entry>
-    <entry source="Rules Roundup 2019-RR-1" id="RR1-18">
-      <question>
-When I play Cornered! and force my opponent to flip one of their character's do they get to use a "when you flip to this mode” Ability on my turn? 
-      </question>
-      <answer>
-Yes. If you play Cornered! on an opponent’s character, they get to use a flip ability on that turn.
-      </answer>
+Yes. Battering Ram causes your opponent to flip the character, so abilities like Nemesis’ will trigger.
+</answer>
     </entry>
     <entry source="Rules Roundup 2019-02-18" id="218-7">
       <question>
@@ -34,12 +26,20 @@ Would Cornered work on a Battle Master causing it to flip to its upgrade side? I
 No, you can’t flip a Battle Master while it’s on the battlefield.
 </answer>
     </entry>
-    <entry source="Rules Roundup 2019-07-29" id="2-32">
+    <entry source="Rules Roundup 2019-RR-1" id="RR1-18">
       <question>
-Does Battering Ram function like Cornered! when attacking, so that your opponent gets the ability of the mode flipped to? For example, General Optimus Prime has Battering Ram and hits my Nemesis, flipping him to alt mode. So now my opponent should assign 2 damage to a character of his choice, correct?
-</question>
+When I play Cornered! and force my opponent to flip one of their character's do they get to use a "when you flip to this mode” Ability on my turn? 
+      </question>
       <answer>
-Yes. Battering Ram causes your opponent to flip the character, so abilities like Nemesis’ will trigger.
-</answer>
+Yes. If you play Cornered! on an opponent’s character, they get to use a flip ability on that turn.
+      </answer>
+    </entry>
+    <entry source="Rules Roundup 2019-02-01" id="201-3" tags="Autobot Mirage - Lone Wolf">
+      <question>
+If Cornered! were played on an Autobot Mirage, allowing a player to play an action during their opponent's turn, and they played an All-Out Attack; could they attack with all of their characters during their opponent's turn?
+      </question>
+      <answer>
+No. A player cannot attack during an opponent’s turn.
+    </answer>
     </entry>
     </target></faq>

@@ -1,20 +1,4 @@
-<faq><target name="Grax"><entry source="ATP:Alpha Trion Protocols Wave 2 FAQ" id="9">
-        <question>
-            My opponent has a Perceptor with Grax; does Drift have Stealth from him in alt mode?
-        </question>
-        <answer>
-            Perceptor may have the Autobot Tag but is still a Decepticon because of the Grax head.  Thus, Drift’s Ability will grant him Stealth in this scenario.
-        </answer>
-      </entry>
-      <entry source="ATP:Alpha Trion Protocols Wave 2 FAQ" id="12">
-        <question>
-            My opponent has a tapped character and an untapped Perceptor with Grax; if I flip Drift to bot mode and deal him 2, can I attack the Perceptor /Grax?
-        </question>
-        <answer>
-            Yes.
-        </answer>
-      </entry>
-      <entry source="AP Wave 6:World|Strike FAQ" id="33">
+<faq><target name="Grax"><entry source="AP Wave 6:World|Strike FAQ" id="33">
         <answer>
           As of this (FAQ's) writing, these are all the Decepticons that can benefit from his abilities.
          <ul>
@@ -43,4 +27,20 @@
          </ul>
         </answer>
       </entry>
-    </target></faq>
+    <entry source="ATP:Alpha Trion Protocols Wave 2 FAQ" id="9">
+        <question>
+            My opponent has a Perceptor with Grax; does Drift have Stealth from him in alt mode?
+        </question>
+        <answer>
+            Perceptor may have the Autobot Tag but is still a Decepticon because of the Grax head.  Thus, Drift’s Ability will grant him Stealth in this scenario.
+        </answer>
+      </entry>
+      <entry source="ATP:Alpha Trion Protocols Wave 2 FAQ" id="12">
+        <question>
+            My opponent has a tapped character and an untapped Perceptor with Grax; if I flip Drift to bot mode and deal him 2, can I attack the Perceptor /Grax?
+        </question>
+        <answer>
+            Yes.
+        </answer>
+      </entry>
+      </target></faq>

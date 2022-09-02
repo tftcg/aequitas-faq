@@ -6,20 +6,12 @@
     Yes.
 </answer>
     </entry>
-  <entry source="Rules Roundup 2019-02-01" id="201-3" tags="Autobot Mirage - Lone Wolf">
+  <entry source="Rules Roundup 2019-02-18" id="218-27" tags="Autobot Mirage - Lone Wolf">
       <question>
-If Cornered! were played on an Autobot Mirage, allowing a player to play an action during their opponent's turn, and they played an All-Out Attack; could they attack with all of their characters during their opponent's turn?
+If Autobot Mirage attacks in bot mode and I draw 3 whites so he's untapped, does my turn end with the attack, or do I attack again as no one would be tapped? Also, if I must attack again can I use someone else to attack?
       </question>
       <answer>
-No. A player cannot attack during an opponent’s turn.
-    </answer>
-    </entry>
-    <entry source="Rules Roundup 2019-RR-1" id="RR1-4" tags="Autobot Mirage - Lone Wolf">
-      <question>
-If I am playing Autobot Mirage in his Bot Mode and I hit three white pips while attacking, he untaps. Does this mean I get an additional attack this turn or is he just untapped for next turn? The only reason I ask is because his effect states "during his first attack" so I felt it implied he could attack more than once that turn.
-      </question>
-      <answer>
-Ordinarily, he would only get one attack and then untap. However, if your opponent is completely tapped out, Mirage and any of your other untapped characters will get an additional attack.
+Mirage does not give you an extra attack. If your opponent has no untapped characters, you would continue attacking with all of your untapped characters in any order, including Mirage.
       </answer>
     </entry>
     <entry source="Rules Roundup 2019-11-22" id="10-37" tags="Autobot Mirage - Lone Wolf,Pierce">
@@ -30,12 +22,20 @@ Let say I'm attacking with Mirage and flip 2 black pips and 3 white pips. As far
 5 Pierce 5.
       </answer>
     </entry>
-    <entry source="Rules Roundup 2019-02-18" id="218-27" tags="Autobot Mirage - Lone Wolf">
+    <entry source="Rules Roundup 2019-RR-1" id="RR1-4" tags="Autobot Mirage - Lone Wolf">
       <question>
-If Autobot Mirage attacks in bot mode and I draw 3 whites so he's untapped, does my turn end with the attack, or do I attack again as no one would be tapped? Also, if I must attack again can I use someone else to attack?
+If I am playing Autobot Mirage in his Bot Mode and I hit three white pips while attacking, he untaps. Does this mean I get an additional attack this turn or is he just untapped for next turn? The only reason I ask is because his effect states "during his first attack" so I felt it implied he could attack more than once that turn.
       </question>
       <answer>
-Mirage does not give you an extra attack. If your opponent has no untapped characters, you would continue attacking with all of your untapped characters in any order, including Mirage.
+Ordinarily, he would only get one attack and then untap. However, if your opponent is completely tapped out, Mirage and any of your other untapped characters will get an additional attack.
       </answer>
+    </entry>
+    <entry source="Rules Roundup 2019-02-01" id="201-3" tags="Autobot Mirage - Lone Wolf">
+      <question>
+If Cornered! were played on an Autobot Mirage, allowing a player to play an action during their opponent's turn, and they played an All-Out Attack; could they attack with all of their characters during their opponent's turn?
+      </question>
+      <answer>
+No. A player cannot attack during an opponent’s turn.
+    </answer>
     </entry>
     </target></faq>

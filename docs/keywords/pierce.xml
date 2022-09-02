@@ -15,12 +15,28 @@
     </answer>
     </entry>
 
-<entry source="Rules Roundup 2019-10-11" id="7-2" tags="Bold,Tough,Pierce">
+<entry source="Rules Roundup 2019-11-22" id="10-14" tags="Pierce,Insecticon Skrapnel - Insecticon Leader,Safeguard">
       <question>
-There's now an upgrade that says "Opponents cannot have more than Bold 2" or something to that effect. Mechanically, 3 instances of Bold 2 have worked the same as Bold 6. It hasn't been explicitly said that Bold and Tough stack just like Pierce, so does it?
+Is Pierce damage still considered attack damage? For example, if someone is attacking me with Pierce 4 against a character like Insecticon Skrapnel whose text is “can’t take more than 3 damage during an attack”, does that mean even though they have Pierce 4 after adding attack damage, would they only do 3, or would they do 4? 
         </question>
       <answer>
-Yes. Bold, Tough, Pierce, and other key words with numerical values do stack.
+Pierce is an ability that applies to attack damage. But, effects like Insecticon Skrapnel’s or the Safeguard ability will still apply. In your example, Skrapnel would take only 3 damage.
+      </answer>
+    </entry>
+    <entry source="Rules Roundup 2019-11-22" id="10-37" tags="Autobot Mirage - Lone Wolf,Pierce">
+      <question>
+Let say I'm attacking with Mirage and flip 2 black pips and 3 white pips. As far as I know, my attack is 5 Pierce 2 and then his ability triggered and I untap. Then I attack again and this time I flip 1 white pip and 3 black pips. Is my attack 5 Pierce 3 or is it 5 Pierce 5?
+        </question>
+      <answer>
+5 Pierce 5.
+      </answer>
+    </entry>
+    <entry source="Rules Roundup 2019-06-07" id="607-17" tags="Pierce,Autobot Jazz - Special Ops">
+      <question>
+If a character’s pierce is reduced to zero pierce would it still be considered pierce? More specifically, since the opposing character is attacking with pierce, but it’s reduced to zero, would Jazz’s ability trigger, allowing only two damage to hit?
+      </question>
+      <answer>
+A character with Pierce, whose Pierce score is reduced to 0 or less still has Pierce.
       </answer>
     </entry>
     <entry source="Rules Roundup 2019-RR-1" id="RR1-21" tags="Pierce,Megatron - Decepticon Leader">
@@ -47,22 +63,6 @@ Arcee is in Bot mode. She attacks Barrage in Bot mode. Arcee does not flip any o
 In this scenario, Arcee deals 1 damage.
       </answer>
     </entry>
-    <entry source="Rules Roundup 2019-11-22" id="10-14" tags="Pierce,Insecticon Skrapnel - Insecticon Leader,Safeguard">
-      <question>
-Is Pierce damage still considered attack damage? For example, if someone is attacking me with Pierce 4 against a character like Insecticon Skrapnel whose text is “can’t take more than 3 damage during an attack”, does that mean even though they have Pierce 4 after adding attack damage, would they only do 3, or would they do 4? 
-        </question>
-      <answer>
-Pierce is an ability that applies to attack damage. But, effects like Insecticon Skrapnel’s or the Safeguard ability will still apply. In your example, Skrapnel would take only 3 damage.
-      </answer>
-    </entry>
-    <entry source="Rules Roundup 2019-11-22" id="10-37" tags="Autobot Mirage - Lone Wolf,Pierce">
-      <question>
-Let say I'm attacking with Mirage and flip 2 black pips and 3 white pips. As far as I know, my attack is 5 Pierce 2 and then his ability triggered and I untap. Then I attack again and this time I flip 1 white pip and 3 black pips. Is my attack 5 Pierce 3 or is it 5 Pierce 5?
-        </question>
-      <answer>
-5 Pierce 5.
-      </answer>
-    </entry>
     <entry source="Rules Roundup 2019-02-11" id="211-13" tags="Pierce">
       <question>
 If I have a character with Pierce 2 (for example), and equip it with an upgrade that gives Pierce 4, the Pierce would be the greatest one or the sum of both?
@@ -71,12 +71,12 @@ If I have a character with Pierce 2 (for example), and equip it with an upgrade 
 Pierce stacks, so it would be 6.
       </answer>
     </entry>
-    <entry source="Rules Roundup 2019-06-07" id="607-17" tags="Pierce,Autobot Jazz - Special Ops">
+    <entry source="Rules Roundup 2019-10-11" id="7-2" tags="Bold,Tough,Pierce">
       <question>
-If a character’s pierce is reduced to zero pierce would it still be considered pierce? More specifically, since the opposing character is attacking with pierce, but it’s reduced to zero, would Jazz’s ability trigger, allowing only two damage to hit?
-      </question>
+There's now an upgrade that says "Opponents cannot have more than Bold 2" or something to that effect. Mechanically, 3 instances of Bold 2 have worked the same as Bold 6. It hasn't been explicitly said that Bold and Tough stack just like Pierce, so does it?
+        </question>
       <answer>
-A character with Pierce, whose Pierce score is reduced to 0 or less still has Pierce.
+Yes. Bold, Tough, Pierce, and other key words with numerical values do stack.
       </answer>
     </entry>
     </target></faq>

@@ -18,7 +18,15 @@ If I have a Grenade Launcher on Blurr, and I attack a tapped character, which wi
 Grenade Launcher only lasts for one battle, so it would be scrapped before Blurr launches his second attack.
 </answer>
     </entry>
-    <entry source="Rules Roundup 2019-03-22" id="322-1" tags="Blurr - Fastest Bot in the Galaxy">
+    <entry source="Rules Roundup 2019-07-29" id="2-50" tags="Blurr - Fastest Bot in the Galaxy">
+      <question>
+If Blurr attacks and deals damage thus triggering his effect, if the only untapped character(s) left have stealth, will Blurr not untap? Or will it still untap and just not attack again?
+</question>
+      <answer>
+Blurr will untap and Blurr will attack one of the characters that has stealth.
+</answer>
+    </entry>
+  <entry source="Rules Roundup 2019-03-22" id="322-1" tags="Blurr - Fastest Bot in the Galaxy">
       <question>
 Does Blurr’s ability combine with Mining Pick to allow you to plan 2 again on the attack of the untapped character to get +5?
       </question>
@@ -34,12 +42,4 @@ How does brave interact with Blurr? Let’s say an opponent taps their first cha
 Blurr must attack an untapped character and thus is unable to attack a tapped character with brave. If your opponent also had an untapped character with brave, Blurr would have to attack that character.
       </answer>
     </entry>
-    <entry source="Rules Roundup 2019-07-29" id="2-50" tags="Blurr - Fastest Bot in the Galaxy">
-      <question>
-If Blurr attacks and deals damage thus triggering his effect, if the only untapped character(s) left have stealth, will Blurr not untap? Or will it still untap and just not attack again?
-</question>
-      <answer>
-Blurr will untap and Blurr will attack one of the characters that has stealth.
-</answer>
-    </entry>
-  </target></faq>
+    </target></faq>

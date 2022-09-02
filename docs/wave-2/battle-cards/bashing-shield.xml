@@ -1,17 +1,17 @@
-<faq><target name="Bashing Shield"><entry source="Rules Roundup 2019-03-15" id="315-9" tags="Chop Shop - Sneaky Insecticon">
-      <question>
-If Chop Shop in bot mode attacks, and moves a Bashing Shield from another character to him, does the effect of Bashing Shield activate?
-      </question>
-      <answer>
-Yes.
-      </answer>
-    </entry>
-    <entry source="Rules Roundup 2019-07-29" id="2-33">
+<faq><target name="Bashing Shield"><entry source="Rules Roundup 2019-07-29" id="2-33">
       <question>
 If I have Autobot Hot Rod with the AirQuake Hammerclaw, Spare Parts, and Bashing Shield equipped (and no other equipment) and my opponent hits me with a Bashing Shield of their own, am I required to scrap the Spare Parts?
 </question>
       <answer>
 Yes. Their Bashing Shield would try to scrap your Bashing Shield, and Spare Parts would heroically leap in the way. Using Spare Parts in this scenario is not optional. Thank you, Spare Parts.
 </answer>
+    </entry>
+    <entry source="Rules Roundup 2019-03-15" id="315-9" tags="Chop Shop - Sneaky Insecticon">
+      <question>
+If Chop Shop in bot mode attacks, and moves a Bashing Shield from another character to him, does the effect of Bashing Shield activate?
+      </question>
+      <answer>
+Yes.
+      </answer>
     </entry>
     </target></faq>
