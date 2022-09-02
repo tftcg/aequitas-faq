@@ -6,9 +6,9 @@
   <meta property="og:type" content="website"/>
   <meta property="og:title" content="{{pretty_path}} / {{ faq_name }} FAQ ({{ entries|length }})"/>
   <meta property="og:description" content="TF-Rules.info provides an easy way to access, and share, Transformers the Trading Card Game FAQs, Rules Roundups, and additional community FAQS. "/>
-  <meta property="og:url" content="https://tftcg.info/{{ filename }}"/>
+  <meta property="og:url" content="https://faq.tf-rules.info/{{ filename }}"/>
   {% if tag_node.attrib['teletraan_id'] %}
-  <meta property="og:image" content="https://images.fortressmaximus.io/cards/{{ f_build_image_path(pretty_path, tag_node) }}.jpg"/>
+  <meta property="og:image" content="https://teletraan1.net/card/{{ tag_node.attrib['teletraan_id']}}/{{ f_safe_name(tag_node.attrib['name']) }}"/>
   <meta property="og:image:alt" content="The {{ faq_name }} card"/>
   <meta property="og:image:width" content="200"/>
   <meta property="og:image:height" content="280"/>
