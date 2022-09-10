@@ -2,6 +2,7 @@
     <category name="Keywords">
             <!-- <tag name="Action" markup_required="true"/> -->
         <tag name="Attacking" markup_required="true"/>
+        <tag name="Bandit" markup_required="true"/>
         <tag name="Battle Icon" markup_required="true"/>
         <tag name="Battle Master"/>
         <tag name="Bold" markup_required="true"/>
@@ -9,6 +10,7 @@
         <tag name="Brave" markup_required="true"/>
         <tag name="Combiner" markup_required="true"/>
         <tag name="Deck" markup_required="true"/>
+        <tag name="Drifter" markup_required="true"/>
         <tag name="Enigma" markup_required="true"/>
         <tag name="Faction" markup_required="true"/>
         <tag name="Focus" markup_required="true"/>
@@ -18,6 +20,7 @@
         <tag name="Pierce" markup_required="true"/>
         <tag name="Plan" markup_required="true"/>
         <tag name="Play" markup_required="true"/>
+        <tag name="Oppress" markup_required="true"/>
         <tag name="Outside the Game"/>
         <tag name="Revenge" markup_required="true"/>
         <tag name="Safeguard" markup_required="true"/>
@@ -839,6 +842,11 @@
         </category>
     </category>
     <category name="Wave 8">
+          <category name="Keywords">
+            <tag name="Bandit" markup_required="true"/>
+            <tag name="Drifter" markup_required="true"/>
+            <tag name="Oppress" markup_required="true"/>
+          </category>
         <category name="Battle Cards">
           <tag name="Custom Junkion Saddle" markup_required="true"/>
         </category>

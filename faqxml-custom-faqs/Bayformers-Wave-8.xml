@@ -28,4 +28,34 @@
         </answer>
       </entry>
     </target>
+    <target name="Bandit">
+      <entry id="5">
+        <question>
+            What is Bandit?
+        </question>
+        <answer>
+            Bandit is a keyword ability introduced in Wave 8. Blue battle icons flipped by defending characters with Bandit have no effect.
+        </answer>
+      </entry>
+    </target>
+    <target name="Drifter">
+      <entry id="6">
+        <question>
+            What is Drifter?
+        </question>
+        <answer>
+            Drifter is a keyword ability introduced in Wave 8. Orange battle icons flipped by attacking characters with Drifter have no effect.
+        </answer>
+      </entry>
+    </target>
+    <target name="Oppress">
+      <entry id="7">
+        <question>
+            What is Oppress?
+        </question>
+        <answer>
+            Oppress is a keyword ability introduced in Wave 8. While the character with Oppress is battling, ALL characters Bold and Tough totals are reduced by the Oppress value. Unless introduced within a battle, this effect is turned on instantaneously when the character is chosen to attack or defend, and remains in play until the Post-Attack subphase begins. 
+        </answer>
+      </entry>
+    </target>
 </faq>
