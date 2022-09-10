@@ -1,0 +1,2246 @@
+<set xmlns:noNamespaceSchemaLocation="CardSet.xsd" name="Wave 9" id="c137d082-65ad-4268-a42d-6d6fa2c7b9a9" gameId="9e5b4567-f7f7-4c16-99bd-45449217eb7b" gameVersion="0.0.0.1" version="0.0.0.1">
+	<cards>
+		<card id="20579262-3c03-498f-9fb8-b0a98a936791" name="300-TT Crusher Claw" size="small">
+			<property name="Card Number" value="001" />
+			<property name="Rarity" value="Uncommon" />
+			<property name="Group" value="Allied Crossplay" />
+			<property name="Type" value="Upgrade - Utility" />
+			<property name="ATK" value="" />
+			<property name="DEF" value="" />
+			<property name="HP" value="" />
+			<property name="Stars" value="0" />
+			<property name="Faction" value="Autobot" />
+			<property name="Traits" value="" />
+			<property name="Orange" value="0" />
+			<property name="Blue" value="0" />
+			<property name="White" value="1" />
+			<property name="Green" value="0" />
+			<property name="Black" value="0" />
+			<property name="HybridOrange" value="0" />
+			<property name="HybridBlue" value="0" />
+			<property name="HybridWhite" value="0" />
+			<property name="HybridGreen" value="0" />
+			<property name="HybridBlack" value="0" />
+			<property name="Text">[Pierce 2]
+
+When you put this on a character that has 19[STARS] or more > Tap an enemy [Decepticon] that has 10[STARS] or fewer.</property>
+		</card>
+		<card id="8da0dc6b-ae49-4761-83a3-388cfdc23312" name="Aerial Superiority" size="small">
+			<property name="Card Number" value="002" />
+			<property name="Rarity" value="Common" />
+			<property name="Group" value="Allied Crossplay" />
+			<property name="Type" value="Action" />
+			<property name="ATK" value="" />
+			<property name="DEF" value="" />
+			<property name="HP" value="" />
+			<property name="Stars" value="0" />
+			<property name="Faction" value="" />
+			<property name="Traits" value="" />
+			<property name="Orange" value="0" />
+			<property name="Blue" value="0" />
+			<property name="White" value="0" />
+			<property name="Green" value="0" />
+			<property name="Black" value="0" />
+			<property name="HybridOrange" value="0" />
+			<property name="HybridBlue" value="0" />
+			<property name="HybridWhite" value="0" />
+			<property name="HybridGreen" value="0" />
+			<property name="HybridBlack" value="0" />
+			<property name="Text">Choose one of your characters. When it attacks this turn, if it's a [Plane], [Helicopter], or [Spaceship] and is attacking a [Truck], [Car], or [Tank] > The chosen character gets +4[ATK] and [Pierce 4] until end of battle.</property>
+		</card>
+		<card id="8914d769-c3bd-45bf-ba71-95bbcda9c40f" name="Alliance" size="small">
+			<property name="Card Number" value="003" />
+			<property name="Rarity" value="Uncommon" />
+			<property name="Group" value="Allied Crossplay" />
+			<property name="Type" value="Action" />
+			<property name="ATK" value="" />
+			<property name="DEF" value="" />
+			<property name="HP" value="" />
+			<property name="Stars" value="0" />
+			<property name="Faction" value="" />
+			<property name="Traits" value="" />
+			<property name="Orange" value="0" />
+			<property name="Blue" value="0" />
+			<property name="White" value="1" />
+			<property name="Green" value="0" />
+			<property name="Black" value="0" />
+			<property name="HybridOrange" value="0" />
+			<property name="HybridBlue" value="0" />
+			<property name="HybridWhite" value="0" />
+			<property name="HybridGreen" value="0" />
+			<property name="HybridBlack" value="0" />
+			<property name="Text">Play only if you had an [Autobot] and a [Decepticon] on your starting team.
+
+Until end of turn, each of your characters' base [ATK] is 6.
+
+At end of turn > Do 2 damage to each of your characters that attacked this turn.</property>
+		</card>
+		<card id="73855068-2a43-4710-8d29-8f1c56e1e9da" name="Apex Armor" size="small">
+			<property name="Card Number" value="004" />
+			<property name="Rarity" value="Rare" />
+			<property name="Group" value="Allied Crossplay" />
+			<property name="Type" value="Upgrade - Armor" />
+			<property name="ATK" value="1" />
+			<property name="DEF" value="1" />
+			<property name="HP" value="" />
+			<property name="Stars" value="2" />
+			<property name="Faction" value="Autobot" />
+			<property name="Traits" value="" />
+			<property name="Orange" value="1" />
+			<property name="Blue" value="1" />
+			<property name="White" value="0" />
+			<property name="Green" value="0" />
+			<property name="Black" value="1" />
+			<property name="HybridOrange" value="0" />
+			<property name="HybridBlue" value="0" />
+			<property name="HybridWhite" value="0" />
+			<property name="HybridGreen" value="0" />
+			<property name="HybridBlack" value="1" />
+			<property name="Text">Can't be put on [Decepticons].
+
+When the upgraded character defends and you flip at least [K] > Move a damage counter from the upgraded character to the attacker.
+
+When the upgraded character defends and you flip at least [O][B] > Repair 1 damage from the upgraded character. Do 1 damage to the attacker.</property>
+		</card>
+		<card id="b253eccc-fc86-4c83-a012-13aea8ade041" name="Assault Formation" size="small">
+			<property name="Card Number" value="005" />
+			<property name="Rarity" value="Common" />
+			<property name="Group" value="Allied Crossplay" />
+			<property name="Type" value="Action" />
+			<property name="ATK" value="" />
+			<property name="DEF" value="" />
+			<property name="HP" value="" />
+			<property name="Stars" value="0" />
+			<property name="Faction" value="" />
+			<property name="Traits" value="" />
+			<property name="Orange" value="0" />
+			<property name="Blue" value="1" />
+			<property name="White" value="0" />
+			<property name="Green" value="1" />
+			<property name="Black" value="1" />
+			<property name="HybridOrange" value="0" />
+			<property name="HybridBlue" value="0" />
+			<property name="HybridWhite" value="0" />
+			<property name="HybridGreen" value="0" />
+			<property name="HybridBlack" value="0" />
+			<property name="Text">One of your [Melee] characters gets [Bold 2] until end of turn.
+
+Move a damage counter from one of your [Ranged] chracters to an enemy.
+
+Flip one of your [Specialists] to another mode.</property>
+		</card>
+		<card id="10f31362-9f24-4dce-b851-7e5a12490fe3" name="Beast Mode" size="small">
+			<property name="Card Number" value="006" />
+			<property name="Rarity" value="Common" />
+			<property name="Group" value="Allied Crossplay" />
+			<property name="Type" value="Action" />
+			<property name="ATK" value="" />
+			<property name="DEF" value="" />
+			<property name="HP" value="" />
+			<property name="Stars" value="0" />
+			<property name="Faction" value="" />
+			<property name="Traits" value="" />
+			<property name="Orange" value="1" />
+			<property name="Blue" value="0" />
+			<property name="White" value="0" />
+			<property name="Green" value="0" />
+			<property name="Black" value="0" />
+			<property name="HybridOrange" value="0" />
+			<property name="HybridBlue" value="0" />
+			<property name="HybridWhite" value="0" />
+			<property name="HybridGreen" value="0" />
+			<property name="HybridBlack" value="0" />
+			<property name="Text">Choose one of your characters that's a [Predacon] or [Beast]. When it attacks an enemy in bot or body mode this turn > The attacking character gets [Bold 4] until end of battle.</property>
+		</card>
+		<card id="ffbeab28-82c1-498d-954b-4ea6ea8443cc" name="Cacophonous Failure" size="small">
+			<property name="Card Number" value="007" />
+			<property name="Rarity" value="Rare" />
+			<property name="Group" value="Allied Crossplay" />
+			<property name="Type" value="Secret Action" />
+			<property name="ATK" value="" />
+			<property name="DEF" value="" />
+			<property name="HP" value="" />
+			<property name="Stars" value="0" />
+			<property name="Faction" value="" />
+			<property name="Traits" value="" />
+			<property name="Orange" value="0" />
+			<property name="Blue" value="0" />
+			<property name="White" value="0" />
+			<property name="Green" value="1" />
+			<property name="Black" value="0" />
+			<property name="HybridOrange" value="0" />
+			<property name="HybridBlue" value="0" />
+			<property name="HybridWhite" value="0" />
+			<property name="HybridGreen" value="0" />
+			<property name="HybridBlack" value="0" />
+			<property name="Text">[Reveal] > As your opponent plays an Action with no battle icons.
+
+[When Revealed] > Scrap that Action and it has no effect.</property>
+		</card>
+		<card id="fb18ac4c-8257-495e-a24d-2e09deca7d34" name="Cloaking Screen" size="small">
+			<property name="Card Number" value="008" />
+			<property name="Rarity" value="Common" />
+			<property name="Group" value="Allied Crossplay" />
+			<property name="Type" value="Upgrade - Armor" />
+			<property name="ATK" value="" />
+			<property name="DEF" value="1" />
+			<property name="HP" value="" />
+			<property name="Stars" value="0" />
+			<property name="Faction" value="" />
+			<property name="Traits" value="" />
+			<property name="Orange" value="0" />
+			<property name="Blue" value="1" />
+			<property name="White" value="0" />
+			<property name="Green" value="1" />
+			<property name="Black" value="0" />
+			<property name="HybridOrange" value="0" />
+			<property name="HybridBlue" value="0" />
+			<property name="HybridWhite" value="0" />
+			<property name="HybridGreen" value="1" />
+			<property name="HybridBlack" value="0" />
+			<property name="Text">The upgraded character has [Stealth] while untapped.</property>
+		</card>
+		<card id="7a898f01-66f4-4f5a-99f5-b514a37dadf4" name="Cloud Cover" size="small">
+			<property name="Card Number" value="009" />
+			<property name="Rarity" value="Rare" />
+			<property name="Group" value="Allied Crossplay" />
+			<property name="Type" value="Secret Action" />
+			<property name="ATK" value="" />
+			<property name="DEF" value="" />
+			<property name="HP" value="" />
+			<property name="Stars" value="0" />
+			<property name="Faction" value="" />
+			<property name="Traits" value="" />
+			<property name="Orange" value="0" />
+			<property name="Blue" value="1" />
+			<property name="White" value="0" />
+			<property name="Green" value="1" />
+			<property name="Black" value="1" />
+			<property name="HybridOrange" value="0" />
+			<property name="HybridBlue" value="0" />
+			<property name="HybridWhite" value="0" />
+			<property name="HybridGreen" value="0" />
+			<property name="HybridBlack" value="0" />
+			<property name="Text">[Reveal] > If one or more damage counters would be moved from one character to another.
+
+[When Revealed] > Damage counters can't be moved between characters this turn.</property>
+		</card>
+		<card id="101bd1cd-a30b-427b-9315-cc26e64e8c58" name="Beastbox, Savage Interrogator" size="small">
+			<property name="Card Number" value="T01" />
+			<property name="Rarity" value="Uncommon" />
+			<property name="Group" value="Allied Crossplay" />
+			<property name="Type" value="Character - Alt Mode" />
+			<property name="ATK" value="0" />
+			<property name="DEF" value="1" />
+			<property name="HP" value="9" />
+			<property name="Stars" value="5" />
+			<property name="Faction" value="Decepticon" />
+			<property name="Traits" value="Mini-Cassette" />
+			<property name="Text">[Stealth]
+
+When you flip to this mode > Reveal the top card of your opponent's deck. If it's an Action, you may play it.</property>
+			<alternate type="Bot" name="Beastbox, Savage Interrogator" size="small">
+				<property name="Type" value="Character - Bot Mode" />
+				<property name="ATK" value="3" />
+				<property name="DEF" value="1" />
+				<property name="HP" value="9" />
+				<property name="Faction" value="Decepticon" />
+				<property name="Traits" value="Mini-Cassette, Melee" />
+				<property name="Text">When this attacks an enemy [Autobot] > This gets +2[ATK] until the end of turn.</property>
+			</alternate>
+		</card>
+		<card id="991b7586-8d75-4641-9a56-649228ac07db" name="Advanced Technology" size="small">
+			<property name="Card Number" value="S01" />
+			<property name="Rarity" value="Rare" />
+			<property name="Group" value="Allied Crossplay" />
+			<property name="Type" value="Stratagem" />
+			<property name="ATK" value="" />
+			<property name="DEF" value="" />
+			<property name="HP" value="" />
+			<property name="Stars" value="1" />
+			<property name="Faction" value="Decepticon" />
+			<property name="Traits" value="" />
+			<property name="Stratagem Target" value="Decepticon Shockwave, Cybertron Commander" />
+			<property name="Text">Your Decepticon Shockwave, Cybertron Commander has +4[HEALTH].</property>
+			<alternate type="back" name="Advanced Technology" size="small">
+			</alternate>
+		</card>
+		<card id="c66ab2d6-c929-414f-bfb2-29fc788cd206" name="Combaticon Enigma" size="small">
+			<property name="Card Number" value="010" />
+			<property name="Rarity" value="Uncommon" />
+			<property name="Group" value="Allied Crossplay" />
+			<property name="Type" value="Action" />
+			<property name="ATK" value="" />
+			<property name="DEF" value="" />
+			<property name="HP" value="" />
+			<property name="Stars" value="0" />
+			<property name="Faction" value="" />
+			<property name="Traits" value="" />
+			<property name="Orange" value="0" />
+			<property name="Blue" value="0" />
+			<property name="White" value="0" />
+			<property name="Green" value="1" />
+			<property name="Black" value="0" />
+			<property name="HybridOrange" value="0" />
+			<property name="HybridBlue" value="0" />
+			<property name="HybridWhite" value="0" />
+			<property name="HybridGreen" value="0" />
+			<property name="HybridBlack" value="0" />
+			<property name="Text">If you have Bruticus on the battlefield > He gets [Pierce 2] until end of turn.
+
+If you have 5 [Combaticons] in bot mode on the battlefield and/or in your KO area > Combine them into Bruticus, Unstoppable Giant.</property>
+		</card>
+		<card id="2587ac94-c9ec-465c-91ad-6019d48eb224" name="Cosmic Rust Cannon" size="small">
+			<property name="Card Number" value="011" />
+			<property name="Rarity" value="Rare" />
+			<property name="Group" value="Allied Crossplay" />
+			<property name="Type" value="Upgrade - Weapon" />
+			<property name="ATK" value="4" />
+			<property name="DEF" value="" />
+			<property name="HP" value="" />
+			<property name="Stars" value="0" />
+			<property name="Faction" value="" />
+			<property name="Traits" value="" />
+			<property name="Orange" value="0" />
+			<property name="Blue" value="0" />
+			<property name="White" value="0" />
+			<property name="Green" value="0" />
+			<property name="Black" value="1" />
+			<property name="HybridOrange" value="0" />
+			<property name="HybridBlue" value="0" />
+			<property name="HybridWhite" value="0" />
+			<property name="HybridGreen" value="0" />
+			<property name="HybridBlack" value="0" />
+			<property name="Text">When the upgraded character attacks > Do 1 damage to it. After the battle, do another 1 damage to that character unless you scrap an Upgrade from it.</property>
+		</card>
+		<card id="56dbc842-9c9c-4b9e-8c98-d36636f7153d" name="Crack Back" size="small">
+			<property name="Card Number" value="012" />
+			<property name="Rarity" value="Uncommon" />
+			<property name="Group" value="Allied Crossplay" />
+			<property name="Type" value="Secret Action" />
+			<property name="ATK" value="" />
+			<property name="DEF" value="" />
+			<property name="HP" value="" />
+			<property name="Stars" value="0" />
+			<property name="Faction" value="" />
+			<property name="Traits" value="" />
+			<property name="Orange" value="0" />
+			<property name="Blue" value="1" />
+			<property name="White" value="0" />
+			<property name="Green" value="1" />
+			<property name="Black" value="0" />
+			<property name="HybridOrange" value="0" />
+			<property name="HybridBlue" value="0" />
+			<property name="HybridWhite" value="0" />
+			<property name="HybridGreen" value="0" />
+			<property name="HybridBlack" value="0" />
+			<property name="Text">[Reveal] > When one of your characters defends and you  flip battle cards.&#10;&#10;[When Revealed] > If your defender's [DEF] is greater than the attacker's [ATK], do damage to the attacker equal to the difference.</property>
+		</card>
+		<card id="e52582bf-4bf4-403c-bee8-32be06781367" name="Crushing Claws" size="small">
+			<property name="Card Number" value="013" />
+			<property name="Rarity" value="Rare" />
+			<property name="Group" value="Allied Crossplay" />
+			<property name="Type" value="Upgrade - Weapon" />
+			<property name="ATK" value="2" />
+			<property name="DEF" value="" />
+			<property name="HP" value="" />
+			<property name="Stars" value="0" />
+			<property name="Faction" value="Decepticon" />
+			<property name="Traits" value="" />
+			<property name="Orange" value="0" />
+			<property name="Blue" value="1" />
+			<property name="White" value="0" />
+			<property name="Green" value="0" />
+			<property name="Black" value="0" />
+			<property name="HybridOrange" value="0" />
+			<property name="HybridBlue" value="0" />
+			<property name="HybridWhite" value="0" />
+			<property name="HybridGreen" value="0" />
+			<property name="HybridBlack" value="0" />
+			<property name="Text">Up tp 2 Crushing Claws can fit into 1 of Scorponok's Weapon slots.
+
+When the upgraded character attacks, if you have no other characters and flip at least [O][K][B] > Do 1 damage to each enemy.</property>
+		</card>
+		<card id="e34270b1-e175-471e-a7fa-b51b0ceb9da9" name="Dare To Believe" size="small">
+			<property name="Card Number" value="014" />
+			<property name="Rarity" value="Common" />
+			<property name="Group" value="Allied Crossplay" />
+			<property name="Type" value="Action" />
+			<property name="ATK" value="" />
+			<property name="DEF" value="" />
+			<property name="HP" value="" />
+			<property name="Stars" value="0" />
+			<property name="Faction" value="" />
+			<property name="Traits" value="" />
+			<property name="Orange" value="1" />
+			<property name="Blue" value="1" />
+			<property name="White" value="0" />
+			<property name="Green" value="0" />
+			<property name="Black" value="0" />
+			<property name="HybridOrange" value="1" />
+			<property name="HybridBlue" value="1" />
+			<property name="HybridWhite" value="0" />
+			<property name="HybridGreen" value="0" />
+			<property name="HybridBlack" value="0" />
+			<property name="Text">Draw a card.
+
+One of your characters gets [Bold 1] until end of turn.</property>
+		</card>
+		<card id="a6b9f621-9c2a-44c0-8b69-5e64377d851a" name="Death to the Weak" size="small">
+			<property name="Card Number" value="015" />
+			<property name="Rarity" value="Rare" />
+			<property name="Group" value="Allied Crossplay" />
+			<property name="Type" value="Action" />
+			<property name="ATK" value="" />
+			<property name="DEF" value="" />
+			<property name="HP" value="" />
+			<property name="Stars" value="0" />
+			<property name="Faction" value="" />
+			<property name="Traits" value="" />
+			<property name="Orange" value="0" />
+			<property name="Blue" value="0" />
+			<property name="White" value="0" />
+			<property name="Green" value="0" />
+			<property name="Black" value="0" />
+			<property name="HybridOrange" value="0" />
+			<property name="HybridBlue" value="0" />
+			<property name="HybridWhite" value="0" />
+			<property name="HybridGreen" value="0" />
+			<property name="HybridBlack" value="0" />
+			<property name="Text">You may KO one of your characters that has 5 [STARS] or fewer. If you do, do 3 damage to an enemy and repair 3 damage from one of your other characters.</property>
+		</card>
+		<card id="e2e33616-8575-4c52-a283-fdf6a1c9f78c" name="Electro Stinger of Scorponok" size="small">
+			<property name="Card Number" value="016" />
+			<property name="Rarity" value="Rare" />
+			<property name="Group" value="Allied Crossplay" />
+			<property name="Type" value="Upgrade - Utility" />
+			<property name="ATK" value="" />
+			<property name="DEF" value="" />
+			<property name="HP" value="" />
+			<property name="Stars" value="0" />
+			<property name="Faction" value="Decepticon" />
+			<property name="Traits" value="" />
+			<property name="Orange" value="0" />
+			<property name="Blue" value="0" />
+			<property name="White" value="1" />
+			<property name="Green" value="0" />
+			<property name="Black" value="0" />
+			<property name="HybridOrange" value="0" />
+			<property name="HybridBlue" value="0" />
+			<property name="HybridWhite" value="0" />
+			<property name="HybridGreen" value="0" />
+			<property name="HybridBlack" value="0" />
+			<property name="Text">Put on Scorponok only.
+
+[Pierce 2].
+
+This can't be scrapped by your opponent's cards.
+
+While Scorponok has Crushing Claws and Zarak's Shield > He gets an additional [Pierce 5].</property>
+		</card>
+		<card id="26c03c62-5517-4b54-a7a3-12939198a099" name="Energon Sword" size="small">
+			<property name="Card Number" value="017" />
+			<property name="Rarity" value="Uncommon" />
+			<property name="Group" value="Allied Crossplay" />
+			<property name="Type" value="Upgrade - Weapon" />
+			<property name="ATK" value="1" />
+			<property name="DEF" value="" />
+			<property name="HP" value="" />
+			<property name="Stars" value="0" />
+			<property name="Faction" value="" />
+			<property name="Traits" value="" />
+			<property name="Orange" value="0" />
+			<property name="Blue" value="1" />
+			<property name="White" value="0" />
+			<property name="Green" value="0" />
+			<property name="Black" value="0" />
+			<property name="HybridOrange" value="0" />
+			<property name="HybridBlue" value="0" />
+			<property name="HybridWhite" value="0" />
+			<property name="HybridGreen" value="0" />
+			<property name="HybridBlack" value="0" />
+			<property name="Text">Put on [Melee] characters only.
+
+When the upgraded character attacks and you flip at least [B][B] > The defender's base [DEF] becomes 0 during this battle.</property>
+		</card>
+		<card id="891a93f6-7d4e-470d-85ed-f4cb6d163bb3" name="Feral Tenacity" size="small">
+			<property name="Card Number" value="018" />
+			<property name="Rarity" value="Rare" />
+			<property name="Group" value="Allied Crossplay" />
+			<property name="Type" value="Upgrade - Armor" />
+			<property name="ATK" value="" />
+			<property name="DEF" value="1" />
+			<property name="HP" value="" />
+			<property name="Stars" value="0" />
+			<property name="Faction" value="" />
+			<property name="Traits" value="" />
+			<property name="Orange" value="1" />
+			<property name="Blue" value="0" />
+			<property name="White" value="0" />
+			<property name="Green" value="0" />
+			<property name="Black" value="0" />
+			<property name="HybridOrange" value="0" />
+			<property name="HybridBlue" value="0" />
+			<property name="HybridWhite" value="0" />
+			<property name="HybridGreen" value="0" />
+			<property name="HybridBlack" value="0" />
+			<property name="Text">Put only on [Predacons] or [Beasts].
+
+When the upgraded character takes damage > Put 1 rage counter on this.
+
+The upgraded character gets +1 [ATK] for each rage counter on this.
+
+At the end of your turn > Remove all rage counters from this.</property>
+		</card>
+		<card id="871b95d7-1a5f-4e5f-bd94-d10c06cfe99b" name="Grimlock's Sword" size="small">
+			<property name="Card Number" value="019" />
+			<property name="Rarity" value="Rare" />
+			<property name="Group" value="Allied Crossplay" />
+			<property name="Type" value="Upgrade - Weapon" />
+			<property name="ATK" value="3" />
+			<property name="DEF" value="1" />
+			<property name="HP" value="" />
+			<property name="Stars" value="2" />
+			<property name="Faction" value="Autobot" />
+			<property name="Traits" value="" />
+			<property name="Orange" value="1" />
+			<property name="Blue" value="0" />
+			<property name="White" value="0" />
+			<property name="Green" value="0" />
+			<property name="Black" value="1" />
+			<property name="HybridOrange" value="0" />
+			<property name="HybridBlue" value="0" />
+			<property name="HybridWhite" value="0" />
+			<property name="HybridGreen" value="0" />
+			<property name="HybridBlack" value="0" />
+			<property name="Text">Put on [Dinobots] only.
+[Bold 3]
+[Pierce 3]</property>
+		</card>
+		<card id="c8047cc4-4469-4566-9912-b7649cd4035c" name="Blast Off, Space Warrior" size="folded">
+			<property name="Card Number" value="T02" />
+			<property name="Rarity" value="Common" />
+			<property name="Group" value="Allied Crossplay" />
+			<property name="Type" value="Character - Alt Mode" />
+			<property name="ATK" value="2" />
+			<property name="DEF" value="2" />
+			<property name="HP" value="8" />
+			<property name="Stars" value="5" />
+			<property name="Faction" value="Mercenary" />
+			<property name="Traits" value="Combaticon, Spaceship, Specialist" />
+			<property name="Text">When this attacks a [Tank] or [Truck] > This gets +2[ATK] until end of turn.</property>
+			<alternate type="Bot" name="Blast Off, Space Warrior" size="folded">
+				<property name="Type" value="Character - Bot Mode" />
+				<property name="ATK" value="2" />
+				<property name="DEF" value="2" />
+				<property name="HP" value="8" />
+				<property name="Faction" value="Mercenary" />
+				<property name="Traits" value="Combaticon, Specialist" />
+				<property name="Text">When you flip to this mode > Do 2 damage to a [Ranged] enemy.</property>
+			</alternate>
+		</card>
+		<card id="7a6277cd-bc5a-4578-b9ee-78a65d8e85ba" name="Arise, Rodimus Prime" size="small">
+			<property name="Card Number" value="S02" />
+			<property name="Rarity" value="Rare" />
+			<property name="Group" value="Allied Crossplay" />
+			<property name="Type" value="Stratagem" />
+			<property name="ATK" value="" />
+			<property name="DEF" value="" />
+			<property name="HP" value="" />
+			<property name="Stars" value="1" />
+			<property name="Faction" value="Autobot" />
+			<property name="Traits" value="" />
+			<property name="Stratagem Target" value="Rodimus Prime, Worthy Leader" />
+			<property name="Text">Before the game begins > You may reveal a Matrix of Leadership from your deck and put it into your hand.
+
+Up to three copies of Matrix of Leadership can fit into the utility slot of your Rodimus Prime, Worthy Leader.</property>
+			<alternate type="back" name="Arise, Rodimus Prime" size="small">
+			</alternate>
+		</card>
+		<card id="e9b80b44-2f18-4e88-a0a5-7c6c0fbf0a7b" name="H-M Laser Cannon" size="small">
+			<property name="Card Number" value="020" />
+			<property name="Rarity" value="Uncommon" />
+			<property name="Group" value="Allied Crossplay" />
+			<property name="Type" value="Upgrade - Weapon" />
+			<property name="ATK" value="1" />
+			<property name="DEF" value="" />
+			<property name="HP" value="" />
+			<property name="Stars" value="0" />
+			<property name="Faction" value="Autobot" />
+			<property name="Traits" value="" />
+			<property name="Orange" value="0" />
+			<property name="Blue" value="1" />
+			<property name="White" value="0" />
+			<property name="Green" value="0" />
+			<property name="Black" value="0" />
+			<property name="HybridOrange" value="0" />
+			<property name="HybridBlue" value="0" />
+			<property name="HybridWhite" value="0" />
+			<property name="HybridGreen" value="0" />
+			<property name="HybridBlack" value="0" />
+			<property name="Text">Can't be put on [Decepticons].
+
+When you put this on a [Guardian] or a character in combiner mode > Do 2 damage to each enemy.</property>
+		</card>
+		<card id="af8cee7a-84a2-4353-b75f-b602d8238b9d" name="Nothin's Gonna Stand In Our Way" size="small">
+			<property name="Card Number" value="021" />
+			<property name="Rarity" value="Common" />
+			<property name="Group" value="Allied Crossplay" />
+			<property name="Type" value="Action" />
+			<property name="ATK" value="" />
+			<property name="DEF" value="" />
+			<property name="HP" value="" />
+			<property name="Stars" value="0" />
+			<property name="Faction" value="" />
+			<property name="Traits" value="" />
+			<property name="Orange" value="0" />
+			<property name="Blue" value="0" />
+			<property name="White" value="1" />
+			<property name="Green" value="1" />
+			<property name="Black" value="0" />
+			<property name="HybridOrange" value="0" />
+			<property name="HybridBlue" value="0" />
+			<property name="HybridWhite" value="0" />
+			<property name="HybridGreen" value="0" />
+			<property name="HybridBlack" value="0" />
+			<property name="Text">One of your characters gets [Pierce 1] until end of turn.
+
+If this is the the third Nothin's Gonna Stand In Our Way you've played this turn > Untap one of your characters with 12 [STARS] or fewer.
+
+You may play another Nothin's Gonna Stand In Our Way.</property>
+		</card>
+		<card id="b5b1e4b3-d2b3-4acb-86da-0d0baa26243f" name="Particle Cannon of Galvatron" size="small">
+			<property name="Card Number" value="022" />
+			<property name="Rarity" value="Rare" />
+			<property name="Group" value="Allied Crossplay" />
+			<property name="Type" value="Upgrade - Weapon" />
+			<property name="ATK" value="2" />
+			<property name="DEF" value="" />
+			<property name="HP" value="" />
+			<property name="Stars" value="0" />
+			<property name="Faction" value="Decepticon" />
+			<property name="Traits" value="" />
+			<property name="Orange" value="0" />
+			<property name="Blue" value="1" />
+			<property name="White" value="0" />
+			<property name="Green" value="1" />
+			<property name="Black" value="0" />
+			<property name="HybridOrange" value="0" />
+			<property name="HybridBlue" value="0" />
+			<property name="HybridWhite" value="0" />
+			<property name="HybridGreen" value="0" />
+			<property name="HybridBlack" value="0" />
+			<property name="Text">Put on Galvatron only.
+
+[Bold 1]</property>
+		</card>
+		<card id="dcc7d127-9293-42ca-a8cd-945a25bcc243" name="Racing Stripes" size="small">
+			<property name="Card Number" value="023" />
+			<property name="Rarity" value="Rare" />
+			<property name="Group" value="Allied Crossplay" />
+			<property name="Type" value="Upgrade - Armor" />
+			<property name="ATK" value="" />
+			<property name="DEF" value="" />
+			<property name="HP" value="" />
+			<property name="Stars" value="0" />
+			<property name="Faction" value="" />
+			<property name="Traits" value="" />
+			<property name="Orange" value="0" />
+			<property name="Blue" value="1" />
+			<property name="White" value="0" />
+			<property name="Green" value="0" />
+			<property name="Black" value="0" />
+			<property name="HybridOrange" value="0" />
+			<property name="HybridBlue" value="0" />
+			<property name="HybridWhite" value="0" />
+			<property name="HybridGreen" value="0" />
+			<property name="HybridBlack" value="0" />
+			<property name="Text">Put only on [Motorcycles], [Sentinels], or [Stunticons].
+
+When you flip battle cards while upgraded character defends > Until end of battle, the upgraded character gets +[DEF] equal to half the number of different battle icons flipped this battle, rounded up. Do that much damage to the attacker.</property>
+		</card>
+		<card id="bb83e020-343d-44b1-8d18-5d1cc630dbd2" name="Resilience" size="small">
+			<property name="Card Number" value="024" />
+			<property name="Rarity" value="Uncommon" />
+			<property name="Group" value="Allied Crossplay" />
+			<property name="Type" value="Action" />
+			<property name="ATK" value="" />
+			<property name="DEF" value="" />
+			<property name="HP" value="" />
+			<property name="Stars" value="0" />
+			<property name="Faction" value="" />
+			<property name="Traits" value="" />
+			<property name="Orange" value="0" />
+			<property name="Blue" value="0" />
+			<property name="White" value="0" />
+			<property name="Green" value="1" />
+			<property name="Black" value="0" />
+			<property name="HybridOrange" value="0" />
+			<property name="HybridBlue" value="0" />
+			<property name="HybridWhite" value="0" />
+			<property name="HybridGreen" value="0" />
+			<property name="HybridBlack" value="0" />
+			<property name="Text">Repair 5 damage from one of your characters that has 19 [STARS] or more. Then put this card into your KO area.</property>
+		</card>
+		<card id="b7ca356e-21a1-4223-aee2-fe5f6671f03b" name="Scan the Vaults" size="small">
+			<property name="Card Number" value="025" />
+			<property name="Rarity" value="Common" />
+			<property name="Group" value="Allied Crossplay" />
+			<property name="Type" value="Action" />
+			<property name="ATK" value="" />
+			<property name="DEF" value="" />
+			<property name="HP" value="" />
+			<property name="Stars" value="0" />
+			<property name="Faction" value="" />
+			<property name="Traits" value="" />
+			<property name="Orange" value="0" />
+			<property name="Blue" value="1" />
+			<property name="White" value="0" />
+			<property name="Green" value="1" />
+			<property name="Black" value="0" />
+			<property name="HybridOrange" value="0" />
+			<property name="HybridBlue" value="0" />
+			<property name="HybridWhite" value="0" />
+			<property name="HybridGreen" value="0" />
+			<property name="HybridBlack" value="0" />
+			<property name="Text">Draw a card. Then draw a card for each Scan the Vaults in your scrap pile.</property>
+		</card>
+		<card id="bc3bb523-54f9-41d6-b697-a7e67ec4c0e0" name="Sharkticon Mace" size="small">
+			<property name="Card Number" value="026" />
+			<property name="Rarity" value="Rare" />
+			<property name="Group" value="Allied Crossplay" />
+			<property name="Type" value="Upgrade - Weapon" />
+			<property name="ATK" value="2" />
+			<property name="DEF" value="" />
+			<property name="HP" value="" />
+			<property name="Stars" value="0" />
+			<property name="Faction" value="" />
+			<property name="Traits" value="" />
+			<property name="Orange" value="0" />
+			<property name="Blue" value="0" />
+			<property name="White" value="0" />
+			<property name="Green" value="0" />
+			<property name="Black" value="1" />
+			<property name="HybridOrange" value="0" />
+			<property name="HybridBlue" value="0" />
+			<property name="HybridWhite" value="0" />
+			<property name="HybridGreen" value="0" />
+			<property name="HybridBlack" value="0" />
+			<property name="Text">After the upgraded character attacks > Scrap this card. If the upgraded character is a [Sharkticon], put this on another [Sharkticon] instead.</property>
+		</card>
+		<card id="1af3eef3-3579-4318-836a-462f386c4799" name="Spoils of War" size="small">
+			<property name="Card Number" value="027" />
+			<property name="Rarity" value="Uncommon" />
+			<property name="Group" value="Allied Crossplay" />
+			<property name="Type" value="Action" />
+			<property name="ATK" value="0" />
+			<property name="DEF" value="0" />
+			<property name="HP" value="0" />
+			<property name="Stars" value="0" />
+			<property name="Faction" value="" />
+			<property name="Traits" value="" />
+			<property name="Orange" value="0" />
+			<property name="Blue" value="0" />
+			<property name="White" value="0" />
+			<property name="Green" value="0" />
+			<property name="Black" value="1" />
+			<property name="HybridOrange" value="0" />
+			<property name="HybridBlue" value="0" />
+			<property name="HybridWhite" value="0" />
+			<property name="HybridGreen" value="0" />
+			<property name="HybridBlack" value="0" />
+			<property name="Text">Choose up to 5 of your characters. If they share a trait, repair 1 damage from each of them.</property>
+		</card>
+		<card id="22a974bf-8da2-422d-bc8e-2335d86dc903" name="Starscream's Cape" size="small">
+			<property name="Card Number" value="028" />
+			<property name="Rarity" value="Rare" />
+			<property name="Group" value="Allied Crossplay" />
+			<property name="Type" value="Upgrade - Utility" />
+			<property name="ATK" value="1" />
+			<property name="DEF" value="1" />
+			<property name="HP" value="" />
+			<property name="Stars" value="0" />
+			<property name="Faction" value="" />
+			<property name="Traits" value="" />
+			<property name="Orange" value="0" />
+			<property name="Blue" value="0" />
+			<property name="White" value="1" />
+			<property name="Green" value="1" />
+			<property name="Black" value="0" />
+			<property name="HybridOrange" value="0" />
+			<property name="HybridBlue" value="0" />
+			<property name="HybridWhite" value="0" />
+			<property name="HybridGreen" value="0" />
+			<property name="HybridBlack" value="0" />
+			<property name="Text">Put on Starscream only.
+
+This can be in an Armor slot.
+
+Increase each number in the upgraded character's text box by 1. This effect does not modify abilities granted by upgrades or other effects.</property>
+		</card>
+		<card id="ee055282-023c-436b-97c2-a83620f67031" name="Stasis Field" size="small">
+			<property name="Card Number" value="029" />
+			<property name="Rarity" value="Rare" />
+			<property name="Group" value="Allied Crossplay" />
+			<property name="Type" value="Secret Action" />
+			<property name="ATK" value="" />
+			<property name="DEF" value="" />
+			<property name="HP" value="" />
+			<property name="Stars" value="0" />
+			<property name="Faction" value="" />
+			<property name="Traits" value="" />
+			<property name="Orange" value="0" />
+			<property name="Blue" value="1" />
+			<property name="White" value="0" />
+			<property name="Green" value="0" />
+			<property name="Black" value="0" />
+			<property name="HybridOrange" value="0" />
+			<property name="HybridBlue" value="0" />
+			<property name="HybridWhite" value="0" />
+			<property name="HybridGreen" value="0" />
+			<property name="HybridBlack" value="0" />
+			<property name="Text">[Reveal] > When one of your characters defends against an enemy in bot or body mode.
+
+[When Revealed] > The attacking player flips that attacker to alt mode.</property>
+		</card>
+		<card id="f4fffd88-5830-4087-af78-bf62b65a788f" name="Bombshock, Military Patrol • Patrol Leader" size="small">
+			<property name="Card Number" value="T03" />
+			<property name="Rarity" value="Common" />
+			<property name="Group" value="Allied Crossplay" />
+			<property name="Type" value="Character - Alt Mode" />
+			<property name="ATK" value="3" />
+			<property name="DEF" value="2" />
+			<property name="HP" value="8" />
+			<property name="Stars" value="5" />
+			<property name="Faction" value="Decepticon" />
+			<property name="Traits" value="Military Patrol, Tank, Ranged" />
+			<property name="Text">This has [Stealth] while untapped.
+Each of your [Military Patrols] has +2[ATK].</property>
+			<alternate type="Bot" name="Bombshock, Military Patrol • Patrol Leader" size="small">
+				<property name="Type" value="Character - Bot Mode" />
+				<property name="ATK" value="3" />
+				<property name="DEF" value="1" />
+				<property name="HP" value="8" />
+				<property name="Faction" value="Decepticon" />
+				<property name="Traits" value="Military Patrol, Ranged" />
+				<property name="Text">This has +1[ATK] and +1[DEF] for each Military Patrol in your KO area.</property>
+			</alternate>
+		</card>
+		<card id="a296f3e5-fcb4-4167-9f4e-574839b06681" name="Arm the Lonely" size="small">
+			<property name="Card Number" value="S03" />
+			<property name="Rarity" value="Common" />
+			<property name="Group" value="Allied Crossplay" />
+			<property name="Type" value="Stratagem" />
+			<property name="ATK" value="" />
+			<property name="DEF" value="" />
+			<property name="HP" value="" />
+			<property name="Stars" value="1" />
+			<property name="Faction" value="Decepticon" />
+			<property name="Traits" value="" />
+			<property name="Stratagem Target" value="Raider Spinister, Infantry • Aerial Assault" />
+			<property name="Text">Your Raider Spinister, Infantry • Aerial Assault has +3 [HEALTH].
+
+Once per game, at the start of your turn > You may put a [Battle Master] upgrade from your KO area onto your Raider Spinister, Infantry • Aerial Assault. If you do, flip this.</property>
+			<alternate type="back" name="Arm the Lonely" size="small">
+			</alternate>
+		</card>
+		<card id="586fe90e-b916-4cdb-a29c-f21ebd1f256c" name="Stormfall Sword" size="small">
+			<property name="Card Number" value="030" />
+			<property name="Rarity" value="Rare" />
+			<property name="Group" value="Allied Crossplay" />
+			<property name="Type" value="Upgrade - Weapon" />
+			<property name="ATK" value="1" />
+			<property name="DEF" value="" />
+			<property name="HP" value="" />
+			<property name="Stars" value="0" />
+			<property name="Faction" value="Autobot" />
+			<property name="Traits" value="" />
+			<property name="Orange" value="0" />
+			<property name="Blue" value="0" />
+			<property name="White" value="1" />
+			<property name="Green" value="1" />
+			<property name="Black" value="0" />
+			<property name="HybridOrange" value="0" />
+			<property name="HybridBlue" value="0" />
+			<property name="HybridWhite" value="0" />
+			<property name="HybridGreen" value="1" />
+			<property name="HybridBlack" value="0" />
+			<property name="Text">[Pierce 2]
+While this is on Windblade > She has [Tough 1].</property>
+		</card>
+		<card id="a461b1e4-14b6-461e-ba4d-1f52f0d19390" name="Survival of the Fittest" size="small">
+			<property name="Card Number" value="031" />
+			<property name="Rarity" value="Rare" />
+			<property name="Group" value="Allied Crossplay" />
+			<property name="Type" value="Secret Action" />
+			<property name="ATK" value="" />
+			<property name="DEF" value="" />
+			<property name="HP" value="" />
+			<property name="Stars" value="0" />
+			<property name="Faction" value="" />
+			<property name="Traits" value="" />
+			<property name="Orange" value="0" />
+			<property name="Blue" value="0" />
+			<property name="White" value="0" />
+			<property name="Green" value="0" />
+			<property name="Black" value="0" />
+			<property name="HybridOrange" value="0" />
+			<property name="HybridBlue" value="0" />
+			<property name="HybridWhite" value="0" />
+			<property name="HybridGreen" value="0" />
+			<property name="HybridBlack" value="0" />
+			<property name="Text">[Reveal] > After your opponent chooses an attacker and before they choose a defender.
+
+[When Revealed] > KO one of your characters. Then untap one of your other characters.</property>
+		</card>
+		<card id="5f6646b3-49f8-4ddc-b819-745fe7349f6b" name="The Touch" size="small">
+			<property name="Card Number" value="032" />
+			<property name="Rarity" value="Uncommon" />
+			<property name="Group" value="Allied Crossplay" />
+			<property name="Type" value="Action" />
+			<property name="ATK" value="" />
+			<property name="DEF" value="" />
+			<property name="HP" value="" />
+			<property name="Stars" value="1" />
+			<property name="Faction" value="" />
+			<property name="Traits" value="" />
+			<property name="Orange" value="1" />
+			<property name="Blue" value="1" />
+			<property name="White" value="0" />
+			<property name="Green" value="0" />
+			<property name="Black" value="0" />
+			<property name="HybridOrange" value="0" />
+			<property name="HybridBlue" value="0" />
+			<property name="HybridWhite" value="0" />
+			<property name="HybridGreen" value="0" />
+			<property name="HybridBlack" value="0" />
+			<property name="Text">One of your Autobot [Leaders] gets [Bold 4] until end of turn.
+
+If that character is upgraded with Matrix of Leadership > Repair 3 damage from it.</property>
+		</card>
+		<card id="f70cf2be-fee5-4f80-8084-bd300bb7e2f5" name="This is Bad Comedy" size="small">
+			<property name="Card Number" value="033" />
+			<property name="Rarity" value="Common" />
+			<property name="Group" value="Allied Crossplay" />
+			<property name="Type" value="Action" />
+			<property name="ATK" value="" />
+			<property name="DEF" value="" />
+			<property name="HP" value="" />
+			<property name="Stars" value="0" />
+			<property name="Faction" value="" />
+			<property name="Traits" value="" />
+			<property name="Orange" value="0" />
+			<property name="Blue" value="0" />
+			<property name="White" value="1" />
+			<property name="Green" value="0" />
+			<property name="Black" value="0" />
+			<property name="HybridOrange" value="0" />
+			<property name="HybridBlue" value="0" />
+			<property name="HybridWhite" value="0" />
+			<property name="HybridGreen" value="0" />
+			<property name="HybridBlack" value="0" />
+			<property name="Text">Choose an enemy character. Scrap a Utility from it, then do 1 damage to it.</property>
+		</card>
+		<card id="b4a0f840-19fd-482e-bd42-6f35aa72f981" name="Trithyllium Plating" size="small">
+			<property name="Card Number" value="034" />
+			<property name="Rarity" value="Uncommon" />
+			<property name="Group" value="Allied Crossplay" />
+			<property name="Type" value="Upgrade - Armor" />
+			<property name="ATK" value="" />
+			<property name="DEF" value="1" />
+			<property name="HP" value="" />
+			<property name="Stars" value="0" />
+			<property name="Faction" value="" />
+			<property name="Traits" value="" />
+			<property name="Orange" value="0" />
+			<property name="Blue" value="0" />
+			<property name="White" value="0" />
+			<property name="Green" value="0" />
+			<property name="Black" value="0" />
+			<property name="HybridOrange" value="0" />
+			<property name="HybridBlue" value="0" />
+			<property name="HybridWhite" value="0" />
+			<property name="HybridGreen" value="0" />
+			<property name="HybridBlack" value="0" />
+			<property name="Text">When you play this from hand > You may play a Trithyllum Plating from your scrap pile.
+
+Up to 3 Trithyllum Platings can fit in 1 Armor slot.
+
+While the upgraded character is defending against an enemy that has [Pierce] > Reduce that enemy's [Pierce] total by 2.</property>
+		</card>
+		<card id="c5fb5f70-cac2-4398-aa9c-c63584edd768" name="Tsunami Blaster" size="small">
+			<property name="Card Number" value="035" />
+			<property name="Rarity" value="Rare" />
+			<property name="Group" value="Allied Crossplay" />
+			<property name="Type" value="Upgrade - Weapon" />
+			<property name="ATK" value="1" />
+			<property name="DEF" value="" />
+			<property name="HP" value="" />
+			<property name="Stars" value="0" />
+			<property name="Faction" value="Decepticon" />
+			<property name="Traits" value="" />
+			<property name="Orange" value="1" />
+			<property name="Blue" value="0" />
+			<property name="White" value="0" />
+			<property name="Green" value="1" />
+			<property name="Black" value="0" />
+			<property name="HybridOrange" value="0" />
+			<property name="HybridBlue" value="0" />
+			<property name="HybridWhite" value="0" />
+			<property name="HybridGreen" value="0" />
+			<property name="HybridBlack" value="0" />
+			<property name="Text">Can't be put on [Autobots].
+
+The upgraded character has [Bold 1] for each card under it, up to [Bold 4].</property>
+		</card>
+		<card id="0e4b825c-4787-4211-a66d-217544a3b88c" name="Twisted Logic" size="small">
+			<property name="Card Number" value="036" />
+			<property name="Rarity" value="Common" />
+			<property name="Group" value="Allied Crossplay" />
+			<property name="Type" value="Secret Action" />
+			<property name="ATK" value="" />
+			<property name="DEF" value="" />
+			<property name="HP" value="" />
+			<property name="Stars" value="0" />
+			<property name="Faction" value="" />
+			<property name="Traits" value="" />
+			<property name="Orange" value="0" />
+			<property name="Blue" value="0" />
+			<property name="White" value="1" />
+			<property name="Green" value="0" />
+			<property name="Black" value="0" />
+			<property name="HybridOrange" value="0" />
+			<property name="HybridBlue" value="0" />
+			<property name="HybridWhite" value="0" />
+			<property name="HybridGreen" value="0" />
+			<property name="HybridBlack" value="0" />
+			<property name="Text">[Reveal] > When one of your characters defends.
+
+[When Revealed] > Reveal the top 5 cards of your opponent's deck. Put them back in any order.</property>
+		</card>
+		<card id="0903b956-5f08-4f26-bf41-0a785699ef50" name="Unfriendly Fire" size="small">
+			<property name="Card Number" value="037" />
+			<property name="Rarity" value="Rare" />
+			<property name="Group" value="Allied Crossplay" />
+			<property name="Type" value="Upgrade - Utility" />
+			<property name="ATK" value="" />
+			<property name="DEF" value="1" />
+			<property name="HP" value="" />
+			<property name="Stars" value="0" />
+			<property name="Faction" value="" />
+			<property name="Traits" value="" />
+			<property name="Orange" value="0" />
+			<property name="Blue" value="0" />
+			<property name="White" value="1" />
+			<property name="Green" value="0" />
+			<property name="Black" value="1" />
+			<property name="HybridOrange" value="0" />
+			<property name="HybridBlue" value="0" />
+			<property name="HybridWhite" value="0" />
+			<property name="HybridGreen" value="0" />
+			<property name="HybridBlack" value="0" />
+			<property name="Text">Put on [Combaticons] only.
+
+When the upgraded character defends and your opponent flips battle icons of at least 3 different colors > Do 2 damage to an enemy.</property>
+		</card>
+		<card id="0f08b270-a1c2-4084-8ab3-11719eb04754" name="Vamparc Ribbon" size="small">
+			<property name="Card Number" value="038" />
+			<property name="Rarity" value="Uncommon" />
+			<property name="Group" value="Allied Crossplay" />
+			<property name="Type" value="Upgrade - Weapon" />
+			<property name="ATK" value="1" />
+			<property name="DEF" value="" />
+			<property name="HP" value="" />
+			<property name="Stars" value="0" />
+			<property name="Faction" value="" />
+			<property name="Traits" value="" />
+			<property name="Orange" value="1" />
+			<property name="Blue" value="0" />
+			<property name="White" value="0" />
+			<property name="Green" value="1" />
+			<property name="Black" value="0" />
+			<property name="HybridOrange" value="0" />
+			<property name="HybridBlue" value="0" />
+			<property name="HybridWhite" value="0" />
+			<property name="HybridGreen" value="0" />
+			<property name="HybridBlack" value="0" />
+			<property name="Text">When the upgraded character attacks and does 4 or more attack damage > Repair 2 damage from the upgraded character.</property>
+		</card>
+		<card id="dc10797e-64c1-44d3-98b2-86cf674b3bd0" name="Wanna Bet?" size="small">
+			<property name="Card Number" value="039" />
+			<property name="Rarity" value="Uncommon" />
+			<property name="Group" value="Allied Crossplay" />
+			<property name="Type" value="Secret Action" />
+			<property name="ATK" value="" />
+			<property name="DEF" value="" />
+			<property name="HP" value="" />
+			<property name="Stars" value="0" />
+			<property name="Faction" value="" />
+			<property name="Traits" value="" />
+			<property name="Orange" value="0" />
+			<property name="Blue" value="0" />
+			<property name="White" value="1" />
+			<property name="Green" value="1" />
+			<property name="Black" value="0" />
+			<property name="HybridOrange" value="0" />
+			<property name="HybridBlue" value="0" />
+			<property name="HybridWhite" value="0" />
+			<property name="HybridGreen" value="0" />
+			<property name="HybridBlack" value="0" />
+			<property name="Text">[Reveal] > If one or more battle cards would be put under a character.
+
+[When Revealed] > Until end of turn, if one or more battle cards would be put under a character, scrap those battle cards instead.</property>
+		</card>
+		<card id="4e60df20-a1a6-4fbe-b56b-d84da99dbb45" name="Brawl, Ground Assault" size="folded">
+			<property name="Card Number" value="T04" />
+			<property name="Rarity" value="Common" />
+			<property name="Group" value="Allied Crossplay" />
+			<property name="Type" value="Character - Alt Mode" />
+			<property name="ATK" value="3" />
+			<property name="DEF" value="3" />
+			<property name="HP" value="7" />
+			<property name="Stars" value="5" />
+			<property name="Faction" value="Mercenary" />
+			<property name="Traits" value="Combaticon, Tank, Ranged" />
+			<property name="Text">[Brave]
+[Bold 1]</property>
+			<alternate type="Bot" name="Brawl, Ground Assault" size="folded">
+				<property name="Type" value="Character - Bot Mode" />
+				<property name="ATK" value="4" />
+				<property name="DEF" value="1" />
+				<property name="HP" value="7" />
+				<property name="Faction" value="Mercenary" />
+				<property name="Traits" value="Combaticon, Melee" />
+				<property name="Text">Enemies can't use [Brave] or [Stealth].
+
+When this attacks an enemy that has an Armor > Do 1 damage to that enemy.</property>
+			</alternate>
+		</card>
+		<card id="ca287eda-b02e-40f5-adbc-15c39cfc0b00" name="Barbaric Rage" size="small">
+			<property name="Card Number" value="S04" />
+			<property name="Rarity" value="Rare" />
+			<property name="Group" value="Allied Crossplay" />
+			<property name="Type" value="Stratagem" />
+			<property name="ATK" value="" />
+			<property name="DEF" value="" />
+			<property name="HP" value="" />
+			<property name="Stars" value="2" />
+			<property name="Faction" value="Decepticon" />
+			<property name="Traits" value="" />
+			<property name="Stratagem Target" value="Galvatron, Maniacal Tyrant" />
+			<property name="Text">Your Galvatron, Maniacal Tyrant has +3 [HEALTH].
+
+While your Galvatron, Maniacal Tyrant is in bot mode, he has +3[ATK] and &quot;When this attacks > do 2 damage to one of your characters.&quot;</property>
+			<alternate type="back" name="Barbaric Rage" size="small">
+			</alternate>
+		</card>
+		<card id="1f2f78b3-f7a2-4120-b6d4-14138dea6d8a" name="Zarak's Shield" size="small">
+			<property name="Card Number" value="040" />
+			<property name="Rarity" value="Rare" />
+			<property name="Group" value="Allied Crossplay" />
+			<property name="Type" value="Upgrade - Armor" />
+			<property name="ATK" value="" />
+			<property name="DEF" value="1" />
+			<property name="HP" value="" />
+			<property name="Stars" value="0" />
+			<property name="Faction" value="Decepticon" />
+			<property name="Traits" value="" />
+			<property name="Orange" value="1" />
+			<property name="Blue" value="0" />
+			<property name="White" value="0" />
+			<property name="Green" value="0" />
+			<property name="Black" value="0" />
+			<property name="HybridOrange" value="0" />
+			<property name="HybridBlue" value="0" />
+			<property name="HybridWhite" value="0" />
+			<property name="HybridGreen" value="0" />
+			<property name="HybridBlack" value="0" />
+			<property name="Text">While this is on Scorponok > He gets +1[DEF].
+
+While this is on Zarak > He can't take more than 3 attack damage from a single attack.</property>
+		</card>
+		<card id="c8fb872e-92b4-431d-b40f-21d58d6edc72" name="Bumblebee, Optimistic Brawler" size="standard">
+			<property name="Card Number" value="T05" />
+			<property name="Rarity" value="Uncommon" />
+			<property name="Group" value="Allied Crossplay" />
+			<property name="Type" value="Character - Alt Mode" />
+			<property name="ATK" value="3" />
+			<property name="DEF" value="2" />
+			<property name="HP" value="9" />
+			<property name="Stars" value="5" />
+			<property name="Faction" value="Autobot" />
+			<property name="Traits" value="Leader, Car, Melee" />
+			<property name="Text">When you flip to this mode > Draw a card. If you have another [Autobot] on the battlefield, draw another card.</property>
+			<alternate type="Bot" name="Bumblebee, Optimistic Brawler" size="standard">
+				<property name="Type" value="Character - Bot Mode" />
+				<property name="ATK" value="4" />
+				<property name="DEF" value="2" />
+				<property name="HP" value="9" />
+				<property name="Faction" value="Autobot" />
+				<property name="Traits" value="Leader, Ranged" />
+				<property name="Text">When you flip to this mode > Each of your [Autobots] gets [Bold 1] until end of turn.</property>
+			</alternate>
+		</card>
+		<card id="6d7e127b-83ea-45b4-bb8a-8c17b14a2e0f" name="Brothers In Armor" size="small">
+			<property name="Card Number" value="S05" />
+			<property name="Rarity" value="Common" />
+			<property name="Group" value="Allied Crossplay" />
+			<property name="Type" value="Stratagem" />
+			<property name="ATK" value="" />
+			<property name="DEF" value="" />
+			<property name="HP" value="" />
+			<property name="Stars" value="1" />
+			<property name="Faction" value="Autobot" />
+			<property name="Traits" value="" />
+			<property name="Stratagem Target" value="Sergeant Crosshairs, Artillery • Weapons Supervisor" />
+			<property name="Text">Your Sergeant Crosshairs, Artillery • Weapons Supervisor has +3[HP].
+
+Once per game, at the start of your turn > You may put a [Battle Master] upgrade from your KO area on to your Sergeant Crosshairs, Artillery • Weapons Supervisor. If you do, flip this.</property>
+			<alternate type="back" name="Brothers In Armor" size="small">
+			</alternate>
+		</card>
+		<card id="fa2e28df-27bb-4262-9707-39f82daaa494" name="Cyclonus, Loyal Enforcer" size="standard">
+			<property name="Card Number" value="T06" />
+			<property name="Rarity" value="Rare" />
+			<property name="Group" value="Allied Crossplay" />
+			<property name="Type" value="Character - Alt Mode" />
+			<property name="ATK" value="4" />
+			<property name="DEF" value="2" />
+			<property name="HP" value="13" />
+			<property name="Stars" value="8" />
+			<property name="Faction" value="Decepticon" />
+			<property name="Traits" value="Plane, Spaceship, Ranged" />
+			<property name="Text">When you flip to this mode > You may scrap a [W] from your hand. If you do, move 2 damage from this to an enemy.</property>
+			<alternate type="Bot" name="Cyclonus, Loyal Enforcer" size="standard">
+				<property name="Type" value="Character - Bot Mode" />
+				<property name="ATK" value="5" />
+				<property name="DEF" value="2" />
+				<property name="HP" value="13" />
+				<property name="Faction" value="Decepticon" />
+				<property name="Traits" value="Ranged" />
+				<property name="Text">If one of your [Leaders] that has 10[STARS] or more would take attack damage > You may have this take that damage instead.</property>
+			</alternate>
+		</card>
+		<card id="923d6dc5-95e8-4527-9b1b-1b350fb3db49" name="Bust Some Deceptichops!" size="small">
+			<property name="Card Number" value="S06" />
+			<property name="Rarity" value="Uncommon" />
+			<property name="Group" value="Allied Crossplay" />
+			<property name="Type" value="Stratagem" />
+			<property name="ATK" value="" />
+			<property name="DEF" value="" />
+			<property name="HP" value="" />
+			<property name="Stars" value="1" />
+			<property name="Faction" value="Autobot" />
+			<property name="Traits" value="" />
+			<property name="Stratagem Target" value="Ironhide, Veteran Autobot" />
+			<property name="Text">Your Ironhide, Veteran Autobot has +4[HEALTH].
+
+When your Ironhide, Veteran Autobot battle a [Decepticon] > Ironhide gets [Bold 2] and [Tough 2] until the end of battle.</property>
+			<alternate type="back" name="Bust Some Deceptichops!" size="small">
+			</alternate>
+		</card>
+		<card id="fc846861-a6e4-4cf3-85e5-a2a70f22f55f" name="Dropshot, Relentless Soldier" size="small">
+			<property name="Card Number" value="T07" />
+			<property name="Rarity" value="Common" />
+			<property name="Group" value="Allied Crossplay" />
+			<property name="Type" value="Character - Alt Mode" />
+			<property name="ATK" value="3" />
+			<property name="DEF" value="1" />
+			<property name="HP" value="7" />
+			<property name="Stars" value="5" />
+			<property name="Faction" value="Decepticon" />
+			<property name="Traits" value="Military Patrol, Truck, Melee" />
+			<property name="Text">This has [Stealth] while untapped.</property>
+			<alternate type="Bot" name="Dropshot, Relentless Soldier" size="small">
+				<property name="Type" value="Character - Bot Mode" />
+				<property name="ATK" value="3" />
+				<property name="DEF" value="1" />
+				<property name="HP" value="7" />
+				<property name="Faction" value="Decepticon" />
+				<property name="Traits" value="Military Patrol, Melee" />
+				<property name="Text">[TAP], Scrap an [O] card from your hand > One of your characters gets +4[ATK] until end of turn. At the end of turn, do 3 damage to that character.</property>
+			</alternate>
+		</card>
+		<card id="d4eec130-2f20-4425-b7c7-82e4a5dd3c75" name="Can't Squish This" size="small">
+			<property name="Card Number" value="S07" />
+			<property name="Rarity" value="Uncommon" />
+			<property name="Group" value="Allied Crossplay" />
+			<property name="Type" value="Stratagem" />
+			<property name="ATK" value="" />
+			<property name="DEF" value="" />
+			<property name="HP" value="" />
+			<property name="Stars" value="1" />
+			<property name="Faction" value="Decepticon" />
+			<property name="Traits" value="" />
+			<property name="Stratagem Target" value="Bombshell, Decepticon Psy Ops" />
+			<property name="Text">While your Bombshell, Decepticon Psy Ops is defending against an attacker that has [Pierce] > Reduce the attacker's [Pierce] total based on the number of cards in your hand.
+• 1-4 > Reduce the attackers' [Pierce] total by 2.
+• 5-7 > Reduce the attackers' [Pierce] total by 3.
+• 8+ > Reduce the attackers' [Pierce] total by 4.</property>
+			<alternate type="back" name="Can't Squish This" size="small">
+			</alternate>
+		</card>
+		<card id="4324020f-367f-4d9a-9855-fe4902bf1f46" name="Do It With Style!" size="small">
+			<property name="Card Number" value="S08" />
+			<property name="Rarity" value="Common" />
+			<property name="Group" value="Allied Crossplay" />
+			<property name="Type" value="Stratagem" />
+			<property name="ATK" value="" />
+			<property name="DEF" value="" />
+			<property name="HP" value="" />
+			<property name="Stars" value="1" />
+			<property name="Faction" value="Autobot" />
+			<property name="Traits" value="" />
+			<property name="Stratagem Target" value="Autobot Jazz, Spec Ops" />
+			<property name="Text">Replace the text &quot;an enemy that doesn't have [Pierce]&quot; on your Autobot Jazz, Special Ops with &quot;an enemy that has 8 [STARS] or fewer.&quot;</property>
+			<alternate type="back" name="Do It With Style!" size="small">
+			</alternate>
+		</card>
+		<card id="c78d1062-7705-4d1d-ab14-0c2256923e09" name="Galvatron, Maniacal Tyrant" size="standard">
+			<property name="Card Number" value="T08" />
+			<property name="Rarity" value="Super Rare" />
+			<property name="Group" value="Allied Crossplay" />
+			<property name="Type" value="Character - Alt Mode" />
+			<property name="ATK" value="5" />
+			<property name="DEF" value="3" />
+			<property name="HP" value="17" />
+			<property name="Stars" value="12" />
+			<property name="Faction" value="Decepticon" />
+			<property name="Traits" value="Leader, Tank, Ranged" />
+			<property name="Text">When you flip to this mode > You may scrap an enemy Upgrade.</property>
+			<alternate type="Bot" name="Galvatron, Maniacal Tyrant" size="standard">
+				<property name="Type" value="Character - Bot Mode" />
+				<property name="ATK" value="7" />
+				<property name="DEF" value="1" />
+				<property name="HP" value="17" />
+				<property name="Faction" value="Decepticon" />
+				<property name="Traits" value="Leader, Ranged" />
+				<property name="Text">When this attacks, if his Upgrades include at least [W][B][G] and you flip at least [W][O][K] > Do 4 damage to an enemy.</property>
+			</alternate>
+		</card>
+		<card id="3781809f-0720-4a88-a41c-63b5ee1203f5" name="Drop Your Weapons" size="small">
+			<property name="Card Number" value="S09" />
+			<property name="Rarity" value="Uncommon" />
+			<property name="Group" value="Allied Crossplay" />
+			<property name="Type" value="Stratagem" />
+			<property name="ATK" value="" />
+			<property name="DEF" value="" />
+			<property name="HP" value="" />
+			<property name="Stars" value="1" />
+			<property name="Faction" value="Autobot" />
+			<property name="Traits" value="" />
+			<property name="Stratagem Target" value="Bluestreak, Reluctant Soldier" />
+			<property name="Text">Your Bluestreak, Reluctant Soldier has +3[HEALTH].
+
+When your Bluestreak, Reluctant Soldier defends in bot mode and you flip at least [W][O][B] > The attacker's base [ATK] becomes 0 during this battle.</property>
+			<alternate type="back" name="Drop Your Weapons" size="small">
+			</alternate>
+		</card>
+		<card id="c1305d64-15a5-4657-be23-1de11a9b3308" name="Ghost of Starscream, Annoying Apparition" size="standard">
+			<property name="Card Number" value="T09" />
+			<property name="Rarity" value="Super Rare" />
+			<property name="Group" value="Allied Crossplay" />
+			<property name="Type" value="Character - Alt Mode" />
+			<property name="ATK" value="5" />
+			<property name="DEF" value="0" />
+			<property name="HP" value="13" />
+			<property name="Stars" value="7" />
+			<property name="Faction" value="Decepticon" />
+			<property name="Traits" value="Plane, Ranged" />
+			<property name="Text">Before the game begins > KO this.
+
+When your Starscream is KO'd, if this is in your KO are > Return this to the battlefield fully repaird, even if you have no other characters. Put all Upgrades from the KO'd Starscream onto this instead of scrapping them.</property>
+			<alternate type="Bot" name="Ghost of Starscream, Annoying Apparition" size="standard">
+				<property name="Type" value="Character - Bot Mode" />
+				<property name="ATK" value="6" />
+				<property name="DEF" value="0" />
+				<property name="HP" value="13" />
+				<property name="Faction" value="Decepticon" />
+				<property name="Traits" value="Melee" />
+				<property name="Text">When this attacks > You may tap an enemy.</property>
+			</alternate>
+		</card>
+		<card id="0bd4f8fb-f412-4907-ae8f-d56fe619b032" name="Gnaw, Voracious Hunter" size="standard">
+			<property name="Card Number" value="T10" />
+			<property name="Rarity" value="Uncommon" />
+			<property name="Group" value="Allied Crossplay" />
+			<property name="Type" value="Character - Alt Mode" />
+			<property name="ATK" value="3" />
+			<property name="DEF" value="2" />
+			<property name="HP" value="10" />
+			<property name="Stars" value="5" />
+			<property name="Faction" value="Mercenary" />
+			<property name="Traits" value="Sharkticon, Beast, Melee" />
+			<property name="Text">When you flip to this mode > Return a [Mercenary] card from your scrap pile to your hand.</property>
+			<alternate type="Bot" name="Gnaw, Voracious Hunter" size="standard">
+				<property name="Type" value="Character - Bot Mode" />
+				<property name="ATK" value="3" />
+				<property name="DEF" value="1" />
+				<property name="HP" value="10" />
+				<property name="Faction" value="Mercenary" />
+				<property name="Traits" value="Sharkticon, Melee" />
+				<property name="Text">When you flip to this mode > One of your [Sharkticons] has [Bold 2] until end of turn.</property>
+			</alternate>
+		</card>
+		<card id="9097501f-c160-4252-833b-f8557fc55e0f" name="Heat Resistant Body" size="small">
+			<property name="Card Number" value="S10" />
+			<property name="Rarity" value="Common" />
+			<property name="Group" value="Allied Crossplay" />
+			<property name="Type" value="Stratagem" />
+			<property name="ATK" value="" />
+			<property name="DEF" value="" />
+			<property name="HP" value="" />
+			<property name="Stars" value="1" />
+			<property name="Faction" value="Autobot" />
+			<property name="Traits" value="" />
+			<property name="Stratagem Target" value="Inferno, Fearless Firefighter" />
+			<property name="Text">Your Inferno, Fearless Firefighter has +5[HP].
+
+When you flip your Inferno, Fearless Firefighter to bot mode > Repair 1 damage from one of your [Autobots].</property>
+			<alternate type="back" name="Heat Resistant Body" size="small">
+			</alternate>
+		</card>
+		<card id="40bab8f8-5f91-4057-b63c-ba53daa043fb" name="Grimlock, Dinobot King" size="standard">
+			<property name="Card Number" value="T11" />
+			<property name="Rarity" value="Super Rare" />
+			<property name="Group" value="Allied Crossplay" />
+			<property name="Type" value="Character - Alt Mode" />
+			<property name="ATK" value="5" />
+			<property name="DEF" value="2" />
+			<property name="HP" value="18" />
+			<property name="Stars" value="14" />
+			<property name="Faction" value="Autobot" />
+			<property name="Traits" value="Leader, Dinobot, Melee" />
+			<property name="Text">When this attacks and you flip at least [O][K][B] > Do 1 damage to EACH character, then do 1 damage to EACH Decepticon.</property>
+			<alternate type="Bot" name="Grimlock, Dinobot King" size="standard">
+				<property name="Type" value="Character - Bot Mode" />
+				<property name="ATK" value="7" />
+				<property name="DEF" value="1" />
+				<property name="HP" value="18" />
+				<property name="Faction" value="Autobot" />
+				<property name="Traits" value="Leader, Dinobot, Melee" />
+				<property name="Text">[Bold 3]</property>
+			</alternate>
+		</card>
+		<card id="b917d529-0de3-4944-a197-1a8b3450a192" name="I Don't Break Rules, I Just Bend Them - A Lot." size="small">
+			<property name="Card Number" value="S11" />
+			<property name="Rarity" value="Rare" />
+			<property name="Group" value="Allied Crossplay" />
+			<property name="Type" value="Stratagem" />
+			<property name="ATK" value="" />
+			<property name="DEF" value="" />
+			<property name="HP" value="" />
+			<property name="Stars" value="1" />
+			<property name="Faction" value="Autobot" />
+			<property name="Traits" value="" />
+			<property name="Stratagem Target" value="Sideswipe, Reckless Warrior" />
+			<property name="Text">Once per game, when you Sideswipe, Reckless Warrior is on the battlefield and you flip him to another mode > You may play up to two Upgrades from your KO area. If you play a card this way, flip this.</property>
+			<alternate type="back" name="I Don't Break Rules, I Just Bend Them - A Lot." size="small">
+			</alternate>
+		</card>
+		<card id="ab840271-7ffa-4b3c-a608-cb81532b1d1a" name="Growl, Intimidating Thug" size="small">
+			<property name="Card Number" value="T12" />
+			<property name="Rarity" value="Common" />
+			<property name="Group" value="Allied Crossplay" />
+			<property name="Type" value="Character - Alt Mode" />
+			<property name="ATK" value="3" />
+			<property name="DEF" value="1" />
+			<property name="HP" value="7" />
+			<property name="Stars" value="4" />
+			<property name="Faction" value="Decepticon" />
+			<property name="Traits" value="Military Patrol, Truck, Melee" />
+			<property name="Text">This has [Stealth] while untapped.</property>
+			<alternate type="Bot" name="Growl, Intimidating Thug" size="small">
+				<property name="Type" value="Character - Bot Mode" />
+				<property name="ATK" value="3" />
+				<property name="DEF" value="0" />
+				<property name="HP" value="7" />
+				<property name="Faction" value="Decepticon" />
+				<property name="Traits" value="Military Patrol, Melee" />
+				<property name="Text">[TAP], Scrap an [O] card from your hand > One of your characters gets [Bold 3] until end of turn.</property>
+			</alternate>
+		</card>
+		<card id="e20f2b1f-8c9c-4752-9f0d-003066c6d101" name="Made of Sterner Stuff" size="small">
+			<property name="Card Number" value="S12" />
+			<property name="Rarity" value="Rare" />
+			<property name="Group" value="Allied Crossplay" />
+			<property name="Type" value="Stratagem" />
+			<property name="ATK" value="" />
+			<property name="DEF" value="" />
+			<property name="HP" value="" />
+			<property name="Stars" value="1" />
+			<property name="Faction" value="Autobot" />
+			<property name="Traits" value="" />
+			<property name="Stratagem Target" value="Optimus Prime, Battlefield Legend" />
+			<property name="Text">Your Optimus Prime, Battlefield Legend has +3[HEALTH].</property>
+			<alternate type="back" name="Made of Sterner Stuff" size="small">
+			</alternate>
+		</card>
+		<card id="49bb5841-e33b-40bf-8f3a-281c0ac103fb" name="Mayhem" size="small">
+			<property name="Card Number" value="S13" />
+			<property name="Rarity" value="Common" />
+			<property name="Group" value="Allied Crossplay" />
+			<property name="Type" value="Stratagem" />
+			<property name="ATK" value="" />
+			<property name="DEF" value="" />
+			<property name="HP" value="" />
+			<property name="Stars" value="1" />
+			<property name="Faction" value="Decepticon" />
+			<property name="Traits" value="" />
+			<property name="Stratagem Target" value="Ruckus, Combat Assault" />
+			<property name="Text">Your Ruckus, Combat Assault has +2[HEALTH].
+
+When your Ruckus, Combat Assault is on the battlefield and you flip him to another mode > Repair 1 damage from each of your [Cars]. One of your [Cars] gets [Bold 1] until end of turn.</property>
+			<alternate type="back" name="Mayhem" size="small">
+			</alternate>
+		</card>
+		<card id="522aaa16-ab44-4b7e-a12f-6a090c3150d0" name="Huffer, Sullen Engineer" size="standard">
+			<property name="Card Number" value="T13" />
+			<property name="Rarity" value="Common" />
+			<property name="Group" value="Allied Crossplay" />
+			<property name="Type" value="Character - Alt Mode" />
+			<property name="ATK" value="3" />
+			<property name="DEF" value="3" />
+			<property name="HP" value="10" />
+			<property name="Stars" value="6" />
+			<property name="Faction" value="Autobot" />
+			<property name="Traits" value="Truck, Specialist" />
+			<property name="Text">When you flip to this mode > You may scrap a card from your hand. If you do, return a Utility from your scrap pile to hand.</property>
+			<alternate type="Bot" name="Huffer, Sullen Engineer" size="standard">
+				<property name="Type" value="Character - Bot Mode" />
+				<property name="ATK" value="3" />
+				<property name="DEF" value="2" />
+				<property name="HP" value="10" />
+				<property name="Faction" value="Autobot" />
+				<property name="Traits" value="Specialist" />
+				<property name="Text">When you flip to this mode > You may scrap a card from your hand. If you do, you may play an Upgrade.</property>
+			</alternate>
+		</card>
+		<card id="554b59a9-d511-423a-88f2-3cb45ba7c605" name="Jazz, Outta Sight, Dynamite Lieutenant" size="standard">
+			<property name="Card Number" value="T14" />
+			<property name="Rarity" value="Rare" />
+			<property name="Group" value="Allied Crossplay" />
+			<property name="Type" value="Character - Alt Mode" />
+			<property name="ATK" value="4" />
+			<property name="DEF" value="2" />
+			<property name="HP" value="13" />
+			<property name="Stars" value="9" />
+			<property name="Faction" value="Autobot" />
+			<property name="Traits" value="Leader, Car" />
+			<property name="Text">[Stealth]
+When you flip to this mode > Your opponent scraps a card at random from their hand. You may return a card that shares a card type with the scrapped card from your scrap pile to your hand.</property>
+			<alternate type="Bot" name="Jazz, Outta Sight, Dynamite Lieutenant" size="standard">
+				<property name="Type" value="Character - Bot Mode" />
+				<property name="ATK" value="5" />
+				<property name="DEF" value="1" />
+				<property name="HP" value="13" />
+				<property name="Faction" value="Autobot" />
+				<property name="Traits" value="Leader, Ranged" />
+				<property name="Text">Each of your [Autobots] has [Pierce 2].
+
+When you flip to this mode > Look at your opponent's hand.</property>
+			</alternate>
+		</card>
+		<card id="cfe3f518-2881-4d1d-8b9d-4fa31fac836d" name="Paranoia" size="small">
+			<property name="Card Number" value="S14" />
+			<property name="Rarity" value="Uncommon" />
+			<property name="Group" value="Allied Crossplay" />
+			<property name="Type" value="Stratagem" />
+			<property name="ATK" value="" />
+			<property name="DEF" value="" />
+			<property name="HP" value="" />
+			<property name="Stars" value="1" />
+			<property name="Faction" value="Autobot" />
+			<property name="Traits" value="" />
+			<property name="Stratagem Target" value="Red Alert, Security Chief" />
+			<property name="Text">Your Red Alert, Security Chief has &quot;When you flip to this mode > You may scrap a scard from your hand. If you do, repair 1 damage from each of your characters.&quot;</property>
+			<alternate type="back" name="Paranoia" size="small">
+			</alternate>
+		</card>
+		<card id="822b8187-47f2-4f47-90cb-9b1e035547d3" name="Predacon Fortitude" size="small">
+			<property name="Card Number" value="S15" />
+			<property name="Rarity" value="Rare" />
+			<property name="Group" value="Allied Crossplay" />
+			<property name="Type" value="Stratagem" />
+			<property name="ATK" value="" />
+			<property name="DEF" value="" />
+			<property name="HP" value="" />
+			<property name="Stars" value="1" />
+			<property name="Faction" value="Decepticon" />
+			<property name="Traits" value="" />
+			<property name="Stratagem Target" value="Sky-Byte, Harbinger of Doom" />
+			<property name="Text">For each card under your Sky-Byte, Harbinger of Doom > He has +1[HEALTH] and +1[DEF] up to +3[HEALTH] and +3[DEF].</property>
+			<alternate type="back" name="Predacon Fortitude" size="small">
+			</alternate>
+		</card>
+		<card id="7f3ae89d-dba0-4c40-90aa-47d43d06b862" name="Lord Zarak, Ruler of Nebulon" size="standard">
+			<property name="Card Number" value="T15" />
+			<property name="Rarity" value="Uncommon" />
+			<property name="Group" value="Allied Crossplay" />
+			<property name="Type" value="Character - Head Mode" />
+			<property name="ATK" value="" />
+			<property name="DEF" value="" />
+			<property name="HP" value="" />
+			<property name="Stars" value="6" />
+			<property name="Faction" value="Decepticon" />
+			<property name="Traits" value="" />
+			<property name="Text">[Head] + [Focus 1], [Tough 1]
+
+This begins on Scorponok, Brutal Warlord in head mode. This can't flip.
+
+When Scorponok is KO'd > Deploy this to the battlefield in body mode, even if Scorponok was your last character.</property>
+			<alternate type="Bot" name="Lord Zarak, Ruler of Nebulon" size="standard">
+				<property name="Type" value="Character - Bot Mode" />
+				<property name="ATK" value="6" />
+				<property name="DEF" value="1" />
+				<property name="HP" value="10" />
+				<property name="Faction" value="Decepticon" />
+				<property name="Traits" value="Leader, Melee" />
+				<property name="Text">[Focus 2]
+
+Tough 2
+
+When you deploy this from under Scorponok > You may put a Zarak's Shield from Scorponok onto this.</property>
+			</alternate>
+		</card>
+		<card id="17f47513-1345-434d-94af-2fcd98d35715" name="Megatron, Autobot Bane" size="standard">
+			<property name="Card Number" value="T16" />
+			<property name="Rarity" value="Uncommon" />
+			<property name="Group" value="Allied Crossplay" />
+			<property name="Type" value="Character - Bot Mode" />
+			<property name="ATK" value="4" />
+			<property name="DEF" value="1" />
+			<property name="HP" value="11" />
+			<property name="Stars" value="8" />
+			<property name="Faction" value="Decepticon" />
+			<property name="Traits" value="Leader, Weaponizer, Ranged" />
+			<property name="Text">When this is KO'd by the effect of Peace Through Tyranny > Do 2 damage to an enemy [Autobot].</property>
+			<alternate type="Upgrade" name="P38 Fusion Blaster" size="standard">
+				<property name="Type" value="Character - Upgrade Mode" />
+				<property name="ATK" value="3" />
+				<property name="DEF" value="" />
+				<property name="HP" value="" />
+				<property name="Faction" value="Decepticon" />
+				<property name="Traits" value="Weaponizer" />
+				<property name="Text">[Bold 1]
+
+If another Weapon would be put into the same Upgrade slot as this > Scrap that weapon instead.
+
+If this would leave the battlefield while upgrading a [Decepticon] [Leader] that has 10 [STARS] or more > Instead deploy this to the battlefield in bot mode tapped with 6 damage counters on him.</property>
+			</alternate>
+		</card>
+		<card id="94b106bd-0ae7-4971-9368-4b0ff3262a85" name="Quest for Fire" size="small">
+			<property name="Card Number" value="S16" />
+			<property name="Rarity" value="Uncommon" />
+			<property name="Group" value="Allied Crossplay" />
+			<property name="Type" value="Stratagem" />
+			<property name="ATK" value="" />
+			<property name="DEF" value="" />
+			<property name="HP" value="" />
+			<property name="Stars" value="1" />
+			<property name="Faction" value="Decepticon" />
+			<property name="Traits" value="" />
+			<property name="Stratagem Target" value="Firecons" />
+			<property name="Text">Your [Firecons] have +2[HEALTH].
+
+Before the game begins > You may reveal a Firecon Flame from your deck and put it into your hand.</property>
+			<alternate type="back" name="Quest for Fire" size="small">
+			</alternate>
+		</card>
+		<card id="934d8fc5-9f59-4a8a-9e73-26fdac47cffd" name="Scout the Area" size="small">
+			<property name="Card Number" value="S17" />
+			<property name="Rarity" value="Common" />
+			<property name="Group" value="Allied Crossplay" />
+			<property name="Type" value="Stratagem" />
+			<property name="ATK" value="" />
+			<property name="DEF" value="" />
+			<property name="HP" value="" />
+			<property name="Stars" value="1" />
+			<property name="Faction" value="Decepticon" />
+			<property name="Traits" value="" />
+			<property name="Stratagem Target" value="Trypticon, Assault Base" />
+			<property name="Text">Your deck can have up to 2 extra [STARS] of [W] cards.
+
+Once per game, at the start of your turn > You may deploy a character from under Trypticon, Assault Base to the battlefield. If you do, flip this.</property>
+			<alternate type="back" name="Scout the Area" size="small">
+			</alternate>
+		</card>
+		<card id="6f8e6ca7-2354-436c-91d4-845b90d0af0a" name="Onslaught, Combaticon Leader" size="folded">
+			<property name="Card Number" value="T17" />
+			<property name="Rarity" value="Common" />
+			<property name="Group" value="Allied Crossplay" />
+			<property name="Type" value="Character - Alt Mode" />
+			<property name="ATK" value="4" />
+			<property name="DEF" value="1" />
+			<property name="HP" value="9" />
+			<property name="Stars" value="5" />
+			<property name="Faction" value="Mercenary" />
+			<property name="Traits" value="Leader, Combaticon, Truck" />
+			<property name="Text">Each of your other [Combaticons] has [Bold 1] and [Tough 1].</property>
+			<alternate type="Bot" name="Onslaught, Combaticon Leader" size="folded">
+				<property name="Type" value="Character - Bot Mode" />
+				<property name="ATK" value="3" />
+				<property name="DEF" value="2" />
+				<property name="HP" value="9" />
+				<property name="Faction" value="Mercenary" />
+				<property name="Traits" value="Leader, Combaticon, Ranged" />
+				<property name="Text">When you flip to this mode > Draw a card.
+
+When one of your [Combaticons] attacks > [Plan 1].</property>
+			</alternate>
+		</card>
+		<card id="dbac9922-7ab8-4a0f-856c-a724e4d0c518" name="Starscream's Brigade" size="small">
+			<property name="Card Number" value="S18" />
+			<property name="Rarity" value="Common" />
+			<property name="Group" value="Allied Crossplay" />
+			<property name="Type" value="Stratagem" />
+			<property name="ATK" value="" />
+			<property name="DEF" value="" />
+			<property name="HP" value="" />
+			<property name="Stars" value="1" />
+			<property name="Faction" value="Decepticon" />
+			<property name="Traits" value="" />
+			<property name="Stratagem Target" value="Starscream, Scheming Second-in-Command" />
+			<property name="Text">If your starting team has Onslaught and at least one other [Combaticon], your Starscream, Scheming Second-in-Command has &quot;[TAP], Discard a [K] Action from your hand > Choose a [Combaticon] you own from the outside the game that you do not already have on the battlefield or in the KO area and deploy it to the battlefield in alt mode with 2 damage on it.&quot;</property>
+			<alternate type="back" name="Starscream's Brigade" size="small">
+			</alternate>
+		</card>
+		<card id="a9cb4909-a641-4e67-b85b-4286902d9f6c" name="Ratbat, Calculating Scout" size="small">
+			<property name="Card Number" value="T18" />
+			<property name="Rarity" value="Common" />
+			<property name="Group" value="Allied Crossplay" />
+			<property name="Type" value="Character - Alt Mode" />
+			<property name="ATK" value="0" />
+			<property name="DEF" value="1" />
+			<property name="HP" value="9" />
+			<property name="Stars" value="5" />
+			<property name="Faction" value="Decepticon" />
+			<property name="Traits" value="Mini-Cassette" />
+			<property name="Text">[Stealth]
+
+[TAP], Scrap a [W] from your hand > Each player chooses two cards from their hand and scraps the rest. Each player with fewer than 2 cards in hand draws cards equal to the difference.</property>
+			<alternate type="Bot" name="Ratbat, Calculating Scout" size="small">
+				<property name="Type" value="Character - Bot Mode" />
+				<property name="ATK" value="3" />
+				<property name="DEF" value="1" />
+				<property name="HP" value="9" />
+				<property name="Faction" value="Decepticon" />
+				<property name="Traits" value="Mini-Cassette, Specialist" />
+				<property name="Text">Once per turn, if your opponent would draw a card, except for the first card they draw at the start of their turn > You draw a card instead.</property>
+			</alternate>
+		</card>
+		<card id="f8037172-10ad-4678-a617-e27b4cfbfa8b" name="Ratchet, Chief Medical Officer" size="standard">
+			<property name="Card Number" value="T19" />
+			<property name="Rarity" value="Rare" />
+			<property name="Group" value="Allied Crossplay" />
+			<property name="Type" value="Character - Alt Mode" />
+			<property name="ATK" value="4" />
+			<property name="DEF" value="2" />
+			<property name="HP" value="14" />
+			<property name="Stars" value="9" />
+			<property name="Faction" value="Autobot" />
+			<property name="Traits" value="Truck, Specialist" />
+			<property name="Text">When you flip to this mode > Repair 2 damage from one of your characters.</property>
+			<alternate type="Bot" name="Ratchet, Chief Medical Officer" size="standard">
+				<property name="Type" value="Character - Bot Mode" />
+				<property name="ATK" value="5" />
+				<property name="DEF" value="1" />
+				<property name="HP" value="14" />
+				<property name="Faction" value="Autobot" />
+				<property name="Traits" value="Specialist" />
+				<property name="Text">While this is your only character on the battlefield > He has [Bold 2] and [Tough 2].</property>
+			</alternate>
+		</card>
+		<card id="b23d393a-e8a0-40f5-b479-814b0215bc01" name="Such Heroic Nonsense [Ark Version]" size="small">
+			<property name="Card Number" value="S19" />
+			<property name="Rarity" value="Common" />
+			<property name="Group" value="Allied Crossplay" />
+			<property name="Type" value="Stratagem" />
+			<property name="ATK" value="" />
+			<property name="DEF" value="" />
+			<property name="HP" value="" />
+			<property name="Stars" value="1" />
+			<property name="Faction" value="Decepticon" />
+			<property name="Traits" value="" />
+			<property name="Stratagem Target" value="Megatron, Decepticon Leader" />
+			<property name="Text">When your Megatron, Decepticon Leader is on the battlefield and you flip Hunker Down while battling > After the battle, you may swap a card from your hand for a Hunker Down you flipped this battle as though it had [G].</property>
+			<alternate type="back" name="Such Heroic Nonsense [Ark Version]" size="small">
+			</alternate>
+		</card>
+		<card id="8029d329-3e9e-4ccb-9bd8-3add54194500" name="Unstoppable" size="small">
+			<property name="Card Number" value="S20" />
+			<property name="Rarity" value="Rare" />
+			<property name="Group" value="Allied Crossplay" />
+			<property name="Type" value="Stratagem" />
+			<property name="ATK" value="" />
+			<property name="DEF" value="" />
+			<property name="HP" value="" />
+			<property name="Stars" value="1" />
+			<property name="Faction" value="Autobot" />
+			<property name="Traits" value="" />
+			<property name="Stratagem Target" value="Wreck-Gar, Junkion Leader" />
+			<property name="Text">At the start of your turn, if Wreck-Gar, Junkion Leader is in your KO area > You may put up to 4 Upgrades from your scrap pile into your KO area. If you do. return Wreck-Gar to the battlefield untapped and repair 2 damage from him for each Upgrade you put into the KO area this turn.</property>
+			<alternate type="back" name="Unstoppable" size="small">
+			</alternate>
+		</card>
+		<card id="dd537b38-e8fc-4cf9-91ec-b76442f6971d" name="Red Wing, Thrillseeker" size="standard">
+			<property name="Card Number" value="T20" />
+			<property name="Rarity" value="Common" />
+			<property name="Group" value="Allied Crossplay" />
+			<property name="Type" value="Character - Alt Mode" />
+			<property name="ATK" value="3" />
+			<property name="DEF" value="2" />
+			<property name="HP" value="9" />
+			<property name="Stars" value="6" />
+			<property name="Faction" value="Decepticon" />
+			<property name="Traits" value="Plane, Ranged" />
+			<property name="Text">[Tough 1]</property>
+			<alternate type="Bot" name="Red Wing, Thrillseeker" size="standard">
+				<property name="Type" value="Character - Bot Mode" />
+				<property name="ATK" value="5" />
+				<property name="DEF" value="1" />
+				<property name="HP" value="9" />
+				<property name="Faction" value="Decepticon" />
+				<property name="Traits" value="Ranged" />
+				<property name="Text">[Revenge] > Your opponent scraps 2 cards from their hand.</property>
+			</alternate>
+		</card>
+		<card id="5ce82e47-ea14-4038-af90-53a5f5aee2ff" name="Rewind, Data Collector" size="small">
+			<property name="Card Number" value="T21" />
+			<property name="Rarity" value="Common" />
+			<property name="Group" value="Allied Crossplay" />
+			<property name="Type" value="Character - Alt Mode" />
+			<property name="ATK" value="0" />
+			<property name="DEF" value="1" />
+			<property name="HP" value="9" />
+			<property name="Stars" value="5" />
+			<property name="Faction" value="Autobot" />
+			<property name="Traits" value="Mini-Cassette" />
+			<property name="Text">[Stealth]
+
+When you flip to this mode > Return a card at random from your scrap pile to hand.</property>
+			<alternate type="Bot" name="Rewind, Data Collector" size="small">
+				<property name="Type" value="Character - Bot Mode" />
+				<property name="ATK" value="3" />
+				<property name="DEF" value="1" />
+				<property name="HP" value="9" />
+				<property name="Faction" value="Autobot" />
+				<property name="Traits" value="Mini-Cassette, Specialist" />
+				<property name="Text">After you flip battle cards for this character's attack and before defense flips > You may play a [K] Utility you flipped.</property>
+			</alternate>
+		</card>
+		<card id="92a9923b-34f0-4fbc-93c4-a8894644786e" name="Rodimus Prime, Worthy Leader" size="standard">
+			<property name="Card Number" value="T22" />
+			<property name="Rarity" value="Rare" />
+			<property name="Group" value="Allied Crossplay" />
+			<property name="Type" value="Character - Alt Mode" />
+			<property name="ATK" value="5" />
+			<property name="DEF" value="3" />
+			<property name="HP" value="17" />
+			<property name="Stars" value="12" />
+			<property name="Faction" value="Autobot" />
+			<property name="Traits" value="Leader, Car, Truck" />
+			<property name="Text">When you flip to this mode > Return a Matrix of Leadership from your scrap pile to hand.</property>
+			<alternate type="Bot" name="Rodimus Prime, Worthy Leader" size="standard">
+				<property name="Type" value="Character - Bot Mode" />
+				<property name="ATK" value="6" />
+				<property name="DEF" value="2" />
+				<property name="HP" value="17" />
+				<property name="Faction" value="Autobot" />
+				<property name="Traits" value="Leader, Ranged" />
+				<property name="Text">When this is upgraded with Matrix of Leadership > He has +1[ATK] and [Pierce 2].</property>
+			</alternate>
+		</card>
+		<card id="5cbae9c9-95e8-4701-8dfd-d1566b25eb0b" name="Rumble, Demolition Expert" size="small">
+			<property name="Card Number" value="T23" />
+			<property name="Rarity" value="Common" />
+			<property name="Group" value="Allied Crossplay" />
+			<property name="Type" value="Character - Alt Mode" />
+			<property name="ATK" value="0" />
+			<property name="DEF" value="1" />
+			<property name="HP" value="9" />
+			<property name="Stars" value="5" />
+			<property name="Faction" value="Decepticon" />
+			<property name="Traits" value="Mini-Cassette" />
+			<property name="Text">[Stealth]
+
+When you flip to this mode > Your opponent chooses one of their Upgrades and scraps it.</property>
+			<alternate type="Bot" name="Rumble, Demolition Expert" size="small">
+				<property name="Type" value="Character - Bot Mode" />
+				<property name="ATK" value="3" />
+				<property name="DEF" value="1" />
+				<property name="HP" value="9" />
+				<property name="Faction" value="Decepticon" />
+				<property name="Traits" value="Mini-Cassette, Melee" />
+				<property name="Text">When this attacks, you may scrap a [B] card from your hand > If you do, this gets +3[ATK] until end of turn.</property>
+			</alternate>
+		</card>
+		<card id="f76b0b1a-480c-4094-b70f-87f09f03a0c3" name="Scorponok, Brutal Warlord" size="large">
+			<property name="Card Number" value="T24" />
+			<property name="Rarity" value="Super Rare" />
+			<property name="Group" value="Allied Crossplay" />
+			<property name="Type" value="Character - Alt Mode" />
+			<property name="ATK" value="8" />
+			<property name="DEF" value="2" />
+			<property name="HP" value="25" />
+			<property name="Stars" value="18" />
+			<property name="Faction" value="Decepticon" />
+			<property name="Traits" value="Titan, Leader, Beast, Melee" />
+			<property name="Text">Before the game begins > You may put an Electro Stinger of Scorponok from your deck onto this.
+
+When you flip to this mode > Draw a card.
+
+This begins with Lord Zarak, Ruler of Nebulon on him in head mode.</property>
+			<alternate type="Body" name="Scorponok, Brutal Warlord" size="large">
+				<property name="Type" value="Character - Body Mode" />
+				<property name="ATK" value="8" />
+				<property name="DEF" value="2" />
+				<property name="HP" value="25" />
+				<property name="Faction" value="Decepticon" />
+				<property name="Traits" value="Titan, Leader, Melee" />
+				<property name="Text">[Bold 1]
+
+When this attacks > You may play one of your flipped Upgrades onto this after the battle. If you don't play an Upgrade this way, flip this.</property>
+			</alternate>
+		</card>
+		<card id="f8c8a467-1d91-41b7-81df-916efb10f06d" name="Scourge, Opportunistic Tracker" size="standard">
+			<property name="Card Number" value="T25" />
+			<property name="Rarity" value="Rare" />
+			<property name="Group" value="Allied Crossplay" />
+			<property name="Type" value="Character - Alt Mode" />
+			<property name="ATK" value="3" />
+			<property name="DEF" value="3" />
+			<property name="HP" value="12" />
+			<property name="Stars" value="8" />
+			<property name="Faction" value="Decepticon" />
+			<property name="Traits" value="Spaceship, Ranged" />
+			<property name="Text">Your starting [STAR] limit increases by 1 for each [Sweep] on your starting team.
+
+Enemies can't use [Brave] or [Stealth] against this or your [Sweeps].</property>
+			<alternate type="Bot" name="Scourge, Opportunistic Tracker" size="standard">
+				<property name="Type" value="Character - Bot Mode" />
+				<property name="ATK" value="4" />
+				<property name="DEF" value="2" />
+				<property name="HP" value="12" />
+				<property name="Faction" value="Decepticon" />
+				<property name="Traits" value="Ranged" />
+				<property name="Text">When you flip to this mode > One of your [Sweeps] gets [Pierce 2] until end of turn.</property>
+			</alternate>
+		</card>
+		<card id="60e8baed-e23a-47ab-a655-00ee1d15ccd1" name="Seaspray, Valiant Vessel" size="standard">
+			<property name="Card Number" value="T26" />
+			<property name="Rarity" value="Common" />
+			<property name="Group" value="Allied Crossplay" />
+			<property name="Type" value="Character - Alt Mode" />
+			<property name="ATK" value="3" />
+			<property name="DEF" value="2" />
+			<property name="HP" value="11" />
+			<property name="Stars" value="6" />
+			<property name="Faction" value="Autobot" />
+			<property name="Traits" value="Boat, Specialist" />
+			<property name="Text">This has [Stealth] while untapped.</property>
+			<alternate type="Bot" name="Seaspray, Valiant Vessel" size="standard">
+				<property name="Type" value="Character - Bot Mode" />
+				<property name="ATK" value="4" />
+				<property name="DEF" value="1" />
+				<property name="HP" value="11" />
+				<property name="Faction" value="Autobot" />
+				<property name="Traits" value="Specialist" />
+				<property name="Text">When this battles an enemy in bot mode > This gets +1 [ATK] and +1 [DEF] until end of battle.</property>
+			</alternate>
+		</card>
+		<card id="7ca7fc8e-a695-4533-9138-dbed703cf081" name="Sharkticon, Feeding Frenzy" size="small">
+			<property name="Card Number" value="T27" />
+			<property name="Rarity" value="Common" />
+			<property name="Group" value="Allied Crossplay" />
+			<property name="Type" value="Character - Alt Mode" />
+			<property name="ATK" value="2" />
+			<property name="DEF" value="0" />
+			<property name="HP" value="7" />
+			<property name="Stars" value="4" />
+			<property name="Faction" value="Mercenary" />
+			<property name="Traits" value="Sharkticon, Beast, Melee" />
+			<property name="Text">[Horde 3]
+
+Revenge > Untap one of your tapped [Sharkticons]. If you don't, draw a card.</property>
+			<alternate type="Bot" name="Sharkticon, Feeding Frenzy" size="small">
+				<property name="Type" value="Character - Bot Mode" />
+				<property name="ATK" value="3" />
+				<property name="DEF" value="0" />
+				<property name="HP" value="7" />
+				<property name="Faction" value="Mercenary" />
+				<property name="Traits" value="Sharkticon, Melee" />
+				<property name="Text">[TAP], Scrap a [K] card from your hand > Draw a card. Then you may play a card.</property>
+			</alternate>
+		</card>
+		<card id="6cc7bcac-3764-40e5-9df7-bfba44528f6d" name="Sideswipe, Reckless Warrior" size="standard">
+			<property name="Card Number" value="T28" />
+			<property name="Rarity" value="Rare" />
+			<property name="Group" value="Allied Crossplay" />
+			<property name="Type" value="Character - Alt Mode" />
+			<property name="ATK" value="3" />
+			<property name="DEF" value="2" />
+			<property name="HP" value="13" />
+			<property name="Stars" value="7" />
+			<property name="Faction" value="Autobot" />
+			<property name="Traits" value="Car, Melee" />
+			<property name="Text">While this has a Weapon with two or more battle icons > This gets +2[ATK].</property>
+			<alternate type="Bot" name="Sideswipe, Reckless Warrior" size="standard">
+				<property name="Type" value="Character - Bot Mode" />
+				<property name="ATK" value="5" />
+				<property name="DEF" value="1" />
+				<property name="HP" value="13" />
+				<property name="Faction" value="Autobot" />
+				<property name="Traits" value="Ranged" />
+				<property name="Text">When this attacks > You may put a Weapon with +[ATK] in its stat box from your hand or scrap pile into your KO area. If you do, this gets that much +[ATK] until end of turn.</property>
+			</alternate>
+		</card>
+		<card id="42d75e9c-1355-4bbf-a240-7a9fb985cdd4" name="Sky-Byte, Harbinger of Doom" size="standard">
+			<property name="Card Number" value="T29" />
+			<property name="Rarity" value="Super Rare" />
+			<property name="Group" value="Allied Crossplay" />
+			<property name="Type" value="Character - Alt Mode" />
+			<property name="ATK" value="7" />
+			<property name="DEF" value="1" />
+			<property name="HP" value="15" />
+			<property name="Stars" value="11" />
+			<property name="Faction" value="Decepticon" />
+			<property name="Traits" value="Leader, Beast, Melee" />
+			<property name="Text">When this attacks > Put the top 3 cards of your deck face down under this.</property>
+			<alternate type="Bot" name="Sky-Byte, Harbinger of Doom" size="standard">
+				<property name="Type" value="Character - Bot Mode" />
+				<property name="ATK" value="6" />
+				<property name="DEF" value="0" />
+				<property name="HP" value="15" />
+				<property name="Faction" value="Decepticon" />
+				<property name="Traits" value="Leader, Ranged" />
+				<property name="Text">When you flip to this mode > Play a card from under this. Scrap that card at the end of turn.</property>
+			</alternate>
+		</card>
+		<card id="1fe4066d-2229-4426-bc5c-e1d9b2070fec" name="Specialist Countdown, Transport • Space Explorer" size="small">
+			<property name="Card Number" value="T30" />
+			<property name="Rarity" value="Common" />
+			<property name="Group" value="Allied Crossplay" />
+			<property name="Type" value="Character - Alt Mode" />
+			<property name="ATK" value="2" />
+			<property name="DEF" value="1" />
+			<property name="HP" value="6" />
+			<property name="Stars" value="4" />
+			<property name="Faction" value="Autobot" />
+			<property name="Traits" value="Tank, Specialist" />
+			<property name="Text">Your starting [STAR] limit is increased by 2 if Omega Supreme is on your starting team.
+
+This has [Stealth] while you have Omega Supreme on the battlefield.</property>
+			<alternate type="Bot" name="Specialist Countdown, Transport • Space Explorer" size="small">
+				<property name="Type" value="Character - Bot Mode" />
+				<property name="ATK" value="1" />
+				<property name="DEF" value="2" />
+				<property name="HP" value="6" />
+				<property name="Faction" value="Autobot" />
+				<property name="Traits" value="Specialist" />
+				<property name="Text">[TAP] Scrap a card from your hand > Draw 2 cards, then put a card from your hand on top of your deck. If you have a character in combiner mode, instead draw 3 cards, then put a card from your hand on top of your deck.</property>
+			</alternate>
+		</card>
+		<card id="a6807e1c-0837-46ff-ac9b-cfc62eb6e69c" name="Sunstreaker, Arrogant Daredevil" size="standard">
+			<property name="Card Number" value="T31" />
+			<property name="Rarity" value="Uncommon" />
+			<property name="Group" value="Allied Crossplay" />
+			<property name="Type" value="Character - Alt Mode" />
+			<property name="ATK" value="5" />
+			<property name="DEF" value="1" />
+			<property name="HP" value="12" />
+			<property name="Stars" value="8" />
+			<property name="Faction" value="Autobot" />
+			<property name="Traits" value="Car, Melee" />
+			<property name="Text">[Bold 1]
+
+When you flip to this mode > You may tap another of your untapped [Autobots] that has the same number of [STARS] or fewer than this. If you do, untap this.</property>
+			<alternate type="Bot" name="Sunstreaker, Arrogant Daredevil" size="standard">
+				<property name="Type" value="Character - Bot Mode" />
+				<property name="ATK" value="5" />
+				<property name="DEF" value="2" />
+				<property name="HP" value="12" />
+				<property name="Faction" value="Autobot" />
+				<property name="Traits" value="Ranged" />
+				<property name="Text">When you flip to this mode > You may scrap a card from your hand. If you do, return a Weapon from your scrap pile to hand.</property>
+			</alternate>
+		</card>
+		<card id="be096e94-2ba8-484c-b29c-64f4a3eb2e83" name="Sweep, Scourge's Armada" size="small">
+			<property name="Card Number" value="T32" />
+			<property name="Rarity" value="Uncommon" />
+			<property name="Group" value="Allied Crossplay" />
+			<property name="Type" value="Character - Alt Mode" />
+			<property name="ATK" value="2" />
+			<property name="DEF" value="2" />
+			<property name="HP" value="2" />
+			<property name="Stars" value="3" />
+			<property name="Faction" value="Decepticon" />
+			<property name="Traits" value="Sweep, Spaceship, Ranged" />
+			<property name="Text">[Horde 3]
+
+[Stealth]
+
+This can't take non-attack damage from your opponent's cards.</property>
+			<alternate type="Bot" name="Sweep, Scourge's Armada" size="small">
+				<property name="Type" value="Character - Bot Mode" />
+				<property name="ATK" value="3" />
+				<property name="DEF" value="2" />
+				<property name="HP" value="2" />
+				<property name="Faction" value="Decepticon" />
+				<property name="Traits" value="Sweep, Ranged" />
+				<property name="Text">When you flip to this mode > This can attack untapped enemies this turn as though they were tapped.</property>
+			</alternate>
+		</card>
+		<card id="7f8b4191-9c20-4da1-bb49-322cafc6c3a1" name="Swindle, Arms Dealer" size="folded">
+			<property name="Card Number" value="T33" />
+			<property name="Rarity" value="Common" />
+			<property name="Group" value="Allied Crossplay" />
+			<property name="Type" value="Character - Alt Mode" />
+			<property name="ATK" value="2" />
+			<property name="DEF" value="2" />
+			<property name="HP" value="8" />
+			<property name="Stars" value="5" />
+			<property name="Faction" value="Mercenary" />
+			<property name="Traits" value="Combaticon, Truck, Specialist" />
+			<property name="Text">When you flip to this mode > Return an upgrade from your scrap pile to your hand.</property>
+			<alternate type="Bot" name="Swindle, Arms Dealer" size="folded">
+				<property name="Type" value="Character - Bot Mode" />
+				<property name="ATK" value="2" />
+				<property name="DEF" value="2" />
+				<property name="HP" value="8" />
+				<property name="Faction" value="Mercenary" />
+				<property name="Traits" value="Combaticon, Specialist" />
+				<property name="Text">When this attacks an [Autobot] > You may play a weapon.
+
+When this defends against a [Decepticon] > You may play an armor.</property>
+			</alternate>
+		</card>
+		<card id="50f16ada-8405-472b-8f1c-a351e098204a" name="Tracer, Ambitious Scout" size="small">
+			<property name="Card Number" value="T34" />
+			<property name="Rarity" value="Common" />
+			<property name="Group" value="Allied Crossplay" />
+			<property name="Type" value="Character - Alt Mode" />
+			<property name="ATK" value="3" />
+			<property name="DEF" value="1" />
+			<property name="HP" value="7" />
+			<property name="Stars" value="4" />
+			<property name="Faction" value="Decepticon" />
+			<property name="Traits" value="Military Patrol, Helicopter, Specialist" />
+			<property name="Text">This has [Stealth] while untapped.</property>
+			<alternate type="Bot" name="Tracer, Ambitious Scout" size="small">
+				<property name="Type" value="Character - Bot Mode" />
+				<property name="ATK" value="3" />
+				<property name="DEF" value="0" />
+				<property name="HP" value="7" />
+				<property name="Faction" value="Decepticon" />
+				<property name="Traits" value="Military Patrol, Specialist" />
+				<property name="Text">[TAP], Scrap an [O] card from your hand > Scrap the top card of your deck. If it's an Upgrade, you may play it.</property>
+			</alternate>
+		</card>
+		<card id="858025cb-38c2-4451-9f06-c42c8e688864" name="Vortex, Interrogator" size="folded">
+			<property name="Card Number" value="T35" />
+			<property name="Rarity" value="Common" />
+			<property name="Group" value="Allied Crossplay" />
+			<property name="Type" value="Character - Alt Mode" />
+			<property name="ATK" value="2" />
+			<property name="DEF" value="1" />
+			<property name="HP" value="7" />
+			<property name="Stars" value="4" />
+			<property name="Faction" value="Mercenary" />
+			<property name="Traits" value="Combaticon, Helicopter, Ranged" />
+			<property name="Text">[Pierce 2]</property>
+			<alternate type="Bot" name="Vortex, Interrogator" size="folded">
+				<property name="Type" value="Character - Bot Mode" />
+				<property name="ATK" value="1" />
+				<property name="DEF" value="2" />
+				<property name="HP" value="7" />
+				<property name="Faction" value="Mercenary" />
+				<property name="Traits" value="Combaticon, Ranged" />
+				<property name="Text">When you flip to this mode > Your opponent scraps a card from their hand.</property>
+			</alternate>
+		</card>
+		<card id="89bd6e62-b89f-4f39-9474-791180ba5eab" name="Wheelie, Rhyming Racer" size="small">
+			<property name="Card Number" value="T36" />
+			<property name="Rarity" value="Common" />
+			<property name="Group" value="Allied Crossplay" />
+			<property name="Type" value="Character - Alt Mode" />
+			<property name="ATK" value="3" />
+			<property name="DEF" value="0" />
+			<property name="HP" value="7" />
+			<property name="Stars" value="4" />
+			<property name="Faction" value="Autobot" />
+			<property name="Traits" value="Car, Melee" />
+			<property name="Text">[Stealth] against [Decepticons] and [Mercenaries].</property>
+			<alternate type="Bot" name="Wheelie, Rhyming Racer" size="small">
+				<property name="Type" value="Character - Bot Mode" />
+				<property name="ATK" value="3" />
+				<property name="DEF" value="1" />
+				<property name="HP" value="7" />
+				<property name="Faction" value="Autobot" />
+				<property name="Traits" value="Melee" />
+				<property name="Text">[TAP], Scrap a card from your hand > Your opponent chooses one of their characters and does 1 damage to it. If the scrapped card has two or more battle icons, instead do 2 damage to an enemy.</property>
+			</alternate>
+		</card>
+		<card id="8ff26a17-2302-4ad9-aa68-b38346ec10ec" name="Windblade, Camien Champion" size="standard">
+			<property name="Card Number" value="T37" />
+			<property name="Rarity" value="Rare" />
+			<property name="Group" value="Allied Crossplay" />
+			<property name="Type" value="Character - Alt Mode" />
+			<property name="ATK" value="4" />
+			<property name="DEF" value="2" />
+			<property name="HP" value="15" />
+			<property name="Stars" value="10" />
+			<property name="Faction" value="Autobot" />
+			<property name="Traits" value="Leader, Plane, Ranged" />
+			<property name="Text">When you flip to this mode > Reveal the top 5 cards of your deck. Put 1 Action and 1 Upgrade from among them into your hand. Scrap the rest.</property>
+			<alternate type="Bot" name="Windblade, Camien Champion" size="standard">
+				<property name="Type" value="Character - Bot Mode" />
+				<property name="ATK" value="6" />
+				<property name="DEF" value="2" />
+				<property name="HP" value="15" />
+				<property name="Faction" value="Autobot" />
+				<property name="Traits" value="Leader, Melee" />
+				<property name="Text">If this would take attack damage and you flipped battle icons of at least four different colors this battle > Instead this takes half that damage, rounded up.</property>
+			</alternate>
+		</card>
+		<card id="dd751453-6ff5-4e16-9075-b57e32a3e43d" name="Wreck-Gar, Junkion Leader" size="standard">
+			<property name="Card Number" value="T38" />
+			<property name="Rarity" value="Rare" />
+			<property name="Group" value="Allied Crossplay" />
+			<property name="Type" value="Character - Alt Mode" />
+			<property name="ATK" value="3" />
+			<property name="DEF" value="2" />
+			<property name="HP" value="9" />
+			<property name="Stars" value="5" />
+			<property name="Faction" value="Autobot" />
+			<property name="Traits" value="Leader, Junkion, Motorcycle, Melee" />
+			<property name="Text">When this battles > You may scrap an Upgrade from this. If you do, choose one:
+• This gets +2[ATK] until end of turn.
+• This gets +2[DEF] until end of turn.
+• Repair 2 damage from this.</property>
+			<alternate type="Bot" name="Wreck-Gar, Junkion Leader" size="standard">
+				<property name="Type" value="Character - Bot Mode" />
+				<property name="ATK" value="4" />
+				<property name="DEF" value="1" />
+				<property name="HP" value="9" />
+				<property name="Faction" value="Autobot" />
+				<property name="Traits" value="Leader, Junkion, Melee" />
+				<property name="Text">When you flip to this mode > You may return an Upgrade from your scrap pile to your hand.</property>
+			</alternate>
+		</card>
+		<card id="7427621f-9900-40ef-a91e-e7a992185de5" name="Bruticus, Unstoppable Giant" size="CARK114">
+			<property name="Card Number" value="TC14" />
+			<property name="Rarity" value="Common" />
+			<property name="Group" value="Allied Crossplay" />
+			<property name="Type" value="Character - Combiner Mode" />
+			<property name="ATK" value="7" />
+			<property name="DEF" value="2" />
+			<property name="HP" value="39" />
+			<property name="Stars" value="24" />
+			<property name="Faction" value="Mercenary" />
+			<property name="Traits" value="Combaticon, Melee, Ranged" />
+			<property name="Text">[Bold 2], [Tough 2], [Pierce 2]
+When this attacks on the turn he's combined > For each battle card you flip that has at least [K], do 1 damage to an enemy.</property>
+		</card>
+	</cards>
+</set>

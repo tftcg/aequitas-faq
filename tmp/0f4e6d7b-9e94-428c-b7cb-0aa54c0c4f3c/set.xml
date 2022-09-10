@@ -1,0 +1,210 @@
+<set xmlns:noNamespaceSchemaLocation="CardSet.xsd" name="ATP-1" id="0f4e6d7b-9e94-428c-b7cb-0aa54c0c4f3c" gameId="9e5b4567-f7f7-4c16-99bd-45449217eb7b" gameVersion="0.0.0.1" version="0.0.0.1">
+	<cards>
+		<card id="ece9d083-8f2b-49f2-a96e-0bc43f01d7a2" name="Anti-Air Battery" size="small">
+			<property name="Card Number" value="S01" />
+			<property name="Rarity" value="Rare" />
+			<property name="Group" value="Alpha Trion Protocols" />
+			<property name="Type" value="Stratagem" />
+			<property name="ATK" value="" />
+			<property name="DEF" value="" />
+			<property name="HP" value="3" />
+			<property name="Stars" value="2" />
+			<property name="Faction" value="Decepticon" />
+			<property name="Traits" value="" />
+			<property name="Stratagem Target" value="Demolisher, Devoted Decepticon" />
+			<property name="Text">If your Demolisher, Devoted Decepticon would take non-attack damage from an opponent's card and is upgraded with an Armor > Instead he takes that much damage minus 1.</property>
+			<alternate type="back" name="Anti-Air Battery" size="small">
+			</alternate>
+		</card>
+		<card id="01942d3f-076e-41e4-a06c-b8c4a7f7911a" name="Heed The Call" size="small">
+			<property name="Card Number" value="S02" />
+			<property name="Rarity" value="Rare" />
+			<property name="Group" value="Alpha Trion Protocols" />
+			<property name="Type" value="Stratagem" />
+			<property name="ATK" value="" />
+			<property name="DEF" value="" />
+			<property name="HP" value="" />
+			<property name="Stars" value="0" />
+			<property name="Faction" value="Autobot" />
+			<property name="Traits" value="" />
+			<property name="Stratagem Target" value="Metroplex, Autobot City" />
+			<property name="Text">While your opponent has no untapped characters and you have Metroplex, Autobot City on the battlefield > Each of your non-Titan characters has [Pierce 3].
+
+When your Metroplex, Autobot City defends and you flip at least [W][O][B] > Repair 1 damage from him. He can't take more attack damage this battle than the number of [STARS] the attacker has.</property>
+			<alternate type="back" name="Heed The Call" size="small">
+			</alternate>
+		</card>
+		<card id="24e6a127-1784-4876-a99e-a321362dd6c8" name="Here's The Thing" size="small">
+			<property name="Card Number" value="S03" />
+			<property name="Rarity" value="Rare" />
+			<property name="Group" value="Alpha Trion Protocols" />
+			<property name="Type" value="Stratagem" />
+			<property name="ATK" value="1" />
+			<property name="DEF" value="2" />
+			<property name="HP" value="" />
+			<property name="Stars" value="1" />
+			<property name="Faction" value="Autobot" />
+			<property name="Traits" value="" />
+			<property name="Stratagem Target" value="Autobot Jazz, Special Ops" />
+			<property name="Text">When one of your characters defends and you have Autobot Jazz, Special Ops on the battlefield > Any [K] battle icons flipped this battle become [W] battle icons instead.</property>
+			<alternate type="back" name="Here's The Thing" size="small">
+			</alternate>
+		</card>
+		<card id="a48f9bd5-7fa9-44e6-91ab-b3e9b999233e" name="I Don't Believe in Destiny" size="small">
+			<property name="Card Number" value="S04" />
+			<property name="Rarity" value="Rare" />
+			<property name="Group" value="Alpha Trion Protocols" />
+			<property name="Type" value="Stratagem" />
+			<property name="ATK" value="1" />
+			<property name="DEF" value="1" />
+			<property name="HP" value="1" />
+			<property name="Stars" value="1" />
+			<property name="Faction" value="Autobot" />
+			<property name="Traits" value="" />
+			<property name="Stratagem Target" value="Jetfire, Air Guardian" />
+			<property name="Text">Your [Autobots'] Armors and Utilities can't be scrapped by your opponent's cards while you have Jetfire, Air Guardian on the battlefield.
+
+At the end of your turn > You may move an Upgrade from your Jetfire, Air Guardian to one of your other characters.</property>
+			<alternate type="back" name="I Don't Believe in Destiny" size="small">
+			</alternate>
+		</card>
+		<card id="99c3d787-754a-4ef1-889a-f67f1da77c9d" name="It Works!" size="small">
+			<property name="Card Number" value="S05" />
+			<property name="Rarity" value="Rare" />
+			<property name="Group" value="Alpha Trion Protocols" />
+			<property name="Type" value="Stratagem" />
+			<property name="ATK" value="" />
+			<property name="DEF" value="" />
+			<property name="HP" value="" />
+			<property name="Stars" value="1" />
+			<property name="Faction" value="Autobot" />
+			<property name="Traits" value="" />
+			<property name="Stratagem Target" value="Wheeljack, Weapons Inventor" />
+			<property name="Text">When your Wheeljack, Weapons Inventor attacks while upgraded with a Utility > Flip him to another mode after this battle.
+
+If you began the game with only [Autobots] > This gains &quot;[TAP] > Draw 2 cards. Then scrap 2 cards from your hand. You may play an Armor or Utility. Flip this.&quot;</property>
+			<alternate type="back" name="It Works!" size="small">
+				<property name="ATK" value="" />
+				<property name="DEF" value="" />
+				<property name="HP" value="" />
+				<property name="Faction" value="Autobot" />
+				<property name="Traits" value="" />
+				<property name="Stratagem Target" value="Wheeljack, Weapons Inventor" />
+				<property name="Text">When your Wheeljack, Weapons Inventor attacks while upgraded with a Utility > Flip him to another mode after this battle.</property>
+			</alternate>
+		</card>
+		<card id="6b240366-21fe-4dfe-bd4a-d1c3d3d114a9" name="Protection" size="small">
+			<property name="Card Number" value="S06" />
+			<property name="Rarity" value="Rare" />
+			<property name="Group" value="Alpha Trion Protocols" />
+			<property name="Type" value="Stratagem" />
+			<property name="ATK" value="" />
+			<property name="DEF" value="" />
+			<property name="HP" value="4" />
+			<property name="Stars" value="1" />
+			<property name="Faction" value="Autobot" />
+			<property name="Traits" value="" />
+			<property name="Stratagem Target" value="Inferno, Fearless Firefighter" />
+			<property name="Text">While your Inferno, Fearless Firefighter is in bot mode > He has [Brave].
+
+When your Inferno, Fearless Firefighter defends in bot mode and you flip at least [W][B] > Flip him to alt mode.</property>
+			<alternate type="back" name="Protection" size="small">
+			</alternate>
+		</card>
+		<card id="af735cd7-0424-4fe9-8cae-45e3008de4b5" name="Rally" size="small">
+			<property name="Card Number" value="S07" />
+			<property name="Rarity" value="Rare" />
+			<property name="Group" value="Alpha Trion Protocols" />
+			<property name="Type" value="Stratagem" />
+			<property name="ATK" value="1" />
+			<property name="DEF" value="1" />
+			<property name="HP" value="1" />
+			<property name="Stars" value="1" />
+			<property name="Faction" value="Autobot" />
+			<property name="Traits" value="" />
+			<property name="Stratagem Target" value="Bumblebee, Legendary Warrior" />
+			<property name="Text">When your Bumblebee, Legendary Warrior is tapped and takes attack damage > Repair 3 damage from him and untap him. Flip this.</property>
+			<alternate type="back" name="Rally" size="small">
+				<property name="ATK" value="1" />
+				<property name="DEF" value="1" />
+				<property name="HP" value="1" />
+				<property name="Faction" value="Autobot" />
+				<property name="Traits" value="" />
+				<property name="Stratagem Target" value="Bumblebee, Legendary Warrior" />
+				<property name="Text"></property>
+			</alternate>
+		</card>
+		<card id="d0f89435-2830-4a7b-80b5-304ea0e5250d" name="Rampage" size="small">
+			<property name="Card Number" value="S08" />
+			<property name="Rarity" value="Rare" />
+			<property name="Group" value="Alpha Trion Protocols" />
+			<property name="Type" value="Stratagem" />
+			<property name="ATK" value="" />
+			<property name="DEF" value="" />
+			<property name="HP" value="" />
+			<property name="Stars" value="1" />
+			<property name="Faction" value="Autobot" />
+			<property name="Traits" value="" />
+			<property name="Stratagem Target" value="Dinobots" />
+			<property name="Text">When you flip &quot;Dino-Chomp!&quot; while one of your [Dinobots] is attacking > It gets +1[ATK] until end of turn.
+
+When you flip either &quot;Jaws of Steel&quot; or &quot;Electrified Spikes&quot; while one of your [Dinobots] is defending > It gets +1[DEF] until end of turn.</property>
+			<alternate type="back" name="Rampage" size="small">
+			</alternate>
+		</card>
+		<card id="6dca576e-4289-4ea5-9cfb-b7fa75b8f9ad" name="Straxus Lives!" size="small">
+			<property name="Card Number" value="S09" />
+			<property name="Rarity" value="Rare" />
+			<property name="Group" value="Alpha Trion Protocols" />
+			<property name="Type" value="Stratagem" />
+			<property name="ATK" value="" />
+			<property name="DEF" value="" />
+			<property name="HP" value="4" />
+			<property name="Stars" value="1" />
+			<property name="Faction" value="Decepticon" />
+			<property name="Traits" value="" />
+			<property name="Stratagem Target" value="Darkmount, Cruel Overlord" />
+			<property name="Text">Your Darkmount, Cruel Overlord is a [Leader].
+
+When you put an Armor on your Darkmount, Cruel Overlord > Repair 1 damage from him.</property>
+			<alternate type="back" name="Straxus Lives!" size="small">
+			</alternate>
+		</card>
+		<card id="cc58854a-e017-40dc-af80-20331cf36178" name="Such Heroic Nonsense" size="small">
+			<property name="Card Number" value="S10" />
+			<property name="Rarity" value="Rare" />
+			<property name="Group" value="Alpha Trion Protocols" />
+			<property name="Type" value="Stratagem" />
+			<property name="ATK" value="" />
+			<property name="DEF" value="" />
+			<property name="HP" value="3" />
+			<property name="Stars" value="1" />
+			<property name="Faction" value="Decepticon" />
+			<property name="Traits" value="" />
+			<property name="Stratagem Target" value="Megatron, Living Weapon" />
+			<property name="Text">Weapons on your Megatron, Living Weapon can't be scrapped by your opponent's cards.</property>
+			<alternate type="back" name="Such Heroic Nonsense" size="small">
+			</alternate>
+		</card>
+		<card id="6f80778e-c4aa-402e-9661-696a2ddf2f8e" name="We Fix!" size="small">
+			<property name="Card Number" value="S11" />
+			<property name="Rarity" value="Rare" />
+			<property name="Group" value="Alpha Trion Protocols" />
+			<property name="Type" value="Stratagem" />
+			<property name="ATK" value="" />
+			<property name="DEF" value="" />
+			<property name="HP" value="" />
+			<property name="Stars" value="1" />
+			<property name="Faction" value="Autobot" />
+			<property name="Traits" value="" />
+			<property name="Stratagem Target" value="Dinobot Sludge, Mighty Stomper" />
+			<property name="Text">Your starting [STARS] limit increases by 1 if you began the game only [Dinobots] on your starting team.
+
+Each of your [Dinobots] has +2[HEALTH].
+
+When one of your [Dinobots] takes non-attack damage during your opponent's turn and you have Dinobot Sludge, Mighty Stomper on the battlefield > Repair 1 from it.</property>
+			<alternate type="back" name="We Fix!" size="small">
+			</alternate>
+		</card>
+	</cards>
+</set>
