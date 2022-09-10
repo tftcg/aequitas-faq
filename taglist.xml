@@ -842,6 +842,11 @@
           <tag name="Tow-Line - Signals Engineer"/>
         </category>
     </category>
+    <category name="Wave 7">
+        <category name="Characters">
+          <tag name="Fangry - Cursed Nightmare"/>
+        </category>
+    </category>
     <category name="Wave 8">
           <category name="Keywords">
             <tag name="Bandit" markup_required="true"/>
