@@ -160,13 +160,6 @@
         </answer>
       </entry>
     </target>
-    <target name="The Power to Bite">
-      <entry id="25">
-        <answer>
-          This pre-release battle card is not valid for play in current release versions. Future waves may reintroduce this card.
-        </answer>
-      </entry>
-    </target>
     <target name="Turnabout Snare">
       <entry id="27">
         <answer>
@@ -321,7 +314,7 @@
         </answer>
       </entry>
     </target>
-    <target name="This Gun for Hire">
+    <target name="This Gun For Hire">
       <entry id="54">
         <answer>
           The stat bonuses on This Gun for Hire affect all stat boxes in each mode of Shockblast, Galactic Man. Therefore, with this Stratagem in play, Shockblast in alt mode has 4 Attack and 9 Health, Shockblast in bot mode has 3 Attack and 9 Health, and the Astro Magnum grants +3 Attack to an upgraded character.
@@ -335,7 +328,7 @@
         </answer>
       </entry>
     </target>
-    <target name="Vehicle﹕ Off-Road Cycle">
+    <target name="Off-Road Cycle">
       <entry id="57">
         <answer>
           This Stratagem primarily exists as a teaser for future new mechanics. The Vehicle descriptor does not currently grant any additional abilities beyond what is stated in the reminder text. When this is flipped, return a Sidecar Artillery from your scrap pile to your hand. This can only happen once per game.

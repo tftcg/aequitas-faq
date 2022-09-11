@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <faq name="ATP:Alpha Trion Protocols Wave 3 FAQ" source_url="https://vectorsigma.info/alpha-trion-protocols" published_date="2021-03-01" sourced_at="2021-06-17">
 
-    <target name="Banzaitron, Devious Orchestrator">
+    <target name="Banzaitron - Devious Orchestrator">
       <entry id="1">
         <question>
           Is Banzaitron a Leader if I have an Autobot head on a Decepticon body?
@@ -27,7 +27,7 @@
         </answer>
       </entry>
     </target>
-    <target name="Highbrow, Malware Brigadier">
+    <target name="Highbrow - Malware Brigadier">
       <entry id="4">
         <question>
           Can I return one of my own Upgrades to hand with Highbrow’s flip-to-Alt ability?
@@ -61,7 +61,7 @@
         </answer>
       </entry>
     </target>
-    <target name="Impactor, Unrelenting Veteran">
+    <target name="Impactor - Unrelenting Veteran">
       <entry id="8">
         <question>
           If I use Hunker Down, do I get to use his Alt mode ability?
@@ -87,7 +87,7 @@
         </answer>
       </entry>
     </target>
-    <target name="Overlord, Sadistic Phase Sixer">
+    <target name="Overlord - Sadistic Phase Sixer">
       <entry id="11">
         <question>
           Which KO area do you check for the Bot Mode ability?   
@@ -121,7 +121,7 @@
         </answer>
       </entry>
     </target>
-    <target name="Ransack, Hungry for Battle">
+    <target name="Ransack - Hungry For Battle">
       <entry id="15">
         <question>
           Does Ransack’s first Alt ability count himself?
@@ -147,7 +147,7 @@
         </answer>
       </entry>
     </target>
-    <target name="Seaspray, Consummate Sailor">
+    <target name="Seaspray - Consummate Sailor">
       <entry id="18">
         <question>
           Does Seaspray’s first Alt ability count himself?
@@ -181,7 +181,7 @@
         </answer>
       </entry>
     </target>
-    <target name="Slipstream, Spy-for-Hire">
+    <target name="Slipstream - Spy-For-Hire">
       <entry id="22">
         <question>
           Can Slipstream’s flip-to-Alt ability give her the +1 ATK when it goes off?
@@ -199,7 +199,7 @@
         </answer>
       </entry>
     </target>
-    <target name="Snapdragon, Ruthless Combatant">
+    <target name="Snapdragon - Ruthless Combatant">
       <entry id="24">
         <question>
           If my Snapdragon is in Alt mode, can I repair damage from Snapdragon?
@@ -241,7 +241,7 @@
         </answer>
       </entry>
     </target>
-    <target name="Starscream, Covetous Crony">
+    <target name="Starscream - Covetous Crony">
       <entry id="29">
         <question>
           When I flip him to Alt mode, and I reveal 3 Orange-pip cards, what happens?
@@ -275,7 +275,7 @@
         </answer>
       </entry>
     </target>
-    <target name="Wheeljack, Outsider">
+    <target name="Wheeljack - Outsider">
       <entry id="33">
         <question>
           If I started with him and 1 other Car on my team, but I flip the other Car to a mode where it doesn’t have that trait anymore, does he have Bold 2 now?
@@ -301,7 +301,7 @@
         </answer>
       </entry>
     </target>
-    <target name="Whirl, Lunatic Aerialist">
+    <target name="Whirl - Lunatic Aerialist">
       <entry id="36">
         <question>
           What happens when I use his flip-to-Bot ability and reveal no Upgrades?
@@ -311,7 +311,7 @@
         </answer>
       </entry>
     </target>
-    <target name="Fire And Fury">
+    <target name="Fire and Fury">
       <entry id="37">
         <question>
           Can I play this with just Sparkstalker on my team and no other Firecons?
@@ -381,7 +381,7 @@
         </answer>
       </entry>
     </target>
-    <target name="Aura Of Dominance">
+    <target name="Aura of Dominance">
       <entry id="45">
         <question>
           Can I play this on a character with less than 11 stars?  
@@ -511,7 +511,7 @@
         </answer>
       </entry>
     </target>
-    <target name="Never A Dull Moment">
+    <target name="Never a Dull Moment">
       <entry id="61">
         <question>
           Can I play this card if I don’t have a Wrecker on my team?

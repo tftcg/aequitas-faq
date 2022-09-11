@@ -113,7 +113,7 @@
         </answer>
       </entry>
     </target>
-    <target name="Raider Overkill - Spy Patrol Havoc Wreaker">
+    <target name="Raider Overkill - Spy Patrol • Havoc Wreaker">
       <entry id="14">
         <question>
             If I start with Overkill on my team, can I put an Overkill from outside the game into my KO area?
@@ -273,7 +273,7 @@
         </answer>
       </entry>
     </target>
-    <target name="Drop’ Em">
+    <target name="Drop 'Em">
       <entry id="32">
         <question>
             What does it mean that “my deck can have up to 1 extra STAR of cards?” Does that mean characters or battle cards?
@@ -328,7 +328,7 @@
         </answer>
       </entry>
     </target>
-    <target name="Whatever it Takes">
+    <target name="Whatever It Takes">
       <entry id="38">
         <question>
             What does it mean that “my deck can have up to 1 extra STAR of cards?” Does that mean characters or battle cards?
@@ -374,7 +374,7 @@
         </answer>
       </entry>
     </target>
-    <target name="Catch Off Guard">
+    <target name="Catch Off-Guard">
       <entry id="43">
         <question>
             Does this “scrap” the Upgrade that is moved to the bottom of the deck?
@@ -414,7 +414,7 @@
         </answer>
       </entry>
     </target>
-    <target name="Lock On Lasers">
+    <target name="Lock-On Lasers">
       <entry id="47">
         <question>
             Does this get the trigger against Sky Shadow’s combined form?
