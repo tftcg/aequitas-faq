@@ -1,0 +1,44 @@
+<faq><target name="Drop 'Em"><entry source="ATP:Alpha Trion Protocols Wave 2 FAQ" id="32">
+        <question>
+            What does it mean that “my deck can have up to 1 extra STAR of cards?” Does that mean characters or battle cards?
+        </question>
+        <answer>
+            Your Battle deck may include 1 Star card and still be considered a Legal Deck. Examples include Mounted Missiles, Energized Field, Leap of Faith, etc.
+        </answer>
+      </entry>
+      <entry source="ATP:Alpha Trion Protocols Wave 2 FAQ" id="33">
+        <question>
+            Do these abilities apply to both modes for Arcee?
+        </question>
+        <answer>
+            Yes, Alt and Bot Mode will gain the benefit.
+        </answer>
+      </entry>
+      <entry source="ATP:Alpha Trion Protocols Wave 2 FAQ" id="34">
+        <question>
+            This is legal to play in Junkion, but what common star cards even are there to play?
+        </question>
+        <answer>
+            There are now 3 Star cards at the Common rarity for Junkion with the addition of ATP-2: Hands-Free Artillery, Bullseye Aegis, and Spotlights.
+    High-Speed Chase
+    1. I repair 1 from Menasor on my 2nd action for turn. What about my 3rd? Or 4th?
+            No, you only heal from the 2 nd action played.
+        </answer>
+      </entry>
+      <entry source="ATP:Alpha Trion Protocols Wave 2 FAQ" id="35">
+        <question>
+            What happens if I reveal the new ATP-2 Secret Action “Survive” while my Menasor has 30+ damage? Do I take 2 less?
+        </question>
+        <answer>
+            No, Sturdy, does not stack with itself; you can’t have multiple instances of Sturdy on a character or battle card. (See KEYWORD Section on Sturdy)
+        </answer>
+      </entry>
+      <entry source="ATP:Alpha Trion Protocols Wave 2 FAQ" id="36">
+        <question>
+            If I repair damage to go below 30, do I lose the Sturdy ability?
+        </question>
+        <answer>
+            Yes. The damage threshold trigger on Menasor uses the trigger word “while” which is constantly checking to see whether its criterion is met. Anything after the arrow would be turned off as soon as the criterion before the arrow is no longer met.
+        </answer>
+      </entry>
+    </target></faq>
