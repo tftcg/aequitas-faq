@@ -781,146 +781,6 @@
             <tag name="Tidal Wave - Dark Fleet" teletraan_id="CP2013"/>
         </category>
     </category>
-    <category name="Wave 6">
-        <category name="Keywords">
-          <tag name="Action Masters"/>
-          <tag name="Allicons"/>
-          <tag name="Characters in multiple factions"/>
-          <tag name="Judges"/>
-          <tag name="Sharkticons"/>
-          <tag name="Tentacle Upgrades"/>
-        </category>
-        <category name="Battle Cards">
-          <tag name="All-Out Attack"/>
-          <tag name="Angolmois Surge"/>
-          <tag name="Are These Wires Important?"/>
-          <tag name="Armed to the Teeth"/>
-          <tag name="Aspect of Laughter"/>
-          <tag name="Assuming Control"/>
-          <tag name="CNA-Encoded Armory"/>
-          <tag name="Discordant Cacophony"/>
-          <tag name="“Dutch”"/>
-          <tag name="Forked Tentacle"/>
-          <tag name="Loading the Cannon"/>
-          <tag name="Premature Firing"/>
-          <tag name="Secret Missive"/>
-          <tag name="Shield Crash"/>
-          <tag name="Squid Pro Quo"/>
-          <tag name="Stim Shock"/>
-          <tag name="The Dweller Awakens"/>
-          <tag name="The Power to Bite"/>
-          <tag name="Turnabout Snare"/>
-          <tag name="United Against Tyranny"/>
-        </category>
-        <category name="Stratagems">
-          <tag name="Brutal Conditioning"/>
-          <tag name="Colossal Cannons"/>
-          <tag name="Hit Me With That Beat"/>
-          <tag name="In the Name of Slingshot"/>
-          <tag name="I’ve Got Your Back"/>
-          <tag name="Off-Road Cycle"/>
-          <tag name="Orbital Command"/>
-          <tag name="Pit of Judgement"/>
-          <tag name="Sound the Alarm"/>
-          <tag name="Stuck on You"/>
-          <tag name="The Last Line of Defense"/>
-          <tag name="The Solo Job"/>
-          <tag name="Thermal Reciprocation"/>
-          <tag name="Third Party Brigade"/>
-          <tag name="This Gun for Hire"/>
-          <tag name="V2 Sonicsurge Drone Armor"/>
-          <tag name="Vehicle﹕ Off-Road Cycle"/>
-        </category>
-        <category name="Characters">
-          <tag name="Axor - Opportunistic Fencer"/>
-          <tag name="Gilthor - Chained Amalgamation"/>
-          <tag name="Mind Control Collar"/>
-          <tag name="Mind Control Helmet"/>
-          <tag name="Nacelle - Eager Aerospace Engineer"/>
-          <tag name="Optimus Prime - Dark Awakening"/>
-          <tag name="Sharkticon Biter - Brazen Berserker"/>
-          <tag name="Tow-Line - Signals Engineer"/>
-        </category>
-    </category>
-    <category name="Wave 7">
-        <category name="Characters">
-          <tag name="Fangry - Cursed Nightmare" teletraan_id="TTROPMM04"/>
-        </category>
-    </category>
-    <category name="Wave 8">
-          <category name="Keywords">
-            <tag name="Bandit" markup_required="true"/>
-            <tag name="Drifter" markup_required="true"/>
-            <tag name="Oppress" markup_required="true"/>
-          </category>
-        <category name="Battle Cards">
-          <tag name="Custom Junkion Saddle" markup_required="true"/>
-        </category>
-        <category name="Stratagems">
-          <tag name="Combat Deck" markup_required="true"/>
-          <tag name="The City's Finest Views" markup_required="true"/>
-          <tag name="This Shall Be Your Ship" markup_required="true"/>
-        </category>
-    </category>
-    <category name="Wave 9">
-        <category name="Keywords">
-          <tag name="Horde" markup_required="true"/>
-        </category>
-        <category name="Battle Cards">
-          <tag name="300-TT Crusher Craw" markup_required="true"/>
-          <tag name="Aerial Superority " markup_required="true"/>
-          <tag name="Alliance" markup_required="true"/>
-          <tag name="Apex Armor" markup_required="true"/>
-          <tag name="Assault Formation" markup_required="true"/>
-          <tag name="Beast Mode" markup_required="true"/>
-          <tag name="Combaticon Enigma" markup_required="true"/>
-          <tag name="Death to the Weak" markup_required="true"/>
-          <tag name="Electro Stinger of Scorponok" markup_required="true"/>
-          <tag name="Energon Sword" markup_required="true"/>
-          <tag name="Feral Tenacity" markup_required="true"/>
-          <tag name="Racing Stripes" markup_required="true"/>
-          <tag name="Scan the Vaults" markup_required="true"/>
-          <tag name="Sharkticon Mace" markup_required="true"/>
-          <tag name="Spoils of War" markup_required="true"/>
-          <tag name="Starscream’s Cape" markup_required="true"/>
-          <tag name="This Is Bad Comedy" markup_required="true"/>
-          <tag name="Trythilium Plating" markup_required="true"/>
-          <tag name="Tsunami Blaster" markup_required="true"/>
-        </category>
-        <category name="Stratagems">
-          <tag name="Arise, Rodimus Prime" markup_required="true"/>
-          <tag name="Arm The Lonely" markup_required="true"/>
-          <tag name="Barbaric Rage" markup_required="true"/>
-          <tag name="Brothers In Armor" markup_required="true"/>
-          <tag name="Do it with Style!" markup_required="true"/>
-          <tag name="Drop Your Weapons!" markup_required="true"/>
-          <tag name="I Don’t Break The Rules, I Just Bend Them – A Lot" markup_required="true"/>
-          <tag name="Mayhem" markup_required="true"/>
-          <tag name="Paranoia" markup_required="true"/>
-          <tag name="Predacon Fortitude" markup_required="true"/>
-          <tag name="Quest for Fire" markup_required="true"/>
-          <tag name="Starscream’s Brigade" markup_required="true"/>
-          <tag name="Such Heroic Nonsense" markup_required="true"/>
-          <tag name="Unstoppable" markup_required="true"/>
-        </category>
-        <category name="Characters">
-          <tag name="Beastbox - Savage Interrogator" markup_required="true"/>
-          <tag name="Cyclonus - Loyal Enforcer" markup_required="true"/>
-          <tag name="Ghost of Starscream - Annoying Apparition" markup_required="true"/>
-          <tag name="Megatron - Autobot Bane" markup_required="true"/>
-          <tag name="Ratbat - Calculating Scout" markup_required="true"/>
-          <tag name="Rodimus Prime - Worthy Leader" markup_required="true"/>
-          <tag name="Rumble - Demolition Expert" markup_required="true"/>
-          <tag name="Scorponok - Brutal Warlord" markup_required="true"/>
-          <tag name="Sharkticon - Feeding Frenzy" markup_required="true"/>
-          <tag name="Sky-Byte - Harbinger of Doom" markup_required="true"/>
-          <tag name="Specialist Countdown - Transport &amp; Space Explorer" markup_required="true"/>
-          <tag name="Sunstreaker - Arrogant Daredevil" markup_required="true"/>
-          <tag name="Wheelie - Rhyming Racer" markup_required="true"/>
-          <tag name="Wreck-Gar - Junkion Leader" markup_required="true"/>
-          <tag name="Bruticus - Unstoppable Giant" markup_required="true"/>
-        </category>
-    </category>
     <category name="Tournaments">
         <category name="Constructed">
             <tag name="Contructed Deck Construction"/>
@@ -938,73 +798,709 @@
         <tag name="Tie-Break"/>
         <tag name="Tournament Rules"/>
     </category>
+    <category name="1C Open Cards">
+          <category name="Battle Cards">
+		<tag name="Hand of Adaptus" teletraan_id="BP2201" />
+		<tag name="Mecha Star" teletraan_id="BP2202" />
+		<tag name="Lie in Wait" teletraan_id="BP2103" />
+		<tag name="Take the Shot" teletraan_id="BP2104" />
+		<tag name="United Against Tyranny" teletraan_id="BP2105" />
+          </category>
+    </category>
+    <category name="Wave 6">
+        <category name="Keywords">
+          <tag name="Action Masters"/>
+          <tag name="Allicons"/>
+          <tag name="Characters in multiple factions"/>
+          <tag name="Judges"/>
+          <tag name="Sharkticons"/>
+          <tag name="Tentacle Upgrades"/>
+        </category>
+          <category name="Battle Cards">
+		<tag name="All-Out Attack" teletraan_id="BBFA001" />
+		<tag name="Ancient Security Tentacle" teletraan_id="BBFA002" />
+		<tag name="Angolmois Surge" teletraan_id="BBFA003" />
+		<tag name="Aquatic Maneuvers" teletraan_id="BBFA004" />
+		<tag name="Are These Wires Important?" teletraan_id="BBFA005" />
+		<tag name="Armed To The Teeth" teletraan_id="BBFA006" />
+		<tag name="Aspect of Bitterness" teletraan_id="BBFA007" />
+		<tag name="Aspect of Death" teletraan_id="BBFA008" />
+		<tag name="Aspect of Doubt" teletraan_id="BBFA009" />
+		<tag name="Aspect of Laughter" teletraan_id="BBFA010" />
+		<tag name="Aspect of Rage" teletraan_id="BBFA011" />
+		<tag name="Assuming Control" teletraan_id="BBFA012" />
+		<tag name="Black Mail" teletraan_id="BBFA013" />
+		<tag name="Bomb Removal Protocol" teletraan_id="BBFA014" />
+		<tag name="CNA-Encoded Armory" teletraan_id="BBFA015" />
+		<tag name="Demolition Derby" teletraan_id="BBFA016" />
+		<tag name="Discordant Cacophony" teletraan_id="BBFA017" />
+		<tag name="Dreadful Feast" teletraan_id="BBFA018" />
+		<tag name="&quot;Dutch&quot;" teletraan_id="BBFA019" />
+		<tag name="Energy Conversion Field" teletraan_id="BBFA020" />
+		<tag name="Forked Tentacle" teletraan_id="BBFA021" />
+		<tag name="Gift of Innermost Energon" teletraan_id="BBFA022" />
+		<tag name="Give Me Your Face" teletraan_id="BBFA023" />
+		<tag name="Guilty or Innocent" teletraan_id="BBFA024" />
+		<tag name="Insurance Write-Off" teletraan_id="BBFA025" />
+		<tag name="Judicial Discretion" teletraan_id="BBFA026" />
+		<tag name="Litigious Tentacle" teletraan_id="BBFA027" />
+		<tag name="Loading The Cannon" teletraan_id="BBFA028" />
+		<tag name="Lose The Battle..." teletraan_id="BBFA029" />
+		<tag name="Lost In Transit" teletraan_id="BBFA030" />
+		<tag name="Maceration Laser" teletraan_id="BBFA031" />
+		<tag name="Manipulate Time" teletraan_id="BBFA032" />
+		<tag name="Masher Mace" teletraan_id="BBFA033" />
+		<tag name="Motorcycle Chase" teletraan_id="BBFA034" />
+		<tag name="Occupation" teletraan_id="BBFA035" />
+		<tag name="Open Agenda" teletraan_id="BBFA036" />
+		<tag name="Opportune Protection" teletraan_id="BBFA037" />
+		<tag name="Photon Charge" teletraan_id="BBFA038" />
+		<tag name="Polarity Gauntlet" teletraan_id="BBFA039" />
+		<tag name="Polydermal Graft" teletraan_id="BBFA040" />
+		<tag name="Prime's New Arm" teletraan_id="BBFA041" />
+		<tag name="Reroute Enemy Vectors" teletraan_id="BBFA042" />
+		<tag name="Scrounging For Energon" teletraan_id="BBFA043" />
+		<tag name="Secret Missive" teletraan_id="BBFA044" />
+		<tag name="Sharkticon Matrix" teletraan_id="BBFA045" />
+		<tag name="Shield Crash" teletraan_id="BBFA046" />
+		<tag name="Sidecar Artillery" teletraan_id="BBFA047" />
+		<tag name="Squid Pro Quo" teletraan_id="BBFA048" />
+		<tag name="Stim Shock" teletraan_id="BBFA049" />
+		<tag name="Subcontractor Agreement" teletraan_id="BBFA050" />
+		<tag name="Tetrinite Micro-Lining" teletraan_id="BBFA051" />
+		<tag name="The Dweller Awakens" teletraan_id="BBFA052" />
+		<tag name="Thermal Sealant" teletraan_id="BBFA053" />
+		<tag name="Touch of Quintessa" teletraan_id="BBFA054" />
+		<tag name="Turnabout Snare" teletraan_id="BBFA055" />
+		<tag name="Underbase Fragment" teletraan_id="BBFA056" />
+		<tag name="United Against Tyranny" teletraan_id="BBFA057" />
+		<tag name="Universal Greeting" teletraan_id="BBFA058" />
+		<tag name="Unsavory Leftovers" teletraan_id="BBFA059" />
+		<tag name="Vorpal Fangs" teletraan_id="BBFA060" />
+		<tag name="What Lies Beyond" teletraan_id="BBFA061" />
+		<tag name="Whipped Into Shape" teletraan_id="BBFA062" />
+          </category>
+          <category name="Stratagems">
+		<tag name="Brace For Impact" teletraan_id="SBFA01" />
+		<tag name="Brutal Conditioning" teletraan_id="SBFA02" />
+		<tag name="Buried Banquet" teletraan_id="SBFA03" />
+		<tag name="Cantankerous Attitude" teletraan_id="SBFA04" />
+		<tag name="Cerebro-Shell Shock" teletraan_id="SBFA05" />
+		<tag name="Colossal Cannons" teletraan_id="SBFA06" />
+		<tag name="Dark Regeneration" teletraan_id="SBFA07" />
+		<tag name="Death Crystal Cannon" teletraan_id="SBFA08" />
+		<tag name="Energon Reclamation" teletraan_id="SBFA09" />
+		<tag name="Enterprising Spotlight" teletraan_id="SBFA10" />
+		<tag name="Forbidden Sorcery" teletraan_id="SBFA11" />
+		<tag name="Hit Me With That Beat" teletraan_id="SBFA12" />
+		<tag name="In The Name of Slingshot" teletraan_id="SBFA13" />
+		<tag name="Indigestion" teletraan_id="SBFA14" />
+		<tag name="Kneel Before Us" teletraan_id="SBFA15" />
+		<tag name="Localized Tremors" teletraan_id="SBFA16" />
+		<tag name="Magnetic Boomerang" teletraan_id="SBFA17" />
+		<tag name="Mass Displacement Drive" teletraan_id="SBFA18" />
+		<tag name="Nebulous Spotlight" teletraan_id="SBFA19" />
+		<tag name="Orbital Command" teletraan_id="SBFA20" />
+		<tag name="Pit of Judgement" teletraan_id="SBFA21" />
+		<tag name="Quite A Haul" teletraan_id="SBFA22" />
+		<tag name="Sound The Alarm" teletraan_id="SBFA23" />
+		<tag name="Squeeze Play" teletraan_id="SBFA24" />
+		<tag name="Stuck On You" teletraan_id="SBFA25" />
+		<tag name="The Last Line of Defense" teletraan_id="SBFA26" />
+		<tag name="The Solo Job" teletraan_id="SBFA27" />
+		<tag name="Thermal Reciprocation" teletraan_id="SBFA28" />
+		<tag name="Third Party Brigade" teletraan_id="SBFA29" />
+		<tag name="This Gun For Hire" teletraan_id="SBFA30" />
+		<tag name="Triggercon-Vention" teletraan_id="SBFA31" />
+		<tag name="Up In Smoke" teletraan_id="SBFA32" />
+		<tag name="V2 Sonicsurge Drone Armor" teletraan_id="SBFA33" />
+		<tag name="Off-Road Cycle" teletraan_id="SBFA34" />
+		<tag name="Verdant Aegis" teletraan_id="SBFA35" />
+          </category>
+          <category name="Characters">
+		<tag name="Allicon Aronik - Killer Croc" teletraan_id="TBFA01" />
+		<tag name="Allicon Eyuk - Bog Scavenger" teletraan_id="TBFA02" />
+		<tag name="Alpha Sentinel - Dark Guardian Relic" teletraan_id="TBFA03" />
+		<tag name="Armada - Herald of Shrouds" teletraan_id="TBFA04" />
+		<tag name="Autobot Countdown - Aerospace Commander" teletraan_id="TBFA05" />
+		<tag name="Autobot Pipes - Idiosyncratic Collector" teletraan_id="TBFA06" />
+		<tag name="Autobot Powerglide - Haughty Show-Off" teletraan_id="TBFA07" />
+		<tag name="Axor - Opportunistic Fencer" teletraan_id="TBFA08" />
+		<tag name="Crashbash - Ocean Terror" teletraan_id="TBFA09" />
+		<tag name="Decepticon Doublecrosser - Shield Brothers" teletraan_id="TBFA10" />
+		<tag name="Decepticon Exhaust - Consumptive Condottiere" teletraan_id="TBFA11" />
+		<tag name="Deliberata - Judger and The Judged" teletraan_id="TBFA12" />
+		<tag name="General Ghyrik - Grievous Executioner" teletraan_id="TBFA13" />
+		<tag name="Gilthor - Chained Amalgamation" teletraan_id="TBFA14" />
+		<tag name="Inquisitor Drebzik - Exhaustive Interrogator" teletraan_id="TBFA15" />
+		<tag name="Klementia - Medical Magistrate" teletraan_id="TBFA16" />
+		<tag name="Lokos" teletraan_id="TBFA17" />
+		<tag name="Mind Control Collar" teletraan_id="TBFA18" />
+		<tag name="Mind Control Helmet" teletraan_id="TBFA19" />
+		<tag name="Nacelle - Eager Aerospace Engineer" teletraan_id="TBFA20" />
+		<tag name="Optimus Prime - Dark Awakening" teletraan_id="TBFA21" />
+		<tag name="Rabblerouser - Aerial Onslaught" teletraan_id="TBFA22" />
+		<tag name="Red Wizard - Ruler of Menonia" teletraan_id="TBFA23" />
+		<tag name="Savage Wheelie - Rhymer Climber" teletraan_id="TBFA24" />
+		<tag name="Sharkticon Biter - Brazen Berserker" teletraan_id="TBFA25" />
+		<tag name="Sharkticon Chomp - Craving Carnivore" teletraan_id="TBFA26" />
+		<tag name="Sharkticon Gnaw - Gluttonous Gourmand" teletraan_id="TBFA27" />
+		<tag name="Sharkticon Peck - Protoform Pup" teletraan_id="TBFA28" />
+		<tag name="Shockblast - Galactic Man" teletraan_id="TBFA29" />
+		<tag name="Slitherfang - Poisonous Protection" teletraan_id="TBFA30" />
+		<tag name="Tow-Line - Signals Engineer" teletraan_id="TBFA31" />
+          </category>
+    </category>
+    <category name="Wave 7">
+          <category name="Battle Cards">
+		<tag name="Agile Formation" teletraan_id="BTROP001" />
+		<tag name="Armor Piercing Munitions" teletraan_id="BTROP002" />
+		<tag name="Camien Grace" teletraan_id="BTROP003" />
+		<tag name="Combat Drop" teletraan_id="BTROP004" />
+		<tag name="Contemplation" teletraan_id="BTROP005" />
+		<tag name="Corrupt Construction" teletraan_id="BTROP006" />
+		<tag name="Die Autobots!" teletraan_id="BTROP007" />
+		<tag name="Electro-Static Shielding" teletraan_id="BTROP008" />
+		<tag name="Enhanced Fusion Cannon" teletraan_id="BTROP009" />
+		<tag name="Evasive Action" teletraan_id="BTROP010" />
+		<tag name="Fearless" teletraan_id="BTROP011" />
+		<tag name="Foreman's Ingenuity" teletraan_id="BTROP012" />
+		<tag name="Impetuous Stand" teletraan_id="BTROP013" />
+		<tag name="Rage" teletraan_id="BTROP014" />
+		<tag name="Rapid Response Cycle" teletraan_id="BTROP015" />
+		<tag name="Revving the Engine" teletraan_id="BTROP016" />
+		<tag name="Robust" teletraan_id="BTROP017" />
+		<tag name="Scatter Blaster" teletraan_id="BTROP018" />
+		<tag name="Towering Presence" teletraan_id="BTROP019" />
+		<tag name="Trithyllium Drill" teletraan_id="BTROP020" />
+          </category>
+          <category name="Stratagems">
+		<tag name="All Hail Megatron!" teletraan_id="STROP01" />
+		<tag name="Artillery Support" teletraan_id="STROP02" />
+		<tag name="Covert" teletraan_id="STROP03" markup_required="true"/>
+		<tag name="Durable Decepticon" teletraan_id="STROP04" />
+		<tag name="Fully Loaded" teletraan_id="STROP05" />
+		<tag name="Holomatter Mastery" teletraan_id="STROP06" />
+		<tag name="Impervious" teletraan_id="STROP07" />
+		<tag name="Malevolent Architect" teletraan_id="STROP08" />
+		<tag name="Obfuscating Cloud" teletraan_id="STROP09" />
+		<tag name="One Tough Bug!" teletraan_id="STROP10" />
+		<tag name="Out of the Way Hot Rod!" teletraan_id="STROP11" />
+		<tag name="Road Warriors" teletraan_id="STROP12" />
+		<tag name="Silent Hunter" teletraan_id="STROP13" />
+		<tag name="Soundwave Superior" teletraan_id="STROP14" />
+		<tag name="Sulfuric Deluge" teletraan_id="STROP15" />
+		<tag name="Assault Protocol" teletraan_id="SP2102" />
+          </category>
+          <category name="Characters">
+		<tag name="Nightbird - Tera-Kura Construct" teletraan_id="TP2101" />
+          </category>
+    </category>
+    <category name="Wave 7A">
+          <category name="Characters">
+		<tag name="Banzai-Tron - Crystalocution Master" teletraan_id="TTROPMM01" />
+		<tag name="Bludgeon - Metallikato Monster" teletraan_id="TTROPMM02" />
+		<tag name="Brainstorm - Haunted Schemer" teletraan_id="TTROPMM03" />
+		<tag name="Fangry - Cursed Nightmare" teletraan_id="TTROPMM04" />
+		<tag name="Hardhead - Grave Mistakes" teletraan_id="TTROPMM05" />
+		<tag name="Highbrow - Appallingly Astute" teletraan_id="TTROPMM06" />
+		<tag name="Hoist - Fearless Rescuer" teletraan_id="TTROPMM07" />
+		<tag name="Megatron/Ratchet - Twisted Amalgamation" teletraan_id="TTROPMM08" />
+		<tag name="Wolfwire - Lying In Wait" teletraan_id="TTROPMM09" />
+          </category>
+    </category>
+    <category name="Wave 8">
+          <category name="Keywords">
+            <tag name="Bandit" markup_required="true"/>
+            <tag name="Drifter" markup_required="true"/>
+            <tag name="Oppress" markup_required="true"/>
+          </category>
+          <category name="Battle Cards">
+		<tag name="38-Amp Ionic Plate" teletraan_id="BBFB001" />
+		<tag name="Abrogate" teletraan_id="BBFB002" />
+		<tag name="Anti-Grav Cell" teletraan_id="BBFB003" />
+		<tag name="Armor Axe" teletraan_id="BBFB004" />
+		<tag name="Auxiliary Fuel Tank" teletraan_id="BBFB005" />
+		<tag name="Bracing Up" teletraan_id="BBFB006" />
+		<tag name="Caring is Sharing!" teletraan_id="BBFB007" />
+		<tag name="Cooling of Tensions" teletraan_id="BBFB008" />
+		<tag name="Custom Junkion Saddle" teletraan_id="BBFB009" />
+		<tag name="Dare to Be Stupid!" teletraan_id="BBFB010" />
+		<tag name="Decelerator Laser" teletraan_id="BBFB011" />
+		<tag name="Depower-Linx" teletraan_id="BBFB012" />
+		<tag name="Diffraction Sword" teletraan_id="BBFB013" />
+		<tag name="Drill Fingers" teletraan_id="BBFB014" />
+		<tag name="Dual Smokestacks" teletraan_id="BBFB015" />
+		<tag name="Escapology" teletraan_id="BBFB016" />
+		<tag name="Everything Must Go!" teletraan_id="BBFB017" />
+		<tag name="Explosive Disposal" teletraan_id="BBFB018" />
+		<tag name="Extended Duration Mission" teletraan_id="BBFB019" />
+		<tag name="Half-Track Trickery" teletraan_id="BBFB020" />
+		<tag name="Hand of Adaptus" teletraan_id="BBFB021" />
+		<tag name="Happy Motoring!" teletraan_id="BBFB022" />
+		<tag name="Head Case" teletraan_id="BBFB023" />
+		<tag name="Head of State" teletraan_id="BBFB024" />
+		<tag name="High Beam Headlights" teletraan_id="BBFB025" />
+		<tag name="Hodgepodge Panoply" teletraan_id="BBFB026" />
+		<tag name="Hot Seat" teletraan_id="BBFB027" />
+		<tag name="Hurry Hurry Hurry!" teletraan_id="BBFB028" />
+		<tag name="Imminent Breakthrough" teletraan_id="BBFB029" />
+		<tag name="Inexorable Force" teletraan_id="BBFB030" />
+		<tag name="Junkyard Turbofox" teletraan_id="BBFB031" />
+		<tag name="Lagartan Spaulders" teletraan_id="BBFB032" />
+		<tag name="Lie in Wait" teletraan_id="BBFB033" />
+		<tag name="Locking it Up" teletraan_id="BBFB034" />
+		<tag name="Me Grimlock Need New Strategy" teletraan_id="BBFB035" />
+		<tag name="Mirror Response Mode" teletraan_id="BBFB036" />
+		<tag name="Monofiber Filament" teletraan_id="BBFB037" />
+		<tag name="Muster the Will" teletraan_id="BBFB038" />
+		<tag name="Mystical Bond" teletraan_id="BBFB039" />
+		<tag name="Ninety Day Warranty!" teletraan_id="BBFB040" />
+		<tag name="Nucleon Exposure" teletraan_id="BBFB041" />
+		<tag name="Nudge Gun" teletraan_id="BBFB042" />
+		<tag name="Pack Behavior" teletraan_id="BBFB043" />
+		<tag name="Passenger Coverage" teletraan_id="BBFB044" />
+		<tag name="Patrol Bolas" teletraan_id="BBFB045" />
+		<tag name="Patrol the Perimeter" teletraan_id="BBFB046" />
+		<tag name="Peas in a Pod!" teletraan_id="BBFB047" />
+		<tag name="Performance Gear Selector" teletraan_id="BBFB048" />
+		<tag name="Pile-Up" teletraan_id="BBFB049" />
+		<tag name="Playing Both Sides" teletraan_id="BBFB050" />
+		<tag name="Police Action" teletraan_id="BBFB051" />
+		<tag name="Razor Wings" teletraan_id="BBFB052" />
+		<tag name="Reactive Thrusters" teletraan_id="BBFB053" />
+		<tag name="Recon Reissue" teletraan_id="BBFB054" />
+		<tag name="Relax With a Cold One!" teletraan_id="BBFB055" />
+		<tag name="Revving Up" teletraan_id="BBFB056" />
+		<tag name="Riffraff Knick-Knacks" teletraan_id="BBFB057" />
+		<tag name="Severed Combiner Hand" teletraan_id="BBFB058" />
+		<tag name="Shanix Laundering" teletraan_id="BBFB059" />
+		<tag name="Shard of the Divine Light" teletraan_id="BBFB060" />
+		<tag name="Sitrep Update" teletraan_id="BBFB061" />
+		<tag name="Skimming Off the Top" teletraan_id="BBFB062" />
+		<tag name="Sparring Lessons" teletraan_id="BBFB063" />
+		<tag name="Spear of the Moment" teletraan_id="BBFB064" />
+		<tag name="Spread Democracy!" teletraan_id="BBFB065" />
+		<tag name="Summon the Courage" teletraan_id="BBFB066" />
+		<tag name="Superior Surveillance" teletraan_id="BBFB067" />
+		<tag name="Take the Shot" teletraan_id="BBFB068" />
+		<tag name="Terrorburster Shield" teletraan_id="BBFB069" />
+		<tag name="Terrorcon Enigma" teletraan_id="BBFB070" />
+		<tag name="The Power to Bite" teletraan_id="BBFB071" />
+		<tag name="Throttle" teletraan_id="BBFB072" />
+		<tag name="Too Short For This Ride" teletraan_id="BBFB073" />
+		<tag name="Traffic Checkpoint" teletraan_id="BBFB074" />
+		<tag name="Transfusion Cable" teletraan_id="BBFB075" />
+		<tag name="Tried and Executed" teletraan_id="BBFB076" />
+		<tag name="Two Foes, Two Fists" teletraan_id="BBFB077" />
+		<tag name="Unfathomable Motives" teletraan_id="BBFB078" />
+		<tag name="Untiring Parma Shield" teletraan_id="BBFB079" />
+		<tag name="Wave of Lightning" teletraan_id="BBFB080" />
+		<tag name="Well-Worn Armor" teletraan_id="BBFB081" />
+          </category>
+          <category name="Stratagems">
+		<tag name="A Very Cross Examination" teletraan_id="SBFB01" />
+		<tag name="Alphastrike Counterforce" teletraan_id="SBFB02" />
+		<tag name="Angolmois Infusion" teletraan_id="SBFB03" />
+		<tag name="Barrel Rolling" teletraan_id="SBFB04" />
+		<tag name="Blockbuster Moving Trailers" teletraan_id="SBFB05" />
+		<tag name="Boater Suppression" teletraan_id="SBFB06" />
+		<tag name="Cat's Cradle of Contingencies" teletraan_id="SBFB07" />
+		<tag name="Cherish This World or Perish" teletraan_id="SBFB08" />
+		<tag name="Combat Deck" teletraan_id="SBFB09" />
+		<tag name="Don't Touch That Dial!" teletraan_id="SBFB10" />
+		<tag name="Extermination Exercise" teletraan_id="SBFB11" />
+		<tag name="Four the Selectors!" teletraan_id="SBFB12" />
+		<tag name="Heroic Perseverance" teletraan_id="SBFB13" />
+		<tag name="Ignore the Pain" teletraan_id="SBFB14" />
+		<tag name="It's As Good As Used!" teletraan_id="SBFB15" />
+		<tag name="I've Got Your Back" teletraan_id="SBFB16" />
+		<tag name="Kakistocracy" teletraan_id="SBFB17" />
+		<tag name="King of Pain" teletraan_id="SBFB18" />
+		<tag name="Materiel War" teletraan_id="SBFB19" />
+		<tag name="Me Grimlock Kick Butt!" teletraan_id="SBFB20" />
+		<tag name="Me Grimlock King!" teletraan_id="SBFB21" />
+		<tag name="Me Grimlock Mash Brains!" teletraan_id="SBFB22" />
+		<tag name="Me Grimlock Say Execute Them!" teletraan_id="SBFB23" />
+		<tag name="Me Grimlock Want to Munch Metal" teletraan_id="SBFB24" />
+		<tag name="No Lords, No Masters" teletraan_id="SBFB25" />
+		<tag name="Old War Stories" teletraan_id="SBFB26" />
+		<tag name="Order in the Court" teletraan_id="SBFB27" />
+		<tag name="Prosecutorial Overreach" teletraan_id="SBFB28" />
+		<tag name="Put a Stinger in the Works" teletraan_id="SBFB29" />
+		<tag name="Queen of the Junkyard" teletraan_id="SBFB30" />
+		<tag name="Scrappy Spotlight" teletraan_id="SBFB31" />
+		<tag name="Slice, Dice, and Julienne!" teletraan_id="SBFB32" />
+		<tag name="Sonic Doom" teletraan_id="SBFB33" />
+		<tag name="Spin to Deflect Stuff" teletraan_id="SBFB34" />
+		<tag name="Stop the Tax and Spend!" teletraan_id="SBFB35" />
+		<tag name="The City's Finest Views" teletraan_id="SBFB36" />
+		<tag name="The Great Escape" teletraan_id="SBFB37" />
+		<tag name="Third Party Brigade" teletraan_id="SBFB38" />
+		<tag name="This Shall Be Your Ship" teletraan_id="SBFB39" />
+		<tag name="Time for New Leadership" teletraan_id="SBFB40" />
+		<tag name="Writhing in the Deep" teletraan_id="SBFB41" />
+          </category>
+          <category name="Characters">
+		<tag name="Ashtray - Come to Where the Flavor Is!" teletraan_id="TBFB01" />
+		<tag name="Autobot Infinitus" teletraan_id="TBFB02" />
+		<tag name="Autobot Roller - Scout Drone" teletraan_id="TBFB03" />
+		<tag name="Bug Bite - The Renegade Who Had It Made" teletraan_id="TBFB04" />
+		<tag name="Clench - Colossus of Obliteration" teletraan_id="TBFB05" />
+		<tag name="Crasher - Fractious Fanatic" teletraan_id="TBFB06" />
+		<tag name="Decepticon Wingthing - Loyal, Lethal Cohort" teletraan_id="TBFB07" />
+		<tag name="Detritus - Now With Sleek, Sexy Handling!" teletraan_id="TBFB08" />
+		<tag name="Gilthor - Wounded Retribution" teletraan_id="TBFB09" />
+		<tag name="Greasestain - No Muss! No Fuss!" teletraan_id="TBFB10" />
+		<tag name="High Bailiff Bollag - Court Knight" teletraan_id="TBFB11" />
+		<tag name="Junker Drone" teletraan_id="TBFB12" />
+		<tag name="Junkheap - Wrecked to Ruin! Keeps on Doin'!" teletraan_id="TBFB13" />
+		<tag name="Junkion Nancy - Just Say No to Sparkplugs!" teletraan_id="TBFB14" />
+		<tag name="Lord Kledji - Royal Ruler of Quintessa" teletraan_id="TBFB15" />
+		<tag name="Loudmouth - Incendiary Control" teletraan_id="TBFB16" />
+		<tag name="Megatron - Megalomaniacal Mariner" teletraan_id="TBFB17" />
+		<tag name="Muck Sergeant Peck - Brackish Chain-Breaker" teletraan_id="TBFB18" />
+		<tag name="Q-PTP Aculear Scope" teletraan_id="TBFB19" />
+		<tag name="Q-RTR Arachnoid Array" teletraan_id="TBFB20" />
+		<tag name="Quig" teletraan_id="TBFB21" />
+		<tag name="Rum-Maj - Wreck-Gar Sold Separately!" teletraan_id="TBFB22" />
+		<tag name="Scrapheap - It's Not Trash If It's Worth Cash!" teletraan_id="TBFB23" />
+		<tag name="Scrapper Drone" teletraan_id="TBFB24" />
+		<tag name="Sentinel Prime - Legacy of the Primes" teletraan_id="TBFB25" />
+		<tag name="Sideswipe - Covert Clone" teletraan_id="TBFB26" />
+		<tag name="Sinnertwin - Two-Faced Disgrace" teletraan_id="TBFB27" />
+		<tag name="Solarbot - Enigmatic Sunsteader" teletraan_id="TBFB28" />
+		<tag name="Soundbarrier - Grudging Foot Soldier Support" teletraan_id="TBFB29" />
+		<tag name="Stock-Pyl - 100 Billion Stars, One Precious World" teletraan_id="TBFB30" />
+		<tag name="Terrorcon Blot - Rank and Vile Rank and File" teletraan_id="TBFB31" />
+		<tag name="Terrorcon Cutthroat - Shock and Cawww" teletraan_id="TBFB32" />
+		<tag name="Terrorcon Hun-Gurrr - Eaters Digest" teletraan_id="TBFB33" />
+		<tag name="Terrorcon Rippersnapper - Tooth and Nail" teletraan_id="TBFB34" />
+		<tag name="Trasher Drone" teletraan_id="TBFB35" />
+		<tag name="Tread Bolt - Devil of the Deep Blue Sky" teletraan_id="TBFB36" />
+		<tag name="Waster Drone" teletraan_id="TBFB37" />
+		<tag name="Wreck-Gar - The Big Cheese! Now With More Cheese!" teletraan_id="TBFB38" />
+		<tag name="Abominus - Hellsparked Horror" teletraan_id="TBFBC15" />
+		<tag name="Roadmaster Prime Mode - Master of Chaos" teletraan_id="TBFBC16" />
+		<tag name="Scorpulator - Desert Rose" teletraan_id="TBFBC17" />
+		<tag name="Thunder Guts Gilthor - The One Who Claps" teletraan_id="TBFBC18" />
+          </category>
+    </category>
+    <category name="Wave 9">
+          <category name="Keywords">
+            <tag name="Horde" markup_required="true"/>
+          </category>
+          <category name="Battle Cards">
+		<tag name="300-TT Crusher Claw" teletraan_id="BARK001" />
+		<tag name="Aerial Superiority" teletraan_id="BARK002" />
+		<tag name="Alliance" teletraan_id="BARK003" />
+		<tag name="Apex Armor" teletraan_id="BARK004" />
+		<tag name="Assault Formation" teletraan_id="BARK005" />
+		<tag name="Beast Mode" teletraan_id="BARK006" />
+		<tag name="Cacophonous Failure" teletraan_id="BARK007" />
+		<tag name="Cloaking Screen" teletraan_id="BARK008" />
+		<tag name="Cloud Cover" teletraan_id="BARK009" />
+		<tag name="Combaticon Enigma" teletraan_id="BARK010" />
+		<tag name="Cosmic Rust Cannon" teletraan_id="BARK011" />
+		<tag name="Crack Back" teletraan_id="BARK012" />
+		<tag name="Crushing Claws" teletraan_id="BARK013" />
+		<tag name="Dare To Believe" teletraan_id="BARK014" />
+		<tag name="Death to the Weak" teletraan_id="BARK015" />
+		<tag name="Electro Stinger of Scorponok" teletraan_id="BARK016" />
+		<tag name="Energon Sword" teletraan_id="BARK017" />
+		<tag name="Feral Tenacity" teletraan_id="BARK018" />
+		<tag name="Grimlock's Sword" teletraan_id="BARK019" />
+		<tag name="H-M Laser Cannon" teletraan_id="BARK020" />
+		<tag name="Nothin's Gonna Stand In Our Way" teletraan_id="BARK021" />
+		<tag name="Particle Cannon of Galvatron" teletraan_id="BARK022" />
+		<tag name="Racing Stripes" teletraan_id="BARK023" />
+		<tag name="Resilience" teletraan_id="BARK024" markup_required="true"/>
+		<tag name="Scan the Vaults" teletraan_id="BARK025" />
+		<tag name="Sharkticon Mace" teletraan_id="BARK026" />
+		<tag name="Spoils of War" teletraan_id="BARK027" />
+		<tag name="Starscream's Cape" teletraan_id="BARK028" />
+		<tag name="Stasis Field" teletraan_id="BARK029" />
+		<tag name="Stormfall Sword" teletraan_id="BARK030" />
+		<tag name="Survival of the Fittest" teletraan_id="BARK031" />
+		<tag name="The Touch" teletraan_id="BARK032" />
+		<tag name="This is Bad Comedy" teletraan_id="BARK033" />
+		<tag name="Trithyllium Plating" teletraan_id="BARK034" />
+		<tag name="Tsunami Blaster" teletraan_id="BARK035" />
+		<tag name="Twisted Logic" teletraan_id="BARK036" />
+		<tag name="Unfriendly Fire" teletraan_id="BARK037" />
+		<tag name="Vamparc Ribbon" teletraan_id="BARK038" />
+		<tag name="Wanna Bet?" teletraan_id="BARK039" />
+		<tag name="Zarak's Shield" teletraan_id="BARK040" />
+          </category>
+          <category name="Stratagems">
+		<tag name="Advanced Technology" teletraan_id="SARK01" />
+		<tag name="Arise, Rodimus Prime" teletraan_id="SARK02" />
+		<tag name="Arm the Lonely" teletraan_id="SARK03" />
+		<tag name="Barbaric Rage" teletraan_id="SARK04" />
+		<tag name="Brothers In Armor" teletraan_id="SARK05" />
+		<tag name="Bust Some Deceptichops!" teletraan_id="SARK06" />
+		<tag name="Can't Squish This" teletraan_id="SARK07" />
+		<tag name="Do It With Style!" teletraan_id="SARK08" />
+		<tag name="Drop Your Weapons" teletraan_id="SARK09" />
+		<tag name="Heat Resistant Body" teletraan_id="SARK10" />
+		<tag name="I Don't Break Rules, I Just Bend Them - A Lot." teletraan_id="SARK11" />
+		<tag name="Made of Sterner Stuff" teletraan_id="SARK12" />
+		<tag name="Mayhem" teletraan_id="SARK13" />
+		<tag name="Paranoia" teletraan_id="SARK14" />
+		<tag name="Predacon Fortitude" teletraan_id="SARK15" />
+		<tag name="Quest for Fire" teletraan_id="SARK16" />
+		<tag name="Scout the Area" teletraan_id="SARK17" />
+		<tag name="Starscream's Brigade" teletraan_id="SARK18" />
+		<tag name="Such Heroic Nonsense [Ark Version]" teletraan_id="SARK19" />
+		<tag name="Unstoppable" teletraan_id="SARK20" />
+          </category>
+          <category name="Characters">
+		<tag name="Beastbox - Savage Interrogator" teletraan_id="TARK01" />
+		<tag name="Blast Off - Space Warrior" teletraan_id="TARK02" />
+		<tag name="Bombshock - Military Patrol • Patrol Leader" teletraan_id="TARK03" />
+		<tag name="Brawl - Ground Assault" teletraan_id="TARK04" />
+		<tag name="Bumblebee - Optimistic Brawler" teletraan_id="TARK05" />
+		<tag name="Cyclonus - Loyal Enforcer" teletraan_id="TARK06" />
+		<tag name="Dropshot - Relentless Soldier" teletraan_id="TARK07" />
+		<tag name="Galvatron - Maniacal Tyrant" teletraan_id="TARK08" />
+		<tag name="Ghost of Starscream - Annoying Apparition" teletraan_id="TARK09" />
+		<tag name="Gnaw - Voracious Hunter" teletraan_id="TARK10" />
+		<tag name="Grimlock - Dinobot King" teletraan_id="TARK11" />
+		<tag name="Growl - Intimidating Thug" teletraan_id="TARK12" />
+		<tag name="Huffer - Sullen Engineer" teletraan_id="TARK13" />
+		<tag name="Jazz - Outta Sight, Dynamite Lieutenant" teletraan_id="TARK14" />
+		<tag name="Lord Zarak - Ruler of Nebulon" teletraan_id="TARK15" />
+		<tag name="Megatron - Autobot Bane" teletraan_id="TARK16" />
+		<tag name="Onslaught - Combaticon Leader" teletraan_id="TARK17" />
+		<tag name="Ratbat - Calculating Scout" teletraan_id="TARK18" />
+		<tag name="Ratchet - Chief Medical Officer" teletraan_id="TARK19" />
+		<tag name="Red Wing - Thrillseeker" teletraan_id="TARK20" />
+		<tag name="Rewind - Data Collector" teletraan_id="TARK21" />
+		<tag name="Rodimus Prime - Worthy Leader" teletraan_id="TARK22" />
+		<tag name="Rumble - Demolition Expert" teletraan_id="TARK23" />
+		<tag name="Scorponok - Brutal Warlord" teletraan_id="TARK24" />
+		<tag name="Scourge - Opportunistic Tracker" teletraan_id="TARK25" />
+		<tag name="Seaspray - Valiant Vessel" teletraan_id="TARK26" />
+		<tag name="Sharkticon - Feeding Frenzy" teletraan_id="TARK27" />
+		<tag name="Sideswipe - Reckless Warrior" teletraan_id="TARK28" />
+		<tag name="Sky-Byte - Harbinger of Doom" teletraan_id="TARK29" />
+		<tag name="Specialist Countdown - Transport • Space Explorer" teletraan_id="TARK30" />
+		<tag name="Sunstreaker - Arrogant Daredevil" teletraan_id="TARK31" />
+		<tag name="Sweep - Scourge's Armada" teletraan_id="TARK32" />
+		<tag name="Swindle - Arms Dealer" teletraan_id="TARK33" />
+		<tag name="Tracer - Ambitious Scout" teletraan_id="TARK34" />
+		<tag name="Vortex - Interrogator" teletraan_id="TARK35" />
+		<tag name="Wheelie - Rhyming Racer" teletraan_id="TARK36" />
+		<tag name="Windblade - Camien Champion" teletraan_id="TARK37" />
+		<tag name="Wreck-Gar - Junkion Leader" teletraan_id="TARK38" />
+		<tag name="Bruticus - Unstoppable Giant" teletraan_id="TARKC14" />
+          </category>
+    </category>
     <category name="Alpha Trion Protocols">
-        <category name="Wave 2">
+        <category name="Wave 1">
+          <category name="Stratagems">
+		<tag name="Anti-Air Battery" teletraan_id="SATP101"  markup_required="true"/>
+		<tag name="Heed The Call" teletraan_id="SATP102"  markup_required="true"/>
+		<tag name="Here's The Thing" teletraan_id="SATP103"  markup_required="true"/>
+		<tag name="I Don't Believe in Destiny" teletraan_id="SATP104"  markup_required="true"/>
+		<tag name="It Works!" teletraan_id="SATP105"  markup_required="true"/>
+		<tag name="Protection" teletraan_id="SATP106"  markup_required="true"/>
+		<tag name="Rally" teletraan_id="SATP107"  markup_required="true"/>
+		<tag name="Rampage" teletraan_id="SATP108"  markup_required="true"/>
+		<tag name="Straxus Lives!" teletraan_id="SATP109"  markup_required="true"/>
+		<tag name="Such Heroic Nonsense" teletraan_id="SATP110"  markup_required="true"/>
+		<tag name="We Fix!" teletraan_id="SATP111"  markup_required="true"/>
+          </category>
+    </category>
+    <category name="Wave 2">
           <category name="Keywords">
             <tag name="Sturdy" markup_required="true"/>
             <tag name="Seeker" markup_required="true"/>
           </category>
           <category name="Battle Cards">
-            <tag name="Aerial Defense Armaments" markup_required="true"/>
-            <tag name="Bullseye Aegis" markup_required="true"/>
-            <tag name="Catch Off Guard" markup_required="true"/>
-            <tag name="Hands-Free Artillery" markup_required="true"/>
-            <tag name="Interrogation" markup_required="true"/>
-            <tag name="Ionizer Sword" markup_required="true"/>
-            <tag name="Lock On Lasers" markup_required="true"/>
-            <tag name="Spotlights" markup_required="true"/>
-            <tag name="Survive" markup_required="true"/>
-            <tag name="Take By Surprise" markup_required="true"/>
+		<tag name="Aerial Defense Armaments" teletraan_id="ATP2001"  markup_required="true"/>
+		<tag name="Bullseye Aegis" teletraan_id="ATP2002"  markup_required="true"/>
+		<tag name="Catch Off-Guard" teletraan_id="ATP2003"  markup_required="true"/>
+		<tag name="Hands-Free Artillery" teletraan_id="ATP2004"  markup_required="true"/>
+		<tag name="Interrogation" teletraan_id="ATP2005"  markup_required="true"/>
+		<tag name="Ionizer Sword" teletraan_id="ATP2006"  markup_required="true"/>
+		<tag name="Lock-On Lasers" teletraan_id="ATP2007"  markup_required="true"/>
+		<tag name="Spotlights" teletraan_id="ATP2008"  markup_required="true"/>
+		<tag name="Survive" teletraan_id="ATP2009"  markup_required="true"/>
+		<tag name="Take By Surprise" teletraan_id="ATP2010"  markup_required="true"/>
           </category>
           <category name="Stratagems">
-            <tag name="Bow Before Me" markup_required="true"/>
-            <tag name="Coordinated Aerial Tactics" markup_required="true"/>
-            <tag name="Drop’ Em" markup_required="true"/>
-            <tag name="High-Speed Chase" markup_required="true"/>
-            <tag name="Master Builder" markup_required="true"/>
-            <tag name="Whatever it Takes" markup_required="true"/>
+		<tag name="Bow Before Me" teletraan_id="SATP201"  markup_required="true"/>
+		<tag name="Coordinated Aerial Tactics" teletraan_id="SATP202"  markup_required="true"/>
+		<tag name="Drop 'Em" teletraan_id="SATP203"  markup_required="true"/>
+		<tag name="High-Speed Chase" teletraan_id="SATP204"  markup_required="true"/>
+		<tag name="Master Builder" teletraan_id="SATP205"  markup_required="true"/>
+		<tag name="Whatever It Takes" teletraan_id="SATP206"  markup_required="true"/>
           </category>
           <category name="Characters">
-            <tag name="Dirge - Feared Fighter" markup_required="true"/>
-            <tag name="Drift - Noble Warrior" markup_required="true"/>
-            <tag name="Huffer - Construction Engineer." markup_required="true"/>
-            <tag name="Motormaster - Stunticon Don" markup_required="true"/>
-            <tag name="Raider Overkill - Spy Patrol Havoc Wreaker" markup_required="true"/>
-            <tag name="Ramjet - Hellish Hooligan" markup_required="true"/>
-            <tag name="Silverbolt - Aerialbot Commander" markup_required="true"/>
-            <tag name="Soundwave - Intelligence Coordinator" markup_required="true"/>
-            <tag name="Thrust - Boisterous Brawler" markup_required="true"/>
+		<tag name="Dirge - Feared Fighter" teletraan_id="TATP201"  markup_required="true"/>
+		<tag name="Drift - Noble Warrior" teletraan_id="TATP202"  markup_required="true"/>
+		<tag name="Huffer - Construction Engineer" teletraan_id="TATP203"  markup_required="true"/>
+		<tag name="Motormaster - Stunticon Don" teletraan_id="TATP204"  markup_required="true"/>
+		<tag name="Raider Overkill - Spy Patrol • Havoc Wreaker" teletraan_id="TATP205"  markup_required="true"/>
+		<tag name="Ramjet - Hellish Hooligan" teletraan_id="TATP206"  markup_required="true"/>
+		<tag name="Silverbolt - Aerialbot Commander" teletraan_id="TATP207"  markup_required="true"/>
+		<tag name="Soundwave - Intelligence Coordinator" teletraan_id="TATP208"  markup_required="true"/>
+		<tag name="Thrust - Boisterous Brawler" teletraan_id="TATP209"  markup_required="true"/>
           </category>
-        </category>
-        <category name="Wave 3">
-          <category name="Battle Cards">
-            <tag name="Armored Assault" markup_required="true"/>
-            <tag name="Aura Of Dominance" markup_required="true"/>
-            <tag name="Despite Any Difficulty" markup_required="true"/>
-            <tag name="Dogfight" markup_required="true"/>
-            <tag name="Harpoon Gun" markup_required="true"/>
-            <tag name="Howling Howitzer" markup_required="true"/>
-            <tag name="Never A Dull Moment" markup_required="true"/>
-            <tag name="Outflank" markup_required="true"/>
-            <tag name="Valiant Effort" markup_required="true"/>
-          </category>
-          <category name="Stratagems">
-            <tag name="Fire And Fury" markup_required="true"/>
-            <tag name="Unbreachable" markup_required="true"/>
-          </category>
-          <category name="Characters">
-            <tag name="Banzaitron, Devious Orchestrator" markup_required="true"/>
-            <tag name="Highbrow, Malware Brigadier" markup_required="true"/>
-            <tag name="Impactor, Unrelenting Veteran" markup_required="true"/>
-            <tag name="Overlord, Sadistic Phase Sixer" markup_required="true"/>
-            <tag name="Ransack, Hungry for Battle" markup_required="true"/>
-            <tag name="Seaspray, Consummate Sailor" markup_required="true"/>
-            <tag name="Slipstream, Spy-for-Hire" markup_required="true"/>
-            <tag name="Snapdragon, Ruthless Combatant" markup_required="true"/>
-            <tag name="Starscream, Covetous Crony" markup_required="true"/>
-            <tag name="Wheeljack, Outsider" markup_required="true"/>
-            <tag name="Whirl, Lunatic Aerialist" markup_required="true"/>
-          </category>
-        </category>
     </category>
+    <category name="Wave 3">
+          <category name="Battle Cards">
+		<tag name="Armored Assault" teletraan_id="ATP3001"  markup_required="true"/>
+		<tag name="Aura of Dominance" teletraan_id="ATP3002"  markup_required="true"/>
+		<tag name="Despite Any Difficulty" teletraan_id="ATP3003"  markup_required="true"/>
+		<tag name="Dogfight" teletraan_id="ATP3004"  markup_required="true"/>
+		<tag name="Harpoon Gun" teletraan_id="ATP3005"  markup_required="true"/>
+		<tag name="Howling Howitzer" teletraan_id="ATP3006"  markup_required="true"/>
+		<tag name="Never a Dull Moment" teletraan_id="ATP3007"  markup_required="true"/>
+		<tag name="Outflank" teletraan_id="ATP3008"  markup_required="true"/>
+		<tag name="Valiant Effort" teletraan_id="ATP3009"  markup_required="true"/>
+          </category>
+          <category name="Stratagems">
+		<tag name="Fire and Fury" teletraan_id="SATP301"  markup_required="true"/>
+		<tag name="Unbreachable" teletraan_id="SATP302"  markup_required="true"/>
+          </category>
+          <category name="Characters">
+		<tag name="Banzaitron - Devious Orchestrator" teletraan_id="TATP301"  markup_required="true"/>
+		<tag name="Highbrow - Malware Brigadier" teletraan_id="TATP302"  markup_required="true"/>
+		<tag name="Impactor - Unrelenting Veteran" teletraan_id="TATP303"  markup_required="true"/>
+		<tag name="Overlord - Sadistic Phase Sixer" teletraan_id="TATP304"  markup_required="true"/>
+		<tag name="Ransack - Hungry For Battle" teletraan_id="TATP305"  markup_required="true"/>
+		<tag name="Seaspray - Consummate Sailor" teletraan_id="TATP306"  markup_required="true"/>
+		<tag name="Slipstream - Spy-For-Hire" teletraan_id="TATP307"  markup_required="true"/>
+		<tag name="Snapdragon - Ruthless Combatant" teletraan_id="TATP308"  markup_required="true"/>
+		<tag name="Starscream - Covetous Crony" teletraan_id="TATP309"  markup_required="true"/>
+		<tag name="Wheeljack - Outsider" teletraan_id="TATP310"  markup_required="true"/>
+		<tag name="Whirl - Lunatic Aerialist" teletraan_id="TATP311"  markup_required="true"/>
+          </category>
+    </category>
+    <category name="Wave 4">
+          <category name="Battle Cards">
+		<tag name="Absorption Core" teletraan_id="ATP4001"  markup_required="true"/>
+		<tag name="Aerial Superiority [ATP Version]" teletraan_id="ATP4002"  markup_required="true"/>
+		<tag name="Long-Range Volley" teletraan_id="ATP4003"  markup_required="true"/>
+		<tag name="Nothing To Lose" teletraan_id="ATP4004"  markup_required="true"/>
+		<tag name="Opportunism" teletraan_id="ATP4005"  markup_required="true"/>
+		<tag name="Reflector Cell" teletraan_id="ATP4006"  markup_required="true"/>
+		<tag name="Relentless Pursuit" teletraan_id="ATP4007"  markup_required="true"/>
+		<tag name="Show Of Mastery" teletraan_id="ATP4008"  markup_required="true"/>
+		<tag name="Skillful Display" teletraan_id="ATP4009"  markup_required="true"/>
+		<tag name="Withdrawal Protocol" teletraan_id="ATP4010"  markup_required="true"/>
+          </category>
+          <category name="Stratagems">
+		<tag name="Down, But Not Out" teletraan_id="SATP401"  markup_required="true"/>
+		<tag name="No Matter The Odds" teletraan_id="SATP402"  markup_required="true"/>
+		<tag name="Simple, Sure, Steady" teletraan_id="SATP403"  markup_required="true"/>
+          </category>
+          <category name="Characters">
+		<tag name="Acid Storm - Forecaster" teletraan_id="TATP401"  markup_required="true"/>
+		<tag name="Autobot Sovereign" teletraan_id="TATP402"  markup_required="true"/>
+		<tag name="Cyclonus - Conscripted Warrior" teletraan_id="TATP403"  markup_required="true"/>
+		<tag name="Megatron - Hungry For Power" teletraan_id="TATP404"  markup_required="true"/>
+		<tag name="Starscream - Fiendish Ingrate" teletraan_id="TATP405"  markup_required="true"/>
+		<tag name="Infinitus" teletraan_id="TATP406"  markup_required="true"/>
+		<tag name="Mercenary Bumblebee - Hero In The Making" teletraan_id="TATP407"  markup_required="true"/>
+		<tag name="Orion Pax - Destined For Greatness" teletraan_id="TATP408"  markup_required="true"/>
+		<tag name="Hot Rod - Chosen Successor" teletraan_id="TATP409"  markup_required="true"/>
+		<tag name="Scourge - Implacable Tracker" teletraan_id="TATP410"  markup_required="true"/>
+		<tag name="Thundercracker - Volant Virtuoso" teletraan_id="TATP411"  markup_required="true"/>
+          </category>
+    </category>
+    <category name="Wave 5">
+          <category name="Battle Cards">
+		<tag name="Adamantine Frame" teletraan_id="ATP5001"  markup_required="true"/>
+		<tag name="Champion's Chassis" teletraan_id="ATP5002"  markup_required="true"/>
+		<tag name="Downfall Protocol" teletraan_id="ATP5003"  markup_required="true"/>
+		<tag name="End Of The Road" teletraan_id="ATP5004"  markup_required="true"/>
+		<tag name="Guardian Shell" teletraan_id="ATP5005"  markup_required="true"/>
+		<tag name="Hunt Down" teletraan_id="ATP5006"  markup_required="true"/>
+		<tag name="Into The Fray" teletraan_id="ATP5007"  markup_required="true"/>
+		<tag name="Knack" teletraan_id="ATP5008"  markup_required="true"/>
+		<tag name="Must Die Sometime" teletraan_id="ATP5009"  markup_required="true"/>
+		<tag name="Never Give Up" teletraan_id="ATP5010"  markup_required="true"/>
+		<tag name="Particle Beam Cannon" teletraan_id="ATP5011"  markup_required="true"/>
+		<tag name="Reverse Engineer" teletraan_id="ATP5012"  markup_required="true"/>
+		<tag name="Seek And Destroy" teletraan_id="ATP5013"  markup_required="true"/>
+		<tag name="Undermine" teletraan_id="ATP5014"  markup_required="true"/>
+		<tag name="Will Of The Protocols" teletraan_id="ATP5015"  markup_required="true"/>
+          </category>
+          <category name="Stratagems">
+		<tag name="Bitter Half" teletraan_id="SATP501"  markup_required="true"/>
+		<tag name="Gear Up" teletraan_id="SATP502"  markup_required="true"/>
+		<tag name="More Than Meets The Eye" teletraan_id="SATP503"  markup_required="true"/>
+		<tag name="Rough And Tumble" teletraan_id="SATP504"  markup_required="true"/>
+		<tag name="Target Acquired" teletraan_id="SATP505"  markup_required="true"/>
+		<tag name="Track Record" teletraan_id="SATP506"  markup_required="true"/>
+          </category>
+          <category name="Characters">
+		<tag name="Alpha Trion - Archivist of Iacon" teletraan_id="TATP501"  markup_required="true"/>
+		<tag name="Ariel - Frontline Rebel" teletraan_id="TATP502"  markup_required="true"/>
+		<tag name="Autobot Highbrow - Agent of Justice" teletraan_id="TATP503"  markup_required="true"/>
+		<tag name="Autobot Xort" teletraan_id="TATP504"  markup_required="true"/>
+		<tag name="Battlefield Shockwave - Targeted Artillery" teletraan_id="TATP505"  markup_required="true"/>
+		<tag name="Bulkhead - Munitions Lobber" teletraan_id="TATP506"  markup_required="true"/>
+		<tag name="Decepticon Jetfire - Repentant Ringleader" teletraan_id="TATP507"  markup_required="true"/>
+		<tag name="Doubledealer - Loyal To None" teletraan_id="TATP508"  markup_required="true"/>
+		<tag name="Galvatron - Callous Tyrant" teletraan_id="TATP509"  markup_required="true"/>
+		<tag name="Grimlock - Resolute Warlord" teletraan_id="TATP510"  markup_required="true"/>
+		<tag name="Knockout - Battlefield Attendant" teletraan_id="TATP511"  markup_required="true"/>
+		<tag name="Leader Wreck-Gar - Junkion Horde" teletraan_id="TATP512"  markup_required="true"/>
+		<tag name="Megatron - Brutal Iconoclast" teletraan_id="TATP513"  markup_required="true"/>
+		<tag name="Minimus Ambus - Armor-Bearer" teletraan_id="TATP514"  markup_required="true"/>
+		<tag name="Ratchet - Grizzled Mechanic" teletraan_id="TATP515"  markup_required="true"/>
+		<tag name="Rung - Selector-in-Chief" teletraan_id="TATP516"  markup_required="true"/>
+		<tag name="Sky Lynx - Magnificent Commander" teletraan_id="TATP517"  markup_required="true"/>
+		<tag name="Skywarp - Troublesome Teleporter" teletraan_id="TATP518"  markup_required="true"/>
+		<tag name="Thunderwing - Decepticon Powerhouse" teletraan_id="TATP519"  markup_required="true"/>
+		<tag name="Venin - Paranoid Leader" teletraan_id="TATP520"  markup_required="true"/>
+          </category>
+    </category>
+    <category name="Wave 6">
+          <category name="Battle Cards">
+		<tag name="Buckle Down" teletraan_id="ATP6001"  markup_required="true"/>
+		<tag name="Catch and Release" teletraan_id="ATP6002"  markup_required="true"/>
+		<tag name="Close-Quarter Combat" teletraan_id="ATP6003"  markup_required="true"/>
+		<tag name="Dry-Gulch" teletraan_id="ATP6004"  markup_required="true"/>
+		<tag name="Fevered Edge" teletraan_id="ATP6005"  markup_required="true"/>
+		<tag name="Fighting Dirty" teletraan_id="ATP6006"  markup_required="true"/>
+		<tag name="Follow Through" teletraan_id="ATP6007"  markup_required="true"/>
+		<tag name="Mad Science" teletraan_id="ATP6008"  markup_required="true"/>
+		<tag name="Pulling Rank" teletraan_id="ATP6009"  markup_required="true"/>
+		<tag name="Reinforced Hull" teletraan_id="ATP6010"  markup_required="true"/>
+		<tag name="Take No Prisoners" teletraan_id="ATP6011"  markup_required="true"/>
+		<tag name="Thrumming Blade" teletraan_id="ATP6012"  markup_required="true"/>
+		<tag name="Wrecker's Orders" teletraan_id="ATP6013"  markup_required="true"/>
+          </category>
+          <category name="Stratagems">
+		<tag name="Acoustic Overload" teletraan_id="SATP601"  markup_required="true"/>
+		<tag name="Behind Enemy Lines" teletraan_id="SATP602"  markup_required="true"/>
+		<tag name="Lost In Research" teletraan_id="SATP603"  markup_required="true"/>
+		<tag name="Settle Some Scores" teletraan_id="SATP604"  markup_required="true"/>
+		<tag name="Sharpshooter" teletraan_id="SATP605"  markup_required="true"/>
+		<tag name="This Is My Command" teletraan_id="SATP606"  markup_required="true"/>
+          </category>
+          <category name="Characters">
+		<tag name="Astrotrain - Sower of Confusion" teletraan_id="TATP601"  markup_required="true"/>
+		<tag name="Autobot Skids - Theoretician" teletraan_id="TATP602"  markup_required="true"/>
+		<tag name="Bombshell - Cavalier Menace" teletraan_id="TATP603"  markup_required="true"/>
+		<tag name="Broadside - Titanic Mariner" teletraan_id="TATP604"  markup_required="true"/>
+		<tag name="Cyclonus - Steadfast Lieutenant" teletraan_id="TATP605"  markup_required="true"/>
+		<tag name="Decepticon Darkmoon" teletraan_id="TATP606"  markup_required="true"/>
+		<tag name="Dinobot Slug - Hooligan" teletraan_id="TATP607"  markup_required="true"/>
+		<tag name="Hot Rod - Ardent Upstart" teletraan_id="TATP608"  markup_required="true"/>
+		<tag name="Ironfist - Armanents Artist" teletraan_id="TATP609"  markup_required="true"/>
+		<tag name="Ironhide - Ornery War-Horse" teletraan_id="TATP610"  markup_required="true"/>
+		<tag name="Nemesis Prime - Incarnation of Dread" teletraan_id="TATP611"  markup_required="true"/>
+		<tag name="Red Wing - Madcap Maniac" teletraan_id="TATP612"  markup_required="true"/>
+		<tag name="Warpath - High-Caliber Cannoneer" teletraan_id="TATP613"  markup_required="true"/>
+		<tag name="Decepticon Shrute - Detestable Bureaucrat" teletraan_id="TATP614"  markup_required="true"/>
+		<tag name="Decepticon Singe - Bitter Exile" teletraan_id="TATP615"  markup_required="true"/>
+          </category>
+    </category>
+  </category>
 </tags>
