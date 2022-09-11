@@ -1318,16 +1318,16 @@
             <tag name="Seeker" markup_required="true"/>
           </category>
           <category name="Battle Cards">
-		<tag name="Aerial Defense Armaments" teletraan_id="ATP2001"  markup_required="true"/>
-		<tag name="Bullseye Aegis" teletraan_id="ATP2002"  markup_required="true"/>
-		<tag name="Catch Off-Guard" teletraan_id="ATP2003"  markup_required="true"/>
-		<tag name="Hands-Free Artillery" teletraan_id="ATP2004"  markup_required="true"/>
-		<tag name="Interrogation" teletraan_id="ATP2005"  markup_required="true"/>
-		<tag name="Ionizer Sword" teletraan_id="ATP2006"  markup_required="true"/>
-		<tag name="Lock-On Lasers" teletraan_id="ATP2007"  markup_required="true"/>
-		<tag name="Spotlights" teletraan_id="ATP2008"  markup_required="true"/>
-		<tag name="Survive" teletraan_id="ATP2009"  markup_required="true"/>
-		<tag name="Take By Surprise" teletraan_id="ATP2010"  markup_required="true"/>
+		<tag name="Aerial Defense Armaments" teletraan_id="BATP2001"  markup_required="true"/>
+		<tag name="Bullseye Aegis" teletraan_id="BATP2002"  markup_required="true"/>
+		<tag name="Catch Off-Guard" teletraan_id="BATP2003"  markup_required="true"/>
+		<tag name="Hands-Free Artillery" teletraan_id="BATP2004"  markup_required="true"/>
+		<tag name="Interrogation" teletraan_id="BATP2005"  markup_required="true"/>
+		<tag name="Ionizer Sword" teletraan_id="BATP2006"  markup_required="true"/>
+		<tag name="Lock-On Lasers" teletraan_id="BATP2007"  markup_required="true"/>
+		<tag name="Spotlights" teletraan_id="BATP2008"  markup_required="true"/>
+		<tag name="Survive" teletraan_id="BATP2009"  markup_required="true"/>
+		<tag name="Take By Surprise" teletraan_id="BATP2010"  markup_required="true"/>
           </category>
           <category name="Stratagems">
 		<tag name="Bow Before Me" teletraan_id="SATP201"  markup_required="true"/>
@@ -1351,15 +1351,15 @@
     </category>
     <category name="Wave 3">
           <category name="Battle Cards">
-		<tag name="Armored Assault" teletraan_id="ATP3001"  markup_required="true"/>
-		<tag name="Aura of Dominance" teletraan_id="ATP3002"  markup_required="true"/>
-		<tag name="Despite Any Difficulty" teletraan_id="ATP3003"  markup_required="true"/>
-		<tag name="Dogfight" teletraan_id="ATP3004"  markup_required="true"/>
-		<tag name="Harpoon Gun" teletraan_id="ATP3005"  markup_required="true"/>
-		<tag name="Howling Howitzer" teletraan_id="ATP3006"  markup_required="true"/>
-		<tag name="Never a Dull Moment" teletraan_id="ATP3007"  markup_required="true"/>
-		<tag name="Outflank" teletraan_id="ATP3008"  markup_required="true"/>
-		<tag name="Valiant Effort" teletraan_id="ATP3009"  markup_required="true"/>
+		<tag name="Armored Assault" teletraan_id="BATP3001"  markup_required="true"/>
+		<tag name="Aura of Dominance" teletraan_id="BATP3002"  markup_required="true"/>
+		<tag name="Despite Any Difficulty" teletraan_id="BATP3003"  markup_required="true"/>
+		<tag name="Dogfight" teletraan_id="BATP3004"  markup_required="true"/>
+		<tag name="Harpoon Gun" teletraan_id="BATP3005"  markup_required="true"/>
+		<tag name="Howling Howitzer" teletraan_id="BATP3006"  markup_required="true"/>
+		<tag name="Never a Dull Moment" teletraan_id="BATP3007"  markup_required="true"/>
+		<tag name="Outflank" teletraan_id="BATP3008"  markup_required="true"/>
+		<tag name="Valiant Effort" teletraan_id="BATP3009"  markup_required="true"/>
           </category>
           <category name="Stratagems">
 		<tag name="Fire and Fury" teletraan_id="SATP301"  markup_required="true"/>
@@ -1381,16 +1381,16 @@
     </category>
     <category name="Wave 4">
           <category name="Battle Cards">
-		<tag name="Absorption Core" teletraan_id="ATP4001"  markup_required="true"/>
-		<tag name="Aerial Superiority [ATP Version]" teletraan_id="ATP4002"  markup_required="true"/>
-		<tag name="Long-Range Volley" teletraan_id="ATP4003"  markup_required="true"/>
-		<tag name="Nothing To Lose" teletraan_id="ATP4004"  markup_required="true"/>
-		<tag name="Opportunism" teletraan_id="ATP4005"  markup_required="true"/>
-		<tag name="Reflector Cell" teletraan_id="ATP4006"  markup_required="true"/>
-		<tag name="Relentless Pursuit" teletraan_id="ATP4007"  markup_required="true"/>
-		<tag name="Show Of Mastery" teletraan_id="ATP4008"  markup_required="true"/>
-		<tag name="Skillful Display" teletraan_id="ATP4009"  markup_required="true"/>
-		<tag name="Withdrawal Protocol" teletraan_id="ATP4010"  markup_required="true"/>
+		<tag name="Absorption Core" teletraan_id="BATP4001"  markup_required="true"/>
+		<tag name="Aerial Superiority [ATP Version]" teletraan_id="BATP4002"  markup_required="true"/>
+		<tag name="Long-Range Volley" teletraan_id="BATP4003"  markup_required="true"/>
+		<tag name="Nothing To Lose" teletraan_id="BATP4004"  markup_required="true"/>
+		<tag name="Opportunism" teletraan_id="BATP4005"  markup_required="true"/>
+		<tag name="Reflector Cell" teletraan_id="BATP4006"  markup_required="true"/>
+		<tag name="Relentless Pursuit" teletraan_id="BATP4007"  markup_required="true"/>
+		<tag name="Show Of Mastery" teletraan_id="BATP4008"  markup_required="true"/>
+		<tag name="Skillful Display" teletraan_id="BATP4009"  markup_required="true"/>
+		<tag name="Withdrawal Protocol" teletraan_id="BATP4010"  markup_required="true"/>
           </category>
           <category name="Stratagems">
 		<tag name="Down, But Not Out" teletraan_id="SATP401"  markup_required="true"/>
@@ -1413,21 +1413,21 @@
     </category>
     <category name="Wave 5">
           <category name="Battle Cards">
-		<tag name="Adamantine Frame" teletraan_id="ATP5001"  markup_required="true"/>
-		<tag name="Champion's Chassis" teletraan_id="ATP5002"  markup_required="true"/>
-		<tag name="Downfall Protocol" teletraan_id="ATP5003"  markup_required="true"/>
-		<tag name="End Of The Road" teletraan_id="ATP5004"  markup_required="true"/>
-		<tag name="Guardian Shell" teletraan_id="ATP5005"  markup_required="true"/>
-		<tag name="Hunt Down" teletraan_id="ATP5006"  markup_required="true"/>
-		<tag name="Into The Fray" teletraan_id="ATP5007"  markup_required="true"/>
-		<tag name="Knack" teletraan_id="ATP5008"  markup_required="true"/>
-		<tag name="Must Die Sometime" teletraan_id="ATP5009"  markup_required="true"/>
-		<tag name="Never Give Up" teletraan_id="ATP5010"  markup_required="true"/>
-		<tag name="Particle Beam Cannon" teletraan_id="ATP5011"  markup_required="true"/>
-		<tag name="Reverse Engineer" teletraan_id="ATP5012"  markup_required="true"/>
-		<tag name="Seek And Destroy" teletraan_id="ATP5013"  markup_required="true"/>
-		<tag name="Undermine" teletraan_id="ATP5014"  markup_required="true"/>
-		<tag name="Will Of The Protocols" teletraan_id="ATP5015"  markup_required="true"/>
+		<tag name="Adamantine Frame" teletraan_id="BATP5001"  markup_required="true"/>
+		<tag name="Champion's Chassis" teletraan_id="BATP5002"  markup_required="true"/>
+		<tag name="Downfall Protocol" teletraan_id="BATP5003"  markup_required="true"/>
+		<tag name="End Of The Road" teletraan_id="BATP5004"  markup_required="true"/>
+		<tag name="Guardian Shell" teletraan_id="BATP5005"  markup_required="true"/>
+		<tag name="Hunt Down" teletraan_id="BATP5006"  markup_required="true"/>
+		<tag name="Into The Fray" teletraan_id="BATP5007"  markup_required="true"/>
+		<tag name="Knack" teletraan_id="BATP5008"  markup_required="true"/>
+		<tag name="Must Die Sometime" teletraan_id="BATP5009"  markup_required="true"/>
+		<tag name="Never Give Up" teletraan_id="BATP5010"  markup_required="true"/>
+		<tag name="Particle Beam Cannon" teletraan_id="BATP5011"  markup_required="true"/>
+		<tag name="Reverse Engineer" teletraan_id="BATP5012"  markup_required="true"/>
+		<tag name="Seek And Destroy" teletraan_id="BATP5013"  markup_required="true"/>
+		<tag name="Undermine" teletraan_id="BATP5014"  markup_required="true"/>
+		<tag name="Will Of The Protocols" teletraan_id="BATP5015"  markup_required="true"/>
           </category>
           <category name="Stratagems">
 		<tag name="Bitter Half" teletraan_id="SATP501"  markup_required="true"/>
@@ -1462,19 +1462,19 @@
     </category>
     <category name="Wave 6">
           <category name="Battle Cards">
-		<tag name="Buckle Down" teletraan_id="ATP6001"  markup_required="true"/>
-		<tag name="Catch and Release" teletraan_id="ATP6002"  markup_required="true"/>
-		<tag name="Close-Quarter Combat" teletraan_id="ATP6003"  markup_required="true"/>
-		<tag name="Dry-Gulch" teletraan_id="ATP6004"  markup_required="true"/>
-		<tag name="Fevered Edge" teletraan_id="ATP6005"  markup_required="true"/>
-		<tag name="Fighting Dirty" teletraan_id="ATP6006"  markup_required="true"/>
-		<tag name="Follow Through" teletraan_id="ATP6007"  markup_required="true"/>
-		<tag name="Mad Science" teletraan_id="ATP6008"  markup_required="true"/>
-		<tag name="Pulling Rank" teletraan_id="ATP6009"  markup_required="true"/>
-		<tag name="Reinforced Hull" teletraan_id="ATP6010"  markup_required="true"/>
-		<tag name="Take No Prisoners" teletraan_id="ATP6011"  markup_required="true"/>
-		<tag name="Thrumming Blade" teletraan_id="ATP6012"  markup_required="true"/>
-		<tag name="Wrecker's Orders" teletraan_id="ATP6013"  markup_required="true"/>
+		<tag name="Buckle Down" teletraan_id="BATP6001"  markup_required="true"/>
+		<tag name="Catch and Release" teletraan_id="BATP6002"  markup_required="true"/>
+		<tag name="Close-Quarter Combat" teletraan_id="BATP6003"  markup_required="true"/>
+		<tag name="Dry-Gulch" teletraan_id="BATP6004"  markup_required="true"/>
+		<tag name="Fevered Edge" teletraan_id="BATP6005"  markup_required="true"/>
+		<tag name="Fighting Dirty" teletraan_id="BATP6006"  markup_required="true"/>
+		<tag name="Follow Through" teletraan_id="BATP6007"  markup_required="true"/>
+		<tag name="Mad Science" teletraan_id="BATP6008"  markup_required="true"/>
+		<tag name="Pulling Rank" teletraan_id="BATP6009"  markup_required="true"/>
+		<tag name="Reinforced Hull" teletraan_id="BATP6010"  markup_required="true"/>
+		<tag name="Take No Prisoners" teletraan_id="BATP6011"  markup_required="true"/>
+		<tag name="Thrumming Blade" teletraan_id="BATP6012"  markup_required="true"/>
+		<tag name="Wrecker's Orders" teletraan_id="BATP6013"  markup_required="true"/>
           </category>
           <category name="Stratagems">
 		<tag name="Acoustic Overload" teletraan_id="SATP601"  markup_required="true"/>
