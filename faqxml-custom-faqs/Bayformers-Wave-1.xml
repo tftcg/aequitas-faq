@@ -335,14 +335,4 @@
         </answer>
       </entry>
     </target>
-    <target name="Stim Shock">
-      <entry id="58">
-        <question>
-          What happens to Stim Shock when the Bold has been reduced to zero, for example by Oppress?
-        </question>
-        <answer>
-          If Stim Shock is revealed and an enemy character has had its Bold reduced to 0, it still has Bold. Stim Shock will still do 1 damage to it.
-        </answer>
-      </entry>
-    </target>
 </faq>

@@ -1,0 +1,23 @@
+<?xml version="1.0"?>
+<faq name="Aequitas Rules Roundup Allied Crossplay 2022-09-TBD" source_url="" published_date="2022-09-TBD" sourced_at="2022-09-TBD">
+    <target name="Fangry - Cursed Nightmare">
+      <entry id="1">
+        <question>
+          What happens at the start of my turn if I have three or less cards in my deck and Fangry is in bot mode?
+        </question>
+        <answer>
+          Similar to Treasure Hunt, scrap the cards you have remaining according to instructions, shuffle all the other cards in your Scrap Pile (not including the ones you just scrapped) into your deck, then scrap any remaining cards from your deck, for a total of three.
+        </answer>
+      </entry>
+    </target>
+    <target name="Stim Shock">
+      <entry id="58">
+        <question>
+          What happens to Stim Shock when the Bold has been reduced to zero, for example by Oppress?
+        </question>
+        <answer>
+          If Stim Shock is revealed and an enemy character has had its Bold reduced to 0, it still has Bold. Stim Shock will still do 1 damage to it.
+        </answer>
+      </entry>
+    </target>
+</faq>
