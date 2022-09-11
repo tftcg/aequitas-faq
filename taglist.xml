@@ -1191,109 +1191,109 @@
             <tag name="Horde" markup_required="true"/>
           </category>
           <category name="Battle Cards">
-		<tag name="300-TT Crusher Claw" teletraan_id="BARK001" />
-		<tag name="Aerial Superiority" teletraan_id="BARK002" />
-		<tag name="Alliance" teletraan_id="BARK003" />
-		<tag name="Apex Armor" teletraan_id="BARK004" />
-		<tag name="Assault Formation" teletraan_id="BARK005" />
-		<tag name="Beast Mode" teletraan_id="BARK006" />
-		<tag name="Cacophonous Failure" teletraan_id="BARK007" />
-		<tag name="Cloaking Screen" teletraan_id="BARK008" />
-		<tag name="Cloud Cover" teletraan_id="BARK009" />
-		<tag name="Combaticon Enigma" teletraan_id="BARK010" />
-		<tag name="Cosmic Rust Cannon" teletraan_id="BARK011" />
-		<tag name="Crack Back" teletraan_id="BARK012" />
-		<tag name="Crushing Claws" teletraan_id="BARK013" />
-		<tag name="Dare To Believe" teletraan_id="BARK014" />
-		<tag name="Death to the Weak" teletraan_id="BARK015" />
-		<tag name="Electro Stinger of Scorponok" teletraan_id="BARK016" />
-		<tag name="Energon Sword" teletraan_id="BARK017" />
-		<tag name="Feral Tenacity" teletraan_id="BARK018" />
-		<tag name="Grimlock's Sword" teletraan_id="BARK019" />
-		<tag name="H-M Laser Cannon" teletraan_id="BARK020" />
-		<tag name="Nothin's Gonna Stand In Our Way" teletraan_id="BARK021" />
-		<tag name="Particle Cannon of Galvatron" teletraan_id="BARK022" />
-		<tag name="Racing Stripes" teletraan_id="BARK023" />
-		<tag name="Resilience" teletraan_id="BARK024" markup_required="true"/>
-		<tag name="Scan the Vaults" teletraan_id="BARK025" />
-		<tag name="Sharkticon Mace" teletraan_id="BARK026" />
-		<tag name="Spoils of War" teletraan_id="BARK027" />
-		<tag name="Starscream's Cape" teletraan_id="BARK028" />
-		<tag name="Stasis Field" teletraan_id="BARK029" />
-		<tag name="Stormfall Sword" teletraan_id="BARK030" />
-		<tag name="Survival of the Fittest" teletraan_id="BARK031" />
-		<tag name="The Touch" teletraan_id="BARK032" />
-		<tag name="This is Bad Comedy" teletraan_id="BARK033" />
-		<tag name="Trithyllium Plating" teletraan_id="BARK034" />
-		<tag name="Tsunami Blaster" teletraan_id="BARK035" />
-		<tag name="Twisted Logic" teletraan_id="BARK036" />
-		<tag name="Unfriendly Fire" teletraan_id="BARK037" />
-		<tag name="Vamparc Ribbon" teletraan_id="BARK038" />
-		<tag name="Wanna Bet?" teletraan_id="BARK039" />
-		<tag name="Zarak's Shield" teletraan_id="BARK040" />
+		<tag name="300-TT Crusher Claw" teletraan_id="BARK1001" />
+		<tag name="Aerial Superiority" teletraan_id="BARK1002" />
+		<tag name="Alliance" teletraan_id="BARK1003" />
+		<tag name="Apex Armor" teletraan_id="BARK1004" />
+		<tag name="Assault Formation" teletraan_id="BARK1005" />
+		<tag name="Beast Mode" teletraan_id="BARK1006" />
+		<tag name="Cacophonous Failure" teletraan_id="BARK1007" />
+		<tag name="Cloaking Screen" teletraan_id="BARK1008" />
+		<tag name="Cloud Cover" teletraan_id="BARK1009" />
+		<tag name="Combaticon Enigma" teletraan_id="BARK1010" />
+		<tag name="Cosmic Rust Cannon" teletraan_id="BARK1011" />
+		<tag name="Crack Back" teletraan_id="BARK1012" />
+		<tag name="Crushing Claws" teletraan_id="BARK1013" />
+		<tag name="Dare To Believe" teletraan_id="BARK1014" />
+		<tag name="Death to the Weak" teletraan_id="BARK1015" />
+		<tag name="Electro Stinger of Scorponok" teletraan_id="BARK1016" />
+		<tag name="Energon Sword" teletraan_id="BARK1017" />
+		<tag name="Feral Tenacity" teletraan_id="BARK1018" />
+		<tag name="Grimlock's Sword" teletraan_id="BARK1019" />
+		<tag name="H-M Laser Cannon" teletraan_id="BARK1020" />
+		<tag name="Nothin's Gonna Stand In Our Way" teletraan_id="BARK1021" />
+		<tag name="Particle Cannon of Galvatron" teletraan_id="BARK1022" />
+		<tag name="Racing Stripes" teletraan_id="BARK1023" />
+		<tag name="Resilience" teletraan_id="BARK1024" markup_required="true"/>
+		<tag name="Scan the Vaults" teletraan_id="BARK1025" />
+		<tag name="Sharkticon Mace" teletraan_id="BARK1026" />
+		<tag name="Spoils of War" teletraan_id="BARK1027" />
+		<tag name="Starscream's Cape" teletraan_id="BARK1028" />
+		<tag name="Stasis Field" teletraan_id="BARK1029" />
+		<tag name="Stormfall Sword" teletraan_id="BARK1030" />
+		<tag name="Survival of the Fittest" teletraan_id="BARK1031" />
+		<tag name="The Touch" teletraan_id="BARK1032" />
+		<tag name="This is Bad Comedy" teletraan_id="BARK1033" />
+		<tag name="Trithyllium Plating" teletraan_id="BARK1034" />
+		<tag name="Tsunami Blaster" teletraan_id="BARK1035" />
+		<tag name="Twisted Logic" teletraan_id="BARK1036" />
+		<tag name="Unfriendly Fire" teletraan_id="BARK1037" />
+		<tag name="Vamparc Ribbon" teletraan_id="BARK1038" />
+		<tag name="Wanna Bet?" teletraan_id="BARK1039" />
+		<tag name="Zarak's Shield" teletraan_id="BARK1040" />
           </category>
           <category name="Stratagems">
-		<tag name="Advanced Technology" teletraan_id="SARK01" />
-		<tag name="Arise, Rodimus Prime" teletraan_id="SARK02" />
-		<tag name="Arm the Lonely" teletraan_id="SARK03" />
-		<tag name="Barbaric Rage" teletraan_id="SARK04" />
-		<tag name="Brothers In Armor" teletraan_id="SARK05" />
-		<tag name="Bust Some Deceptichops!" teletraan_id="SARK06" />
-		<tag name="Can't Squish This" teletraan_id="SARK07" />
-		<tag name="Do It With Style!" teletraan_id="SARK08" />
-		<tag name="Drop Your Weapons" teletraan_id="SARK09" />
-		<tag name="Heat Resistant Body" teletraan_id="SARK10" />
-		<tag name="I Don't Break Rules, I Just Bend Them - A Lot." teletraan_id="SARK11" />
-		<tag name="Made of Sterner Stuff" teletraan_id="SARK12" />
-		<tag name="Mayhem" teletraan_id="SARK13" />
-		<tag name="Paranoia" teletraan_id="SARK14" />
-		<tag name="Predacon Fortitude" teletraan_id="SARK15" />
-		<tag name="Quest for Fire" teletraan_id="SARK16" />
-		<tag name="Scout the Area" teletraan_id="SARK17" />
-		<tag name="Starscream's Brigade" teletraan_id="SARK18" />
-		<tag name="Such Heroic Nonsense [Ark Version]" teletraan_id="SARK19" />
-		<tag name="Unstoppable" teletraan_id="SARK20" />
+		<tag name="Advanced Technology" teletraan_id="SARK101" />
+		<tag name="Arise, Rodimus Prime" teletraan_id="SARK102" />
+		<tag name="Arm the Lonely" teletraan_id="SARK103" />
+		<tag name="Barbaric Rage" teletraan_id="SARK104" />
+		<tag name="Brothers In Armor" teletraan_id="SARK105" />
+		<tag name="Bust Some Deceptichops!" teletraan_id="SARK106" />
+		<tag name="Can't Squish This" teletraan_id="SARK107" />
+		<tag name="Do It With Style!" teletraan_id="SARK108" />
+		<tag name="Drop Your Weapons" teletraan_id="SARK109" />
+		<tag name="Heat Resistant Body" teletraan_id="SARK110" />
+		<tag name="I Don't Break Rules, I Just Bend Them - A Lot." teletraan_id="SARK111" />
+		<tag name="Made of Sterner Stuff" teletraan_id="SARK112" />
+		<tag name="Mayhem" teletraan_id="SARK113" />
+		<tag name="Paranoia" teletraan_id="SARK114" />
+		<tag name="Predacon Fortitude" teletraan_id="SARK115" />
+		<tag name="Quest for Fire" teletraan_id="SARK116" />
+		<tag name="Scout the Area" teletraan_id="SARK117" />
+		<tag name="Starscream's Brigade" teletraan_id="SARK118" />
+		<tag name="Such Heroic Nonsense [Ark Version]" teletraan_id="SARK119" />
+		<tag name="Unstoppable" teletraan_id="SARK120" />
           </category>
           <category name="Characters">
-		<tag name="Beastbox - Savage Interrogator" teletraan_id="TARK01" />
-		<tag name="Blast Off - Space Warrior" teletraan_id="TARK02" />
-		<tag name="Bombshock - Military Patrol • Patrol Leader" teletraan_id="TARK03" />
-		<tag name="Brawl - Ground Assault" teletraan_id="TARK04" />
-		<tag name="Bumblebee - Optimistic Brawler" teletraan_id="TARK05" />
-		<tag name="Cyclonus - Loyal Enforcer" teletraan_id="TARK06" />
-		<tag name="Dropshot - Relentless Soldier" teletraan_id="TARK07" />
-		<tag name="Galvatron - Maniacal Tyrant" teletraan_id="TARK08" />
-		<tag name="Ghost of Starscream - Annoying Apparition" teletraan_id="TARK09" />
-		<tag name="Gnaw - Voracious Hunter" teletraan_id="TARK10" />
-		<tag name="Grimlock - Dinobot King" teletraan_id="TARK11" />
-		<tag name="Growl - Intimidating Thug" teletraan_id="TARK12" />
-		<tag name="Huffer - Sullen Engineer" teletraan_id="TARK13" />
-		<tag name="Jazz - Outta Sight, Dynamite Lieutenant" teletraan_id="TARK14" />
-		<tag name="Lord Zarak - Ruler of Nebulon" teletraan_id="TARK15" />
-		<tag name="Megatron - Autobot Bane" teletraan_id="TARK16" />
-		<tag name="Onslaught - Combaticon Leader" teletraan_id="TARK17" />
-		<tag name="Ratbat - Calculating Scout" teletraan_id="TARK18" />
-		<tag name="Ratchet - Chief Medical Officer" teletraan_id="TARK19" />
-		<tag name="Red Wing - Thrillseeker" teletraan_id="TARK20" />
-		<tag name="Rewind - Data Collector" teletraan_id="TARK21" />
-		<tag name="Rodimus Prime - Worthy Leader" teletraan_id="TARK22" />
-		<tag name="Rumble - Demolition Expert" teletraan_id="TARK23" />
-		<tag name="Scorponok - Brutal Warlord" teletraan_id="TARK24" />
-		<tag name="Scourge - Opportunistic Tracker" teletraan_id="TARK25" />
-		<tag name="Seaspray - Valiant Vessel" teletraan_id="TARK26" />
-		<tag name="Sharkticon - Feeding Frenzy" teletraan_id="TARK27" />
-		<tag name="Sideswipe - Reckless Warrior" teletraan_id="TARK28" />
-		<tag name="Sky-Byte - Harbinger of Doom" teletraan_id="TARK29" />
-		<tag name="Specialist Countdown - Transport • Space Explorer" teletraan_id="TARK30" />
-		<tag name="Sunstreaker - Arrogant Daredevil" teletraan_id="TARK31" />
-		<tag name="Sweep - Scourge's Armada" teletraan_id="TARK32" />
-		<tag name="Swindle - Arms Dealer" teletraan_id="TARK33" />
-		<tag name="Tracer - Ambitious Scout" teletraan_id="TARK34" />
-		<tag name="Vortex - Interrogator" teletraan_id="TARK35" />
-		<tag name="Wheelie - Rhyming Racer" teletraan_id="TARK36" />
-		<tag name="Windblade - Camien Champion" teletraan_id="TARK37" />
-		<tag name="Wreck-Gar - Junkion Leader" teletraan_id="TARK38" />
-		<tag name="Bruticus - Unstoppable Giant" teletraan_id="TARKC14" />
+		<tag name="Beastbox - Savage Interrogator" teletraan_id="TARK101" />
+		<tag name="Blast Off - Space Warrior" teletraan_id="TARK102" />
+		<tag name="Bombshock - Military Patrol • Patrol Leader" teletraan_id="TARK103" />
+		<tag name="Brawl - Ground Assault" teletraan_id="TARK104" />
+		<tag name="Bumblebee - Optimistic Brawler" teletraan_id="TARK105" />
+		<tag name="Cyclonus - Loyal Enforcer" teletraan_id="TARK106" />
+		<tag name="Dropshot - Relentless Soldier" teletraan_id="TARK107" />
+		<tag name="Galvatron - Maniacal Tyrant" teletraan_id="TARK108" />
+		<tag name="Ghost of Starscream - Annoying Apparition" teletraan_id="TARK109" />
+		<tag name="Gnaw - Voracious Hunter" teletraan_id="TARK110" />
+		<tag name="Grimlock - Dinobot King" teletraan_id="TARK111" />
+		<tag name="Growl - Intimidating Thug" teletraan_id="TARK112" />
+		<tag name="Huffer - Sullen Engineer" teletraan_id="TARK113" />
+		<tag name="Jazz - Outta Sight, Dynamite Lieutenant" teletraan_id="TARK114" />
+		<tag name="Lord Zarak - Ruler of Nebulon" teletraan_id="TARK115" />
+		<tag name="Megatron - Autobot Bane" teletraan_id="TARK116" />
+		<tag name="Onslaught - Combaticon Leader" teletraan_id="TARK117" />
+		<tag name="Ratbat - Calculating Scout" teletraan_id="TARK118" />
+		<tag name="Ratchet - Chief Medical Officer" teletraan_id="TARK119" />
+		<tag name="Red Wing - Thrillseeker" teletraan_id="TARK120" />
+		<tag name="Rewind - Data Collector" teletraan_id="TARK121" />
+		<tag name="Rodimus Prime - Worthy Leader" teletraan_id="TARK122" />
+		<tag name="Rumble - Demolition Expert" teletraan_id="TARK123" />
+		<tag name="Scorponok - Brutal Warlord" teletraan_id="TARK124" />
+		<tag name="Scourge - Opportunistic Tracker" teletraan_id="TARK125" />
+		<tag name="Seaspray - Valiant Vessel" teletraan_id="TARK126" />
+		<tag name="Sharkticon - Feeding Frenzy" teletraan_id="TARK127" />
+		<tag name="Sideswipe - Reckless Warrior" teletraan_id="TARK128" />
+		<tag name="Sky-Byte - Harbinger of Doom" teletraan_id="TARK129" />
+		<tag name="Specialist Countdown - Transport • Space Explorer" teletraan_id="TARK130" />
+		<tag name="Sunstreaker - Arrogant Daredevil" teletraan_id="TARK131" />
+		<tag name="Sweep - Scourge's Armada" teletraan_id="TARK132" />
+		<tag name="Swindle - Arms Dealer" teletraan_id="TARK133" />
+		<tag name="Tracer - Ambitious Scout" teletraan_id="TARK134" />
+		<tag name="Vortex - Interrogator" teletraan_id="TARK135" />
+		<tag name="Wheelie - Rhyming Racer" teletraan_id="TARK136" />
+		<tag name="Windblade - Camien Champion" teletraan_id="TARK137" />
+		<tag name="Wreck-Gar - Junkion Leader" teletraan_id="TARK138" />
+		<tag name="Bruticus - Unstoppable Giant" teletraan_id="TARK1C14" />
           </category>
     </category>
     <category name="Alpha Trion Protocols">
