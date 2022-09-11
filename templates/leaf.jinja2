@@ -8,7 +8,7 @@
   <meta property="og:description" content="TF-Rules.info provides an easy way to access, and share, Transformers the Trading Card Game FAQs, Rules Roundups, and additional community FAQS. "/>
   <meta property="og:url" content="https://faq.tf-rules.info/{{ filename }}"/>
   {% if tag_node.attrib['teletraan_id'] %}
-  <meta property="og:image" content="https://teletraan1.net/card/{{ tag_node.attrib['teletraan_id']}}/{{ f_safe_name(tag_node.attrib['name']) }}"/>
+  <meta property="og:image" content="https://{{ f_get_image_domain(tag_node.attrib['teletraan_id']) }}/card/{{ tag_node.attrib['teletraan_id']}}/{{ f_safe_name(tag_node.attrib['name']) }}"/>
   <meta property="og:image:alt" content="The {{ faq_name }} card"/>
   <meta property="og:image:width" content="200"/>
   <meta property="og:image:height" content="280"/>
@@ -38,9 +38,9 @@
         </div>
         {% endif %}
         {% if tag_node.attrib['teletraan_id'] %}
-          <a id="teletraan-link" href="https://teletraan1.net/card/{{ tag_node.attrib['teletraan_id']}}/{{ f_safe_name(tag_node.attrib['name']) }}"><img src="/images/TeletraanBackground.png"><span class="teletraantext"> View On Teletraan1.net</span></a></a>
+          <a id="teletraan-link" href="https://{{ f_get_image_domain(tag_node.attrib['teletraan_id']) }}/card/{{ tag_node.attrib['teletraan_id']}}/{{ f_safe_name(tag_node.attrib['name']) }}"><img src="/images/TeletraanBackground.png"><span class="teletraantext"> View On Teletraan1.net</span></a></a>
 
-          <img id="teletraan-bot-image" src="https://teletraan1.net/cardimage?card={{ tag_node.attrib['teletraan_id']}}&mode=1"/>
+          <img id="teletraan-bot-image" src="https://{{ f_get_image_domain(tag_node.attrib['teletraan_id']) }}/cardimage?card={{ tag_node.attrib['teletraan_id']}}&mode=1"/>
         {% endif %}
 
         {% if ns.custom_cards %}
