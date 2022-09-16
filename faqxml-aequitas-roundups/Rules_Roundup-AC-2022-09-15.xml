@@ -1,0 +1,358 @@
+<?xml version="1.0"?>
+<faq name="Aequitas Rules Roundup Allied Crossplay 2022-09-15" source_url="" published_date="2022-09-15" sourced_at="2022-09-15">
+    <target name="Fangry - Cursed Nightmare">
+      <entry id="1">
+        <question>
+          What happens at the start of my turn if I have three or less cards in my deck and Fangry is in bot mode?
+        </question>
+        <answer>
+          Similar to Treasure Hunt, scrap the cards you have remaining according to instructions, shuffle all the other cards in your Scrap Pile (not including the ones you just scrapped) into your deck, then scrap any remaining cards from your deck, for a total of three.
+        </answer>
+      </entry>
+    </target>
+
+    <target name="Stim Shock">
+      <entry id="2">
+        <question>
+          What happens to Stim Shock when the Bold has been reduced to zero, for example by Oppress?
+        </question>
+        <answer>
+          If Stim Shock is revealed and an enemy character has had its Bold reduced to 0, it still has Bold. Stim Shock will still do 1 damage to it.
+        </answer>
+      </entry>
+    </target>
+
+    <target name="Sharkticon Gnaw - Gluttonous Gourmand">
+      <entry id="3">
+        <question>
+            Are the cards put under Gnaw face-up or face-down? 
+        </question>
+        <answer>
+            Cards are put under a character face-up unless otherwise specified. If cards are put under a character face-down (such as with Skytread, Sky-Byte, or Perceptor), they are put in a random order so that players do not know which card is which. Once a face-down card is put under a character, players are not permitted to look at them.
+        </answer>
+      </entry>
+    </target>
+
+    <target name="Crossguard 2X" tags="Decepticon Doublecrosser - Shield Brothers">
+      <entry id="4">
+        <question>
+            When a character defends equipped with the Crossguard 2X, how much is pierce reduced by? For example's sake, let's say the character has 3 base defense.
+        </question>
+        <answer>
+            Crossguard looks at the defender's total defense after the attacker flips (i.e. before the defender flips battle cards). So a base defense of 3, plus the +2 from Crossguard, means that it reduces Pierce by 5, assuming no other effects.
+        </answer>
+      </entry>
+    </target>
+
+
+    <target name="This Shall Be Your Ship">
+      <entry id="5">
+        <question>
+            So, I have This Shall Be Your Ship and have triggered all but “one of your Leaders was KO’d by damage”. I’m down to my last character, who is my only Leader, and he’s KO’d in combat. I assume the game ends and the Strat never flips to bring them back on 3 health?
+        </question>
+        <answer>
+            Yes, the game ends.
+        </answer>
+      </entry>
+    </target>
+
+    <target name="XYZ">
+      <entry id="6">
+        <question>
+            Unicron Raid Question: when the unicron player shuffles in the phase 2 or 3 battle cards, does that trigger captain omega's combine?
+        </question>
+        <answer>
+            It does not.
+        </answer>
+      </entry>
+    </target>
+
+    <target name="Reflect Damage">
+      <entry id="7">
+        <question>
+            If I play a Reflect Damage and then ping someone for a point of damage and they reveal Reflect Damage, can I then reveal my Reflect Damage to reflect it back?
+        </question>
+        <answer>
+            Yes.
+        </answer>
+      </entry>
+    </target>
+
+    <target name="Tread Bolt - Devil of the Deep Blue Sky">
+      <entry id="8">
+        <question>
+            Question regarding Treadbolt. When he shoots for each card under him, is it all one big instance of direct damage, or several groups of 2?
+        </question>
+        <answer>
+            One big instance of direct damage.
+        </answer>
+      </entry>
+    </target>
+
+    <target name="Stuck On You">
+      <entry id="9">
+        <question>
+            Regarding the Stratagem 'Stuck On You'. If I had a normal character and a Titan Master with a Head does that count as two characters or three?
+        </question>
+        <answer>
+            Three characters. Heads are separate characters from their bodies for deck construction, which is what Stuck On You checks. This includes Mind Control Collar and Mind Control Helmet, which are both characters.
+        </answer>
+      </entry>
+    </target>
+
+    <target name="Wreck-Gar - The Big Cheese! Now With More Cheese!" tags="Wreck-Gar - Junkion Leader">
+      <entry id="10">
+        <question>
+            Can you put Matrix of Leadership on Wreck-Gar?
+        </question>
+        <answer>
+            Yes, you can put Matrix on either Wave 8 or Wave 9 Wreck-Gars as they are each both Autobot and Junkion. As with the Noble Blaster, an upgrade saying "Put on Autobots only" does not care if the character has other factions, just that it is an Autobot. 
+        </answer>
+      </entry>
+    </target>
+
+    <target name="Junkion Nancy - Just Say No to Sparkplugs!">
+      <entry id="11">
+        <question>
+            With Junkion Nancy's station ability, if I focus and then scrap a card, is that +2 defence?
+        </question>
+        <answer>
+            No. Focus includes the act of scrapping, so Nancy only provides +1 defence to the stationed character.
+        </answer>
+      </entry>
+    </target>
+
+    <target name="Junkion Nancy - Just Say No to Sparkplugs!" tags="Aerial Recon">
+      <entry id="13">
+        <question>
+            Is Junkion Nancy's station ability affected by Aerial Recon?
+        </question>
+        <answer>
+            Yes, but only as long as you decide to scrap the card that Aerial Recon reveals.
+        </answer>
+      </entry>
+    </target>
+
+    <target name="Junkion Nancy - Just Say No to Sparkplugs!">
+      <entry id="14">
+        <question>
+            If my character stationed on Junkion Nancy has Focus 3, do I get +3 defence?
+        </question>
+        <answer>
+            No. Focus stacks into a single event, so on defending, a character with Focus 3 would use Focus only once per each defence.
+        </answer>
+      </entry>
+    </target>
+
+    <target name="Stations">
+      <entry id="15">
+        <question>
+            In a station block, what does the column under a station symbol mean?
+        </question>
+        <answer>
+            The column under the station symbol identifiers the conditions for a character to be able to take that station. Typiclaly it is a number and the phrase Bot. This identifes that a character trying to take that station must a) have a star cost less than or equal to the number, and b) be in Bot mode. 
+        </answer>
+      </entry>
+    </target>
+
+    <target name="Stations">
+      <entry id="16">
+        <question>
+            When can you take a station?
+        </question>
+        <answer>
+            You can take a station when a character is attacking or defending, the station is tapped, and the character meets the stations conditions.
+        </answer>
+      </entry>
+    </target>
+
+    <target name="Stations">
+      <entry id="16">
+        <question>
+            What happens when you untap a station?
+        </question>
+        <answer>
+            If any characters are in the station, then they leave the station. 
+        </answer>
+      </entry>
+    </target>
+
+    <target name="Stations">
+      <entry id="16">
+        <question>
+            What happens when you flip a station?
+        </question>
+        <answer>
+            If any characters are in the station, then they leave the station. 
+        </answer>
+      </entry>
+    </target>
+
+    <target name="Stations">
+      <entry id="17">
+        <question>
+            If a character with a station is KO'd while another character is in that station, does the character in the station leave the station?
+        </question>
+        <answer>
+            <!-- If it has a when a character leaves event, does it trigger?? -->
+            Yes.
+        </answer>
+      </entry>
+    </target>
+
+    <target name="Pop a Wheelie">
+      <entry id="18">
+        <question>
+            If Pop a Wheelie is played when I have only one character to attack with, and we will untap all characters at the end of turn; can I make an attack after the characters untap before my turn ends?
+        </question>
+        <answer>
+            No. Section 1.4.5 of Post-Attack is when the game identifies that all characters are tapped, and are then untapped. The game then immediately proceeds to section 5, Ending the Turn, and there is no opportunity to enter the Attack phase of the game again.
+        </answer>
+      </entry>
+    </target>
+
+    <target name="Impetuous Stand">
+      <entry id="19">
+        <question>
+            Can I use Impetuous Stand on a Battle Master in upgrade form?
+        </question>
+        <answer>
+            No. Not unless that Battle Master is a 0-cost character.
+        </answer>
+      </entry>
+    </target>
+
+    <target name="Out of the Way Hot Rod!">
+      <entry id="20">
+        <question>
+            If you play Private Hot Rod, Decepticon Exhaust, and Out of the Way Hot Rod! and then play Angolmois Surge on Private Hot Rod, can you have Decepticon Exhaust take the 1 point of damage from Angolmois Surge?  If so, is this intended?
+        </question>
+        <answer>
+            Yes you can. The strategem only states 'non-attack damage'. However, this is likely to be changed in an errata to only cover "non-attack damage from an opponent's card". 
+        </answer>
+      </entry>
+    </target>
+
+    <target name="Horde">
+      <entry id="21">
+        <question>
+            Can I have a character with Horde on my starting team, and one of the Horde-copies in my sideboard?
+        </question>
+        <answer>
+            No. Horde only applies to your starting team.
+        </answer>
+      </entry>
+    </target>
+
+    <target name="Decepticon Doublecrosser - Shield Brothers" tag="Horde,Four The Selectors!">
+      <entry id="22">
+        <question>
+            Can you have a Doublecrosser in your starting team and a Four The Selectors! and Doublecrosser in your sideboard?
+        </question>
+        <answer>
+            No. The Four The Selectors! stratagem is not in your starting team, therefore Doublecross does not have Horde. However, even if Doublecross did have Horde, Horde only applies to the starting team.
+        </answer>
+      </entry>
+    </target>
+
+    <target name="Battle Icon" tags="Electrified Spikes">
+      <entry id="23">
+        <question>
+            If a character dies mid-attack whether it be to Electrified Spikes or something else, can either player still swap for green icons?
+        </question>
+        <answer>
+            As long as cards were flipped during battle, you can swap cards for green battle icon cards. If a character dies before battle cards are flipped, then you would not be able to swap for green battle icon cards.
+        </answer>
+      </entry>
+    </target>
+
+    <target name="Sideboarding">
+      <entry id="24">
+        <question>
+            During sideboarding, if I want to swap a character for a stratagem, when does that happen?
+        </question>
+        <answer>
+            When you change your characters. You present your starting team (including stratagems) before swapping battle cards.
+        </answer>
+      </entry>
+    </target>
+
+    <target name="Stuck On You" tags="Impervious,Major Ultra Magnus - Infantry - City Commander">
+      <entry id="25">
+        <question>
+            I have Major Ultra Magnus on the field with the stratagems Stuck On You (allowing 2 armor slots as I have started with only 2 characters), Impervious (Ultra Magnus stratagem), and I have ultra Magnus armor and a Reflex Circuits on my Ultra Magnus. My opponent plays Vandalize and calls the Armor type. What happens?
+        </question>
+        <answer>
+            Each armor on Ultra Magnus triggers Impervious, allowing you to instead scrap an armor from your hand. To keep both armors, you would need to scrap two armors.
+        </answer>
+      </entry>
+    </target>
+
+    <target name="Greasestain - No Muss! No Fuss!" tags="Rum-Maj - Wreck-Gar Sold Separately!,Sidecar Artillery">
+      <entry id="26">
+        <question>
+            Greasestain is tapped in alt mode, and Rum-Maj is in bot mode with Sidecar Artillery in her weapon slot. I attack with Rum-Maj, adding her to Greasestain's station. Does the Sidecar Artillery trigger?
+        </question>
+        <answer>
+            No. The attack order with stations is to declare attacker, declare defender, take attacker station, take defender station, and only then to do attack triggers. Greasestain's station has increased Rum-Maj's attack to 4, missing the Sidecar Artillery trigger.
+        </answer>
+      </entry>
+    </target>
+
+    <target name="Junkheap - Wrecked to Ruin! Keeps On Doin'!">
+      <entry id="27">
+        <question>
+            When can I stop an attacking character's ability from triggering by removing a necessary flipped battle card?
+        </question>
+        <answer>
+            When the ability reads similar to "When this attacks and flips [Card-Condition]", removing the right card would permit you to block the attackers ability. That is because this language reviews the cards flipped after they have all been flipped, including the two extra for a white icon. For example Metroplex's bot mode ability. However when it reads "When you flip [Single-Card-Condition] while this is attacking", the ability would trigger before you had the opportunity to remove the card. This is because this language triggers on a single card flip event. An example is Starscream - Decepticon King flipping a Decepticon Crown.
+        </answer>
+      </entry>
+    </target>
+
+    <target name="Junkheap - Wrecked to Ruin! Keeps On Doin'!">
+      <entry id="28">
+        <question>
+            Junkheap's bot mode says "When this defends and your opponent flips battle cards", allowing its owner to scrap one of the battle cards flipped. What if the attacker attacks with Anticipation Engine and plays Swarm! from the top of their deck; can the defending Junkheap player scrap one of those cards?
+        </question>
+        <answer>
+            Yes, they can choose to scrap one of the flipped Swarm! cards because it is happening within the battle while Junkheap is defending. 
+            <!-- Does this stop them doing it again on the Attack battle flips??? -->
+        </answer>
+      </entry>
+    </target>
+
+    <target name="It's As Good As Used!">
+      <entry id="29">
+        <question>
+            What if I only have 1 Upgrade to reveal?
+        </question>
+        <answer>
+            Then you cannot use this ability, you need a minimum of 2 Upgrades.
+        </answer>
+      </entry>
+    </target>
+
+    <target name="It's As Good As Used!">
+      <entry id="30">
+        <question>
+            What if I reveal Turbo Boosters and Grenade Launcher, and my only car is in bot mode. Can my opponent choose the Turbo Boosters?
+        </question>
+        <answer>
+            Yes. Your quite please opponent may choose Turbo Boosters, which can't play and remains in your hand.
+        </answer>
+      </entry>
+    </target>
+
+    <target name="Dual Smokestacks">
+      <entry id="31">
+        <question>
+            Dual Smokestacks says that my opponent chooses to "Do 1 damage to each enemy" or "Do 2 damage to an enemy of your choice". The enemy of my enemy is myself, so does this mean that Dual Smokestacks does damage to my characters?
+        </question>
+        <answer>
+            No. Your opponent is choosing which operation you will perform. Your opponent's characters will be the ones that have damage done to them.
+        </answer>
+      </entry>
+    </target>
+
+</faq>
