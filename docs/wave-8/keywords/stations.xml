@@ -1,0 +1,42 @@
+<faq><target name="Stations"><entry source="Aequitas Rules Roundup Allied Crossplay 2022-09-15" id="15">
+        <question>
+            In a station block, what does the column under a station symbol mean?
+        </question>
+        <answer>
+            The column under the station symbol first identifies the station condition in the first box, and then any station bonuses. The condition is the requirements for a character to be able to take that station. Typiclaly it is a number and the phrase Bot. The number, if present, identifies that a character trying to take that station must have a star cost less than or equal to that number. Bot indicates that the character must be in Bot mode. The rest of the column provides any station bonuses that apply to a character when they have taken this station.
+        </answer>
+      </entry>
+    <entry source="Aequitas Rules Roundup Allied Crossplay 2022-09-15" id="16">
+        <question>
+            When can you take a station?
+        </question>
+        <answer>
+            You can take a station when a character is attacking or defending, the station is tapped, and the character meets the stations conditions.
+        </answer>
+      </entry>
+    <entry source="Aequitas Rules Roundup Allied Crossplay 2022-09-15" id="16">
+        <question>
+            What happens when you untap a station?
+        </question>
+        <answer>
+            If any characters are in the station, then they leave the station. 
+        </answer>
+      </entry>
+    <entry source="Aequitas Rules Roundup Allied Crossplay 2022-09-15" id="16">
+        <question>
+            What happens when you flip a station?
+        </question>
+        <answer>
+            If any characters are in the station, then they leave the station. 
+        </answer>
+      </entry>
+    <entry source="Aequitas Rules Roundup Allied Crossplay 2022-09-15" id="17">
+        <question>
+            If a character with a station is KO'd while another character is in that station, does the character in the station leave the station?
+        </question>
+        <answer>
+            
+            Yes.
+        </answer>
+      </entry>
+    </target></faq>

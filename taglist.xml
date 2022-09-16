@@ -1014,6 +1014,7 @@
             <tag name="Bandit" markup_required="true"/>
             <tag name="Drifter" markup_required="true"/>
             <tag name="Oppress" markup_required="true"/>
+            <tag name="Stations"/>
           </category>
           <category name="Battle Cards">
 		<tag name="38-Amp Ionic Plate" teletraan_id="BBFB001" />
