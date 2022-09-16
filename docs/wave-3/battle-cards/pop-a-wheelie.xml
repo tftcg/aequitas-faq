@@ -14,4 +14,12 @@ Correct. If you have another untapped motorcycle on your team, you can attack ag
                 No. Car is a trait and not a mode. Despite this card using 'Car mode', you should consider it as a short hand for 'a mode with the Car trait'. The same is true for Hunker Down's use of Tank mode, and Pop a Wheelie's use of Motorcycle mode.
             </answer>
         </entry>
+    <entry source="Aequitas Rules Roundup Allied Crossplay 2022-09-15" id="18">
+        <question>
+            If Pop a Wheelie is played when I have only one character to attack with, and we will untap all characters at the end of turn; can I make an attack after the characters untap before my turn ends?
+        </question>
+        <answer>
+            No. Section 1.4.5 of Post-Attack is when the game identifies that all characters are tapped, and are then untapped. The game then immediately proceeds to section 5, Ending the Turn, and there is no opportunity to enter the Attack phase of the game again.
+        </answer>
+      </entry>
     </target></faq>

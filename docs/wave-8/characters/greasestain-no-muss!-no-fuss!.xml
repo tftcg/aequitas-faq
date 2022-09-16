@@ -1,0 +1,9 @@
+<faq><target name="Greasestain - No Muss! No Fuss!"><entry source="Aequitas Rules Roundup Allied Crossplay 2022-09-15" id="26">
+        <question>
+            Greasestain is tapped in alt mode, and Rum-Maj is in bot mode with Sidecar Artillery in her weapon slot. I attack with Rum-Maj, adding her to Greasestain's station. Does the Sidecar Artillery trigger?
+        </question>
+        <answer>
+            No. The attack order with stations is to declare attacker, declare defender, take attacker station, take defender station, and only then to do attack triggers. Greasestain's station has increased Rum-Maj's attack to 4, missing the Sidecar Artillery trigger.
+        </answer>
+      </entry>
+    </target></faq>

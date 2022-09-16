@@ -1,4 +1,12 @@
-<faq><target name="Mind Control Helmet"><entry source="AP Wave 6:World|Strike FAQ" id="32">
+<faq><target name="Mind Control Helmet"><entry source="Aequitas Rules Roundup Allied Crossplay 2022-09-15" id="9">
+        <question>
+            Regarding the Stratagem 'Stuck On You'. If I had a normal character and a Titan Master with a Head does that count as two characters or three?
+        </question>
+        <answer>
+            Three characters. Heads are separate characters from their bodies for deck construction, which is what Stuck On You checks. This includes Mind Control Collar and Mind Control Helmet, which are both characters.
+        </answer>
+      </entry>
+    <entry source="AP Wave 6:World|Strike FAQ" id="32">
         <answer>
           Its bot mode ability triggers KO effects normally, like Decepticon Quake’s.
         </answer>

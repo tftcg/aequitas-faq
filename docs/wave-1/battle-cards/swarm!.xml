@@ -22,6 +22,15 @@ Are cards flipped during battle the only ones that don't hit the Scrap Pile unti
 Actions that are played (including Secret Actions), cards you flipped during battle, and other cards you flip due to cards like Swarm!, for example, are all scrapped at the end of turn.
       </answer>
     </entry>
+    <entry source="Aequitas Rules Roundup Allied Crossplay 2022-09-15" id="28">
+        <question>
+            Junkheap's bot mode says "When this defends and your opponent flips battle cards", allowing its owner to scrap one of the battle cards flipped. What if the attacker attacks with Anticipation Engine and plays Swarm! from the top of their deck; can the defending Junkheap player scrap one of those cards?
+        </question>
+        <answer>
+            Yes, they can choose to scrap one of the flipped Swarm! cards because it is happening within the battle while Junkheap is defending. 
+            
+        </answer>
+      </entry>
     <entry source="Aequitas Rules Roundup 2021-06-03" id="4" tags="Swarm!">
             <question>
                 If I play Swarm! and flip a card with no battle icon, will Skywarp get +3/+3 in bot mode?

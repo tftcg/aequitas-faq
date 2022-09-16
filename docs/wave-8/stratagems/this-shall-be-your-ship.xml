@@ -1,4 +1,12 @@
-<faq><target name="This Shall Be Your Ship"><entry source="AP Wave 8:Waste|Lands FAQ" id="4">
+<faq><target name="This Shall Be Your Ship"><entry source="Aequitas Rules Roundup Allied Crossplay 2022-09-15" id="5">
+        <question>
+            So, I have This Shall Be Your Ship and have triggered all but “one of your Leaders was KO’d by damage”. I’m down to my last character, who is my only Leader, and he’s KO’d in combat. I assume the game ends and the Strat never flips to bring them back on 3 health?
+        </question>
+        <answer>
+            Yes, the game ends.
+        </answer>
+      </entry>
+    <entry source="AP Wave 8:Waste|Lands FAQ" id="4">
         <answer>
             This Shall Be Your Ship enters play untapped. When the conditions of its “quest” are fulfilled and it flips to its other side, it becomes “tapped” in landscape orientation. Once flipped, its stations are immediately available for play.
         </answer>

@@ -31,4 +31,12 @@ Do you check for KO as soon as you calculate damage or is it at the end of the a
 We are constantly checking for KO. In the case of Electrified Spikes, it will deal the damage to the attacker before combat damage is assigned. If the attacker is Ransack in bot-mode, he will benefit from the additional damage and increase his attack by 1.
       </answer>
     </entry>
+    <entry source="Aequitas Rules Roundup Allied Crossplay 2022-09-15" id="23">
+        <question>
+            If a character dies mid-attack whether it be to Electrified Spikes or something else, can either player still swap for green icons?
+        </question>
+        <answer>
+            As long as cards were flipped during battle, you can swap cards for green battle icon cards. If a character dies before battle cards are flipped, then you would not be able to swap for green battle icon cards.
+        </answer>
+      </entry>
     </target></faq>

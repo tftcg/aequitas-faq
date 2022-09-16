@@ -1,4 +1,12 @@
-<faq><target name="Sidecar Artillery"><entry source="AP Wave 6:World|Strike FAQ" id="57">
+<faq><target name="Sidecar Artillery"><entry source="Aequitas Rules Roundup Allied Crossplay 2022-09-15" id="26">
+        <question>
+            Greasestain is tapped in alt mode, and Rum-Maj is in bot mode with Sidecar Artillery in her weapon slot. I attack with Rum-Maj, adding her to Greasestain's station. Does the Sidecar Artillery trigger?
+        </question>
+        <answer>
+            No. The attack order with stations is to declare attacker, declare defender, take attacker station, take defender station, and only then to do attack triggers. Greasestain's station has increased Rum-Maj's attack to 4, missing the Sidecar Artillery trigger.
+        </answer>
+      </entry>
+    <entry source="AP Wave 6:World|Strike FAQ" id="57">
         <answer>
           This Stratagem primarily exists as a teaser for future new mechanics. The Vehicle descriptor does not currently grant any additional abilities beyond what is stated in the reminder text. When this is flipped, return a Sidecar Artillery from your scrap pile to your hand. This can only happen once per game.
         </answer>

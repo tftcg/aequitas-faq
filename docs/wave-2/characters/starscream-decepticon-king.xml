@@ -18,4 +18,12 @@ If I attack with Starscream - Decepticon King in bot mode and flip multiple Dece
 Yes. Starscream gets his bonus for each crown flipped. It is the most Starscream of all Starscream moves.
       </answer>
     </entry>
+    <entry source="Aequitas Rules Roundup Allied Crossplay 2022-09-15" id="27">
+        <question>
+            When can I stop an attacking character's ability from triggering by removing a necessary flipped battle card?
+        </question>
+        <answer>
+            When the ability reads similar to "When this attacks and flips [Card-Condition]", removing the right card would permit you to block the attackers ability. That is because this language reviews the cards flipped after they have all been flipped, including the two extra for a white icon. For example Metroplex's bot mode ability. However when it reads "When you flip [Single-Card-Condition] while this is attacking", the ability would trigger before you had the opportunity to remove the card. This is because this language triggers on a single card flip event. An example is Starscream - Decepticon King flipping a Decepticon Crown.
+        </answer>
+      </entry>
     </target></faq>

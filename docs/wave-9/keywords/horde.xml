@@ -1,4 +1,12 @@
-<faq><target name="Horde"><entry source="AP Wave 9:ARK 1 [BETA] FAQ" id="1">
+<faq><target name="Horde"><entry source="Aequitas Rules Roundup Allied Crossplay 2022-09-15" id="21">
+        <question>
+            Can I have a character with Horde on my starting team, and one of the Horde-copies in my sideboard?
+        </question>
+        <answer>
+            No. Horde only applies to your starting team.
+        </answer>
+      </entry>
+    <entry source="AP Wave 9:ARK 1 [BETA] FAQ" id="1">
         <answer>
             Horde is a static ability that appears on some character cards, followed by a number.  It means “You may have up to X characters with this name on your starting team.”  If a character card has Horde 3, for example, you can play up to one, two, or three copies of that character card on your starting team.
           </answer>

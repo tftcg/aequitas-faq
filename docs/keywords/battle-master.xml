@@ -241,6 +241,14 @@ Yes. If you have no characters in KO or the characters in your KO area have too 
                 The Battle Master upgrade is put into the KO area, then Wingspan's trigger puts it under him and counts towards his alt mode ability. When Wingspan is KO'd, the card is placed into the KO area. 
             </answer>
         </entry>
+    <entry source="Aequitas Rules Roundup Allied Crossplay 2022-09-15" id="19">
+        <question>
+            Can I use Impetuous Stand on a Battle Master in upgrade form?
+        </question>
+        <answer>
+            No. Not unless that Battle Master is a 0-cost character.
+        </answer>
+      </entry>
     <entry source="AP Wave 6:World|Strike FAQ" id="6">
         <answer>
           Similar to Battle Master, Tentacle is a new Upgrade Trait introduced in Wave BFA World|Strike.
